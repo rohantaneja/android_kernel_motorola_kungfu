@@ -1,0 +1,5 @@
+generic.c:220:12:generic_resume	16	static
+generic.c:199:12:generic_suspend	16	static
+generic.c:187:13:generic_disconnect	32	static
+generic.c:43:5:usb_choose_configuration	48	static
+generic.c:160:12:generic_probe	48	static

@@ -1,0 +1,6 @@
+mtk_cooler_backlight.c:65:12:mtk_cl_backlight_get_max_state	0	static
+mtk_cooler_backlight.c:72:12:mtk_cl_backlight_get_cur_state	0	static
+mtk_cooler_backlight.c:146:13:mtk_cooler_backlight_unregister_ltf	48	static
+mtk_cooler_backlight.c:178:20:mtk_cooler_backlight_exit	16	static
+mtk_cooler_backlight.c:161:19:mtk_cooler_backlight_init	96	static
+mtk_cooler_backlight.c:84:12:mtk_cl_backlight_set_cur_state	32	static

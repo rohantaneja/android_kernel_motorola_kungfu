@@ -1,0 +1,4 @@
+scsi_ioctl.c:88:12:ioctl_internal_command.constprop	80	static
+scsi_ioctl.c:139:5:scsi_set_medium_removal	48	static
+scsi_ioctl.c:199:5:scsi_ioctl	80	static
+scsi_ioctl.c:291:5:scsi_nonblockable_ioctl	48	static

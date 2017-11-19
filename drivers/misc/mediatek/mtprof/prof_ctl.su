@@ -1,0 +1,10 @@
+prof_ctl.c:50:6:mtsched_is_enabled	0	static
+prof_ctl.c:55:5:mtproc_counts	0	static
+prof_ctl.c:82:20:mtprof_get_cpu_idle	48	static
+prof_ctl.c:95:20:mtprof_get_cpu_iowait	16	static
+prof_ctl.c:102:6:mt_task_times	16	static
+prof_ctl.c:436:6:setup_mtproc_info	0	static
+prof_ctl.c:440:6:set_mtprof_comm	0	static
+prof_ctl.c:444:6:start_record_task	0	static
+prof_ctl.c:448:6:stop_record_task	0	static
+prof_ctl.c:452:6:reset_record_task	0	static

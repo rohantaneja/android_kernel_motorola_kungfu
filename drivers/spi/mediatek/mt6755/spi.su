@@ -1,0 +1,17 @@
+spi.c:1431:13:mt_spi_cleanup	0	static
+spi.c:1693:12:mt_spi_resume	16	static
+spi.c:1674:12:mt_spi_suspend	16	static
+spi.c:1354:12:mt_spi_setup	32	static
+spi.c:1745:20:mt_spi_exit	16	static
+spi.c:1736:19:mt_spi_init	16	static
+spi.c:749:13:reset_spi.isra.20	0	static
+spi.c:831:13:transfer_dma_unmapping.isra.22	32	static
+spi.c:989:13:mt_spi_msg_done	32	static
+spi.c:852:12:mt_spi_next_xfer	96	static
+spi.c:1039:13:mt_spi_next_message	80	static
+spi.c:1172:20:mt_spi_interrupt	64	static
+spi.c:1078:12:mt_spi_transfer	144	static
+spi.c:1446:19:mt_spi_probe	64	static
+spi.c:122:6:mt_spi_enable_master_clk	32	static
+spi.c:145:6:mt_spi_disable_master_clk	32	static
+spi.c:1647:19:mt_spi_remove	64	static

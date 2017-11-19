@@ -1,0 +1,9 @@
+mtk_mira.c:44:12:disp_open	0	static
+mtk_mira.c:49:16:disp_read	0	static
+mtk_mira.c:54:12:disp_release	0	static
+mtk_mira.c:59:12:disp_flush	0	static
+mtk_mira.c:65:12:disp_mmap	0	static
+mtk_mira.c:37:13:disp_compat_ioctl	16	static
+mtk_mira.c:31:13:disp_unlocked_ioctl	16	static
+mtk_mira.c:84:19:disp_init	16	static
+mtk_mira.c:95:20:disp_exit	16	static

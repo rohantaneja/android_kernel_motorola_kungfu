@@ -1,0 +1,11 @@
+endpoint.c:163:13:ep_device_release	16	static
+endpoint.c:128:16:direction_show	16	static
+endpoint.c:58:16:type_show	16	static
+endpoint.c:82:16:interval_show	16	static
+endpoint.c:49:16:wMaxPacketSize_show	16	static
+endpoint.c:47:1:bInterval_show	16	static
+endpoint.c:46:1:bmAttributes_show	16	static
+endpoint.c:45:1:bEndpointAddress_show	16	static
+endpoint.c:44:1:bLength_show	16	static
+endpoint.c:175:5:usb_create_ep_devs	64	static
+endpoint.c:209:6:usb_remove_ep_devs	32	static

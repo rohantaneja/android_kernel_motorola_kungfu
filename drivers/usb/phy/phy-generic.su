@@ -1,0 +1,12 @@
+phy-generic.c:57:12:nop_set_suspend	0	static
+phy-generic.c:115:12:nop_set_peripheral	0	static
+phy-generic.c:130:12:nop_set_host	0	static
+phy-generic.c:294:19:usb_phy_generic_init	16	static
+phy-generic.c:268:12:usb_phy_generic_remove	16	static
+phy-generic.c:300:20:usb_phy_generic_exit	16	static
+phy-generic.c:79:5:usb_gen_phy_init	48	static
+phy-generic.c:98:6:usb_gen_phy_shutdown	64	static
+phy-generic.c:44:25:usb_phy_generic_register	80	static
+phy-generic.c:51:6:usb_phy_generic_unregister	16	static
+phy-generic.c:144:5:usb_phy_gen_create_phy	80	static
+phy-generic.c:239:12:usb_phy_generic_probe	64	static

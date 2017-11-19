@@ -1,0 +1,16 @@
+of-thermal.c:105:12:of_thermal_get_temp	16	static
+of-thermal.c:116:12:of_thermal_get_trend	48	static
+of-thermal.c:195:12:of_thermal_get_mode	0	static
+of-thermal.c:225:12:of_thermal_get_trip_type	0	static
+of-thermal.c:238:12:of_thermal_get_trip_temp	0	static
+of-thermal.c:251:12:of_thermal_set_trip_temp	0	static
+of-thermal.c:265:12:of_thermal_get_trip_hyst	0	static
+of-thermal.c:278:12:of_thermal_set_trip_hyst	0	static
+of-thermal.c:292:12:of_thermal_get_crit_temp	0	static
+of-thermal.c:205:12:of_thermal_set_mode	48	static
+of-thermal.c:169:12:of_thermal_unbind	48	static
+of-thermal.c:141:12:of_thermal_bind	48	static
+of-thermal.c:385:1:thermal_zone_of_sensor_register	192	static
+of-thermal.c:461:6:thermal_zone_of_sensor_unregister	48	static
+of-thermal.c:859:6:of_thermal_destroy_zones	48	static
+of-thermal.c:782:12:of_parse_thermal_zones	256	static

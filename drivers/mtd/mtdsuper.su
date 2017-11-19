@@ -1,0 +1,5 @@
+mtdsuper.c:46:12:get_sb_mtd_set	0	static
+mtdsuper.c:26:12:get_sb_mtd_compare	32	static
+mtdsuper.c:59:23:mount_mtd_aux.isra.1	64	static
+mtdsuper.c:121:16:mount_mtd	112	static
+mtdsuper.c:213:6:kill_mtd_super	32	static

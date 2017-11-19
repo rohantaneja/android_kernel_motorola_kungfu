@@ -1,0 +1,7 @@
+hi843b_mipi_raw_otp.c:53:13:HI843B_OTP_write_cmos_sensor	32	static
+hi843b_mipi_raw_otp.c:41:19:read_cmos_sensor	32	static
+hi843b_mipi_raw_otp.c:78:19:HI843B_Sensor_OTP_read	32	static
+hi843b_mipi_raw_otp.c:61:6:HI843BOTPSetting	32	static
+hi843b_mipi_raw_otp.c:91:6:Hi843B_Sensor_OTP_info	112	static
+hi843b_mipi_raw_otp.c:197:6:Hi843B_Sensor_OTP_update_LSC	32	static
+hi843b_mipi_raw_otp.c:238:6:HI843B_Sensor_calc_wbdata	144	static

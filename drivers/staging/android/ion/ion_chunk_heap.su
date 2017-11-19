@@ -1,0 +1,6 @@
+ion_chunk_heap.c:120:25:ion_chunk_heap_map_dma	0	static
+ion_chunk_heap.c:126:13:ion_chunk_heap_unmap_dma	0	static
+ion_chunk_heap.c:93:13:ion_chunk_heap_free	80	static
+ion_chunk_heap.c:36:12:ion_chunk_heap_allocate	96	static
+ion_chunk_heap.c:141:18:ion_chunk_heap_create	48	static
+ion_chunk_heap.c:186:6:ion_chunk_heap_destroy	32	static

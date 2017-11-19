@@ -1,0 +1,10 @@
+ion_cma_heap.c:147:25:ion_cma_heap_map_dma	0	static
+ion_cma_heap.c:155:13:ion_cma_heap_unmap_dma	0	static
+ion_cma_heap.c:171:14:ion_cma_map_kernel	0	static
+ion_cma_heap.c:179:13:ion_cma_unmap_kernel	0	static
+ion_cma_heap.c:131:12:ion_cma_phys	48	static
+ion_cma_heap.c:115:13:ion_cma_free	80	static
+ion_cma_heap.c:160:12:ion_cma_mmap	16	static
+ion_cma_heap.c:62:12:ion_cma_allocate	128	static
+ion_cma_heap.c:195:18:ion_cma_heap_create	32	static
+ion_cma_heap.c:212:6:ion_cma_heap_destroy	16	static

@@ -1,0 +1,4 @@
+ofpart.c:181:20:ofpart_parser_exit	32	static
+ofpart.c:112:12:parse_ofoldpart_partitions	128	static
+ofpart.c:174:19:ofpart_parser_init	32	static
+ofpart.c:28:12:parse_ofpart_partitions	128	static

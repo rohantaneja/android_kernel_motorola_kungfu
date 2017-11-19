@@ -1,0 +1,7 @@
+rtc-lib.c:33:5:rtc_month_days	0	static
+rtc-lib.c:42:5:rtc_year_days	0	static
+rtc-lib.c:53:6:rtc_time64_to_tm	64	static
+rtc-lib.c:100:5:rtc_valid_tm	32	static
+rtc-lib.c:119:10:rtc_tm_to_time64	16	static
+rtc-lib.c:129:9:rtc_tm_to_ktime	16	static
+rtc-lib.c:138:17:rtc_ktime_to_tm	96	static

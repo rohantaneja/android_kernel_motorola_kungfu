@@ -1,0 +1,4 @@
+pmic_chr_type_det.c:83:13:hw_bc11_init	32	static
+pmic_chr_type_det.c:279:13:hw_bc11_done	16	static
+pmic_chr_type_det.c:305:6:hw_charging_enable_dp_voltage	32	static
+pmic_chr_type_det.c:323:5:hw_charging_get_charger_type	32	static

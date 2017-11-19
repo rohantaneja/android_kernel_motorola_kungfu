@@ -1,0 +1,7 @@
+mt_sched.c:523:21:sched_status_poll	0	static
+mt_sched.c:495:12:sched_status_open	16	static
+mt_sched.c:500:12:sched_status_show	96	static
+mt_sched.c:611:13:sched_module_exit	32	static
+mt_sched.c:588:19:sched_module_init	48	static
+mt_sched.c:545:12:sched_cpu_notify	96	static
+mt_sched.c:331:13:sched_ioctl_ioctl	176	static

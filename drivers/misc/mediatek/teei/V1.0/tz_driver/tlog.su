@@ -1,0 +1,14 @@
+tlog.c:45:6:tlog_func	32	static
+tlog.c:20:6:init_tlog_entry	0	static
+tlog.c:30:5:search_tlog_entry	0	static
+tlog.c:56:13:tlog_handler	48	static
+tlog.c:88:6:init_tlog_buff_head	32	static
+tlog.c:114:5:tlog_print	48	static
+tlog.c:142:5:handle_tlog	80	static
+tlog.c:167:5:tlog_worker	64	static
+tlog.c:200:6:create_tlog_thread	48	static
+tlog.c:244:6:init_utgate_log_buff_head	32	static
+tlog.c:269:5:utgate_log_print	32	static
+tlog.c:287:5:handle_utgate_log	64	static
+tlog.c:305:5:utgate_log_worker	64	static
+tlog.c:337:6:create_utgate_log_thread	48	static

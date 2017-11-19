@@ -1,0 +1,13 @@
+f_serial.c:271:16:f_serial_attr_show	16	static
+f_serial.c:385:1:gsermod_exit	16	static
+f_serial.c:347:13:gser_free	16	static
+f_serial.c:176:13:gser_disable	32	static
+f_serial.c:150:12:gser_set_alt	32	static
+f_serial.c:355:13:gser_unbind	16	static
+f_serial.c:190:12:gser_bind	64	static
+f_serial.c:360:29:gser_alloc	32	static
+f_serial.c:326:38:gser_alloc_inst	32	static
+f_serial.c:298:16:f_serial_port_num_show	16	static
+f_serial.c:286:13:serial_attr_release	16	static
+f_serial.c:317:13:gser_free_inst	32	static
+f_serial.c:385:1:gsermod_init	16	static

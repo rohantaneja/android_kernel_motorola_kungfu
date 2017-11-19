@@ -1,0 +1,4 @@
+of_regulator.c:108:13:devm_of_regulator_put_matches	0	static
+of_regulator.c:86:29:of_get_regulator_init_data	64	static
+of_regulator.c:135:5:of_regulator_match	96	static
+of_regulator.c:196:29:regulator_of_get_init_data	64	static

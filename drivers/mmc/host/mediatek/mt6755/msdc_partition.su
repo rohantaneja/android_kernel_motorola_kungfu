@@ -1,0 +1,7 @@
+msdc_partition.c:104:6:msdc_get_cache_region	32	static
+msdc_partition.c:139:19:init_get_cache_work	32	static
+msdc_partition.c:41:5:msdc_get_user_capacity	32	static
+msdc_partition.c:78:5:msdc_can_apply_cache	0	static
+msdc_partition.c:146:5:msdc_get_other_capacity	80	static
+msdc_partition.c:170:5:msdc_get_capacity	48	static
+msdc_partition.c:205:17:mmc_get_disk	16	static

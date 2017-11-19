@@ -1,0 +1,9 @@
+sysenv.c:514:20:sysenv_exit	16	static
+sysenv.c:260:13:env_proc_compat_ioctl	48	static
+sysenv.c:67:16:env_proc_read	80	static
+sysenv.c:497:19:sysenv_init	32	static
+sysenv.c:332:7:get_env	32	static
+sysenv.c:364:5:set_user_env	96	static
+sysenv.c:383:5:set_env	80	static
+sysenv.c:147:13:env_proc_ioctl	112	static
+sysenv.c:105:1:env_proc_write	48	static

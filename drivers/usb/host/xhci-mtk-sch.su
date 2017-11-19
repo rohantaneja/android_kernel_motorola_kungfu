@@ -1,0 +1,4 @@
+xhci-mtk-sch.c:288:5:xhci_mtk_sch_init	32	static
+xhci-mtk-sch.c:315:6:xhci_mtk_sch_exit	16	static
+xhci-mtk-sch.c:321:5:xhci_mtk_add_ep_quirk	112	static
+xhci-mtk-sch.c:393:6:xhci_mtk_drop_ep_quirk	80	static

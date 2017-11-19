@@ -1,0 +1,10 @@
+xhci-mtk.c:29:5:mtk_xhci_scheduler_init	0	static
+xhci-mtk.c:48:5:add_sch_ep	0	static
+xhci-mtk.c:90:5:count_ss_bw	32	static
+xhci-mtk.c:214:5:count_hs_bw	0	static
+xhci-mtk.c:271:5:count_tt_isoc_bw	0	static
+xhci-mtk.c:367:5:count_tt_intr_bw	0	static
+xhci-mtk.c:402:16:mtk_xhci_scheduler_remove_ep	0	static
+xhci-mtk.c:428:5:mtk_xhci_scheduler_add_ep	240	static
+xhci-mtk.c:638:6:mtk_xhci_vbus_on	32	static
+xhci-mtk.c:659:6:mtk_xhci_vbus_off	32	static

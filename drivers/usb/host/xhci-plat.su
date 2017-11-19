@@ -1,0 +1,8 @@
+xhci-plat.c:36:13:xhci_plat_quirks	0	static
+xhci-plat.c:110:13:xhci_hcd_release	0	static
+xhci-plat.c:264:12:xhci_plat_remove	48	static
+xhci-plat.c:116:12:xhci_plat_probe	112	static
+xhci-plat.c:91:12:xhci_plat_start	32	static
+xhci-plat.c:55:12:xhci_plat_setup	32	static
+xhci-plat.c:361:5:xhci_register_plat	32	static
+xhci-plat.c:368:6:xhci_unregister_plat	16	static

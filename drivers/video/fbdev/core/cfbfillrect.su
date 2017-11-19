@@ -1,0 +1,5 @@
+cfbfillrect.c:35:1:bitfill_aligned	0	static
+cfbfillrect.c:92:1:bitfill_unaligned	0	static
+cfbfillrect.c:146:1:bitfill_aligned_rev	0	static
+cfbfillrect.c:217:1:bitfill_unaligned_rev	0	static
+cfbfillrect.c:278:6:cfb_fillrect	112	static

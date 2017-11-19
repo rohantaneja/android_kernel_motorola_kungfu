@@ -1,0 +1,16 @@
+xhci-dbg.c:423:13:dbg_rsvd64	64	static
+xhci-dbg.c:29:6:xhci_dbg_regs	48	static
+xhci-dbg.c:172:6:xhci_print_ir_set	64	static
+xhci-dbg.c:216:6:xhci_print_run_regs	48	static
+xhci-dbg.c:235:6:xhci_print_registers	96	static
+xhci-dbg.c:242:6:xhci_print_trb_offsets	64	static
+xhci-dbg.c:253:6:xhci_debug_trb	48	static
+xhci-dbg.c:312:6:xhci_debug_segment	64	static
+xhci-dbg.c:329:6:xhci_dbg_ring_ptrs	80	static
+xhci-dbg.c:354:6:xhci_debug_ring	48	static
+xhci-dbg.c:369:6:xhci_dbg_ep_rings	80	static
+xhci-dbg.c:393:6:xhci_dbg_erst	64	static
+xhci-dbg.c:411:6:xhci_dbg_cmd_ptrs	48	static
+xhci-dbg.c:435:7:xhci_get_slot_state	16	static
+xhci-dbg.c:543:6:xhci_dbg_ctx	144	static
+xhci-dbg.c:584:6:xhci_dbg_trace	128	static

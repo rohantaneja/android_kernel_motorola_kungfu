@@ -1,0 +1,12 @@
+rtc-sysfs.c:90:1:max_user_freq_store	48	static
+rtc-sysfs.c:162:1:rtc_sysfs_set_wakealarm	112	static
+rtc-sysfs.c:137:1:rtc_sysfs_show_wakealarm	80	static
+rtc-sysfs.c:84:1:max_user_freq_show	16	static
+rtc-sysfs.c:67:1:since_epoch_show	80	static
+rtc-sysfs.c:51:1:time_show	80	static
+rtc-sysfs.c:35:1:date_show	80	static
+rtc-sysfs.c:28:1:name_show	16	static
+rtc-sysfs.c:112:1:hctosys_show	32	static
+rtc-sysfs.c:241:6:rtc_sysfs_add_device	32	static
+rtc-sysfs.c:255:6:rtc_sysfs_del_device	16	static
+rtc-sysfs.c:262:13:rtc_sysfs_init	0	static

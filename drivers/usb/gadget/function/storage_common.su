@@ -1,0 +1,15 @@
+storage_common.c:397:16:_fsg_store_ro	32	static
+storage_common.c:194:6:fsg_lun_close	32	static
+storage_common.c:204:5:fsg_lun_open	80	static
+storage_common.c:310:5:fsg_lun_fsync_sub	16	static
+storage_common.c:320:6:store_cdrom_address	0	static
+storage_common.c:342:9:fsg_show_ro	16	static
+storage_common.c:350:9:fsg_show_nofua	16	static
+storage_common.c:356:9:fsg_show_file	64	static
+storage_common.c:382:9:fsg_show_cdrom	16	static
+storage_common.c:388:9:fsg_show_removable	16	static
+storage_common.c:411:9:fsg_store_ro	64	static
+storage_common.c:435:9:fsg_store_nofua	48	static
+storage_common.c:454:9:fsg_store_file	48	static
+storage_common.c:507:9:fsg_store_cdrom	64	static
+storage_common.c:530:9:fsg_store_removable	64	static

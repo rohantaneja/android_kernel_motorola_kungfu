@@ -1,0 +1,12 @@
+class.c:298:12:devm_rtc_device_match	0	static
+class.c:30:13:rtc_device_release	32	static
+class.c:374:20:rtc_exit	32	static
+class.c:361:19:rtc_init	32	static
+class.c:51:12:rtc_suspend	128	static
+class.c:97:12:rtc_resume.part.4	128	static
+class.c:97:12:rtc_resume	32	static
+class.c:167:20:rtc_device_register	128	static
+class.c:273:6:rtc_device_unregister	32	static
+class.c:291:13:devm_rtc_device_release	16	static
+class.c:319:20:devm_rtc_device_register	80	static
+class.c:351:6:devm_rtc_device_unregister	16	static

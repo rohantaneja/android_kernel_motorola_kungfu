@@ -1,0 +1,5 @@
+buffer.c:29:13:usb_init_pool_max	0	static
+buffer.c:92:6:hcd_buffer_destroy	32	static
+buffer.c:60:5:hcd_buffer_create	80	static
+buffer.c:110:7:hcd_buffer_alloc	80	static
+buffer.c:134:6:hcd_buffer_free	64	static

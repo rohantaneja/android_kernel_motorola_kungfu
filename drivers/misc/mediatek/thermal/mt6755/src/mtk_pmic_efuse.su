@@ -1,0 +1,4 @@
+mtk_pmic_efuse.c:96:6:mtktspmic_cali_prepare	48	static
+mtk_pmic_efuse.c:125:6:mtktspmic_cali_prepare2	16	static
+mtk_pmic_efuse.c:154:5:mtktspmic_get_hw_temp	48	static
+mtk_pmic_efuse.c:191:5:mtktstsx_get_hw_temp	32	static

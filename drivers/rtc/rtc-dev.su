@@ -1,0 +1,11 @@
+rtc-dev.c:206:21:rtc_dev_poll	32	static
+rtc-dev.c:417:12:rtc_dev_fasync	16	static
+rtc-dev.c:25:12:rtc_dev_open	64	static
+rtc-dev.c:218:13:rtc_dev_ioctl	144	static
+rtc-dev.c:423:12:rtc_dev_release	32	static
+rtc-dev.c:152:1:rtc_dev_read	144	static
+rtc-dev.c:461:6:rtc_dev_prepare	32	static
+rtc-dev.c:482:6:rtc_dev_add_device	32	static
+rtc-dev.c:492:6:rtc_dev_del_device	16	static
+rtc-dev.c:498:13:rtc_dev_init	16	static
+rtc-dev.c:507:13:rtc_dev_exit	16	static

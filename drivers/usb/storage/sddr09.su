@@ -1,0 +1,13 @@
+sddr09.c:220:13:nand_compute_ecc	16	static
+sddr09.c:1782:1:sddr09_driver_init	16	static
+sddr09.c:1741:12:sddr09_probe	32	static
+sddr09.c:1400:1:sddr09_card_info_destructor	32	static
+sddr09.c:297:1:sddr09_send_command	16	static
+sddr09.c:1411:1:sddr09_common_init	32	static
+sddr09.c:1737:1:usb_stor_sddr09_init	16	static
+sddr09.c:1782:1:sddr09_driver_exit	16	static
+sddr09.c:1447:1:usb_stor_sddr09_dpcm_init	48	static
+sddr09.c:397:1:sddr09_readX.constprop	48	static
+sddr09.c:1142:1:sddr09_get_cardinfo	320	static
+sddr09.c:1537:12:sddr09_transport	224	static
+sddr09.c:1496:12:dpcm_transport	32	static

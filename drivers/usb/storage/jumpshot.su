@@ -1,0 +1,10 @@
+jumpshot.c:473:13:jumpshot_info_destructor	0	static
+jumpshot.c:684:1:jumpshot_driver_init	16	static
+jumpshot.c:650:12:jumpshot_probe	32	static
+jumpshot.c:375:12:jumpshot_handle_mode_sense	16	static
+jumpshot.c:330:12:jumpshot_id_device	64	static
+jumpshot.c:684:1:jumpshot_driver_exit	16	static
+jumpshot.c:140:12:jumpshot_get_status	32	static
+jumpshot.c:162:12:jumpshot_read_data.isra.1	112	static
+jumpshot.c:239:12:jumpshot_write_data.isra.2	112	static
+jumpshot.c:483:12:jumpshot_transport	64	static

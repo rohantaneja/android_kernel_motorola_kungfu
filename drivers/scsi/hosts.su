@@ -1,0 +1,17 @@
+hosts.c:526:12:__scsi_host_match	0	static
+hosts.c:48:13:scsi_host_cls_release	16	static
+hosts.c:307:13:scsi_host_dev_release	48	static
+hosts.c:66:5:scsi_host_set_state	0	static
+hosts.c:157:6:scsi_remove_host	48	static
+hosts.c:201:5:scsi_add_host_with_dma	80	static
+hosts.c:369:19:scsi_host_alloc	80	static
+hosts.c:503:19:scsi_register	32	static
+hosts.c:519:6:scsi_unregister	16	static
+hosts.c:565:19:scsi_host_get	32	static
+hosts.c:546:19:scsi_host_lookup	48	static
+hosts.c:578:6:scsi_host_put	16	static
+hosts.c:584:5:scsi_init_hosts	16	static
+hosts.c:589:6:scsi_exit_hosts	16	static
+hosts.c:594:5:scsi_is_host_device	0	static
+hosts.c:610:5:scsi_queue_work	16	static
+hosts.c:629:6:scsi_flush_work	16	static

@@ -1,0 +1,17 @@
+tty_buffer.c:189:13:tty_buffer_free	32	static
+tty_buffer.c:243:12:__tty_buffer_request_room	80	static
+tty_buffer.c:434:13:flush_to_ldisc	80	static
+tty_buffer.c:56:6:tty_buffer_lock_exclusive	16	static
+tty_buffer.c:65:6:tty_buffer_unlock_exclusive	48	static
+tty_buffer.c:91:5:tty_buffer_space_avail	0	static
+tty_buffer.c:116:6:tty_buffer_free_all	32	static
+tty_buffer.c:212:6:tty_buffer_flush	48	static
+tty_buffer.c:277:5:tty_buffer_request_room	16	static
+tty_buffer.c:294:5:tty_insert_flip_string_fixed_flag	96	static
+tty_buffer.c:330:5:tty_insert_flip_string_flags	96	static
+tty_buffer.c:362:6:tty_schedule_flip	16	static
+tty_buffer.c:384:5:tty_prepare_flip_string	48	static
+tty_buffer.c:493:6:tty_flush_to_ldisc	16	static
+tty_buffer.c:509:6:tty_flip_buffer_push	16	static
+tty_buffer.c:523:6:tty_buffer_init	32	static
+tty_buffer.c:546:5:tty_buffer_set_limit	0	static

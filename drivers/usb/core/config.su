@@ -1,0 +1,6 @@
+config.c:299:6:usb_release_interface_cache	64	static
+config.c:22:12:find_next_descriptor.constprop	0	static
+config.c:630:6:usb_destroy_configuration	64	static
+config.c:666:5:usb_get_configuration	320	static
+config.c:770:6:usb_release_bos_descriptor	32	static
+config.c:780:5:usb_get_bos_descriptor	80	static

@@ -1,0 +1,6 @@
+freecom.c:560:1:freecom_driver_init	16	static
+freecom.c:526:12:freecom_probe	32	static
+freecom.c:465:12:usb_stor_freecom_reset	16	static
+freecom.c:426:12:init_freecom	64	static
+freecom.c:560:1:freecom_driver_exit	16	static
+freecom.c:221:12:freecom_transport	96	static

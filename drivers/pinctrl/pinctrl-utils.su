@@ -1,0 +1,5 @@
+pinctrl-utils.c:31:5:pinctrl_utils_reserve_map	80	static
+pinctrl-utils.c:56:5:pinctrl_utils_add_map_mux	16	static
+pinctrl-utils.c:73:5:pinctrl_utils_add_map_configs	64	static
+pinctrl-utils.c:101:5:pinctrl_utils_add_config	80	static
+pinctrl-utils.c:125:6:pinctrl_utils_dt_free_map	64	static

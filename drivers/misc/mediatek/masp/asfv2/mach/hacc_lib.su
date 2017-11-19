@@ -1,0 +1,3 @@
+hacc_lib.c:36:15:masp_hal_secure_algo_init	0	static
+hacc_lib.c:46:15:masp_hal_secure_algo_deinit	0	static
+hacc_lib.c:63:6:masp_hal_secure_algo	64	static

@@ -1,0 +1,8 @@
+sddr55.c:556:12:sddr55_reset	0	static
+sddr55.c:1006:1:sddr55_driver_init	16	static
+sddr55.c:972:12:sddr55_probe	32	static
+sddr55.c:763:13:sddr55_card_info_destructor	32	static
+sddr55.c:118:1:sddr55_bulk_transport	16	static
+sddr55.c:134:12:sddr55_status	48	static
+sddr55.c:777:12:sddr55_transport	128	static
+sddr55.c:1006:1:sddr55_driver_exit	16	static

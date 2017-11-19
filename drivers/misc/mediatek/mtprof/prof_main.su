@@ -1,0 +1,13 @@
+prof_main.c:72:16:mt_sched_debug_write	0	static
+prof_main.c:461:1:mt_signal_log_open	16	static
+prof_main.c:389:1:mt_pid_open	16	static
+prof_main.c:50:1:mt_sched_debug_open	16	static
+prof_main.c:490:13:probe_signal_deliver	32	static
+prof_main.c:471:13:probe_signal_generate	48	static
+prof_main.c:562:16:mt_signal_log_write	64	static
+prof_main.c:51:12:mt_sched_debug_show	160	static
+prof_main.c:601:19:init_mtsched_prof	48	static
+prof_main.c:553:12:mt_signal_log_show	32	static
+prof_main.c:392:12:mt_pid_show	16	static
+prof_main.c:501:13:probe_death_signal	16	static
+prof_main.c:398:16:mt_pid_write	80	static

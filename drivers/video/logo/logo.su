@@ -1,0 +1,2 @@
+logo.c:31:19:fb_logo_late_init	0	static
+logo.c:43:40:fb_find_logo	0	static

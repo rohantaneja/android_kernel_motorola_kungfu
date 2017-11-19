@@ -1,0 +1,5 @@
+sierra_ms.c:63:12:sierra_get_swoc_info	64	static
+sierra_ms.c:84:13:debug_swoc	48	static
+sierra_ms.c:92:16:show_truinst	48	static
+sierra_ms.c:47:12:sierra_set_ms_mode.constprop	48	static
+sierra_ms.c:126:5:sierra_ms_init	64	static

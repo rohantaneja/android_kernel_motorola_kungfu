@@ -1,0 +1,17 @@
+devres.c:28:13:devm_regulator_release	16	static
+devres.c:188:13:devm_rdev_release	16	static
+devres.c:268:13:devm_regulator_destroy_supply_alias	16	static
+devres.c:259:12:devm_regulator_match_supply_alias	16	static
+devres.c:113:12:devm_regulator_match	16	static
+devres.c:226:12:devm_rdev_match	16	static
+devres.c:75:19:devm_regulator_get	48	static
+devres.c:90:19:devm_regulator_get_exclusive	48	static
+devres.c:106:19:devm_regulator_get_optional	48	static
+devres.c:131:6:devm_regulator_put	16	static
+devres.c:157:5:devm_regulator_bulk_get	80	static
+devres.c:203:23:devm_regulator_register	64	static
+devres.c:244:6:devm_regulator_unregister	16	static
+devres.c:288:5:devm_regulator_register_supply_alias	64	static
+devres.c:328:6:devm_regulator_unregister_supply_alias	32	static
+devres.c:362:5:devm_regulator_bulk_register_supply_alias	112	static
+devres.c:406:6:devm_regulator_bulk_unregister_supply_alias	64	static

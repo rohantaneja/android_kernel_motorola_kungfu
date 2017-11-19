@@ -1,0 +1,2 @@
+fixed-helper.c:13:13:regulator_fixed_release	32	static
+fixed-helper.c:29:25:regulator_register_always_on	80	static

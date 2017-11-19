@@ -1,0 +1,14 @@
+mtk_cooler_cam.c:110:12:mtk_cl_cam_get_max_state	0	static
+mtk_cooler_cam.c:116:12:mtk_cl_cam_get_cur_state	0	static
+mtk_cooler_cam.c:195:12:mtk_cl_cam_urgent_get_max_state	0	static
+mtk_cooler_cam.c:201:12:mtk_cl_cam_urgent_get_cur_state	0	static
+mtk_cooler_cam.c:181:12:_cl_cam_status_open	32	static
+mtk_cooler_cam.c:96:12:_cl_cam_open	32	static
+mtk_cooler_cam.c:154:16:_cl_cam_status_write	160	static
+mtk_cooler_cam.c:69:16:_cl_cam_write	288	static
+mtk_cooler_cam.c:122:12:mtk_cl_cam_set_cur_state	0	static
+mtk_cooler_cam.c:173:12:_cl_cam_status_read	32	static
+mtk_cooler_cam.c:88:12:_cl_cam_read	32	static
+mtk_cooler_cam.c:207:12:mtk_cl_cam_urgent_set_cur_state	0	static
+mtk_cooler_cam.c:332:20:mtk_cooler_cam_exit	48	static
+mtk_cooler_cam.c:285:19:mtk_cooler_cam_init	112	static

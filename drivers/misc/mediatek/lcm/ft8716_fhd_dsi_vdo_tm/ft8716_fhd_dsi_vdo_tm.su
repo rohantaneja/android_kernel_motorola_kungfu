@@ -1,0 +1,17 @@
+ft8716_fhd_dsi_vdo_tm.c:882:21:lcm_compare_id	0	static
+ft8716_fhd_dsi_vdo_tm.c:129:12:tps65132_probe	32	static
+ft8716_fhd_dsi_vdo_tm.c:914:13:lcm_set_hbm	16	static
+ft8716_fhd_dsi_vdo_tm.c:173:20:tps65132_iic_exit	16	static
+ft8716_fhd_dsi_vdo_tm.c:137:12:tps65132_remove	32	static
+ft8716_fhd_dsi_vdo_tm.c:161:19:tps65132_iic_init	16	static
+ft8716_fhd_dsi_vdo_tm.c:789:13:lcm_suspend	96	static
+ft8716_fhd_dsi_vdo_tm.c:652:13:lcm_get_params	32	static
+ft8716_fhd_dsi_vdo_tm.c:646:13:lcm_set_util_funcs	16	static
+ft8716_fhd_dsi_vdo_tm.c:257:13:push_table2.constprop	48	static
+ft8716_fhd_dsi_vdo_tm.c:622:13:lcm_setbacklight_cmdq	48	static
+ft8716_fhd_dsi_vdo_tm.c:902:13:lcm_set_cabcmode	32	static
+ft8716_fhd_dsi_vdo_tm.c:600:13:lcm_esd_recover_backlight	48	static
+ft8716_fhd_dsi_vdo_tm.c:147:5:tps65132_write_bytes	48	static
+ft8716_fhd_dsi_vdo_tm.c:714:13:lcm_init	112	static
+ft8716_fhd_dsi_vdo_tm.c:838:13:lcm_resume	16	static
+ft8716_fhd_dsi_vdo_tm.c:820:6:lcm_power_off	32	static

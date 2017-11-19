@@ -1,0 +1,4 @@
+perfmgr_main.c:25:12:perfmgr_probe	0	static
+perfmgr_main.c:35:5:perfmgr_suspend	0	static
+perfmgr_main.c:43:5:perfmgr_resume	0	static
+perfmgr_main.c:62:19:init_perfmgr	32	static

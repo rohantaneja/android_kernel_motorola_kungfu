@@ -1,0 +1,12 @@
+hi843b_mipi_raw_Sensor.c:5127:19:close	16	static
+hi843b_mipi_raw_Sensor.c:5285:19:get_resolution	32	static
+hi843b_mipi_raw_Sensor.c:5307:19:get_info	32	static
+hi843b_mipi_raw_Sensor.c:250:13:write_cmos_sensor	32	static
+hi843b_mipi_raw_Sensor.c:4749:13:capture_setting	16	static
+hi843b_mipi_raw_Sensor.c:274:13:set_max_framerate	64	static
+hi843b_mipi_raw_Sensor.c:238:19:read_cmos_sensor	32	static
+hi843b_mipi_raw_Sensor.c:5154:19:preview.isra.6	48	static
+hi843b_mipi_raw_Sensor.c:5410:19:control	64	static
+hi843b_mipi_raw_Sensor.c:5042:19:open	112	static
+hi843b_mipi_raw_Sensor.c:5612:19:feature_control	112	static
+hi843b_mipi_raw_Sensor.c:5739:8:HI843B_MIPI_RAW_SensorInit	0	static

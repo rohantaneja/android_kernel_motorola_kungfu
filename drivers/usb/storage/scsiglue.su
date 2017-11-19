@@ -1,0 +1,14 @@
+scsiglue.c:73:20:host_info	0	static
+scsiglue.c:453:12:write_info	0	static
+scsiglue.c:520:16:max_sectors_store	48	static
+scsiglue.c:512:16:max_sectors_show	16	static
+scsiglue.c:463:12:show_info	48	static
+scsiglue.c:295:12:target_alloc	32	static
+scsiglue.c:114:12:slave_configure	32	static
+scsiglue.c:79:12:slave_alloc	32	static
+scsiglue.c:411:12:bus_reset	16	static
+scsiglue.c:395:12:device_reset	32	static
+scsiglue.c:359:12:command_abort	48	static
+scsiglue.c:352:8:queuecommand	48	static
+scsiglue.c:425:6:usb_stor_report_device_reset	32	static
+scsiglue.c:440:6:usb_stor_report_bus_reset	32	static

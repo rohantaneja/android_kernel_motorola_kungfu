@@ -1,0 +1,4 @@
+devicetree.c:67:12:dt_remember_or_free_map	48	static
+devicetree.c:52:6:pinctrl_dt_free_maps	48	static
+devicetree.c:98:21:of_pinctrl_get	16	static
+devicetree.c:175:5:pinctrl_dt_to_map	160	static

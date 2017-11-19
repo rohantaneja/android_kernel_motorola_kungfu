@@ -1,0 +1,16 @@
+scsi_proc.c:73:12:proc_scsi_show	16	static
+scsi_proc.c:373:12:always_match	0	static
+scsi_proc.c:79:12:proc_scsi_host_open	32	static
+scsi_proc.c:48:16:proc_scsi_host_write	64	static
+scsi_proc.c:433:12:proc_scsi_open	16	static
+scsi_proc.c:411:12:scsi_seq_show	64	static
+scsi_proc.c:386:14:scsi_seq_start	64	static
+scsi_proc.c:399:14:scsi_seq_next	32	static
+scsi_proc.c:406:13:scsi_seq_stop	16	static
+scsi_proc.c:308:16:proc_scsi_write	80	static
+scsi_proc.c:100:6:scsi_proc_hostdir_add	32	static
+scsi_proc.c:119:6:scsi_proc_hostdir_rm	32	static
+scsi_proc.c:137:6:scsi_proc_host_add	64	static
+scsi_proc.c:159:6:scsi_proc_host_rm	48	static
+scsi_proc.c:454:12:scsi_init_procfs	32	static
+scsi_proc.c:477:6:scsi_exit_procfs	16	static

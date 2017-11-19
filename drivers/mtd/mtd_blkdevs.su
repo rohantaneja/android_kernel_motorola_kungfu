@@ -1,0 +1,17 @@
+mtd_blkdevs.c:507:13:blktrans_notify_remove	64	static
+mtd_blkdevs.c:128:13:mtd_blktrans_work	112	static
+mtd_blkdevs.c:41:13:blktrans_dev_release	32	static
+mtd_blkdevs.c:68:13:blktrans_dev_put	32	static
+mtd_blkdevs.c:591:20:mtd_blktrans_exit	16	static
+mtd_blkdevs.c:518:13:blktrans_notify_add	48	static
+mtd_blkdevs.c:53:33:blktrans_dev_get.isra.8	48	static
+mtd_blkdevs.c:271:12:blktrans_getgeo	64	static
+mtd_blkdevs.c:291:12:blktrans_ioctl	48	static
+mtd_blkdevs.c:244:13:blktrans_release	48	static
+mtd_blkdevs.c:194:12:blktrans_open	64	static
+mtd_blkdevs.c:180:13:mtd_blktrans_request	32	static
+mtd_blkdevs.c:122:5:mtd_blktrans_cease_background	0	static
+mtd_blkdevs.c:326:5:add_mtd_blktrans_dev	48	static
+mtd_blkdevs.c:466:5:del_mtd_blktrans_dev	48	static
+mtd_blkdevs.c:534:5:register_mtd_blktrans	64	static
+mtd_blkdevs.c:572:5:deregister_mtd_blktrans	48	static

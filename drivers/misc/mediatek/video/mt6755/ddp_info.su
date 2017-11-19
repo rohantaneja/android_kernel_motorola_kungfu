@@ -1,0 +1,5 @@
+ddp_info.c:20:7:ddp_get_module_name	32	static
+ddp_info.c:98:18:ddp_get_reg_module	48	static
+ddp_info.c:149:7:ddp_get_reg_module_name	16	static
+ddp_info.c:154:5:ddp_get_module_max_irq_bit	32	static
+ddp_info.c:221:14:ddp_module_to_idx	32	static

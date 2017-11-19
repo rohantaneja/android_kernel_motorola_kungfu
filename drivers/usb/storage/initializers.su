@@ -1,0 +1,10 @@
+initializers.c:47:5:usb_stor_euscsi_init	32	static
+initializers.c:63:5:usb_stor_ucr61s2b_init	48	static
+initializers.c:96:5:usb_stor_huawei_e220_init	32	static
+initializers.c:137:5:usb_stor_huawei_scsi_init	64	static
+initializers.c:151:5:usb_stor_huawei_init	16	static
+initializers.c:166:5:usb_stor_zte_scsi_init	64	static
+initializers.c:180:5:usb_stor_zte_scsi_init_1232	64	static
+initializers.c:196:5:usb_stor_zte_scsi_init_1588	64	static
+initializers.c:212:5:usb_stor_zte_init	32	static
+initializers.c:237:5:usb_stor_dlink_scsi_init	64	static

@@ -1,0 +1,8 @@
+mtk_cooler_sysrst.c:44:12:sysrst_cpu_get_max_state	0	static
+mtk_cooler_sysrst.c:51:12:sysrst_cpu_get_cur_state	0	static
+mtk_cooler_sysrst.c:78:12:sysrst_buck_get_max_state	0	static
+mtk_cooler_sysrst.c:85:12:sysrst_buck_get_cur_state	0	static
+mtk_cooler_sysrst.c:140:20:mtk_cooler_sysrst_exit	32	static
+mtk_cooler_sysrst.c:92:12:sysrst_buck_set_cur_state	32	static
+mtk_cooler_sysrst.c:58:12:sysrst_cpu_set_cur_state	32	static
+mtk_cooler_sysrst.c:126:19:mtk_cooler_sysrst_init	48	static

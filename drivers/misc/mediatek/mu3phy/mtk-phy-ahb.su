@@ -1,0 +1,4 @@
+mtk-phy-ahb.c:21:11:U3PhyWriteReg32	0	static
+mtk-phy-ahb.c:30:11:U3PhyReadReg32	0	static
+mtk-phy-ahb.c:35:11:U3PhyWriteReg8	0	static
+mtk-phy-ahb.c:43:10:U3PhyReadReg8	0	static

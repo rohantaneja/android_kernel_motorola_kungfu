@@ -1,0 +1,16 @@
+mtk_cooler_shutdown.c:107:5:_mtk_cl_sd_rst_read	0	static
+mtk_cooler_shutdown.c:249:12:mtk_cl_shutdown_get_max_state	0	static
+mtk_cooler_shutdown.c:256:12:mtk_cl_shutdown_get_cur_state	0	static
+mtk_cooler_shutdown.c:338:13:mtk_cooler_shutdown_unregister_ltf	48	static
+mtk_cooler_shutdown.c:416:20:mtk_cooler_shutdown_exit	16	static
+mtk_cooler_shutdown.c:201:12:_mtk_cl_sd_debouncet_open	32	static
+mtk_cooler_shutdown.c:112:12:_mtk_cl_sd_rst_open	32	static
+mtk_cooler_shutdown.c:154:12:_mtk_cl_sd_pid_open	32	static
+mtk_cooler_shutdown.c:168:16:_mtk_cl_sd_debouncet_write	304	static
+mtk_cooler_shutdown.c:75:16:_mtk_cl_sd_rst_write	288	static
+mtk_cooler_shutdown.c:126:16:_mtk_cl_sd_pid_write	288	static
+mtk_cooler_shutdown.c:355:19:mtk_cooler_shutdown_init	96	static
+mtk_cooler_shutdown.c:215:12:_mtk_cl_sd_send_signal	176	static
+mtk_cooler_shutdown.c:193:12:_mtk_cl_sd_debouncet_read	32	static
+mtk_cooler_shutdown.c:146:12:_mtk_cl_sd_pid_read	32	static
+mtk_cooler_shutdown.c:267:12:mtk_cl_shutdown_set_cur_state	48	static

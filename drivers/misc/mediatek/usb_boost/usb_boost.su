@@ -1,0 +1,16 @@
+usb_boost.c:90:13:__usb_boost_empty	0	static
+usb_boost.c:91:13:__usb_boost_cnt	0	static
+usb_boost.c:92:13:__usb_boost_by_id_empty	0	static
+usb_boost.c:93:13:__request_empty	0	static
+usb_boost.c:184:13:__usb_boost_by_id	48	static
+usb_boost.c:177:13:__request_it	16	static
+usb_boost.c:430:16:attr_show	16	static
+usb_boost.c:257:13:boost_work	112	static
+usb_boost.c:135:6:usb_boost_set_para_and_arg	80	static
+usb_boost.c:162:6:usb_boost	16	static
+usb_boost.c:167:6:usb_boost_by_id	16	static
+usb_boost.c:190:13:__usb_boost	16	static
+usb_boost.c:321:13:test_loops	64	static
+usb_boost.c:340:16:attr_store	112	static
+usb_boost.c:172:6:register_usb_boost_act	0	static
+usb_boost.c:536:5:usb_boost_init	176	static

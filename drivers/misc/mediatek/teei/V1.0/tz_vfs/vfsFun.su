@@ -1,0 +1,6 @@
+vfsFun.c:66:5:tz_vfs_release	0	static
+vfsFun.c:51:5:tz_vfs_open	32	static
+vfsFun.c:121:16:tz_vfs_write	32	static
+vfsFun.c:226:6:vfs_exit	32	static
+vfsFun.c:72:16:tz_vfs_read	48	static
+vfsFun.c:171:5:vfs_init	64	static

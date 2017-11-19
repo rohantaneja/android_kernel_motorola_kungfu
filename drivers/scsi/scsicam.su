@@ -1,0 +1,3 @@
+scsicam.c:35:16:scsi_bios_ptable	48	static
+scsicam.c:125:5:scsi_partsize	0	static
+scsicam.c:67:5:scsicam_bios_param	48	static

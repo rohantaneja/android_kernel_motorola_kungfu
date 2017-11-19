@@ -1,0 +1,5 @@
+epautoconf.c:192:1:find_ep	48	static
+epautoconf.c:42:1:ep_matches.part.3	80	static
+epautoconf.c:247:16:usb_ep_autoconfig_ss	64	static
+epautoconf.c:351:16:usb_ep_autoconfig	16	static
+epautoconf.c:369:6:usb_ep_autoconfig_reset	0	static

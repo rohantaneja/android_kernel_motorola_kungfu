@@ -1,0 +1,7 @@
+pppox.c:106:12:pppox_create	16	static
+pppox.c:139:20:pppox_exit	16	static
+pppox.c:134:19:pppox_init	16	static
+pppox.c:41:5:register_pppox_proto	0	static
+pppox.c:51:6:unregister_pppox_proto	0	static
+pppox.c:57:6:pppox_unbind_sock	32	static
+pppox.c:71:5:pppox_ioctl	64	static

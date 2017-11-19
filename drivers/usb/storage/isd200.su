@@ -1,0 +1,8 @@
+isd200.c:1572:1:isd200_driver_init	16	static
+isd200.c:1540:12:isd200_probe	32	static
+isd200.c:1436:13:isd200_free_info_ptrs	32	static
+isd200.c:1572:1:isd200_driver_exit	16	static
+isd200.c:486:12:isd200_action	80	static
+isd200.c:1518:13:isd200_ata_command	96	static
+isd200.c:914:12:isd200_try_enum	96	static
+isd200.c:1487:12:isd200_Initialization	64	static

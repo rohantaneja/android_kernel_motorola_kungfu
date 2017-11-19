@@ -1,0 +1,5 @@
+mt_power_gs-v1.c:170:20:mt_power_gs_exit	0	static
+mt_power_gs-v1.c:174:19:mt_power_gs_init	16	static
+mt_power_gs-v1.c:78:13:mt_power_gs_compare.constprop	160	static
+mt_power_gs-v1.c:105:6:mt_power_gs_dump_suspend	16	static
+mt_power_gs-v1.c:138:6:mt_power_gs_dump_dpidle	16	static

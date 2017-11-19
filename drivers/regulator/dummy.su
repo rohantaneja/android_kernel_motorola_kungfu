@@ -1,0 +1,2 @@
+dummy.c:44:12:dummy_regulator_probe	96	static
+dummy.c:72:13:regulator_dummy_init	32	static

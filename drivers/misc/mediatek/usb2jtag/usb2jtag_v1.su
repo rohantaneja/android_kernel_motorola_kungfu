@@ -1,0 +1,6 @@
+usb2jtag_v1.c:61:19:mt_usb2jtag_init	16	static
+usb2jtag_v1.c:67:20:mt_usb2jtag_exit	0	static
+usb2jtag_v1.c:4:19:setup_usb2jtag_mode	16	static
+usb2jtag_v1.c:32:14:usb2jtag_mode	0	static
+usb2jtag_v1.c:43:28:get_mt_usb2jtag_drv	0	static
+usb2jtag_v1.c:54:5:mt_usb2jtag_resume	16	static

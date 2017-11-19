@@ -1,0 +1,15 @@
+mtk-phy-asic.c:1281:1:mt_usb_dts_driver_init	16	static
+mtk-phy-asic.c:1254:12:mt_usb_dts_remove	16	static
+mtk-phy-asic.c:1281:1:mt_usb_dts_driver_exit	16	static
+mtk-phy-asic.c:65:13:usb_enable_clock.part.0	16	static
+mtk-phy-asic.c:1234:12:mt_usb_dts_probe	32	static
+mtk-phy-asic.c:175:6:usb20_pll_settings	32	static
+mtk-phy-asic.c:409:6:usb_phy_sib_enable_switch	48	static
+mtk-phy-asic.c:456:6:usb_phy_sib_enable_switch_status	32	static
+mtk-phy-asic.c:487:11:phy_init_soc	32	static
+mtk-phy-asic.c:636:11:u2_slew_rate_calibration	80	static
+mtk-phy-asic.c:722:6:usb_phy_savecurrent	48	static
+mtk-phy-asic.c:901:6:usb_phy_recover	48	static
+mtk-phy-asic.c:1136:6:usb_fake_powerdown	32	static
+mtk-phy-asic.c:1167:6:Charger_Detect_Init	32	static
+mtk-phy-asic.c:1199:6:Charger_Detect_Release	32	static

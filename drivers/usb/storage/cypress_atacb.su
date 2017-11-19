@@ -1,0 +1,4 @@
+cypress_atacb.c:290:1:cypress_driver_init	16	static
+cypress_atacb.c:246:12:cypress_probe	48	static
+cypress_atacb.c:83:13:cypress_atacb_passthrough	432	static
+cypress_atacb.c:290:1:cypress_driver_exit	16	static

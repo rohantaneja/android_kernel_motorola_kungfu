@@ -1,0 +1,10 @@
+m4u_mva.c:39:6:m4u_mvaGraph_init	64	static
+m4u_mva.c:56:6:m4u_mvaGraph_dump_raw	80	static
+m4u_mva.c:68:6:m4u_mvaGraph_dump	192	static
+m4u_mva.c:116:7:mva_get_priv_ext	48	static
+m4u_mva.c:141:5:mva_foreach_priv	80	static
+m4u_mva.c:166:14:get_first_valid_mva	48	static
+m4u_mva.c:189:7:mva_get_priv	48	static
+m4u_mva.c:210:14:m4u_do_mva_alloc	96	static
+m4u_mva.c:272:14:m4u_do_mva_alloc_fix	80	static
+m4u_mva.c:345:5:m4u_do_mva_free	112	static

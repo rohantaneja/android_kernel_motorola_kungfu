@@ -1,0 +1,17 @@
+pinconf.c:596:12:pinconf_dbg_config_open	16	static
+pinconf.c:369:12:pinconf_groups_open	16	static
+pinconf.c:364:12:pinconf_pins_open	16	static
+pinconf.c:409:12:pinconf_dbg_config_print	160	static
+pinconf.c:479:16:pinconf_dbg_config_write	288	static
+pinconf.c:341:12:pinconf_groups_show	96	static
+pinconf.c:296:12:pinconf_pins_show	96	static
+pinconf.c:27:5:pinconf_check_ops	16	static
+pinconf.c:40:5:pinconf_validate_map	16	static
+pinconf.c:58:5:pin_config_get_for_pin	32	static
+pinconf.c:72:5:pin_config_group_get	80	static
+pinconf.c:110:5:pinconf_map_to_setting	48	static
+pinconf.c:147:6:pinconf_free_setting	0	static
+pinconf.c:151:5:pinconf_apply_setting	48	static
+pinconf.c:205:6:pinconf_show_map	80	static
+pinconf.c:241:6:pinconf_show_setting	80	static
+pinconf.c:610:6:pinconf_init_device_debugfs	48	static

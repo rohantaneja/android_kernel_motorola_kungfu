@@ -1,0 +1,14 @@
+sw_sync.c:58:12:sw_sync_pt_has_signaled	0	static
+sw_sync.c:96:13:sw_sync_pt_value_str	16	static
+sw_sync.c:88:13:sw_sync_timeline_value_str	16	static
+sw_sync.c:75:12:sw_sync_fill_driver_data	0	static
+sw_sync.c:259:20:sw_sync_device_remove	16	static
+sw_sync.c:156:12:sw_sync_release	16	static
+sw_sync.c:254:19:sw_sync_device_init	16	static
+sw_sync.c:67:12:sw_sync_pt_compare	0	static
+sw_sync.c:36:17:sw_sync_pt_create	32	static
+sw_sync.c:49:24:sw_sync_pt_dup	16	static
+sw_sync.c:114:26:sw_sync_timeline_create	16	static
+sw_sync.c:140:12:sw_sync_open	48	static
+sw_sync.c:125:6:sw_sync_timeline_inc	16	static
+sw_sync.c:223:13:sw_sync_ioctl	112	static

@@ -1,0 +1,6 @@
+notify.c:27:6:usb_register_notify	16	static
+notify.c:40:6:usb_unregister_notify	16	static
+notify.c:47:6:usb_notify_add_device	16	static
+notify.c:52:6:usb_notify_remove_device	48	static
+notify.c:61:6:usb_notify_add_bus	16	static
+notify.c:66:6:usb_notify_remove_bus	16	static

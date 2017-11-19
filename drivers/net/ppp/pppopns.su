@@ -1,0 +1,9 @@
+pppopns.c:417:20:pppopns_exit	16	static
+pppopns.c:378:12:pppopns_create	48	static
+pppopns.c:70:12:pppopns_recv_core	80	static
+pppopns.c:172:13:pppopns_recv	32	static
+pppopns.c:183:13:pppopns_xmit_core	160	static
+pppopns.c:205:12:pppopns_xmit	48	static
+pppopns.c:240:12:pppopns_connect	224	static
+pppopns.c:318:12:pppopns_release	48	static
+pppopns.c:401:19:pppopns_init	48	static

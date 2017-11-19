@@ -1,0 +1,8 @@
+icache_dump.c:348:20:icache_dump_exit	16	static
+icache_dump.c:233:12:icache_dump_open	16	static
+icache_dump.c:107:12:icache_dump_show	336	static
+icache_dump.c:287:19:icache_dump_init	80	static
+mt_secure_api.h:45:21:mt_secure_call.constprop	0	static
+icache_dump.c:55:5:mt_icache_dump	16	static
+icache_dump.c:71:6:mt_icache_dump_clear	32	static
+icache_dump.c:238:16:icache_dump_write	96	static

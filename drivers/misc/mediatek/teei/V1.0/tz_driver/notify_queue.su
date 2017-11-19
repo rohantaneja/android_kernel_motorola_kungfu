@@ -1,0 +1,5 @@
+notify_queue.c:121:6:NQ_init	16	static
+notify_queue.c:126:6:init_nq_head	16	static
+notify_queue.c:149:5:add_nq_entry	16	static
+notify_queue.c:171:16:get_nq_entry	32	static
+notify_queue.c:189:5:create_nq_buffer	96	static

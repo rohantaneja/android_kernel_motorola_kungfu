@@ -1,0 +1,7 @@
+karma.c:236:1:karma_driver_init	16	static
+karma.c:203:12:karma_probe	32	static
+karma.c:102:12:rio_karma_send_command	80	static
+karma.c:153:12:rio_karma_transport	48	static
+karma.c:176:13:rio_karma_destructor	16	static
+karma.c:182:12:rio_karma_init	48	static
+karma.c:236:1:karma_driver_exit	16	static

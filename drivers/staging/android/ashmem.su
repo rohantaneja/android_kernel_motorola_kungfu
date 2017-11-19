@@ -1,0 +1,15 @@
+ashmem.c:458:1:ashmem_shrink_count	0	static
+ashmem.c:861:20:ashmem_exit	32	static
+ashmem.c:288:16:ashmem_read	64	static
+ashmem.c:191:13:range_del	16	static
+ashmem.c:262:12:ashmem_release	48	static
+ashmem.c:164:12:range_alloc	80	static
+ashmem.c:233:12:ashmem_open	32	static
+ashmem.c:361:12:ashmem_mmap	48	static
+ashmem.c:501:12:set_name	304	static
+ashmem.c:532:12:get_name	320	static
+ashmem.c:325:15:ashmem_llseek	64	static
+ashmem.c:828:19:ashmem_init	32	static
+ashmem.c:427:1:ashmem_shrink_scan	80	static
+ashmem.c:741:13:ashmem_ioctl	144	static
+ashmem.c:793:13:compat_ashmem_ioctl	16	static

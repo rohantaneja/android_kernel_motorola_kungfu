@@ -1,0 +1,12 @@
+xhci-trace.h:25:1:ftrace_define_fields_xhci_log_msg	16	static
+xhci-trace.h:25:1:perf_trace_xhci_log_msg	384	static
+xhci-trace.h:25:1:ftrace_raw_event_xhci_log_msg	128	static
+xhci-trace.h:25:1:ftrace_raw_output_xhci_log_msg	32	static
+xhci-trace.h:70:1:ftrace_raw_output_xhci_log_ctx	32	static
+xhci-trace.h:111:1:ftrace_raw_output_xhci_log_event	32	static
+xhci-trace.h:70:1:perf_trace_xhci_log_ctx	384	static
+xhci-trace.h:70:1:ftrace_raw_event_xhci_log_ctx	112	static
+xhci-trace.h:111:1:perf_trace_xhci_log_event	368	static
+xhci-trace.h:111:1:ftrace_raw_event_xhci_log_event	96	static
+xhci-trace.h:70:1:ftrace_define_fields_xhci_log_ctx	48	static
+xhci-trace.h:111:1:ftrace_define_fields_xhci_log_event	32	static

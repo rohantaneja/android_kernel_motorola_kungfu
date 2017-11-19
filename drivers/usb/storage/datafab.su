@@ -1,0 +1,10 @@
+datafab.c:547:13:datafab_info_destructor	0	static
+datafab.c:758:1:datafab_driver_init	16	static
+datafab.c:724:12:datafab_probe	32	static
+datafab.c:445:12:datafab_handle_mode_sense	16	static
+datafab.c:322:12:datafab_determine_lun	80	static
+datafab.c:143:12:datafab_read_data	128	static
+datafab.c:226:12:datafab_write_data	128	static
+datafab.c:389:12:datafab_id_device	48	static
+datafab.c:556:12:datafab_transport	64	static
+datafab.c:758:1:datafab_driver_exit	16	static

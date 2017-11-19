@@ -1,0 +1,4 @@
+jpeg_cmdq.c:25:9:cmdqJpegClockOn	0	static
+jpeg_cmdq.c:42:9:cmdqJpegDumpInfo	0	static
+jpeg_cmdq.c:48:9:cmdqJpegResetEng	32	static
+jpeg_cmdq.c:73:9:cmdqJpegClockOff	0	static

@@ -1,0 +1,5 @@
+devices.c:648:21:usb_device_poll	32	static
+devices.c:664:15:usb_device_lseek	48	static
+devices.c:495:16:usb_device_dump	256	static
+devices.c:613:16:usb_device_read	112	static
+devices.c:165:6:usbfs_conn_disc_event	16	static

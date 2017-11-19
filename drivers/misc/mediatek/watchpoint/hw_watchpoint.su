@@ -1,0 +1,11 @@
+hw_watchpoint.c:19:6:smp_read_dbgdscr_callback	0	static
+hw_watchpoint.c:31:6:smp_write_dbgdscr_callback	0	static
+hw_watchpoint.c:319:12:watchpoint_handler	80	static
+hw_watchpoint.c:446:19:hw_watchpoint_init	32	static
+hw_watchpoint.c:42:6:smp_read_OSLSR_EL1_callback	0	static
+hw_watchpoint.c:75:5:register_wp_context	0	static
+hw_watchpoint.c:85:5:enable_hw_watchpoint	112	static
+hw_watchpoint.c:129:6:reset_watchpoint	96	static
+hw_watchpoint.c:384:5:wp_probe	112	static
+hw_watchpoint.c:199:5:add_hw_watchpoint	80	static
+hw_watchpoint.c:275:5:del_hw_watchpoint	80	static

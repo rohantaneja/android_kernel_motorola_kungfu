@@ -1,0 +1,5 @@
+power_supply_sysfs.c:235:16:power_supply_attr_is_visible	16	static
+power_supply_sysfs.c:115:16:power_supply_store_property	64	static
+power_supply_sysfs.c:43:16:power_supply_show_property	80	static
+power_supply_sysfs.c:272:6:power_supply_init_attrs	0	static
+power_supply_sysfs.c:299:5:power_supply_uevent	112	static

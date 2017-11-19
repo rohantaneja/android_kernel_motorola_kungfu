@@ -1,0 +1,9 @@
+device.c:21:28:of_match_device	16	static
+device.c:30:25:of_dev_get	16	static
+device.c:44:6:of_dev_put	16	static
+device.c:51:5:of_device_add	16	static
+device.c:69:5:of_device_register	32	static
+device.c:76:6:of_device_unregister	16	static
+device.c:82:9:of_device_get_modalias	80	static
+device.c:135:6:of_device_uevent	112	static
+device.c:174:5:of_device_uevent_modalias	48	static

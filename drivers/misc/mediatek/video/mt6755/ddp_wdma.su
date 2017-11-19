@@ -1,0 +1,13 @@
+ddp_wdma.c:34:14:wdma_get_status	0	static
+ddp_wdma.c:306:12:wdma_clock_off	0	static
+ddp_wdma.c:282:12:wdma_clock_on	32	static
+ddp_wdma.c:62:21:wdma_index	32	static
+ddp_wdma.c:119:12:wdma_stop	64	static
+ddp_wdma.c:109:12:wdma_start	64	static
+ddp_wdma.c:130:12:wdma_reset	64	static
+ddp_wdma.c:621:12:setup_wdma_sec.isra.1	304	static
+ddp_wdma.c:645:12:wdma_config_l	272	static
+ddp_wdma.c:329:6:wdma_dump_analysis	752	static
+ddp_wdma.c:367:6:wdma_dump_reg	576	static
+ddp_wdma.c:430:12:wdma_dump	32	static
+ddp_wdma.c:676:14:ddp_wdma_get_cur_addr	0	static

@@ -1,0 +1,14 @@
+helpers.c:31:5:regulator_is_enabled_regmap	48	static
+helpers.c:63:5:regulator_enable_regmap	16	static
+helpers.c:89:5:regulator_disable_regmap	16	static
+helpers.c:115:5:regulator_get_voltage_sel_regmap	48	static
+helpers.c:141:5:regulator_set_voltage_sel_regmap	32	static
+helpers.c:172:5:regulator_map_voltage_iterate	80	static
+helpers.c:210:5:regulator_map_voltage_ascend	64	static
+helpers.c:241:5:regulator_map_voltage_linear	48	static
+helpers.c:287:5:regulator_map_voltage_linear_range	48	static
+helpers.c:349:5:regulator_list_voltage_linear	0	static
+helpers.c:373:5:regulator_list_voltage_linear_range	16	static
+helpers.c:410:5:regulator_list_voltage_table	16	static
+helpers.c:431:5:regulator_set_bypass_regmap	16	static
+helpers.c:454:5:regulator_get_bypass_regmap	48	static

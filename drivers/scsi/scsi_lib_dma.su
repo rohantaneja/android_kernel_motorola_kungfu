@@ -1,0 +1,2 @@
+scsi_lib_dma.c:22:5:scsi_dma_map	80	static
+scsi_lib_dma.c:42:6:scsi_dma_unmap	16	static

@@ -1,0 +1,3 @@
+fb_notify.c:23:5:fb_register_client	16	static
+fb_notify.c:33:5:fb_unregister_client	16	static
+fb_notify.c:43:5:fb_notifier_call_chain	16	static

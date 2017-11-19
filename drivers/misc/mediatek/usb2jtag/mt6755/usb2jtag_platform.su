@@ -1,0 +1,2 @@
+usb2jtag_platform.c:68:19:mt_usb2jtag_platform_init	16	static
+usb2jtag_platform.c:19:12:mt_usb2jtag_hw_init	48	static

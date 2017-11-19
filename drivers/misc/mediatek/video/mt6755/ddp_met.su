@@ -1,0 +1,3 @@
+ddp_met.c:83:5:dpp_disp_is_decouple	16	static
+ddp_met.c:279:13:met_irq_handler	192	static
+ddp_met.c:334:6:ddp_init_met_tag	32	static

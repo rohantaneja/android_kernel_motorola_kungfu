@@ -1,0 +1,8 @@
+ut_keymaster.c:103:5:keymaster_release	0	static
+ut_keymaster.c:207:16:keymaster_read	0	static
+ut_keymaster.c:214:16:keymaster_write	0	static
+ut_keymaster.c:220:15:keymaster_llseek	0	static
+ut_keymaster.c:89:5:keymaster_open	32	static
+ut_keymaster.c:108:12:keymaster_ioctl	64	static
+ut_keymaster.c:299:6:keymaster_exit	32	static
+ut_keymaster.c:252:6:keymaster_init	64	static

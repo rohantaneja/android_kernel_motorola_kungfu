@@ -1,0 +1,5 @@
+mtk_sync.c:27:26:timeline_create	16	static
+mtk_sync.c:33:6:timeline_destroy	16	static
+mtk_sync.c:39:6:timeline_inc	16	static
+mtk_sync.c:45:5:fence_create	48	static
+mtk_sync.c:81:5:fence_merge	64	static

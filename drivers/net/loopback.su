@@ -1,0 +1,7 @@
+loopback.c:128:12:always_on	0	static
+loopback.c:163:13:loopback_setup	0	static
+loopback.c:145:13:loopback_dev_free	32	static
+loopback.c:100:34:loopback_get_stats64	80	static
+loopback.c:71:20:loopback_xmit	64	static
+loopback.c:137:12:loopback_dev_init	48	static
+loopback.c:192:23:loopback_net_init	48	static

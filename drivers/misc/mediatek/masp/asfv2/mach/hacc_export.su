@@ -1,0 +1,5 @@
+hacc_export.c:57:23:sp_hacc_internal.isra.0	80	static
+hacc_export.c:160:16:masp_hal_sp_hacc_enc	16	static
+hacc_export.c:170:16:masp_hal_sp_hacc_dec	16	static
+hacc_export.c:179:14:masp_hal_sp_hacc_blk_sz	0	static
+hacc_export.c:187:14:masp_hal_sp_hacc_init	80	static

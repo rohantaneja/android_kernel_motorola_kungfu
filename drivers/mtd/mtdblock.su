@@ -1,0 +1,12 @@
+mtdblock.c:395:20:cleanup_mtdblock	16	static
+mtdblock.c:370:13:mtdblock_remove_dev	16	static
+mtdblock.c:350:13:mtdblock_add_mtd	48	static
+mtdblock.c:66:12:erase_write	240	static
+mtdblock.c:115:12:write_cached_data	32	static
+mtdblock.c:312:13:mtdblock_release	48	static
+mtdblock.c:339:12:mtdblock_flush	32	static
+mtdblock.c:60:13:erase_callback	16	static
+mtdblock.c:390:19:init_mtdblock	16	static
+mtdblock.c:283:12:mtdblock_open	48	static
+mtdblock.c:260:12:mtdblock_readsect	96	static
+mtdblock.c:267:12:mtdblock_writesect	128	static

@@ -1,0 +1,6 @@
+trancevibrator.c:139:1:tv_driver_init	16	static
+trancevibrator.c:120:13:tv_disconnect	32	static
+trancevibrator.c:57:16:set_speed	80	static
+trancevibrator.c:48:16:show_speed	16	static
+trancevibrator.c:90:12:tv_probe	48	static
+trancevibrator.c:139:1:tv_driver_exit	16	static

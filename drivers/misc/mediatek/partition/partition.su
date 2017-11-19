@@ -1,0 +1,2 @@
+partition.c:17:19:get_part	64	static
+partition.c:50:6:put_part	16	static

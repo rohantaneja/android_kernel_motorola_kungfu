@@ -1,0 +1,6 @@
+common.c:21:13:usb_otg_state_string	0	static
+common.c:55:13:usb_speed_string	0	static
+common.c:63:13:usb_state_string	0	static
+common.c:99:18:of_usb_get_dr_mode	64	static
+common.c:124:23:of_usb_get_maximum_speed	64	static
+common.c:149:6:of_usb_host_tpl_support	16	static

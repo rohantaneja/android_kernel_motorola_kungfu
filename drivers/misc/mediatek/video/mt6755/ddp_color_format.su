@@ -1,0 +1,16 @@
+ddp_color_format.c:20:7:unified_color_fmt_name	0	static
+ddp_color_format.c:135:5:is_unified_color_fmt_supported	0	static
+ddp_color_format.c:146:24:display_fmt_reg_to_unified_fmt	48	static
+ddp_color_format.c:161:24:disp_fmt_to_unified_fmt	32	static
+ddp_color_format.c:209:5:ufmt_disable_X_channel	0	static
+ddp_color_format.c:244:5:ufmt_disable_P	0	static
+ddp_color_format.c:268:14:ufmt_get_rgb	0	static
+ddp_color_format.c:272:14:ufmt_get_bpp	0	static
+ddp_color_format.c:276:14:ufmt_get_block	0	static
+ddp_color_format.c:280:14:ufmt_get_vdo	0	static
+ddp_color_format.c:284:14:ufmt_get_format	0	static
+ddp_color_format.c:288:14:ufmt_get_byteswap	0	static
+ddp_color_format.c:292:14:ufmt_get_rgbswap	0	static
+ddp_color_format.c:296:14:ufmt_get_id	0	static
+ddp_color_format.c:300:14:ufmt_get_Bpp	0	static
+ddp_color_format.c:304:14:ufmt_is_old_fmt	0	static

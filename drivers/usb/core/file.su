@@ -1,0 +1,7 @@
+file.c:61:14:usb_devnode	16	static
+file.c:30:12:usb_open	48	static
+file.c:101:13:release_usb_class	32	static
+file.c:115:5:usb_major_init	32	static
+file.c:127:6:usb_major_cleanup	16	static
+file.c:151:5:usb_register_dev	112	static
+file.c:228:6:usb_deregister_dev	48	static

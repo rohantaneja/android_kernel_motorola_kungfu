@@ -1,0 +1,6 @@
+sec_boot_core.c:45:5:sec_get_random_id	0	static
+sec_boot_core.c:56:5:sec_schip_enabled	32	static
+sec_boot_core.c:72:5:sec_usbdl_enabled	32	static
+sec_boot_core.c:101:5:sec_boot_enabled	32	static
+sec_boot_core.c:133:14:sec_boot_hacc_init	16	static
+sec_boot_core.c:152:5:masp_boot_init	16	static

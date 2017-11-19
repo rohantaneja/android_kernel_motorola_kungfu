@@ -1,0 +1,7 @@
+mtk-phy.c:95:11:u3phy_init	32	static
+mtk-phy.c:228:11:U3PhyWriteField8	64	static
+mtk-phy.c:243:11:U3PhyWriteField32	64	static
+mtk-phy.c:258:11:U3PhyReadField8	32	static
+mtk-phy.c:263:11:U3PhyReadField32	32	static
+mtk-phy.c:269:6:phy_hsrx_set	0	static
+mtk-phy.c:287:6:phy_hsrx_reset	0	static

@@ -1,0 +1,3 @@
+backward_compatible.c:67:20:thermal_gov_backward_compatible_exit	16	static
+backward_compatible.c:27:12:backward_compatible_throttle	64	static
+backward_compatible.c:62:19:thermal_gov_backward_compatible_init	16	static

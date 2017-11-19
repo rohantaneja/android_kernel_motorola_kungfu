@@ -1,0 +1,11 @@
+ion_carveout_heap.c:63:12:ion_carveout_heap_phys	0	static
+ion_carveout_heap.c:131:25:ion_carveout_heap_map_dma	0	static
+ion_carveout_heap.c:137:13:ion_carveout_heap_unmap_dma	0	static
+ion_carveout_heap.c:172:12:ion_carveout_heap_debug_show	48	static
+ion_carveout_heap.c:153:13:ion_carveout_chunk_show	64	static
+ion_carveout_heap.c:35:17:ion_carveout_allocate	32	static
+ion_carveout_heap.c:76:12:ion_carveout_heap_allocate	64	static
+ion_carveout_heap.c:52:6:ion_carveout_free	16	static
+ion_carveout_heap.c:113:13:ion_carveout_heap_free	48	static
+ion_carveout_heap.c:189:18:ion_carveout_heap_create	48	static
+ion_carveout_heap.c:225:6:ion_carveout_heap_destroy	32	static

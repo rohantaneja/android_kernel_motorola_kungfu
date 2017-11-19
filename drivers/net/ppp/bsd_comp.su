@@ -1,0 +1,14 @@
+bsd_comp.c:293:13:bsd_comp_stats	0	static
+bsd_comp.c:1162:20:bsdcomp_cleanup	16	static
+bsd_comp.c:325:13:bsd_free	32	static
+bsd_comp.c:1154:19:bsdcomp_init	32	static
+bsd_comp.c:352:14:bsd_alloc.part.2	80	static
+bsd_comp.c:454:14:bsd_decomp_alloc	16	static
+bsd_comp.c:311:13:bsd_reset	0	static
+bsd_comp.c:449:14:bsd_comp_alloc	16	static
+bsd_comp.c:506:12:bsd_comp_init	16	static
+bsd_comp.c:247:12:bsd_check	0	static
+bsd_comp.c:563:12:bsd_compress	112	static
+bsd_comp.c:805:13:bsd_incomp	16	static
+bsd_comp.c:827:12:bsd_decompress	64	static
+bsd_comp.c:512:12:bsd_decomp_init	16	static

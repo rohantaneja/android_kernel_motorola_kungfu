@@ -1,0 +1,16 @@
+constants.c:363:13:print_opcode_name	48	static
+constants.c:1446:1:scsi_decode_sense_buffer.part.1	64	static
+constants.c:1469:1:scsi_decode_sense_extras	144	static
+constants.c:405:6:__scsi_print_command	48	static
+constants.c:418:6:scsi_print_command	48	static
+constants.c:446:1:scsi_print_status	16	static
+constants.c:1338:1:scsi_sense_key_string	0	static
+constants.c:1352:1:scsi_extd_sense_format	0	static
+constants.c:1372:1:scsi_show_extd_sense	32	static
+constants.c:1398:1:scsi_show_sense_hdr	32	static
+constants.c:1422:1:scsi_print_sense_hdr	48	static
+constants.c:1435:1:scsi_cmd_print_sense_hdr	48	static
+constants.c:1530:6:__scsi_print_sense	64	static
+constants.c:1545:6:scsi_print_sense	64	static
+constants.c:1587:6:scsi_show_result	16	static
+constants.c:1597:6:scsi_print_result	32	static

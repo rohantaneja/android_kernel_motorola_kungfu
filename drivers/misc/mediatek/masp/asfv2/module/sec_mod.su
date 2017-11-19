@@ -1,0 +1,11 @@
+sec_mod.c:138:12:sec_open	0	static
+sec_mod.c:146:12:sec_release	0	static
+sec_mod.c:188:12:sec_proc_rid_open	16	static
+sec_mod.c:175:12:sec_proc_rid_show	64	static
+sec_mod.c:154:13:sec_ioctl	16	static
+sec_mod.c:307:5:masp_probe	64	static
+sec_mod.c:315:5:masp_remove	32	static
+sec_mod.c:383:20:masp_exit	16	static
+sec_mod.c:332:19:masp_init	32	static
+sec_mod.c:377:19:masp_of_init	16	static
+sec_mod.c:352:19:masp_parse_dt	48	static

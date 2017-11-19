@@ -1,0 +1,6 @@
+xhci-mtk-attrs.c:68:16:dburst_show	16	static
+xhci-mtk-attrs.c:30:16:imod_show	16	static
+xhci-mtk-attrs.c:77:16:dburst_store	48	static
+xhci-mtk-attrs.c:40:16:imod_store	48	static
+xhci-mtk-attrs.c:121:5:xhci_attrs_init	32	static
+xhci-mtk-attrs.c:142:6:xhci_attrs_exit	16	static

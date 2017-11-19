@@ -1,0 +1,2 @@
+disp_dts_gpio.c:59:6:disp_dts_gpio_init	32	static
+disp_dts_gpio.c:78:6:disp_dts_gpio_select_state	48	static

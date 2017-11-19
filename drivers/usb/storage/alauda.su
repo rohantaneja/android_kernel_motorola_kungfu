@@ -1,0 +1,12 @@
+alauda.c:250:13:nand_compute_ecc	16	static
+alauda.c:1264:1:alauda_driver_init	16	static
+alauda.c:1230:12:alauda_probe	32	static
+alauda.c:288:13:alauda_free_maps	48	static
+alauda.c:1085:13:alauda_info_destructor	64	static
+alauda.c:1105:12:init_alauda	32	static
+alauda.c:686:13:alauda_ensure_map_for_zone	144	static
+alauda.c:312:12:alauda_get_media_status	16	static
+alauda.c:456:12:alauda_check_media	80	static
+alauda.c:1264:1:alauda_driver_exit	16	static
+alauda.c:725:12:alauda_read_block_raw	64	static
+alauda.c:1125:12:alauda_transport	304	static

@@ -1,0 +1,8 @@
+sync_debug.c:204:12:sync_debugfs_show	0	static
+sync_debug.c:254:19:sync_debugfs_init	16	static
+sync_debug.c:242:12:sync_debugfs_open	16	static
+sync_debug.c:46:6:sync_timeline_debug_add	32	static
+sync_debug.c:55:6:sync_timeline_debug_remove	32	static
+sync_debug.c:64:6:sync_fence_debug_add	32	static
+sync_debug.c:73:6:sync_fence_debug_remove	32	static
+sync_debug.c:263:6:sync_dump	0	static

@@ -1,0 +1,9 @@
+mtk_cooler_vrt.c:88:12:mtk_cl_vrt_get_max_state	0	static
+mtk_cooler_vrt.c:95:12:mtk_cl_vrt_get_cur_state	0	static
+mtk_cooler_vrt.c:102:12:mtk_cl_vrt_set_cur_state	0	static
+mtk_cooler_vrt.c:141:13:mtk_cooler_vrt_unregister_ltf	32	static
+mtk_cooler_vrt.c:195:20:mtk_cooler_vrt_exit	16	static
+mtk_cooler_vrt.c:73:12:_cl_vrt_open	32	static
+mtk_cooler_vrt.c:46:16:_cl_vrt_write	288	static
+mtk_cooler_vrt.c:157:19:mtk_cooler_vrt_init	80	static
+mtk_cooler_vrt.c:65:12:_cl_vrt_read	32	static

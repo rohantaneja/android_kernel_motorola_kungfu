@@ -1,0 +1,16 @@
+mt_pmic_wrap.c:222:12:pwrap_suspend	16	static
+mt_pmic_wrap.c:230:13:pwrap_resume	16	static
+mt_pmic_wrap.c:124:16:mt_pwrap_store	32	static
+mt_pmic_wrap.c:205:19:pwrap_debugfs_init	32	static
+mt_pmic_wrap.c:192:12:pwrap_trace_open	16	static
+mt_pmic_wrap.c:185:12:pwrap_trace_show	32	static
+mt_pmic_wrap.c:146:16:pwrap_trace_write	48	static
+mt_pmic_wrap.c:241:19:mt_pwrap_init	32	static
+mt_pmic_wrap.c:116:16:mt_pwrap_show	16	static
+mt_pmic_wrap.c:50:29:get_mt_pmic_wrap_drv	0	static
+mt_pmic_wrap.c:55:5:check_pmic_wrap_init	0	static
+mt_pmic_wrap.c:66:5:pwrap_wacs2	16	static
+mt_pmic_wrap.c:76:5:pwrap_read	16	static
+mt_pmic_wrap.c:82:5:pwrap_write	48	static
+mt_pmic_wrap.c:97:5:pmic_wrap_eint_status	16	static
+mt_pmic_wrap.c:110:6:pmic_wrap_eint_clr	16	static

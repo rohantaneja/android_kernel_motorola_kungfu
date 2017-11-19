@@ -1,0 +1,2 @@
+sec_mod_core.c:58:6:sec_core_exit	16	static
+sec_mod_core.c:68:6:sec_core_ioctl	80	static

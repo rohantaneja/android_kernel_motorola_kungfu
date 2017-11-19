@@ -1,0 +1,2 @@
+smi_config_util.c:23:5:smi_bus_regs_setting	96	static
+smi_config_util.c:58:5:smi_common_setting	48	static

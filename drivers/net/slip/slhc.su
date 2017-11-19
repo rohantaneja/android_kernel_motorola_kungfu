@@ -1,0 +1,7 @@
+slhc.c:207:1:decode	0	static
+slhc.c:92:1:slhc_init	48	static
+slhc.c:154:1:slhc_free	32	static
+slhc.c:227:1:slhc_compress	112	static
+slhc.c:684:1:slhc_toss	0	static
+slhc.c:487:1:slhc_uncompress	96	static
+slhc.c:634:1:slhc_remember	80	static

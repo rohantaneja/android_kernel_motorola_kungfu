@@ -1,0 +1,4 @@
+AD5820AF.c:71:12:s4AF_WriteReg	48	static
+AD5820AF.c:183:6:AD5820AF_Ioctl_Sub	64	static
+AD5820AF.c:218:5:AD5820AF_Release_Sub	32	static
+AD5820AF.c:243:6:AD5820AF_SetI2Cclient_Sub	0	static

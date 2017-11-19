@@ -1,0 +1,14 @@
+alarm-dev.c:440:12:alarm_release	96	static
+alarm-dev.c:187:12:alarm_wait	96	static
+alarm-dev.c:560:21:alarm_dev_exit	32	static
+alarm-dev.c:433:12:alarm_open	16	static
+alarm-dev.c:530:19:alarm_dev_init	48	static
+alarm-dev.c:477:13:devalarm_triggered.isra.2	64	static
+alarm-dev.c:494:29:devalarm_hrthandler	32	static
+alarm-dev.c:503:32:devalarm_alarmhandler	32	static
+alarm-dev.c:102:6:alarm_set_power_on	80	static
+alarm-dev.c:166:13:alarm_set	64	static
+alarm-dev.c:130:6:alarm_get_power_on	16	static
+alarm-dev.c:268:13:alarm_do_ioctl	144	static
+alarm-dev.c:388:13:alarm_compat_ioctl	112	static
+alarm-dev.c:346:13:alarm_ioctl	112	static

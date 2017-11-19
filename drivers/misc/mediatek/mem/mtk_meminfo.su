@@ -1,0 +1,7 @@
+mtk_meminfo.c:80:19:init_get_max_DRAM_size	32	static
+mtk_meminfo.c:25:12:dt_scan_memory	80	static
+mtk_meminfo.c:95:13:get_max_DRAM_size	32	static
+mtk_meminfo.c:115:13:get_memory_size	16	static
+mtk_meminfo.c:121:13:get_phys_offset	0	static
+mtk_meminfo.c:127:13:get_zone_movable_cma_base	0	static
+mtk_meminfo.c:135:13:get_zone_movable_cma_size	0	static

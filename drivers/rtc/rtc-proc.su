@@ -1,0 +1,5 @@
+rtc-proc.c:124:12:rtc_proc_release	16	static
+rtc-proc.c:110:12:rtc_proc_open	32	static
+rtc-proc.c:42:12:rtc_proc_show	128	static
+rtc-proc.c:138:6:rtc_proc_add_device	48	static
+rtc-proc.c:144:6:rtc_proc_del_device	32	static

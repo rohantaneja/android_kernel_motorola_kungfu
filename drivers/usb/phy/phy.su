@@ -1,0 +1,13 @@
+phy.c:79:12:devm_usb_phy_match	0	static
+phy.c:126:17:usb_get_phy	48	static
+phy.c:97:17:devm_usb_get_phy	64	static
+phy.c:167:17:devm_usb_get_phy_by_phandle	80	static
+phy.c:227:17:usb_get_phy_dev	64	static
+phy.c:263:17:devm_usb_get_phy_dev	48	static
+phy.c:292:6:devm_usb_put_phy	32	static
+phy.c:309:6:usb_put_phy	16	static
+phy.c:72:13:devm_usb_phy_release	16	static
+phy.c:329:5:usb_add_phy	64	static
+phy.c:370:5:usb_add_phy_dev	64	static
+phy.c:400:6:usb_remove_phy	32	static
+phy.c:428:5:usb_bind_phy	48	static

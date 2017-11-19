@@ -1,0 +1,9 @@
+ifb.c:132:34:ifb_stats64	0	static
+ifb.c:245:12:ifb_validate	0	static
+ifb.c:317:20:ifb_cleanup_module	16	static
+ifb.c:222:12:ifb_close	32	static
+ifb.c:63:13:ri_tasklet	80	static
+ifb.c:233:12:ifb_open	32	static
+ifb.c:172:13:ifb_setup	32	static
+ifb.c:193:20:ifb_xmit	48	static
+ifb.c:295:19:ifb_init_module	96	static

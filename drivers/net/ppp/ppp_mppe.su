@@ -1,0 +1,16 @@
+ppp_mppe.c:68:1:setup_sg	0	static
+ppp_mppe.c:354:13:mppe_comp_reset	0	static
+ppp_mppe.c:446:13:mppe_comp_stats	0	static
+ppp_mppe.c:464:13:mppe_decomp_reset	0	static
+ppp_mppe.c:732:20:ppp_mppe_cleanup	16	static
+ppp_mppe.c:660:13:mppe_incomp	32	static
+ppp_mppe.c:136:13:get_new_key_from_sha	192	static
+ppp_mppe.c:161:13:mppe_rekey	160	static
+ppp_mppe.c:474:1:mppe_decompress	208	static
+ppp_mppe.c:367:1:mppe_compress	160	static
+ppp_mppe.c:255:13:mppe_free	32	static
+ppp_mppe.c:710:19:ppp_mppe_init	32	static
+ppp_mppe.c:193:14:mppe_alloc	32	static
+ppp_mppe.c:273:1:mppe_init.part.2	144	static
+ppp_mppe.c:338:1:mppe_comp_init	16	static
+ppp_mppe.c:454:1:mppe_decomp_init	16	static

@@ -1,0 +1,12 @@
+imx219_eeprom.c:858:12:CAM_CAL_probe	0	static
+imx219_eeprom.c:864:12:CAM_CAL_remove	0	static
+imx219_eeprom.c:764:12:CAM_CAL_Release	32	static
+imx219_eeprom.c:915:20:CAM_CAL_exit	16	static
+imx219_eeprom.c:888:19:CAM_CAL_init	80	static
+imx219_eeprom.c:269:13:imx219eeprom_Ioctl_Compat	80	static
+imx219_eeprom.c:742:12:CAM_CAL_Open	32	static
+imx219_eeprom.c:144:5:read_imx219_eeprom	64	static
+imx219_eeprom.c:154:5:read_imx219_eeprom_size	64	static
+imx219_eeprom.c:166:5:read_imx219_eeprom_mtk_fmt	48	static
+imx219_eeprom.c:523:6:IMX219_ReadOtp	80	static
+imx219_eeprom.c:624:13:CAM_CAL_Ioctl	64	static

@@ -1,0 +1,4 @@
+teei_keymaster.c:23:15:create_keymaster_fdrv	96	static
+teei_keymaster.c:104:6:set_keymaster_command	32	static
+teei_keymaster.c:122:5:__send_keymaster_command	48	static
+teei_keymaster.c:150:5:send_keymaster_command	64	static

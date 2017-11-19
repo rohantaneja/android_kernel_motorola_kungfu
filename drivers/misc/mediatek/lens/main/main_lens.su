@@ -1,0 +1,13 @@
+main_lens.c:363:12:AF_i2c_remove	0	static
+main_lens.c:406:12:AF_suspend	0	static
+main_lens.c:411:12:AF_resume	0	static
+main_lens.c:453:20:MAINAF_i2C_exit	16	static
+main_lens.c:400:12:AF_remove	16	static
+main_lens.c:369:12:AF_i2c_probe	80	static
+main_lens.c:395:12:AF_probe	16	static
+main_lens.c:240:12:AF_Release	48	static
+main_lens.c:217:12:AF_Open	48	static
+main_lens.c:434:19:MAINAF_i2C_init	32	static
+main_lens.c:176:13:AF_Ioctl	96	static
+main_lens.c:200:13:AF_Ioctl_Compat	16	static
+main_lens.c:140:6:AF_PowerDown	0	static

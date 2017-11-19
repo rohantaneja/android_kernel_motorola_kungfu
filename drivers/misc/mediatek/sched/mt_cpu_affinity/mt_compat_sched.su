@@ -1,0 +1,2 @@
+mt_compat_sched.c:30:12:compat_get_sched_allocation_data	0	static
+mt_compat_sched.c:72:6:sched_ioctl_compat	64	static

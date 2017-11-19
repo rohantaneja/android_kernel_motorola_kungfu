@@ -1,0 +1,14 @@
+backward_driver.c:58:13:secondary_invoke_fastcall	32	static
+backward_driver.c:163:13:reetime_deinit	0	static
+backward_driver.c:273:13:vfs_deinit	0	static
+backward_driver.c:206:12:reetime_handle	32	static
+backward_driver.c:27:6:set_ack_vdrv_cmd	32	static
+backward_driver.c:64:6:invoke_fastcall	16	static
+backward_driver.c:74:13:register_shared_param_buf	80	static
+backward_driver.c:266:13:vfs_init	32	static
+backward_driver.c:157:13:reetime_init	16	static
+backward_driver.c:168:6:__reetime_handle	80	static
+backward_driver.c:253:5:vfs_thread_function	16	static
+backward_driver.c:304:12:vfs_handle	48	static
+backward_driver.c:278:5:__vfs_handle	64	static
+backward_driver.c:348:5:init_all_service_handlers	48	static

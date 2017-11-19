@@ -1,0 +1,6 @@
+xhci-mtk-power.c:30:13:wait_for_value.constprop	48	static
+xhci-mtk-power.c:80:6:enableXhciAllPortPower	64	static
+xhci-mtk-power.c:118:6:disableXhciAllPortPower	64	static
+xhci-mtk-power.c:156:6:enableAllClockPower	64	static
+xhci-mtk-power.c:210:5:get_num_u3_ports	0	static
+xhci-mtk-power.c:215:5:get_num_u2_ports	0	static

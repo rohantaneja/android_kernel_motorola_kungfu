@@ -1,0 +1,5 @@
+common.c:19:11:nsec_high	0	static
+common.c:31:15:nsec_low	0	static
+common.c:39:11:usec_high	0	static
+common.c:51:15:usec_low	0	static
+common.c:59:13:isr_name	16	static

@@ -1,0 +1,13 @@
+modedb.c:488:12:fb_try_mode	32	static
+modedb.c:561:5:fb_find_mode	224	static
+modedb.c:771:6:fb_var_to_videomode	0	static
+modedb.c:815:6:fb_videomode_to_var	0	static
+modedb.c:843:5:fb_mode_is_equal	0	static
+modedb.c:876:28:fb_find_best_mode	0	static
+modedb.c:914:28:fb_find_nearest_mode	0	static
+modedb.c:954:28:fb_match_mode	112	static
+modedb.c:979:5:fb_add_videomode	48	static
+modedb.c:1014:6:fb_delete_videomode	48	static
+modedb.c:1035:6:fb_destroy_modelist	32	static
+modedb.c:1052:6:fb_videomode_to_modelist	64	static
+modedb.c:1065:28:fb_find_best_display	224	static

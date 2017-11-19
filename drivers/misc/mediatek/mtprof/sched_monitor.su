@@ -1,0 +1,10 @@
+sched_monitor.c:866:19:init_mtsched_mon	0	static
+sched_monitor.c:660:6:MT_trace_softirqs_on	0	static
+sched_monitor.c:661:6:MT_trace_softirqs_off	0	static
+sched_monitor.c:663:6:mt_dump_irq_off_traces	0	static
+sched_monitor.c:679:6:MT_trace_hardirqs_on	112	static
+sched_monitor.c:716:6:MT_trace_hardirqs_off	48	static
+sched_monitor.c:754:6:mt_sched_monitor_switch	80	static
+sched_monitor.c:798:6:reset_sched_monitor	0	static
+sched_monitor.c:802:6:start_sched_monitor	0	static
+sched_monitor.c:806:6:stop_sched_monitor	0	static

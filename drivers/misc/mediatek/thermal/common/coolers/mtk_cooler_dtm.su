@@ -1,0 +1,7 @@
+mtk_cooler_dtm.c:186:12:dtm_cpu_get_max_state	0	static
+mtk_cooler_dtm.c:277:20:mtk_cooler_dtm_exit	48	static
+mtk_cooler_dtm.c:192:12:dtm_cpu_get_cur_state	80	static
+mtk_cooler_dtm.c:81:13:set_static_cpu_power_limit	64	static
+mtk_cooler_dtm.c:101:13:set_static_gpu_power_limit	32	static
+mtk_cooler_dtm.c:203:12:dtm_cpu_set_cur_state	96	static
+mtk_cooler_dtm.c:248:19:mtk_cooler_dtm_init	80	static

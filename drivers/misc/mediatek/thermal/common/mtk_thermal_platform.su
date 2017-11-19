@@ -1,0 +1,12 @@
+mtk_thermal_platform.c:396:20:mtk_thermal_platform_exit	0	static
+mtk_thermal_platform.c:364:12:mtk_thermal_validation_open	16	static
+mtk_thermal_platform.c:331:12:mtk_thermal_validation_rd	16	static
+mtk_thermal_platform.c:338:16:mtk_thermal_validation_wr	96	static
+mtk_thermal_platform.c:380:19:mtk_thermal_platform_init	16	static
+mtk_thermal_platform.c:50:1:mtk_get_gpu_loading	16	static
+mtk_thermal_platform.c:57:1:force_get_tbat	16	static
+mtk_thermal_platform.c:401:5:mtk_thermal_get_cpu_info	144	static
+mtk_thermal_platform.c:432:5:mtk_thermal_get_gpu_info	64	static
+mtk_thermal_platform.c:478:5:mtk_thermal_force_get_batt_temp	16	static
+mtk_thermal_platform.c:490:14:mtk_thermal_set_user_scenarios	32	static
+mtk_thermal_platform.c:500:14:mtk_thermal_clear_user_scenarios	32	static

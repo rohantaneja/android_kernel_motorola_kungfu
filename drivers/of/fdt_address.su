@@ -1,0 +1,4 @@
+fdt_address.c:71:19:fdt_bus_default_map	48	static
+fdt_address.c:49:20:fdt_bus_default_count_cells	48	static
+fdt_address.c:88:19:fdt_bus_default_translate	64	static
+fdt_address.c:164:12:fdt_translate_address	176	static

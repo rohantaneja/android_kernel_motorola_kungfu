@@ -1,0 +1,17 @@
+mt_usb.c:44:6:mt_usb_is_device	32	static
+mt_usb.c:69:6:set_connect_timestamp	16	static
+mt_usb.c:75:6:clr_connect_timestamp	16	static
+mt_usb.c:82:17:get_connect_timestamp	32	static
+mt_usb.c:183:6:mt_usb_is_ready	16	static
+mt_usb.c:195:6:mt_usb_connect	32	static
+mt_usb.c:211:6:mt_usb_disconnect	32	static
+mt_usb.c:228:6:usb_cable_connected	48	static
+mt_usb.c:89:6:connection_work	64	static
+mt_usb.c:279:5:typec_switch_usb_connect	32	static
+mt_usb.c:299:5:typec_switch_usb_disconnect	32	static
+mt_usb.c:333:6:musb_sync_with_bat	32	static
+mt_usb.c:349:6:musb_check_ipo_state	32	static
+mt_usb.c:369:9:musb_cmode_show	32	static
+mt_usb.c:378:9:musb_cmode_store	64	static
+mt_usb.c:612:9:musb_sib_enable_show	48	static
+mt_usb.c:629:9:musb_sib_enable_store	48	static

@@ -1,0 +1,17 @@
+ppp_synctty.c:262:1:ppp_sync_read	0	static
+ppp_synctty.c:273:1:ppp_sync_write	0	static
+ppp_synctty.c:330:1:ppp_sync_poll	0	static
+ppp_synctty.c:732:1:ppp_sync_cleanup	16	static
+ppp_synctty.c:384:1:ppp_sync_init	32	static
+ppp_synctty.c:149:13:sp_put	16	static
+ppp_synctty.c:217:1:ppp_sync_close	48	static
+ppp_synctty.c:251:12:ppp_sync_hangup	16	static
+ppp_synctty.c:399:1:ppp_sync_ioctl	80	static
+ppp_synctty.c:591:1:ppp_sync_push	80	static
+ppp_synctty.c:486:13:ppp_sync_process	48	static
+ppp_synctty.c:159:1:ppp_sync_open	48	static
+ppp_synctty.c:137:24:sp_get.isra.4	32	static
+ppp_synctty.c:355:1:ppp_sync_wakeup	32	static
+ppp_synctty.c:280:1:ppp_synctty_ioctl	80	static
+ppp_synctty.c:337:1:ppp_sync_receive	96	static
+ppp_synctty.c:569:1:ppp_sync_send	64	static

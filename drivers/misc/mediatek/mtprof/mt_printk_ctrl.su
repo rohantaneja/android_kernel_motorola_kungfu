@@ -1,0 +1,4 @@
+mt_printk_ctrl.c:36:1:mt_printk_ctrl_open	16	static
+mt_printk_ctrl.c:49:16:mt_printk_ctrl_write	112	static
+mt_printk_ctrl.c:85:19:init_mt_printk_ctrl	16	static
+mt_printk_ctrl.c:39:12:mt_printk_ctrl_show	48	static

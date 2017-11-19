@@ -1,0 +1,5 @@
+mag_factory.c:14:12:mag_factory_release	0	static
+mag_factory.c:20:13:mag_factory_unlocked_ioctl	320	static
+mag_factory.c:107:13:compat_mag_factory_unlocked_ioctl	48	static
+mag_factory.c:3:12:mag_factory_open	16	static
+mag_factory.c:154:5:mag_factory_device_init	32	static

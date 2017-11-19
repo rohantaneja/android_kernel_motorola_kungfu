@@ -1,0 +1,14 @@
+GT24c64a.c:847:12:CAM_CAL_i2c_remove	0	static
+GT24c64a.c:316:13:selective_read_eeprom	32	static
+GT24c64a.c:687:12:CAM_CAL_Release	32	static
+GT24c64a.c:898:20:CAM_CAL_i2C_exit	16	static
+GT24c64a.c:857:12:CAM_CAL_remove	16	static
+GT24c64a.c:822:12:CAM_CAL_i2c_probe	80	static
+GT24c64a.c:272:13:GT24c64_Ioctl_Compat	96	static
+GT24c64a.c:852:12:CAM_CAL_probe	16	static
+GT24c64a.c:494:13:CAM_CAL_Ioctl	128	static
+GT24c64a.c:662:12:CAM_CAL_Open	32	static
+GT24c64a.c:881:19:CAM_CAL_i2C_init	32	static
+GT24c64a.c:154:6:selective_read_byte	80	static
+GT24c64a.c:170:5:selective_read_region	80	static
+GT24c64a.c:325:15:Read_MID_form_eeprom	32	static

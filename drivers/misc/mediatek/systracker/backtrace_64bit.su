@@ -1,0 +1,2 @@
+backtrace_64bit.c:31:13:dump_backtrace_entry.isra.0	272	static
+backtrace_64bit.c:36:6:aee_dump_backtrace	64	static

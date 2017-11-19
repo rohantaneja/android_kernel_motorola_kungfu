@@ -1,0 +1,2 @@
+global_function.c:24:6:nt_sched_t_call	16	static
+global_function.c:46:5:global_fn	48	static

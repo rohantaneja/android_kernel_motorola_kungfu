@@ -1,0 +1,5 @@
+usb_boost_plat.c:57:19:init	32	static
+usb_boost_plat.c:50:12:core_release	16	static
+usb_boost_plat.c:44:12:core_hold	16	static
+usb_boost_plat.c:38:12:freq_release	16	static
+usb_boost_plat.c:32:12:freq_hold	16	static

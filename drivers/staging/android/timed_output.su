@@ -1,0 +1,6 @@
+timed_output.c:39:16:enable_store	48	static
+timed_output.c:30:16:enable_show	32	static
+timed_output.c:110:20:timed_output_exit	16	static
+timed_output.c:105:19:timed_output_init	48	static
+timed_output.c:75:5:timed_output_dev_register	48	static
+timed_output.c:98:6:timed_output_dev_unregister	32	static

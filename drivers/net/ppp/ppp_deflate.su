@@ -1,0 +1,14 @@
+ppp_deflate.c:269:13:z_comp_stats	0	static
+ppp_deflate.c:621:20:deflate_cleanup	32	static
+ppp_deflate.c:385:13:z_decomp_reset	16	static
+ppp_deflate.c:280:13:z_decomp_free	32	static
+ppp_deflate.c:188:12:z_compress	64	static
+ppp_deflate.c:169:13:z_comp_reset	16	static
+ppp_deflate.c:63:13:z_comp_free	32	static
+ppp_deflate.c:611:19:deflate_init	32	static
+ppp_deflate.c:520:13:z_incomp	32	static
+ppp_deflate.c:414:12:z_decompress	128	static
+ppp_deflate.c:355:12:z_decomp_init	16	static
+ppp_deflate.c:305:14:z_decomp_alloc	32	static
+ppp_deflate.c:140:12:z_comp_init	16	static
+ppp_deflate.c:88:14:z_comp_alloc	64	static

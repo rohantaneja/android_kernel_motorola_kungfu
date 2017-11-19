@@ -1,0 +1,3 @@
+BU6429AF.c:297:6:BU6429AF_Ioctl_Sub	80	static
+BU6429AF.c:332:5:BU6429AF_Release_Sub	64	static
+BU6429AF.c:364:6:BU6429AF_SetI2Cclient_Sub	0	static

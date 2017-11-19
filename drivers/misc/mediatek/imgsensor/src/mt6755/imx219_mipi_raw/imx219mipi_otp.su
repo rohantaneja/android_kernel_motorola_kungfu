@@ -1,0 +1,9 @@
+imx219mipi_otp.c:10:19:read_cmos_sensor	32	static
+imx219mipi_otp.c:20:13:write_cmos_sensor	32	static
+imx219mipi_otp.c:26:13:IMX219_readpage.part.0	32	static
+imx219mipi_otp.c:239:22:get_otp_AFData	48	static
+imx219mipi_otp.c:365:22:get_otp_wb	160	static
+imx219mipi_otp.c:181:12:get_otp_module_id	112	static
+imx219mipi_otp.c:513:5:read_otp_info	32	static
+imx219mipi_otp.c:532:5:read_otp_awb_af_data	48	static
+imx219mipi_otp.c:556:5:otp_update	32	static

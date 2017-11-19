@@ -1,0 +1,2 @@
+scsi_sysctl.c:40:12:scsi_init_sysctl	16	static
+scsi_sysctl.c:48:6:scsi_exit_sysctl	16	static

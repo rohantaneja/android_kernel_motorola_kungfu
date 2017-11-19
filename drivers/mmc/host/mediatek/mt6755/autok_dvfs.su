@@ -1,0 +1,13 @@
+autok_dvfs.c:32:21:msdc_file_open.constprop	32	static
+autok_dvfs.c:81:5:sdio_autok_res_apply	80	static
+autok_dvfs.c:116:5:sdio_autok_res_save	64	static
+autok_dvfs.c:148:5:autok_res_check	32	static
+autok_dvfs.c:172:5:sdio_version	48	static
+autok_dvfs.c:193:6:sdio_unreq_vcore	16	static
+autok_dvfs.c:201:6:sdio_set_vcore_performance	32	static
+autok_dvfs.c:220:6:sdio_set_vcorefs_sram	96	static
+autok_dvfs.c:254:5:wait_sdio_autok_ready	0	static
+autok_dvfs.c:261:6:sdio_autok_wait_dvfs_ready	32	static
+autok_dvfs.c:281:5:emmc_autok	16	static
+autok_dvfs.c:331:5:sd_autok	16	static
+autok_dvfs.c:369:5:sdio_autok	32	static

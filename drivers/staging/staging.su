@@ -1,0 +1,2 @@
+staging.c:5:19:staging_init	0	static
+staging.c:10:20:staging_exit	0	static

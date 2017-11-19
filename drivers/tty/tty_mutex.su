@@ -1,0 +1,5 @@
+tty_mutex.c:18:24:tty_lock_nested.isra.0	32	static
+tty_mutex.c:30:17:tty_lock	16	static
+tty_mutex.c:36:17:tty_unlock	32	static
+tty_mutex.c:52:17:tty_lock_pair	48	static
+tty_mutex.c:66:17:tty_unlock_pair	48	static

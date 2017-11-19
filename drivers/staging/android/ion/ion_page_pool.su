@@ -1,0 +1,9 @@
+ion_page_pool.c:204:19:ion_page_pool_init	0	static
+ion_page_pool.c:209:20:ion_page_pool_exit	0	static
+ion_page_pool.c:78:21:ion_page_pool_remove	16	static
+ion_page_pool.c:96:14:ion_page_pool_alloc	64	static
+ion_page_pool.c:115:6:ion_page_pool_free	48	static
+ion_page_pool.c:131:6:ion_page_pool_free_immediate	16	static
+ion_page_pool.c:146:5:ion_page_pool_shrink	64	static
+ion_page_pool.c:179:23:ion_page_pool_create	48	static
+ion_page_pool.c:199:6:ion_page_pool_destroy	16	static

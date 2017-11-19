@@ -1,0 +1,5 @@
+vibrator.c:46:6:vibr_Enable_HW	16	static
+vibrator.c:55:6:vibr_Disable_HW	16	static
+vibrator.c:76:21:get_cust_vibrator_dtsi	48	static
+vibrator.c:137:6:vibr_power_set	32	static
+vibrator.c:151:21:mt_get_cust_vibrator_hw	16	static

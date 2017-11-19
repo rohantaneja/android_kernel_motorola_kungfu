@@ -1,0 +1,5 @@
+protocol.c:60:6:usb_stor_pad12_command	16	static
+protocol.c:76:6:usb_stor_ufi_command	16	static
+protocol.c:118:6:usb_stor_transparent_scsi_command	16	static
+protocol.c:134:14:usb_stor_access_xfer_buf	176	static
+protocol.c:181:6:usb_stor_set_xfer_buf	48	static

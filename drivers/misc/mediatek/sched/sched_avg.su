@@ -1,0 +1,2 @@
+sched_avg.c:38:6:sched_get_nr_running_avg	176	static
+sched_avg.c:110:6:sched_update_nr_prod	80	static

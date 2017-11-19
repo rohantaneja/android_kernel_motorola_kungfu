@@ -1,0 +1,12 @@
+ddp_irq.c:455:12:disp_irq_log_kthread_func	112	static
+ddp_irq.c:181:25:disp_irq_module	32	static
+ddp_irq.c:62:6:disp_irq_esd_cust_bycmdq	0	static
+ddp_irq.c:67:5:disp_irq_esd_cust_get	0	static
+ddp_irq.c:72:5:disp_register_irq_callback	48	static
+ddp_irq.c:96:5:disp_unregister_irq_callback	32	static
+ddp_irq.c:113:5:disp_register_module_irq_callback	32	static
+ddp_irq.c:144:5:disp_unregister_module_irq_callback	32	static
+ddp_irq.c:163:6:disp_invoke_irq_callbacks	64	static
+ddp_irq.c:200:13:disp_irq_handler	320	static
+ddp_irq.c:473:6:disp_register_dev_irq	32	static
+ddp_irq.c:481:5:disp_init_irq	32	static

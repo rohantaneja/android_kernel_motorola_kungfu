@@ -1,0 +1,11 @@
+mt_sd_misc.c:67:12:simple_sd_open	0	static
+mt_sd_misc.c:1364:12:simple_sd_remove	0	static
+mt_sd_misc.c:1405:20:simple_sd_exit	32	static
+mt_sd_misc.c:1302:13:simple_sd_compat_ioctl	448	static
+mt_sd_misc.c:1010:12:simple_mmc_erase_partition_wrap	160	static
+mt_sd_misc.c:1379:19:simple_sd_init	32	static
+mt_sd_misc.c:1355:12:simple_sd_probe	16	static
+mt_sd_misc.c:713:12:simple_sd_ioctl_sd30_mode_switch.isra.3	96	static
+mt_sd_misc.c:92:5:simple_sd_ioctl_rw	528	static
+mt_sd_misc.c:1027:13:simple_sd_ioctl	192	static
+mt_sd_misc.c:770:5:msdc_get_info	32	static

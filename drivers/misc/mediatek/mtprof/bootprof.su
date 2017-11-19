@@ -1,0 +1,10 @@
+bootprof.c:176:13:mt_bootprof_switch	64	static
+bootprof.c:298:19:init_bootprof_buf	32	static
+bootprof.c:274:12:mt_bootprof_open	16	static
+bootprof.c:227:12:mt_bootprof_show	112	static
+bootprof.c:287:19:init_boot_prof	16	static
+bootprof.c:56:6:log_boot	112	static
+bootprof.c:201:1:mt_bootprof_write	304	static
+bootprof.c:104:6:bootprof_initcall	144	static
+bootprof.c:119:6:bootprof_probe	192	static
+bootprof.c:145:6:bootprof_pdev_register	144	static

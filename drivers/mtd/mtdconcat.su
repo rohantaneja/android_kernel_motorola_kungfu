@@ -1,0 +1,17 @@
+mtdconcat.c:290:1:concat_write_oob	112	static
+mtdconcat.c:565:13:concat_sync	32	static
+mtdconcat.c:576:12:concat_suspend	32	static
+mtdconcat.c:589:13:concat_resume	32	static
+mtdconcat.c:649:22:concat_get_unmapped_area	16	static
+mtdconcat.c:531:12:concat_unlock	48	static
+mtdconcat.c:497:12:concat_lock	48	static
+mtdconcat.c:120:1:concat_write	80	static
+mtdconcat.c:68:1:concat_read	96	static
+mtdconcat.c:335:13:concat_erase_callback	16	static
+mtdconcat.c:623:12:concat_block_markbad	32	static
+mtdconcat.c:600:12:concat_block_isbad	16	static
+mtdconcat.c:233:1:concat_read_oob	128	static
+mtdconcat.c:158:1:concat_writev	144	static
+mtdconcat.c:374:12:concat_erase	176	static
+mtdconcat.c:677:18:mtd_concat_create	64	static
+mtdconcat.c:938:6:mtd_concat_destroy	32	static

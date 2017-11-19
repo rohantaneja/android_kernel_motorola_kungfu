@@ -1,0 +1,6 @@
+pmic_initial_setting.c:53:5:PMIC_MD_INIT_SETTING_V1	48	static
+pmic_initial_setting.c:106:6:PMIC_upmu_set_rg_baton_en	16	static
+pmic_initial_setting.c:117:6:PMIC_upmu_set_baton_tdet_en	16	static
+pmic_initial_setting.c:128:14:PMIC_upmu_get_rgs_baton_undet	32	static
+pmic_initial_setting.c:141:5:PMIC_check_battery	32	static
+pmic_initial_setting.c:157:6:PMIC_INIT_SETTING_V1	48	static

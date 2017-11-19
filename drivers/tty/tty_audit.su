@@ -1,0 +1,9 @@
+tty_audit.c:63:13:tty_audit_log	144	static
+tty_audit.c:94:13:tty_audit_buf_push	32	static
+tty_audit.c:57:13:tty_audit_buf_put	32	static
+tty_audit.c:112:6:tty_audit_exit	32	static
+tty_audit.c:133:6:tty_audit_fork	0	static
+tty_audit.c:142:6:tty_audit_tiocsti	80	static
+tty_audit.c:181:5:tty_audit_push_current	48	static
+tty_audit.c:268:6:tty_audit_add_data	96	static
+tty_audit.c:325:6:tty_audit_push	64	static

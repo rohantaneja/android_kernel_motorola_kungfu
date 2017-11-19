@@ -1,0 +1,2 @@
+fb_cmdline.c:82:19:video_setup	32	static
+fb_cmdline.c:35:5:fb_get_options	96	static

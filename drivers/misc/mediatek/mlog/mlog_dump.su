@@ -1,0 +1,7 @@
+mlog_dump.c:53:21:mlog_poll	16	static
+mlog_dump.c:30:12:mlog_open	32	static
+mlog_dump.c:43:16:mlog_read	48	static
+mlog_dump.c:75:12:mlog_fmt_proc_open	16	static
+mlog_dump.c:70:12:mlog_fmt_proc_show	16	static
+mlog_dump.c:37:12:mlog_release	16	static
+mlog_dump.c:93:6:mlog_init_procfs	32	static

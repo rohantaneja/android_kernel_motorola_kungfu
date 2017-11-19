@@ -1,0 +1,17 @@
+scsi_devinfo.c:266:41:scsi_devinfo_lookup_by_key	0	static
+scsi_devinfo.c:684:14:devinfo_seq_next	16	static
+scsi_devinfo.c:707:13:devinfo_seq_stop	16	static
+scsi_devinfo.c:663:14:devinfo_seq_start	32	static
+scsi_devinfo.c:719:12:proc_scsi_devinfo_open	16	static
+scsi_devinfo.c:645:12:devinfo_seq_show	32	static
+scsi_devinfo.c:286:13:scsi_strcpy_devinfo	80	static
+scsi_devinfo.c:354:5:scsi_dev_info_list_add_keyed	80	static
+scsi_devinfo.c:490:12:scsi_dev_info_list_add_str	96	static
+scsi_devinfo.c:731:16:proc_scsi_devinfo_write	48	static
+scsi_devinfo.c:405:5:scsi_dev_info_list_del_keyed	64	static
+scsi_devinfo.c:563:5:scsi_get_device_flags_keyed	80	static
+scsi_devinfo.c:541:5:scsi_get_device_flags	16	static
+scsi_devinfo.c:801:5:scsi_dev_info_add_list	32	static
+scsi_devinfo.c:833:5:scsi_dev_info_remove_list	48	static
+scsi_devinfo.c:784:6:scsi_exit_devinfo	16	static
+scsi_devinfo.c:866:12:scsi_init_devinfo	48	static

@@ -1,0 +1,17 @@
+pmic_irq.c:227:6:pwrkey_int_handler	16	static
+pmic_irq.c:243:6:pwrkey_int_handler_r	32	static
+pmic_irq.c:273:6:homekey_int_handler	16	static
+pmic_irq.c:283:6:homekey_int_handler_r	16	static
+pmic_irq.c:296:6:chrdet_int_handler	16	static
+pmic_irq.c:370:6:bat_h_int_handler	16	static
+pmic_irq.c:403:6:bat_l_int_handler	32	static
+pmic_irq.c:454:6:fg_cur_h_int_handler	16	static
+pmic_irq.c:475:6:fg_cur_l_int_handler	32	static
+pmic_irq.c:330:6:auxadc_imp_int_handler_r	16	static
+pmic_irq.c:348:6:ldo_oc_int_handler	16	static
+pmic_irq.c:508:6:wake_up_pmic	32	static
+pmic_irq.c:525:13:mt_pmic_eint_irq	16	static
+pmic_irq.c:533:6:pmic_enable_interrupt	16	static
+pmic_irq.c:559:6:pmic_register_interrupt_callback	0	static
+pmic_irq.c:577:6:PMIC_EINT_SETTING	48	static
+pmic_irq.c:678:5:pmic_thread_kthread	144	static

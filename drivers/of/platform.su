@@ -1,0 +1,12 @@
+platform.c:34:12:of_dev_node_match	0	static
+platform.c:163:13:of_dma_configure	64	static
+platform.c:509:12:of_platform_device_destroy	32	static
+platform.c:45:25:of_find_device_by_node	16	static
+platform.c:71:6:of_device_make_bus_id	80	static
+platform.c:104:25:of_device_alloc	160	static
+platform.c:215:32:of_platform_device_create_pdata	64	static
+platform.c:378:12:of_platform_bus_create	160	static
+platform.c:261:25:of_platform_device_create	16	static
+platform.c:437:5:of_platform_bus_probe	48	static
+platform.c:486:5:of_platform_populate	64	static
+platform.c:543:6:of_platform_depopulate	16	static

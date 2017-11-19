@@ -1,0 +1,14 @@
+musb_init.c:648:13:mtu3d_musb_disable	16	static
+musb_init.c:912:1:mtu3d_driver_init	16	static
+musb_init.c:688:12:mtu3d_musb_exit	16	static
+musb_init.c:502:20:generic_interrupt	112	static
+musb_init.c:838:12:mtu3d_remove	32	static
+musb_init.c:750:12:mtu3d_probe	64	static
+musb_init.c:912:1:mtu3d_driver_exit	16	static
+musb_init.c:871:12:mtu3d_resume_noirq	16	static
+musb_init.c:850:12:mtu3d_suspend_noirq	16	static
+musb_init.c:643:13:mtu3d_musb_enable	16	static
+musb_init.c:682:12:mtu3d_set_power	16	static
+musb_init.c:661:12:mtu3d_musb_init	48	static
+musb_init.c:143:6:check_ltssm_work	32	static
+musb_init.c:165:6:reconnect_work	32	static

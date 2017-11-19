@@ -1,0 +1,4 @@
+chipreg.c:17:6:register_mtd_chip_driver	32	static
+chipreg.c:24:6:unregister_mtd_chip_driver	32	static
+chipreg.c:57:18:do_map_probe	64	static
+chipreg.c:85:6:map_destroy	32	static

@@ -1,0 +1,9 @@
+onetouch.c:317:1:onetouch_driver_init	16	static
+onetouch.c:286:12:onetouch_probe	32	static
+onetouch.c:146:13:usb_onetouch_close	32	static
+onetouch.c:155:13:usb_onetouch_pm_hook	32	static
+onetouch.c:132:12:usb_onetouch_open	32	static
+onetouch.c:273:13:onetouch_release_input	32	static
+onetouch.c:101:13:usb_onetouch_irq	48	static
+onetouch.c:176:12:onetouch_connect_input	80	static
+onetouch.c:317:1:onetouch_driver_exit	16	static

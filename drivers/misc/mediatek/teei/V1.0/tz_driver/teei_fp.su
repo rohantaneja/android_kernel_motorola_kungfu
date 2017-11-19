@@ -1,0 +1,4 @@
+teei_fp.c:23:15:create_fp_fdrv	96	static
+teei_fp.c:105:6:set_fp_command	32	static
+teei_fp.c:123:5:__send_fp_command	48	static
+teei_fp.c:151:5:send_fp_command	64	static

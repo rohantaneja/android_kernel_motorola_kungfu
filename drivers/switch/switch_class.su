@@ -1,0 +1,7 @@
+switch_class.c:43:16:name_show	48	static
+switch_class.c:29:16:state_show	48	static
+switch_class.c:164:20:switch_class_exit	16	static
+switch_class.c:159:19:switch_class_init	48	static
+switch_class.c:60:6:switch_set_state	336	static
+switch_class.c:113:5:switch_dev_register	48	static
+switch_class.c:150:6:switch_dev_unregister	32	static

@@ -1,0 +1,9 @@
+pppolac.c:438:20:pppolac_exit	16	static
+pppolac.c:399:12:pppolac_create	48	static
+pppolac.c:71:12:pppolac_recv_core	80	static
+pppolac.c:191:12:pppolac_recv	16	static
+pppolac.c:200:13:pppolac_xmit_core	160	static
+pppolac.c:222:12:pppolac_xmit	48	static
+pppolac.c:261:12:pppolac_connect	80	static
+pppolac.c:338:12:pppolac_release	48	static
+pppolac.c:422:19:pppolac_init	48	static

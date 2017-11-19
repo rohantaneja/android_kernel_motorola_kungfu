@@ -1,0 +1,9 @@
+tty_ldsem.c:119:13:__ldsem_wake_readers	48	static
+tty_ldsem.c:187:13:ldsem_wake	48	static
+tty_ldsem.c:102:6:__init_ldsem	0	static
+tty_ldsem.c:363:13:ldsem_down_read	96	static
+tty_ldsem.c:372:5:ldsem_down_read_trylock	16	static
+tty_ldsem.c:396:13:ldsem_down_write	96	static
+tty_ldsem.c:405:5:ldsem_down_write_trylock	0	static
+tty_ldsem.c:422:6:ldsem_up_read	16	static
+tty_ldsem.c:436:6:ldsem_up_write	16	static

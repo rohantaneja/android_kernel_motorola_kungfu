@@ -1,0 +1,9 @@
+ap_thermal_limit.c:76:1:mt_ppm_cpu_thermal_protect	16	static
+ap_thermal_limit.c:95:5:apthermolmt_register_user	0	static
+ap_thermal_limit.c:117:5:apthermolmt_unregister_user	0	static
+ap_thermal_limit.c:136:6:apthermolmt_set_cpu_power_limit	64	static
+ap_thermal_limit.c:175:6:apthermolmt_set_gpu_power_limit	32	static
+ap_thermal_limit.c:205:6:apthermolmt_set_general_cpu_power_limit	32	static
+ap_thermal_limit.c:218:6:apthermolmt_set_general_gpu_power_limit	32	static
+ap_thermal_limit.c:231:14:apthermolmt_get_cpu_power_limit	0	static
+ap_thermal_limit.c:237:14:apthermolmt_get_gpu_power_limit	0	static

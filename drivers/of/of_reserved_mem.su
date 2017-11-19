@@ -1,0 +1,5 @@
+of_reserved_mem.c:31:19:early_init_dt_alloc_reserved_memory_arch	64	static
+of_reserved_mem.c:72:13:fdt_reserved_mem_save_node	16	static
+of_reserved_mem.c:217:13:fdt_init_reserved_mem	176	static
+of_reserved_mem.c:260:5:of_reserved_mem_device_init	48	static
+of_reserved_mem.c:289:6:of_reserved_mem_device_release	32	static

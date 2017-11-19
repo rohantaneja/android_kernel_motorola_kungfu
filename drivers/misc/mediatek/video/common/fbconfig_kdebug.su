@@ -1,0 +1,12 @@
+fbconfig_kdebug.c:256:16:fbconfig_write	0	static
+fbconfig_kdebug.c:735:12:compat_get_mipi_timing	0	static
+fbconfig_kdebug.c:749:12:compat_put_mipi_timing	0	static
+fbconfig_kdebug.c:599:12:fbconfig_release	16	static
+fbconfig_kdebug.c:225:12:fbconfig_open	32	static
+fbconfig_kdebug.c:871:13:compat_fbconfig_ioctl	112	static
+fbconfig_kdebug.c:263:13:fbconfig_ioctl	112	static
+fbconfig_kdebug.c:244:16:fbconfig_read	64	static
+fbconfig_kdebug.c:139:5:fbconfig_get_esd_check	80	static
+fbconfig_kdebug.c:163:6:Panel_Master_DDIC_config	48	static
+fbconfig_kdebug.c:1366:6:PanelMaster_Init	16	static
+fbconfig_kdebug.c:1374:6:PanelMaster_Deinit	16	static

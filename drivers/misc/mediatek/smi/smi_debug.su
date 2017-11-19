@@ -1,0 +1,10 @@
+smi_debug.c:62:13:smi_dumpper	160	static
+smi_debug.c:169:13:smi_dump_format	144	static
+smi_debug.c:96:6:smi_dumpCommonDebugMsg	32	static
+smi_debug.c:120:6:smi_dumpLarbDebugMsg	48	static
+smi_debug.c:147:6:smi_dumpLarb	48	static
+smi_debug.c:162:6:smi_dumpCommon	32	static
+smi_debug.c:195:6:smi_dumpDebugMsg	32	static
+smi_debug.c:247:5:smi_debug_bus_hanging_detect_ext	144	static
+smi_debug.c:208:5:smi_debug_bus_hanging_detect	16	static
+smi_debug.c:362:6:smi_dump_clk_status	80	static

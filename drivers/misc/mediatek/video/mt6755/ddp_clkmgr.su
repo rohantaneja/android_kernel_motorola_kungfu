@@ -1,0 +1,10 @@
+ddp_clkmgr.c:39:5:ddp_set_clk_handle	48	static
+ddp_clkmgr.c:52:5:ddp_clk_prepare	48	static
+ddp_clkmgr.c:67:5:ddp_clk_unprepare	32	static
+ddp_clkmgr.c:79:5:ddp_clk_enable	48	static
+ddp_clkmgr.c:95:5:ddp_clk_disable	32	static
+ddp_clkmgr.c:107:5:ddp_clk_prepare_enable	48	static
+ddp_clkmgr.c:122:5:ddp_clk_disable_unprepare	32	static
+ddp_clkmgr.c:133:5:ddp_clk_set_parent	48	static
+ddp_clkmgr.c:156:5:ddp_parse_apmixed_base	32	static
+ddp_clkmgr.c:142:5:ddp_set_mipi26m	32	static

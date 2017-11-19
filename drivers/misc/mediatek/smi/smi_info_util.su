@@ -1,0 +1,3 @@
+smi_info_util.c:38:5:smi_get_mm_info_ioctl_wrapper	32	static
+smi_info_util.c:53:6:smi_bwc_mm_info_set	0	static
+smi_info_util.c:21:5:smi_set_mm_info_ioctl_wrapper	48	static

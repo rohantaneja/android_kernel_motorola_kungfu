@@ -1,0 +1,2 @@
+of_net.c:22:5:of_get_phy_mode	64	static
+of_net.c:59:13:of_get_mac_address	32	static

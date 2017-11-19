@@ -1,0 +1,15 @@
+emmc_otp.c:786:12:emmc_otp_remove	0	static
+emmc_otp.c:462:12:mt_otp_open	32	static
+emmc_otp.c:840:20:emmc_otp_exit	32	static
+emmc_otp.c:477:12:mt_otp_access	112	static
+emmc_otp.c:582:13:mt_otp_ioctl	80	static
+emmc_otp.c:705:13:mt_otp_ioctl_compat	96	static
+emmc_otp.c:801:19:emmc_otp_init	32	static
+emmc_otp.c:779:12:emmc_otp_probe	16	static
+emmc_otp.c:470:12:mt_otp_release	16	static
+emmc_otp.c:99:19:emmc_otp_get_host	0	static
+emmc_otp.c:108:14:emmc_get_wp_size	592	static
+emmc_otp.c:217:14:emmc_otp_query_length	32	static
+emmc_otp.c:181:14:emmc_otp_start	48	static
+emmc_otp.c:225:14:emmc_otp_read	384	static
+emmc_otp.c:336:14:emmc_otp_write	448	static

@@ -214,7 +214,7 @@ PowerUp PowerDownList = {
 	  },
 	   {SENSOR_DRVNAME_S5K3P3SX_OFILM_MIPI_RAW,
 	  {
-	   {SensorMCLK, Vol_Low, 0},	   
+	   {SensorMCLK, Vol_Low, 0},
 	   {AFVDD, Vol_2800, 1},
 	   {DOVDD, Vol_1800, 0},
 	   {AVDD, Vol_2800, 0},
@@ -294,7 +294,7 @@ PowerUp PowerOnList = {
 	   {DOVDD, Vol_1800, 2},
 	   {AVDD, Vol_2800, 2},
 	   {DVDD, Vol_1200, 2},
-	   {PDN, Vol_High, 2},   
+	   {PDN, Vol_High, 2},
 	   {RST, Vol_High, 1},
 	   {SensorMCLK, Vol_High, 0},
 	   },
@@ -306,7 +306,7 @@ PowerUp PowerOnList = {
 	   {DOVDD, Vol_1800, 2},
 	   {AVDD, Vol_2800, 2},
 	   {DVDD, Vol_1200, 2},
-	   {PDN, Vol_High, 2},   
+	   {PDN, Vol_High, 2},
 	   {RST, Vol_High, 1},
 	    {SensorMCLK, Vol_High, 0},
 	   },
@@ -647,7 +647,7 @@ int mtkcam_gpio_set(int PinIdx, int PwrType, int Val)
 	int ret = 0;
 	if (IS_ERR(camctrl)) {
 		return -1;
-	} 
+	}
 	switch (PwrType) {
 	case RST:
 		if (PinIdx == 0) {
@@ -761,7 +761,7 @@ int mtkcam_gpio_set(int PinIdx, int PwrType, int Val)
 
 BOOL hwpoweron(PowerInformation pwInfo, char *mode_name)
 {
-	PK_DBG("[CAMERA SENSOR] pwInfo.PowerType = %d  pinSetIdx = %d power on\n",pwInfo.PowerType,pinSetIdx); 
+	PK_DBG("[CAMERA SENSOR] pwInfo.PowerType = %d  pinSetIdx = %d power on\n",pwInfo.PowerType,pinSetIdx);
 	if (pwInfo.PowerType == AVDD) {
 		if (gcurrSensorName && ((0 == strcmp(SENSOR_DRVNAME_S5K3P3SX_MIPI_RAW,gcurrSensorName))||(0 == strcmp(SENSOR_DRVNAME_S5K3P3SX_OFILM_MIPI_RAW,gcurrSensorName)))){
 			PK_ERR("[CAMERA CUST_AVDD] set gpio enter !!!!!!!\n");
@@ -776,7 +776,7 @@ BOOL hwpoweron(PowerInformation pwInfo, char *mode_name)
 				PK_ERR("[CAMERA SENSOR] Fail to enable analog power\n");
 				return FALSE;
 			}
-		}	
+		}
 		#endif
 		/*lenovo.sw huangsh4 end remove pmic power of avdd for kungfuM*/
 			}else {
@@ -862,7 +862,7 @@ BOOL hwpoweron(PowerInformation pwInfo, char *mode_name)
 					PK_ERR("[CAMERA CUST_AFVDD] set gpio failed!!\n");
 			}
 		}
-#else 		
+#else
 #if CONTROL_AF_POWER
 		if (PowerCustList.PowerCustInfo[CUST_AFVDD].Gpio_Pin == GPIO_UNSUPPORTED) {
 			if (TRUE != _hwPowerOn(pwInfo.PowerType, pwInfo.Voltage)) {
@@ -881,7 +881,7 @@ BOOL hwpoweron(PowerInformation pwInfo, char *mode_name)
 		if (pwInfo.Voltage == Vol_High) {
 		/*lenovo.sw wuyt3 modify begin */
 #ifdef CAMERA_HW_Kungfu
-	PK_DBG("[CAMERA SENSOR] Main camera shen pwInfo.PowerType == PDN   power on"); 
+	PK_DBG("[CAMERA SENSOR] Main camera shen pwInfo.PowerType == PDN   power on");
 			if (gcurrSensorName && ((0 == strcmp(SENSOR_DRVNAME_S5K3P3SX_MIPI_RAW,gcurrSensorName))||(0 == strcmp(SENSOR_DRVNAME_S5K3P3SX_OFILM_MIPI_RAW,gcurrSensorName)))){
 				if(pinSetIdx == 0){
 					mtkcam_gpio_set(0, PDN, pinSet[0][IDX_PS_CMPDN + IDX_PS_ON]);
@@ -917,7 +917,7 @@ BOOL hwpoweron(PowerInformation pwInfo, char *mode_name)
 			}
 #endif
 		}else{
-		
+
 			mtkcam_gpio_set(pinSetIdx, PDN, pinSet[pinSetIdx][IDX_PS_CMPDN + IDX_PS_OFF]);
 		}
 	#if 0

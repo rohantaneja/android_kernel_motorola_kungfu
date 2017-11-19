@@ -1,0 +1,10 @@
+vibrator_drv.c:179:12:vib_probe	0	static
+vibrator_drv.c:184:12:vib_remove	0	static
+vibrator_drv.c:224:16:store_vibr_on	32	static
+vibrator_drv.c:165:29:vibrator_timer_func	32	static
+vibrator_drv.c:123:13:vibrator_enable	80	static
+vibrator_drv.c:256:12:vib_mod_init	48	static
+vibrator_drv.c:113:12:vibrator_get_time	16	static
+vibrator_drv.c:319:13:vib_mod_exit	32	static
+vibrator_drv.c:105:13:update_vibrator	32	static
+vibrator_drv.c:189:13:vib_shutdown	64	static

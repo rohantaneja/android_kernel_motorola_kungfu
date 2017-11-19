@@ -1,0 +1,9 @@
+fbcmap.c:145:6:fb_dealloc_cmap	32	static
+fbcmap.c:164:5:fb_copy_cmap	64	static
+fbcmap.c:188:5:fb_cmap_to_user	64	static
+fbcmap.c:227:5:fb_set_cmap	96	static
+fbcmap.c:307:23:fb_default_cmap	0	static
+fbcmap.c:92:5:fb_alloc_cmap_gfp	64	static
+fbcmap.c:131:5:fb_alloc_cmap	16	static
+fbcmap.c:263:5:fb_set_user_cmap	96	static
+fbcmap.c:326:6:fb_invert_cmaps	0	static

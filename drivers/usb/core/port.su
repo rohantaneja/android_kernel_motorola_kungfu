@@ -1,0 +1,6 @@
+port.c:67:13:usb_port_device_release	32	static
+port.c:28:16:connect_type_show	16	static
+port.c:260:13:link_peers_report	64	static
+port.c:315:12:match_location	32	static
+port.c:401:5:usb_hub_create_port_device	80	static
+port.c:478:6:usb_hub_remove_port_device	48	static

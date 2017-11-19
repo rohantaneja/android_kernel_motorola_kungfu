@@ -1,0 +1,6 @@
+functions.c:38:31:usb_get_function_instance	64	static
+functions.c:56:22:usb_get_function	32	static
+functions.c:68:6:usb_put_function_instance	16	static
+functions.c:81:6:usb_put_function	16	static
+functions.c:90:5:usb_function_register	48	static
+functions.c:110:6:usb_function_unregister	32	static

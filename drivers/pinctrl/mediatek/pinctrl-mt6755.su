@@ -1,0 +1,2 @@
+pinctrl-mt6755.c:384:19:mtk_pinctrl_init	16	static
+pinctrl-mt6755.c:361:12:mt6755_pinctrl_probe	32	static

@@ -1,0 +1,10 @@
+irq.c:55:21:of_irq_find_parent	48	static
+irq.c:95:5:of_irq_parse_raw	320	static
+irq.c:288:5:of_irq_parse_one	96	static
+irq.c:37:14:irq_of_parse_and_map	96	static
+irq.c:361:5:of_irq_to_resource	80	static
+irq.c:396:5:of_irq_get	96	static
+irq.c:421:5:of_irq_get_byname	32	static
+irq.c:439:5:of_irq_count	112	static
+irq.c:458:5:of_irq_to_resource_table	48	static
+irq.c:484:13:of_irq_init	128	static

@@ -1,0 +1,16 @@
+ion_system_heap.c:201:25:ion_system_heap_map_dma	0	static
+ion_system_heap.c:207:13:ion_system_heap_unmap_dma	0	static
+ion_system_heap.c:376:12:ion_system_contig_heap_phys	0	static
+ion_system_heap.c:387:25:ion_system_contig_heap_map_dma	0	static
+ion_system_heap.c:393:13:ion_system_contig_heap_unmap_dma	0	static
+ion_system_heap.c:241:12:ion_system_heap_debug_show	80	static
+ion_system_heap.c:212:12:ion_system_heap_shrink	64	static
+ion_system_heap.c:363:13:ion_system_contig_heap_free	48	static
+ion_system_heap.c:80:13:free_buffer_page	64	static
+ion_system_heap.c:180:13:ion_system_heap_free	64	static
+ion_system_heap.c:311:12:ion_system_contig_heap_allocate	80	static
+ion_system_heap.c:122:12:ion_system_heap_allocate	128	static
+ion_system_heap.c:263:18:ion_system_heap_create	48	static
+ion_system_heap.c:299:6:ion_system_heap_destroy	32	static
+ion_system_heap.c:409:18:ion_system_contig_heap_create	16	static
+ion_system_heap.c:421:6:ion_system_contig_heap_destroy	16	static

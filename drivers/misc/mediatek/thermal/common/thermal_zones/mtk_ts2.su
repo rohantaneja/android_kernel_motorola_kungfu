@@ -1,0 +1,16 @@
+mtk_ts2.c:225:12:tsallts_get_mode	0	static
+mtk_ts2.c:231:12:tsallts_set_mode	0	static
+mtk_ts2.c:237:12:tsallts_get_trip_type	0	static
+mtk_ts2.c:244:12:tsallts_get_trip_temp	0	static
+mtk_ts2.c:250:12:tsallts_get_crit_temp	0	static
+mtk_ts2.c:465:20:tsallts_exit	32	static
+mtk_ts2.c:422:12:tsallts_open	16	static
+mtk_ts2.c:282:12:tsallts_read	48	static
+mtk_ts2.c:79:12:tsallts_get_temp	64	static
+mtk_ts2.c:178:12:tsallts_unbind	48	static
+mtk_ts2.c:130:12:tsallts_bind	48	static
+mtk_ts2.c:301:16:tsallts_write	272	static
+mtk_ts2.c:436:19:tsallts_init	32	static
+mtk_ts2.c:71:5:mtkts_get_ts2_temp	0	static
+mtk_ts2.c:256:6:mtkts_allts_cancel_ts2_timer	16	static
+mtk_ts2.c:263:6:mtkts_allts_start_ts2_timer	48	static
