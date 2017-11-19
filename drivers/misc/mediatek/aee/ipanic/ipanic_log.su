@@ -1,0 +1,4 @@
+ipanic_log.c:25:5:ipanic_kmsg_dump3	96	static
+ipanic_log.c:51:6:ipanic_klog_region	32	static
+ipanic_log.c:65:5:ipanic_klog_buffer	16	static
+ipanic_log.c:77:6:ipanic_log_temp_init	16	static

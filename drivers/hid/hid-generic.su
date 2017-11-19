@@ -1,0 +1,2 @@
+hid-generic.c:37:1:hid_generic_init	16	static
+hid-generic.c:37:1:hid_generic_exit	16	static

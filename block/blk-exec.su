@@ -1,0 +1,3 @@
+blk-exec.c:23:13:blk_end_sync_rq	16	static
+blk-exec.c:51:6:blk_execute_rq_nowait	64	static
+blk-exec.c:109:5:blk_execute_rq	176	static

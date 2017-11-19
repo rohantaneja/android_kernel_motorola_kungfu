@@ -1,0 +1,7 @@
+ff-core.c:268:5:input_ff_event	16	static
+ff-core.c:186:12:erase_effect	64	static
+ff-core.c:244:12:flush_effects	64	static
+ff-core.c:106:5:input_ff_upload	80	static
+ff-core.c:225:5:input_ff_erase	48	static
+ff-core.c:312:5:input_ff_create	48	static
+ff-core.c:368:6:input_ff_destroy	32	static

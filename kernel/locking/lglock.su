@@ -1,0 +1,7 @@
+lglock.c:13:6:lg_lock_init	0	static
+lglock.c:19:6:lg_local_lock	32	static
+lglock.c:30:6:lg_local_unlock	32	static
+lglock.c:41:6:lg_local_lock_cpu	48	static
+lglock.c:52:6:lg_local_unlock_cpu	16	static
+lglock.c:63:6:lg_global_lock	48	static
+lglock.c:77:6:lg_global_unlock	48	static

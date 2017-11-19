@@ -1,0 +1,8 @@
+page_io.c:46:6:end_swap_bio_write	32	static
+page_io.c:72:6:end_swap_bio_read	64	static
+page_io.c:27:20:get_swap_bio	48	static
+page_io.c:136:5:generic_swapfile_activate	160	static
+page_io.c:256:5:__swap_writepage	192	static
+page_io.c:232:5:swap_writepage	48	static
+page_io.c:340:5:swap_readpage	32	static
+page_io.c:395:5:swap_set_page_dirty	32	static

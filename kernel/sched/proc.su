@@ -1,0 +1,10 @@
+proc.c:469:13:__update_cpu_load	16	static
+proc.c:243:1:fixed_power_int.constprop	0	static
+proc.c:72:6:get_avenrun	0	static
+proc.c:79:6:calc_load_fold_active	0	static
+proc.c:180:6:calc_load_enter_idle	32	static
+proc.c:196:6:calc_load_exit_idle	32	static
+proc.c:346:6:calc_global_load	112	static
+proc.c:530:6:update_idle_cpu_load	16	static
+proc.c:551:6:update_cpu_load_nohz	32	static
+proc.c:577:6:update_cpu_load_active	32	static

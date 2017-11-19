@@ -1,0 +1,12 @@
+inet_fragment.c:194:13:inet_frag_schedule_worker	16	static
+inet_fragment.c:261:1:get_frag_bucket_locked	80	static
+inet_fragment.c:200:5:inet_frags_init	32	static
+inet_fragment.c:224:6:inet_frags_init_net	16	static
+inet_fragment.c:230:6:inet_frags_fini	32	static
+inet_fragment.c:292:6:inet_frag_kill	48	static
+inet_fragment.c:313:6:inet_frag_destroy	64	static
+inet_fragment.c:127:1:inet_evict_bucket	96	static
+inet_fragment.c:167:13:inet_frag_worker	112	static
+inet_fragment.c:237:6:inet_frags_exit_net	64	static
+inet_fragment.c:415:25:inet_frag_find	96	static
+inet_fragment.c:453:6:inet_frag_maybe_warn_overflow	32	static

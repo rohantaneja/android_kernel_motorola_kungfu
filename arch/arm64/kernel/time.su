@@ -1,0 +1,2 @@
+time.c:45:15:profile_pc	64	static
+time.c:66:13:time_init	16	static

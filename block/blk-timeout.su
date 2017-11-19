@@ -1,0 +1,6 @@
+blk-timeout.c:78:6:blk_delete_timer	0	static
+blk-timeout.c:169:15:blk_rq_timeout	32	static
+blk-timeout.c:188:6:blk_add_timer	32	static
+blk-timeout.c:83:13:blk_rq_timed_out	32	static
+blk-timeout.c:130:6:blk_rq_timed_out_timer	80	static
+blk-timeout.c:157:6:blk_abort_request	32	static

@@ -1,0 +1,10 @@
+mt_ppm_policy_ut.c:49:29:ppm_ut_get_power_state_cb	0	static
+mt_ppm_policy_ut.c:57:13:ppm_ut_update_limit_cb	0	static
+mt_ppm_policy_ut.c:256:1:ppm_ut_fix_freq_idx_proc_open	32	static
+mt_ppm_policy_ut.c:255:1:ppm_ut_fix_core_num_proc_open	32	static
+mt_ppm_policy_ut.c:158:12:ppm_ut_fix_freq_idx_proc_show	64	static
+mt_ppm_policy_ut.c:61:12:ppm_ut_fix_core_num_proc_show	64	static
+mt_ppm_policy_ut.c:258:19:ppm_ut_policy_init	96	static
+mt_ppm_policy_ut.c:168:16:ppm_ut_fix_freq_idx_proc_write	112	static
+mt_ppm_policy_ut.c:71:16:ppm_ut_fix_core_num_proc_write	112	static
+mt_ppm_policy_ut.c:312:20:ppm_ut_policy_exit	32	static

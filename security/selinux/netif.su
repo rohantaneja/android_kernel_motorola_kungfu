@@ -1,0 +1,4 @@
+netif.c:276:19:sel_netif_init	16	static
+netif.c:261:12:sel_netif_netdev_notifier_handler	64	static
+netif.c:203:5:sel_netif_sid	112	static
+netif.c:249:6:sel_netif_flush	64	static

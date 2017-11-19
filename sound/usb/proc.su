@@ -1,0 +1,7 @@
+proc.c:53:13:proc_audio_usbid_read	16	static
+proc.c:46:13:proc_audio_usbbus_read	16	static
+proc.c:74:13:proc_dump_substream_formats	96	static
+proc.c:138:13:proc_dump_substream_status.part.1	48	static
+proc.c:150:13:proc_pcm_format_read	48	static
+proc.c:62:6:snd_usb_audio_create_proc	48	static
+proc.c:168:6:snd_usb_proc_pcm_format_add	80	static

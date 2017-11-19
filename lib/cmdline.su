@@ -1,0 +1,4 @@
+cmdline.c:52:5:get_option	48	static
+cmdline.c:89:7:get_options	96	static
+cmdline.c:127:20:memparse	48	static
+cmdline.c:174:6:parse_option_str	48	static

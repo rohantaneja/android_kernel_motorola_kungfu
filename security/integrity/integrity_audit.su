@@ -1,0 +1,2 @@
+integrity_audit.c:21:19:integrity_audit_setup	32	static
+integrity_audit.c:31:6:integrity_audit_msg	80	static

@@ -1,0 +1,15 @@
+dm-stats.c:344:24:__dm_stats_find	0	static
+dm-stats.c:420:13:dm_stat_round	0	static
+dm-stats.c:118:13:free_shared_memory	48	static
+dm-stats.c:135:14:dm_kvzalloc	48	static
+dm-stats.c:569:13:__dm_stat_init_temporary_percpu_totals	80	static
+dm-stats.c:598:13:__dm_stat_clear	64	static
+dm-stats.c:649:27:dm_jiffies_to_msec64	48	static
+dm-stats.c:891:12:message_stats_print	352	static
+dm-stats.c:169:13:dm_stat_free	64	static
+dm-stats.c:187:6:dm_stats_init	64	static
+dm-stats.c:202:6:dm_stats_cleanup	80	static
+dm-stats.c:533:6:dm_stats_account_io	176	static
+dm-stats.c:933:5:dm_stats_message	224	static
+dm-stats.c:967:12:dm_statistics_init	0	static
+dm-stats.c:974:6:dm_statistics_exit	32	static

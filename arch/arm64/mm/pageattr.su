@@ -1,0 +1,5 @@
+pageattr.c:39:12:change_memory_common.isra.1	32	static
+pageattr.c:70:5:set_memory_ro	16	static
+pageattr.c:78:5:set_memory_rw	16	static
+pageattr.c:86:5:set_memory_nx	16	static
+pageattr.c:94:5:set_memory_x	16	static

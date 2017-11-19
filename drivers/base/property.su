@@ -1,0 +1,7 @@
+property.c:25:6:device_property_present	16	static
+property.c:61:5:device_property_read_u8_array	16	static
+property.c:84:5:device_property_read_u16_array	16	static
+property.c:107:5:device_property_read_u32_array	16	static
+property.c:130:5:device_property_read_u64_array	16	static
+property.c:153:5:device_property_read_string_array	16	static
+property.c:177:5:device_property_read_string	16	static

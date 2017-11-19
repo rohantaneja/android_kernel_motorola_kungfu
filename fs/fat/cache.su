@@ -1,0 +1,7 @@
+cache.c:40:13:init_once	0	static
+cache.c:135:13:fat_cache_add	80	static
+cache.c:47:12:fat_cache_init	16	static
+cache.c:58:6:fat_cache_destroy	16	static
+cache.c:205:6:fat_cache_inval_inode	48	static
+cache.c:226:5:fat_get_cluster	192	static
+cache.c:306:5:fat_bmap	96	static

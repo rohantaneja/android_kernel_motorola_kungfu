@@ -1,0 +1,9 @@
+recovery.c:177:12:jbd2_descr_block_csum_verify	240	dynamic,bounded
+recovery.c:400:12:jbd2_block_tag_csum_verify	384	dynamic,bounded
+recovery.c:382:12:jbd2_commit_block_csum_verify	240	dynamic,bounded
+recovery.c:815:12:jbd2_revoke_block_csum_verify	240	dynamic,bounded
+recovery.c:201:12:count_tags.isra.1	48	static
+recovery.c:132:12:jread	176	static
+recovery.c:420:12:do_one_pass	160	static
+recovery.c:248:5:jbd2_journal_recover	80	static
+recovery.c:313:5:jbd2_journal_skip_recovery	64	static

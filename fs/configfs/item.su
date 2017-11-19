@@ -1,0 +1,9 @@
+item.c:50:6:config_item_init	0	static
+item.c:66:5:config_item_set_name	192	static
+item.c:115:6:config_item_init_type_name	48	static
+item.c:134:21:config_item_get	32	static
+item.c:171:6:config_item_put	16	static
+item.c:160:13:config_item_release	64	static
+item.c:182:6:config_group_init	0	static
+item.c:125:6:config_group_init_type_name	48	static
+item.c:198:21:config_group_find_item	48	static

@@ -1,0 +1,7 @@
+cpuinfo.c:92:12:check_reg_mask	16	static
+cpuinfo.c:40:6:cpu_supports_mixed_endian_el0	0	static
+cpuinfo.c:45:6:system_supports_mixed_endian_el0	0	static
+cpuinfo.c:231:25:icache_get_ccsidr	16	static
+cpuinfo.c:183:13:__cpuinfo_store_cpu	48	static
+cpuinfo.c:216:6:cpuinfo_store_cpu	48	static
+cpuinfo.c:223:13:cpuinfo_store_boot_cpu	32	static

@@ -1,0 +1,8 @@
+sysctl_net.c:30:1:net_ctl_header_lookup	0	static
+sysctl_net.c:35:12:is_seen	0	static
+sysctl_net.c:73:24:sysctl_net_exit	16	static
+sysctl_net.c:67:23:sysctl_net_init	16	static
+sysctl_net.c:41:12:net_ctl_permissions	32	static
+sysctl_net.c:84:12:net_sysctl_init	32	static
+sysctl_net.c:103:26:register_net_sysctl	16	static
+sysctl_net.c:110:6:unregister_net_sysctl_table	16	static

@@ -1,0 +1,5 @@
+platform.c:88:12:netdev_event	32	static
+platform.c:174:6:wlanRegisterNotifier	16	static
+platform.c:182:6:wlanUnregisterNotifier	16	static
+platform.c:389:9:kalCfgDataRead16	64	static
+platform.c:415:9:kalCfgDataWrite16	64	static

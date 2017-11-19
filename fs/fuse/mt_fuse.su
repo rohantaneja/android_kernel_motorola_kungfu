@@ -1,0 +1,15 @@
+mt_fuse.c:341:16:fuseio_debug_write	0	static
+mt_fuse.c:347:14:fuseio_seq_debug_start	0	static
+mt_fuse.c:358:14:fuseio_seq_debug_next	0	static
+mt_fuse.c:388:13:fuseio_seq_debug_stop	0	static
+mt_fuse.c:399:12:fuseio_seq_debug_open	32	static
+mt_fuse.c:370:12:fuseio_seq_debug_show	144	static
+mt_fuse.c:44:6:fuse_time_diff	0	static
+mt_fuse.c:127:5:fuse_iolog_print	96	static
+mt_fuse.c:302:12:fuse_iolog_watch	64	static
+mt_fuse.c:247:14:fuse_iolog_timeus	0	static
+mt_fuse.c:266:7:fuse_iolog_timeus_diff	32	static
+mt_fuse.c:275:12:fuse_iolog_proc_update	0	static
+mt_fuse.c:422:6:fuse_iolog_init	48	static
+mt_fuse.c:477:6:fuse_iolog_exit	32	static
+mt_fuse.c:485:6:fuse_iolog_add	80	static

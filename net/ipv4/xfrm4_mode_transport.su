@@ -1,0 +1,4 @@
+xfrm4_mode_transport.c:43:12:xfrm4_transport_input	32	static
+xfrm4_mode_transport.c:64:19:xfrm4_transport_init	16	static
+xfrm4_mode_transport.c:69:20:xfrm4_transport_exit	16	static
+xfrm4_mode_transport.c:21:12:xfrm4_transport_output	16	static

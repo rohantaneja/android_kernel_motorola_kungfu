@@ -1,0 +1,12 @@
+cgroup_freezer.c:440:12:freezer_self_freezing_read	0	static
+cgroup_freezer.c:448:12:freezer_parent_freezing_read	0	static
+cgroup_freezer.c:130:13:freezer_css_offline	32	static
+cgroup_freezer.c:105:12:freezer_css_online	48	static
+cgroup_freezer.c:206:13:freezer_fork	32	static
+cgroup_freezer.c:294:12:freezer_read	128	static
+cgroup_freezer.c:158:13:freezer_attach	48	static
+cgroup_freezer.c:144:13:freezer_css_free	16	static
+cgroup_freezer.c:86:1:freezer_css_alloc	16	static
+cgroup_freezer.c:352:13:freezer_apply_state	64	static
+cgroup_freezer.c:422:16:freezer_write	96	static
+cgroup_freezer.c:65:6:cgroup_freezing	48	static

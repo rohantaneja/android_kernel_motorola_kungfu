@@ -1,0 +1,13 @@
+soc-io.c:64:12:snd_soc_component_update_bits_legacy	96	static
+soc-io.c:28:5:snd_soc_component_read	16	static
+soc-io.c:52:5:snd_soc_component_write	16	static
+soc-io.c:101:5:snd_soc_component_update_bits	32	static
+soc-io.c:137:5:snd_soc_component_update_bits_async	32	static
+soc-io.c:163:6:snd_soc_component_async_complete	16	static
+soc-io.c:182:5:snd_soc_component_test_bits	64	static
+soc-io.c:196:14:snd_soc_read	32	static
+soc-io.c:209:5:snd_soc_write	16	static
+soc-io.c:227:5:snd_soc_update_bits	16	static
+soc-io.c:247:5:snd_soc_test_bits	16	static
+soc-io.c:254:5:snd_soc_platform_read	32	static
+soc-io.c:268:5:snd_soc_platform_write	16	static

@@ -1,0 +1,4 @@
+ipanic_vfs.c:24:14:expdb_open	32	static
+ipanic_vfs.c:35:9:expdb_write	16	static
+ipanic_vfs.c:40:9:expdb_read	16	static
+ipanic_vfs.c:45:7:expdb_read_size	64	static

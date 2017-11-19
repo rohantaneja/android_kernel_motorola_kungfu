@@ -1,0 +1,2 @@
+tpd_calibrate.c:25:6:tpd_warp_calibrate	0	static
+tpd_calibrate.c:59:6:tpd_calibrate	48	static

@@ -1,0 +1,3 @@
+stat.c:185:12:stat_open	32	static
+stat.c:201:19:proc_stat_init	16	static
+stat.c:80:12:show_stat	272	static

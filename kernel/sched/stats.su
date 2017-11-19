@@ -1,0 +1,6 @@
+stats.c:117:13:schedstat_stop	0	static
+stats.c:128:12:schedstat_open	16	static
+stats.c:15:12:show_schedstat	144	static
+stats.c:90:14:schedstat_start	32	static
+stats.c:111:14:schedstat_next	16	static
+stats.c:140:19:proc_schedstat_init	16	static

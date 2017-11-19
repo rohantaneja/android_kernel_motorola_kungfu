@@ -1,0 +1,12 @@
+blk-tag.c:89:1:init_tag_map	48	static
+blk-tag.c:121:30:__blk_queue_init_tags	48	static
+blk-tag.c:23:17:blk_queue_find_tag	0	static
+blk-tag.c:36:6:blk_free_tags	32	static
+blk-tag.c:61:6:__blk_queue_free_tags	32	static
+blk-tag.c:82:6:blk_queue_free_tags	0	static
+blk-tag.c:144:23:blk_init_tags	16	static
+blk-tag.c:199:5:blk_queue_resize_tags	64	static
+blk-tag.c:159:5:blk_queue_init_tags	32	static
+blk-tag.c:261:6:blk_queue_end_tag	48	static
+blk-tag.c:309:5:blk_queue_start_tag	80	static
+blk-tag.c:378:6:blk_queue_invalidate_tags	48	static

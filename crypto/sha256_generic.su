@@ -1,0 +1,10 @@
+sha256_generic.c:217:12:sha224_init	0	static
+sha256_generic.c:233:12:sha256_init	0	static
+sha256_generic.c:332:12:sha256_import	16	static
+sha256_generic.c:324:12:sha256_export	16	static
+sha256_generic.c:54:13:sha256_transform	288	static
+sha256_generic.c:249:5:crypto_sha256_update	64	static
+sha256_generic.c:376:20:sha256_generic_mod_fini	16	static
+sha256_generic.c:282:12:sha256_final	64	static
+sha256_generic.c:312:12:sha224_final	64	static
+sha256_generic.c:371:19:sha256_generic_mod_init	16	static

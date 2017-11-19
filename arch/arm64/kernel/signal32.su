@@ -1,0 +1,12 @@
+signal32.c:283:12:compat_restore_vfp_context	560	static
+signal32.c:323:12:compat_restore_sigframe	64	static
+signal32.c:504:12:compat_setup_sigframe	64	static
+signal32.c:439:21:compat_get_sigframe.isra.1	0	static
+signal32.c:460:13:compat_setup_return.isra.2	0	static
+signal32.c:128:5:copy_siginfo_to_user32	32	static
+signal32.c:203:5:copy_siginfo_from_user32	48	static
+signal32.c:368:16:compat_sys_sigreturn	48	static
+signal32.c:402:16:compat_sys_rt_sigreturn	48	static
+signal32.c:549:5:compat_setup_rt_frame	80	static
+signal32.c:578:5:compat_setup_frame	64	static
+signal32.c:598:6:compat_setup_restart_syscall	0	static

@@ -1,0 +1,2 @@
+clk-conf.c:78:12:__set_clk_rates	208	static
+clk-conf.c:131:5:of_clk_set_defaults	192	static

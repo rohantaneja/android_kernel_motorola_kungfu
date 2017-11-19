@@ -1,0 +1,15 @@
+transport_class.c:68:12:anon_transport_dummy_function	0	static
+transport_class.c:117:12:transport_setup_classdev	16	static
+transport_class.c:183:12:transport_configure	16	static
+transport_class.c:214:12:transport_remove_classdev	48	static
+transport_class.c:253:13:transport_destroy_classdev	16	static
+transport_class.c:151:12:transport_add_class_device	48	static
+transport_class.c:48:5:transport_class_register	16	static
+transport_class.c:62:6:transport_class_unregister	16	static
+transport_class.c:88:5:anon_transport_class_register	32	static
+transport_class.c:110:6:anon_transport_class_unregister	16	static
+transport_class.c:145:6:transport_setup_device	16	static
+transport_class.c:177:6:transport_add_device	16	static
+transport_class.c:208:6:transport_configure_device	16	static
+transport_class.c:247:6:transport_remove_device	16	static
+transport_class.c:276:6:transport_destroy_device	16	static

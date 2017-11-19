@@ -1,0 +1,3 @@
+mali_kbase_context.c:39:1:kbase_create_context	80	static
+mali_kbase_context.c:200:6:kbase_destroy_context	112	static
+mali_kbase_context.c:285:5:kbase_context_set_create_flags	64	static

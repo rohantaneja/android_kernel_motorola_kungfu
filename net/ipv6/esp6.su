@@ -1,0 +1,13 @@
+esp6.c:409:12:esp6_get_mtu	0	static
+esp6.c:619:12:esp6_rcv_cb	0	static
+esp6.c:136:13:esp_output_done	48	static
+esp6.c:65:14:esp_alloc_tmp	16	static
+esp6.c:144:12:esp6_output	160	static
+esp6.c:267:12:esp_input_done2	112	static
+esp6.c:320:12:esp6_input	144	static
+esp6.c:313:13:esp_input_done	32	static
+esp6.c:450:13:esp6_destroy	16	static
+esp6.c:574:12:esp6_init_state	144	static
+esp6.c:424:12:esp6_err	64	static
+esp6.c:659:20:esp6_fini	32	static
+esp6.c:644:19:esp6_init	32	static

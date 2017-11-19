@@ -1,0 +1,6 @@
+xt_REDIRECT.c:73:12:redirect_tg6_checkentry	0	static
+xt_REDIRECT.c:178:20:redirect_tg_exit	16	static
+xt_REDIRECT.c:99:1:redirect_tg4	112	static
+xt_REDIRECT.c:33:1:redirect_tg6	128	static
+xt_REDIRECT.c:172:19:redirect_tg_init	16	static
+xt_REDIRECT.c:83:12:redirect_tg4_check	32	static

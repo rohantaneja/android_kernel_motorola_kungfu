@@ -1,0 +1,4 @@
+mali_kbase_mem_profile_debugfs.c:50:12:kbasep_mem_profile_debugfs_open	16	static
+mali_kbase_mem_profile_debugfs.c:32:12:kbasep_mem_profile_seq_show	48	static
+mali_kbase_mem_profile_debugfs.c:62:5:kbasep_mem_profile_debugfs_insert	80	static
+mali_kbase_mem_profile_debugfs.c:96:6:kbasep_mem_profile_debugfs_remove	48	static

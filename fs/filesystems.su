@@ -1,0 +1,10 @@
+filesystems.c:239:12:filesystems_proc_open	16	static
+filesystems.c:223:12:filesystems_proc_show	64	static
+filesystems.c:251:19:proc_filesystems_init	16	static
+filesystems.c:36:6:get_filesystem	0	static
+filesystems.c:41:6:put_filesystem	0	static
+filesystems.c:69:5:register_filesystem	64	static
+filesystems.c:101:5:unregister_filesystem	48	static
+filesystems.c:184:1:SyS_sysfs	64	static
+filesystems.c:205:12:get_filesystem_list	80	static
+filesystems.c:271:26:get_fs_type	64	static

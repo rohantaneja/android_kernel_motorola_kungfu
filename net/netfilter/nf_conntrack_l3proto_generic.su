@@ -1,0 +1,4 @@
+nf_conntrack_l3proto_generic.c:52:12:generic_print_tuple	0	static
+nf_conntrack_l3proto_generic.c:58:12:generic_get_l4proto	0	static
+nf_conntrack_l3proto_generic.c:43:13:generic_invert_tuple	0	static
+nf_conntrack_l3proto_generic.c:34:13:generic_pkt_to_tuple	0	static

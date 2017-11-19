@@ -1,0 +1,13 @@
+seqiv.c:355:20:seqiv_module_exit	16	static
+seqiv.c:334:13:seqiv_free	16	static
+seqiv.c:235:12:seqiv_init	16	static
+seqiv.c:84:13:seqiv_geniv	64	static
+seqiv.c:98:12:seqiv_givencrypt	80	static
+seqiv.c:189:12:seqiv_givencrypt_first	48	static
+seqiv.c:143:12:seqiv_aead_givencrypt	80	static
+seqiv.c:212:12:seqiv_aead_givencrypt_first	48	static
+seqiv.c:301:32:seqiv_alloc	48	static
+seqiv.c:247:12:seqiv_aead_init	16	static
+seqiv.c:350:19:seqiv_module_init	16	static
+seqiv.c:76:13:seqiv_aead_complete	48	static
+seqiv.c:50:13:seqiv_complete	48	static

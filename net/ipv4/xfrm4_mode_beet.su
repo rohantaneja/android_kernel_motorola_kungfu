@@ -1,0 +1,4 @@
+xfrm4_mode_beet.c:84:12:xfrm4_beet_input	64	static
+xfrm4_mode_beet.c:140:19:xfrm4_beet_init	16	static
+xfrm4_mode_beet.c:145:20:xfrm4_beet_exit	16	static
+xfrm4_mode_beet.c:39:12:xfrm4_beet_output	48	static

@@ -1,0 +1,5 @@
+accel_factory.c:13:12:acc_factory_release	0	static
+accel_factory.c:185:13:compat_acc_factory_unlocked_ioctl	48	static
+accel_factory.c:2:12:acc_factory_open	16	static
+accel_factory.c:46:13:acc_factory_unlocked_ioctl	352	static
+accel_factory.c:229:5:acc_factory_device_init	16	static

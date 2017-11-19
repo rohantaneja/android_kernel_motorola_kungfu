@@ -1,0 +1,11 @@
+xfrm4_protocol.c:49:5:xfrm4_rcv_cb	48	static
+xfrm4_protocol.c:109:13:xfrm4_esp_err	48	static
+xfrm4_protocol.c:135:13:xfrm4_ah_err	48	static
+xfrm4_protocol.c:161:13:xfrm4_ipcomp_err	48	static
+xfrm4_protocol.c:144:12:xfrm4_ipcomp_rcv	32	static
+xfrm4_protocol.c:118:12:xfrm4_ah_rcv	32	static
+xfrm4_protocol.c:92:12:xfrm4_esp_rcv	32	static
+xfrm4_protocol.c:66:5:xfrm4_rcv_encap	64	static
+xfrm4_protocol.c:211:5:xfrm4_protocol_register	64	static
+xfrm4_protocol.c:258:5:xfrm4_protocol_deregister	48	static
+xfrm4_protocol.c:297:13:xfrm4_protocol_init	16	static

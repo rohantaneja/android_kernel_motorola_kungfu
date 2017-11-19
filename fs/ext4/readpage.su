@@ -1,0 +1,2 @@
+readpage.c:101:13:mpage_end_io	64	static
+readpage.c:133:5:ext4_mpage_readpages	272	static

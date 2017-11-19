@@ -1,0 +1,14 @@
+fm_config.c:469:15:fm_cust_config_print.constprop	32	static
+fm_config.c:31:8:to_upper_n	0	static
+fm_config.c:43:8:check_hex_str	0	static
+fm_config.c:59:8:check_dec_str	0	static
+fm_config.c:73:8:ascii_to_hex	48	static
+fm_config.c:100:8:ascii_to_dec	48	static
+fm_config.c:132:8:trim_string	0	static
+fm_config.c:154:8:trim_path	0	static
+fm_config.c:172:8:cfg_parser	96	static
+fm_config.c:265:8:cfg_item_match	64	static
+fm_config.c:306:15:cfg_item_handler	48	static
+fm_config.c:496:8:fm_cust_config_setup	112	static
+fm_config.c:520:8:fm_cust_config_fetch	32	static
+fm_config.c:588:8:fm_cust_config_chip	0	static

@@ -1,0 +1,3 @@
+stp.c:33:12:stp_pdu_rcv	16	static
+stp.c:65:5:stp_proto_register	48	static
+stp.c:88:6:stp_proto_unregister	48	static

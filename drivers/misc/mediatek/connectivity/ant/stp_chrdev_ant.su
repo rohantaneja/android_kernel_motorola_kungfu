@@ -1,0 +1,11 @@
+stp_chrdev_ant.c:198:6:ANT_event_cb	32	static
+stp_chrdev_ant.c:208:14:ANT_poll	48	static
+stp_chrdev_ant.c:235:9:ANT_write	64	static
+stp_chrdev_ant.c:284:9:ANT_read	144	static
+stp_chrdev_ant.c:345:6:ANT_unlocked_ioctl	432	dynamic,bounded
+stp_chrdev_ant.c:417:6:ANT_compat_ioctl	64	static
+stp_chrdev_ant.c:634:12:ANT_close	32	static
+stp_chrdev_ant.c:568:12:ANT_open	48	static
+stp_chrdev_ant.c:162:13:ant_cdev_rst_cb	64	static
+stp_chrdev_ant.c:747:5:mtk_wcn_stpant_drv_init	96	static
+stp_chrdev_ant.c:753:6:mtk_wcn_stpant_drv_exit	32	static

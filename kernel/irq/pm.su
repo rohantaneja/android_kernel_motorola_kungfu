@@ -1,0 +1,8 @@
+pm.c:182:19:irq_pm_init_ops	16	static
+pm.c:149:13:resume_irqs	64	static
+pm.c:173:13:irq_pm_syscore_resume	16	static
+pm.c:17:6:irq_pm_check_wakeup	16	static
+pm.c:34:6:irq_pm_install_action	48	static
+pm.c:55:6:irq_pm_remove_action	0	static
+pm.c:112:6:suspend_device_irqs	64	static
+pm.c:197:6:resume_device_irqs	16	static

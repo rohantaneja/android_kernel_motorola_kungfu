@@ -1,0 +1,6 @@
+wmt_idc.c:54:7:wmt_idc_msg_from_lte_handing	32	static
+wmt_idc.c:22:7:wmt_idc_init	32	static
+wmt_idc.c:41:7:wmt_idc_deinit	32	static
+wmt_idc.c:74:6:wmt_idc_dump_debug_msg	80	static
+wmt_idc.c:99:7:wmt_idc_msg_to_lte_handing	112	static
+wmt_idc.c:217:8:wmt_idc_msg_to_lte_handing_for_test	112	static

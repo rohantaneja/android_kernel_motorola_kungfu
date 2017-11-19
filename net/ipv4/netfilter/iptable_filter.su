@@ -1,0 +1,5 @@
+iptable_filter.c:104:20:iptable_filter_fini	16	static
+iptable_filter.c:76:24:iptable_filter_net_exit	16	static
+iptable_filter.c:59:23:iptable_filter_net_init	48	static
+iptable_filter.c:86:19:iptable_filter_init	32	static
+iptable_filter.c:36:1:iptable_filter_hook	16	static

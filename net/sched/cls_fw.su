@@ -1,0 +1,13 @@
+cls_fw.c:114:13:fw_put	0	static
+cls_fw.c:118:12:fw_init	0	static
+cls_fw.c:329:13:fw_walk	64	static
+cls_fw.c:427:20:exit_fw	16	static
+cls_fw.c:358:12:fw_dump	128	static
+cls_fw.c:123:13:fw_delete_filter	32	static
+cls_fw.c:184:1:fw_change_attrs	128	static
+cls_fw.c:131:13:fw_destroy	64	static
+cls_fw.c:422:19:init_fw	16	static
+cls_fw.c:152:12:fw_delete	32	static
+cls_fw.c:98:22:fw_get	0	static
+cls_fw.c:59:12:fw_classify	48	static
+cls_fw.c:230:12:fw_change	144	static

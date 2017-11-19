@@ -1,0 +1,7 @@
+act_mirred.c:35:13:tcf_mirred_release	0	static
+act_mirred.c:260:20:mirred_cleanup_module	32	static
+act_mirred.c:213:12:mirred_device_event	48	static
+act_mirred.c:47:12:tcf_mirred_init	128	static
+act_mirred.c:185:12:tcf_mirred_dump	112	static
+act_mirred.c:128:12:tcf_mirred	64	static
+act_mirred.c:250:19:mirred_init_module	32	static

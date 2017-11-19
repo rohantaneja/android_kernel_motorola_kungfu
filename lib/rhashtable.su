@@ -1,0 +1,15 @@
+rhashtable.c:114:29:bucket_table_alloc	32	static
+rhashtable.c:108:12:head_hashfn	32	static
+rhashtable.c:67:5:rhashtable_hashfn	32	static
+rhashtable.c:100:5:rhashtable_obj_hashfn	32	static
+rhashtable.c:142:6:rht_grow_above_75	0	static
+rhashtable.c:154:6:rht_shrink_below_30	0	static
+rhashtable.c:218:5:rhashtable_expand	96	static
+rhashtable.c:296:5:rhashtable_shrink	32	static
+rhashtable.c:356:6:rhashtable_insert	48	static
+rhashtable.c:385:6:rhashtable_remove_pprev	32	static
+rhashtable.c:417:6:rhashtable_remove	64	static
+rhashtable.c:458:7:rhashtable_lookup	48	static
+rhashtable.c:493:7:rhashtable_lookup_compare	64	static
+rhashtable.c:562:5:rhashtable_init	48	static
+rhashtable.c:603:6:rhashtable_destroy	16	static

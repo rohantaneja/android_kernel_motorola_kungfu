@@ -1,0 +1,6 @@
+mtk_governor.c:64:13:mtk_governor_reflect	0	static
+mtk_governor.c:74:12:mtk_governor_enable_device	0	static
+mtk_governor.c:30:27:mt_idle_select	0	static
+mtk_governor.c:46:12:mtk_governor_select	32	static
+mtk_governor.c:36:28:mt_cpuidle_framework_init	0	static
+mtk_governor.c:97:19:init_mtk_governor	16	static

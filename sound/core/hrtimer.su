@@ -1,0 +1,7 @@
+hrtimer.c:100:12:snd_hrtimer_stop	0	static
+hrtimer.c:157:20:snd_hrtimer_exit	32	static
+hrtimer.c:121:19:snd_hrtimer_init	80	static
+hrtimer.c:88:12:snd_hrtimer_start	48	static
+hrtimer.c:76:12:snd_hrtimer_close	32	static
+hrtimer.c:44:29:snd_hrtimer_callback	48	static
+hrtimer.c:61:12:snd_hrtimer_open	32	static

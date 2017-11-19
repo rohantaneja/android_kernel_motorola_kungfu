@@ -1,0 +1,10 @@
+freq_table.c:219:16:show_available_freqs.isra.0	64	static
+freq_table.c:259:16:scaling_available_frequencies_show	16	static
+freq_table.c:271:16:scaling_boost_frequencies_show	16	static
+freq_table.c:21:5:cpufreq_frequency_table_cpuinfo	96	static
+freq_table.c:54:5:cpufreq_frequency_table_verify	48	static
+freq_table.c:105:5:cpufreq_frequency_table_target	64	static
+freq_table.c:288:5:cpufreq_table_validate_and_show	32	static
+freq_table.c:302:33:cpufreq_frequency_get_table	16	static
+freq_table.c:94:5:cpufreq_generic_frequency_table_verify	32	static
+freq_table.c:197:5:cpufreq_frequency_table_get_index	48	static

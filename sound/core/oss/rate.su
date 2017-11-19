@@ -1,0 +1,7 @@
+rate.c:123:13:resample_shrink	128	static
+rate.c:64:13:resample_expand	128	static
+rate.c:216:26:rate_dst_frames	16	static
+rate.c:183:26:rate_src_frames	16	static
+rate.c:249:26:rate_transfer	64	static
+rate.c:283:12:rate_action	16	static
+rate.c:300:5:snd_pcm_plugin_build_rate	64	static

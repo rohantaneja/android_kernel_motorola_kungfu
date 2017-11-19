@@ -1,0 +1,5 @@
+mali_kbase_instr.c:47:6:kbase_instr_hwcnt_resume	16	static
+mali_kbase_instr.c:65:5:kbase_instr_hwcnt_enable	64	static
+mali_kbase_instr.c:94:5:kbase_instr_hwcnt_disable	48	static
+mali_kbase_instr.c:27:6:kbase_instr_hwcnt_suspend	16	static
+mali_kbase_instr.c:117:5:kbase_instr_hwcnt_dump	32	static

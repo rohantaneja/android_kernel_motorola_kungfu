@@ -1,0 +1,7 @@
+checksum.c:50:21:do_csum	0	static
+checksum.c:110:9:ip_fast_csum	16	static
+checksum.c:129:8:csum_partial	32	static
+checksum.c:146:9:ip_compute_csum	16	static
+checksum.c:156:1:csum_partial_copy_from_user	64	static
+checksum.c:176:1:csum_partial_copy	48	static
+checksum.c:193:8:csum_tcpudp_nofold	0	static

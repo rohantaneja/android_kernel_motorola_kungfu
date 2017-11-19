@@ -1,0 +1,5 @@
+cpufreq_userspace.c:108:20:cpufreq_gov_userspace_exit	16	static
+cpufreq_userspace.c:31:12:cpufreq_set	48	static
+cpufreq_userspace.c:47:16:show_speed	16	static
+cpufreq_userspace.c:52:12:cpufreq_governor_userspace	48	static
+cpufreq_userspace.c:103:19:cpufreq_gov_userspace_init	16	static

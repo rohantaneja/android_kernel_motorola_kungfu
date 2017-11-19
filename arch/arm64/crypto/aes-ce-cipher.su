@@ -1,0 +1,4 @@
+aes-ce-cipher.c:149:20:aes_mod_exit	16	static
+aes-ce-cipher.c:82:13:aes_cipher_decrypt	48	static
+aes-ce-cipher.c:37:13:aes_cipher_encrypt	48	static
+aes-ce-cipher.c:154:1:cpu_feature_match_AES_init	16	static

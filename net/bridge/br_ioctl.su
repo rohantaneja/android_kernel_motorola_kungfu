@@ -1,0 +1,4 @@
+br_ioctl.c:86:12:add_del_if	48	static
+br_ioctl.c:112:12:old_dev_ioctl.isra.1	176	static
+br_ioctl.c:350:5:br_ioctl_deviceless_stub	96	static
+br_ioctl.c:378:5:br_dev_ioctl	32	static

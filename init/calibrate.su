@@ -1,0 +1,4 @@
+calibrate.c:16:19:lpj_setup	16	static
+calibrate.c:260:37:calibrate_delay_is_known	0	static
+calibrate.c:270:28:calibration_delay_done	0	static
+calibrate.c:274:6:calibrate_delay	128	static

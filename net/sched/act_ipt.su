@@ -1,0 +1,7 @@
+act_ipt.c:304:20:ipt_cleanup_module	32	static
+act_ipt.c:71:13:tcf_ipt_release	64	static
+act_ipt.c:33:12:ipt_init_target	96	static
+act_ipt.c:221:12:tcf_ipt_dump	128	static
+act_ipt.c:173:12:tcf_ipt	112	static
+act_ipt.c:287:19:ipt_init_module	32	static
+act_ipt.c:86:12:tcf_ipt_init	176	static

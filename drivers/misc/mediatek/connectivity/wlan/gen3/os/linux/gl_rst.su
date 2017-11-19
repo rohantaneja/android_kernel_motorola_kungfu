@@ -1,0 +1,9 @@
+gl_rst.c:221:13:mtk_wifi_trigger_reset	16	static
+gl_rst.c:185:13:mtk_wifi_reset	16	static
+gl_rst.c:130:14:glResetCallback	16	static
+gl_rst.c:88:6:glResetInit	16	static
+gl_rst.c:109:6:glResetUninit	16	static
+gl_rst.c:201:6:glSendResetRequest	0	static
+gl_rst.c:216:9:kalIsResetting	0	static
+gl_rst.c:230:9:glResetTrigger	80	static
+gl_rst.c:271:6:glGetRstReason	32	static

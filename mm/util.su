@@ -1,0 +1,17 @@
+util.c:24:7:kstrdup	64	static
+util.c:46:7:kstrndup	64	static
+util.c:71:7:kmemdup	48	static
+util.c:90:7:memdup_user	48	static
+util.c:117:7:strndup_user	48	static
+util.c:141:6:__vma_link_list	0	static
+util.c:176:21:task_of_stack	16	static
+util.c:208:12:__get_user_pages_fast	0	static
+util.c:239:12:get_user_pages_fast	80	static
+util.c:254:15:vm_mmap_pgoff	112	static
+util.c:274:15:vm_mmap	16	static
+util.c:287:6:kvfree	16	static
+util.c:296:23:page_mapping	0	static
+util.c:315:5:overcommit_ratio_handler	32	static
+util.c:327:5:overcommit_kbytes_handler	32	static
+util.c:342:15:vm_commit_limit	0	static
+util.c:365:5:get_cmdline	80	static

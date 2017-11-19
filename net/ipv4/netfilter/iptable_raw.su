@@ -1,0 +1,5 @@
+iptable_raw.c:82:20:iptable_raw_fini	16	static
+iptable_raw.c:54:24:iptable_raw_net_exit	16	static
+iptable_raw.c:41:23:iptable_raw_net_init	48	static
+iptable_raw.c:64:19:iptable_raw_init	32	static
+iptable_raw.c:23:1:iptable_raw_hook	16	static

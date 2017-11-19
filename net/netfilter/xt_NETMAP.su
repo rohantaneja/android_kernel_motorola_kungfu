@@ -1,0 +1,6 @@
+xt_NETMAP.c:57:12:netmap_tg6_checkentry	0	static
+xt_NETMAP.c:148:19:netmap_tg_init	16	static
+xt_NETMAP.c:67:1:netmap_tg4	64	static
+xt_NETMAP.c:22:1:netmap_tg6	96	static
+xt_NETMAP.c:153:13:netmap_tg_exit	16	static
+xt_NETMAP.c:102:12:netmap_tg4_check	32	static

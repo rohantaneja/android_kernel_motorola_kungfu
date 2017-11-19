@@ -1,0 +1,4 @@
+nls_utf8.c:60:20:exit_nls_utf8	16	static
+nls_utf8.c:29:12:char2uni	48	static
+nls_utf8.c:14:12:uni2char	32	static
+nls_utf8.c:51:19:init_nls_utf8	16	static

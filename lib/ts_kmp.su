@@ -1,0 +1,6 @@
+ts_kmp.c:122:14:kmp_get_pattern	0	static
+ts_kmp.c:128:21:kmp_get_pattern_len	0	static
+ts_kmp.c:149:20:exit_kmp	16	static
+ts_kmp.c:46:21:kmp_find	80	static
+ts_kmp.c:95:26:kmp_init	80	static
+ts_kmp.c:144:19:init_kmp	16	static

@@ -1,0 +1,11 @@
+ged_main.c:82:21:ged_poll	0	static
+ged_main.c:87:16:ged_read	0	static
+ged_main.c:92:16:ged_write	0	static
+ged_main.c:97:13:ged_dispatch	48	static
+ged_main.c:279:13:ged_exit	32	static
+ged_main.c:321:12:ged_init	32	static
+ged_main.c:76:12:ged_release	16	static
+ged_main.c:70:12:ged_open	16	static
+ged_main.c:208:13:ged_ioctl_compat.part.2	16	static
+ged_main.c:208:13:ged_ioctl_compat	112	static
+ged_main.c:180:13:ged_ioctl	96	static

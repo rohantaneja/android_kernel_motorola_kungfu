@@ -1,0 +1,10 @@
+wmt_ic_soc.c:1574:21:mtk_wcn_soc_quick_sleep_flag_get	0	static
+wmt_ic_soc.c:1579:21:mtk_wcn_soc_aee_dump_flag_get	0	static
+wmt_ic_soc.c:1583:14:mtk_wcn_soc_trigger_assert	176	static
+wmt_ic_soc.c:1614:14:mtk_wcn_soc_ver_check	128	static
+wmt_ic_soc.c:1368:14:mtk_wcn_soc_sw_deinit	32	static
+wmt_ic_soc.c:2031:14:mtk_wcn_soc_patch_info_prepare	160	static
+wmt_ic_soc.c:2042:14:mtk_wcn_soc_patch_dwn	336	static
+wmt_ic_soc.c:975:14:mtk_wcn_soc_sw_init	272	static
+wmt_ic_soc.c:1558:7:mtk_wcn_soc_co_clock_ctrl	32	static
+wmt_ic_soc.c:1524:14:mtk_wcn_soc_pin_ctrl	80	static

@@ -1,0 +1,7 @@
+inet6_hashtables.c:26:21:inet6_ehashfn.isra.7	64	static
+inet6_hashtables.c:59:5:__inet6_hash	80	static
+inet6_hashtables.c:242:12:__inet6_check_established	112	static
+inet6_hashtables.c:101:14:__inet6_lookup_established	80	static
+inet6_hashtables.c:171:14:inet6_lookup_listener	128	static
+inet6_hashtables.c:227:14:inet6_lookup	80	static
+inet6_hashtables.c:319:5:inet6_hash_connect	32	static

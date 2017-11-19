@@ -1,0 +1,5 @@
+process.c:28:12:try_to_freeze_tasks	432	static
+process.c:226:6:thaw_processes	96	static
+process.c:152:5:freeze_processes	64	static
+process.c:263:6:thaw_kernel_threads	64	static
+process.c:207:5:freeze_kernel_threads	32	static

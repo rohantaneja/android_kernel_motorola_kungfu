@@ -1,0 +1,12 @@
+cputime.c:577:13:cputime_advance	0	static
+cputime.c:589:13:cputime_adjust	48	static
+cputime.c:136:6:account_user_time	64	static
+cputime.c:222:6:account_system_time	96	static
+cputime.c:246:6:account_steal_time	32	static
+cputime.c:257:6:account_idle_time	48	static
+cputime.c:297:6:thread_group_cputime	96	static
+cputime.c:474:6:account_process_tick	48	static
+cputime.c:504:6:account_steal_ticks	16	static
+cputime.c:513:6:account_idle_ticks	16	static
+cputime.c:638:6:task_cputime_adjusted	48	static
+cputime.c:648:6:thread_group_cputime_adjusted	80	static

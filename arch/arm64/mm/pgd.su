@@ -1,0 +1,3 @@
+pgd.c:51:19:pgd_cache_init	0	static
+pgd.c:35:8:pgd_alloc	16	static
+pgd.c:43:6:pgd_free	16	static

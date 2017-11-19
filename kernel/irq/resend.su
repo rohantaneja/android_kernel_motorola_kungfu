@@ -1,0 +1,2 @@
+resend.c:31:13:resend_irqs	48	static
+resend.c:56:6:check_irq_resend	48	static

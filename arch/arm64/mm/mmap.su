@@ -1,0 +1,3 @@
+mmap.c:81:6:arch_pick_mmap_layout	48	static
+mmap.c:102:5:valid_phys_addr_range	0	static
+mmap.c:115:5:valid_mmap_phys_addr_range	0	static

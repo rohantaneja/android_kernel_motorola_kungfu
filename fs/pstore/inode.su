@@ -1,0 +1,17 @@
+inode.c:90:14:pstore_ftrace_seq_next	0	static
+inode.c:85:13:pstore_ftrace_seq_stop	16	static
+inode.c:134:12:pstore_file_open	32	static
+inode.c:103:12:pstore_ftrace_seq_show	16	static
+inode.c:123:16:pstore_file_read	16	static
+inode.c:154:15:pstore_file_llseek	16	static
+inode.c:65:14:pstore_ftrace_seq_start	32	static
+inode.c:445:19:init_pstore_fs	32	static
+inode.c:431:13:pstore_kill_sb	16	static
+inode.c:425:23:pstore_mount	16	static
+inode.c:174:12:pstore_unlink	32	static
+inode.c:187:13:pstore_evict_inode	32	static
+inode.c:226:13:parse_options	112	static
+inode.c:251:12:pstore_remount	32	static
+inode.c:392:12:pstore_fill_super	48	static
+inode.c:269:5:pstore_is_mounted	0	static
+inode.c:279:5:pstore_mkfile	208	static

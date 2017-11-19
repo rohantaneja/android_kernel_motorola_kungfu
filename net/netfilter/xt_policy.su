@@ -1,0 +1,5 @@
+xt_policy.c:38:1:match_xfrm_state	0	static
+xt_policy.c:180:20:policy_mt_exit	16	static
+xt_policy.c:131:12:policy_mt_check	16	static
+xt_policy.c:175:19:policy_mt_init	16	static
+xt_policy.c:113:1:policy_mt	80	static

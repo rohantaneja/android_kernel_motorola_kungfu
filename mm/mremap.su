@@ -1,0 +1,4 @@
+mremap.c:336:31:vma_to_resize	80	static
+mremap.c:164:15:move_page_tables	192	static
+mremap.c:237:22:move_vma	128	static
+mremap.c:476:1:SyS_mremap	128	static

@@ -1,0 +1,3 @@
+ccci_util_lib_time.c:25:6:ccci_timer_for_md_init	32	static
+ccci_util_lib_time.c:35:5:wait_time_update_notify	96	static
+ccci_util_lib_time.c:59:6:notify_time_update	48	static

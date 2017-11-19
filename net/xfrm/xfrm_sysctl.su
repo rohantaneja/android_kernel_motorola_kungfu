@@ -1,0 +1,2 @@
+xfrm_sysctl.c:43:16:xfrm_sysctl_init	32	static
+xfrm_sysctl.c:72:17:xfrm_sysctl_fini	32	static

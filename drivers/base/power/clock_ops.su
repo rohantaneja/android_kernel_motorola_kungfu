@@ -1,0 +1,12 @@
+clock_ops.c:110:13:__pm_clk_remove	32	static
+clock_ops.c:423:13:enable_clock	32	static
+clock_ops.c:440:13:disable_clock	32	static
+clock_ops.c:463:12:pm_clk_notify	48	static
+clock_ops.c:74:5:pm_clk_add	48	static
+clock_ops.c:137:6:pm_clk_remove	48	static
+clock_ops.c:173:6:pm_clk_init	0	static
+clock_ops.c:187:5:pm_clk_create	16	static
+clock_ops.c:200:6:pm_clk_destroy	64	static
+clock_ops.c:357:5:pm_clk_suspend	64	static
+clock_ops.c:388:5:pm_clk_resume	96	static
+clock_ops.c:508:6:pm_clk_add_notifier	16	static

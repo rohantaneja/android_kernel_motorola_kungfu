@@ -1,0 +1,4 @@
+sub_strobe.c:74:12:sub_strobe_ioctl	16	static
+sub_strobe.c:87:12:sub_strobe_release	16	static
+sub_strobe.c:80:12:sub_strobe_open	16	static
+sub_strobe.c:101:9:subStrobeInit	0	static

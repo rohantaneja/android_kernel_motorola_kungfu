@@ -1,0 +1,14 @@
+core.c:449:24:netfilter_net_exit	16	static
+core.c:430:23:netfilter_net_init	32	static
+core.c:164:5:nf_register_afinfo	32	static
+core.c:173:6:nf_unregister_afinfo	32	static
+core.c:192:5:nf_register_hook	32	static
+core.c:210:6:nf_unregister_hook	32	static
+core.c:242:6:nf_unregister_hooks	48	static
+core.c:223:5:nf_register_hooks	80	static
+core.c:249:14:nf_iterate	96	static
+core.c:292:5:nf_hook_slow	128	static
+core.c:359:5:skb_make_writable	16	static
+core.c:388:6:nf_ct_attach	32	static
+core.c:405:6:nf_conntrack_destroy	32	static
+core.c:459:12:netfilter_init	32	static

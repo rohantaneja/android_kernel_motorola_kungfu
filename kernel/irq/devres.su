@@ -1,0 +1,5 @@
+devres.c:21:12:devm_irq_match	0	static
+devres.c:14:13:devm_irq_release	16	static
+devres.c:47:5:devm_request_threaded_irq	96	static
+devres.c:94:5:devm_request_any_context_irq	80	static
+devres.c:131:6:devm_free_irq	48	static

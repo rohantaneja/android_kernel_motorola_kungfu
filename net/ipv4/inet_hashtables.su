@@ -1,0 +1,16 @@
+inet_hashtables.c:27:21:inet_ehashfn.isra.11	64	static
+inet_hashtables.c:399:5:__inet_hash_nolisten	80	static
+inet_hashtables.c:321:12:__inet_check_established	128	static
+inet_hashtables.c:56:26:inet_bind_bucket_create	48	static
+inet_hashtables.c:78:6:inet_bind_bucket_destroy	16	static
+inet_hashtables.c:87:6:inet_bind_hash	0	static
+inet_hashtables.c:123:6:inet_put_port	48	static
+inet_hashtables.c:131:5:__inet_inherit_port	64	static
+inet_hashtables.c:202:14:__inet_lookup_listener	128	static
+inet_hashtables.c:259:6:sock_gen_put	16	static
+inet_hashtables.c:271:14:__inet_lookup_established	80	static
+inet_hashtables.c:445:6:inet_hash	48	static
+inet_hashtables.c:455:6:inet_unhash	32	static
+inet_hashtables.c:477:5:__inet_hash_connect	144	static
+inet_hashtables.c:589:5:inet_hash_connect	32	static
+inet_hashtables.c:597:6:inet_hashinfo_init	0	static

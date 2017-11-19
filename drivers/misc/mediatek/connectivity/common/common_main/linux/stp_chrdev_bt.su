@@ -1,0 +1,11 @@
+stp_chrdev_bt.c:129:6:BT_event_cb	32	static
+stp_chrdev_bt.c:142:14:BT_poll	48	static
+stp_chrdev_bt.c:168:9:BT_write	64	static
+stp_chrdev_bt.c:222:9:BT_read	144	static
+stp_chrdev_bt.c:283:6:BT_unlocked_ioctl	48	static
+stp_chrdev_bt.c:328:6:BT_compat_ioctl	16	static
+stp_chrdev_bt.c:373:12:BT_close	32	static
+stp_chrdev_bt.c:333:12:BT_open	32	static
+stp_chrdev_bt.c:98:13:bt_cdev_rst_cb	64	static
+stp_chrdev_bt.c:477:5:mtk_wcn_stpbt_drv_init	96	static
+stp_chrdev_bt.c:483:6:mtk_wcn_stpbt_drv_exit	48	static

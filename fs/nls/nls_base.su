@@ -1,0 +1,12 @@
+nls_base.c:498:12:uni2char	0	static
+nls_base.c:515:12:char2uni	0	static
+nls_base.c:275:26:find_nls	48	static
+nls_base.c:55:5:utf8_to_utf32	0	static
+nls_base.c:86:5:utf32_to_utf8	0	static
+nls_base.c:132:5:utf8s_to_utf16s	112	static
+nls_base.c:186:5:utf16s_to_utf8s	80	static
+nls_base.c:235:5:__register_nls	32	static
+nls_base.c:258:5:unregister_nls	32	static
+nls_base.c:291:19:load_nls	16	static
+nls_base.c:296:6:unload_nls	0	static
+nls_base.c:532:19:load_nls_default	16	static

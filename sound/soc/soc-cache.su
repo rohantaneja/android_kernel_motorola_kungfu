@@ -1,0 +1,5 @@
+soc-cache.c:68:5:snd_soc_cache_init	48	static
+soc-cache.c:98:5:snd_soc_cache_exit	32	static
+soc-cache.c:114:5:snd_soc_cache_read	64	static
+soc-cache.c:137:5:snd_soc_cache_write	48	static
+soc-cache.c:185:5:snd_soc_cache_sync	96	static

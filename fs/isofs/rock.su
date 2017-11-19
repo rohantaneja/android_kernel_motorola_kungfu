@@ -1,0 +1,7 @@
+rock.c:84:12:rock_continue	48	static
+rock.c:52:13:setup_rock_ridge.isra.8	0	static
+rock.c:138:12:rock_check_overflow.isra.9	48	static
+rock.c:308:1:parse_rock_ridge_inode_internal.part.10	160	static
+rock.c:692:12:rock_ridge_symlink_readpage	176	static
+rock.c:197:5:get_rock_ridge_filename	144	static
+rock.c:670:5:parse_rock_ridge_inode	48	static

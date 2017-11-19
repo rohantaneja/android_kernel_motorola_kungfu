@@ -1,0 +1,6 @@
+cipher.c:63:13:cipher_crypt_unaligned	64	dynamic
+cipher.c:92:13:cipher_decrypt_unaligned	16	static
+cipher.c:78:13:cipher_encrypt_unaligned	16	static
+cipher.c:46:12:setkey	64	static
+cipher.c:106:5:crypto_init_cipher_ops	0	static
+cipher.c:120:6:crypto_exit_cipher_ops	0	static

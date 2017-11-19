@@ -1,0 +1,15 @@
+cpu.c:24:12:cpu_subsys_match	0	static
+cpu.c:271:13:cpu_device_release	0	static
+cpu.c:66:12:cpu_subsys_offline	16	static
+cpu.c:43:18:cpu_subsys_online	16	static
+cpu.c:292:16:print_cpu_modalias	64	static
+cpu.c:317:12:cpu_uevent	32	static
+cpu.c:230:16:print_cpus_kernel_max	16	static
+cpu.c:205:16:show_cpus_attr	32	static
+cpu.c:241:16:print_cpus_offline	48	static
+cpu.c:71:6:unregister_cpu	32	static
+cpu.c:337:5:register_cpu	48	static
+cpu.c:364:16:get_cpu_device	0	static
+cpu.c:426:12:device_hotplug_notifier	32	static
+cpu.c:402:6:cpu_is_hotpluggable	16	static
+cpu.c:449:13:cpu_dev_init	32	static

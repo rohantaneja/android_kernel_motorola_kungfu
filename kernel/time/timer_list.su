@@ -1,0 +1,12 @@
+timer_list.c:337:13:timer_list_stop	0	static
+timer_list.c:319:14:timer_list_start	80	static
+timer_list.c:348:12:timer_list_open	16	static
+timer_list.c:361:19:init_timer_list_procfs	16	static
+timer_list.c:46:13:print_name_offset.part.3	16	static
+timer_list.c:46:13:print_name_offset	160	static
+timer_list.c:201:1:print_tickdevice	96	static
+timer_list.c:138:13:print_cpu	240	static
+timer_list.c:242:13:timer_list_show_tickdevices_header.part.4	16	static
+timer_list.c:265:12:timer_list_show	80	static
+timer_list.c:330:14:timer_list_next	32	static
+timer_list.c:282:6:sysrq_timer_list_show	48	static

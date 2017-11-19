@@ -1,0 +1,5 @@
+clk-fixed-rate.c:31:22:clk_fixed_rate_recalc_rate	0	static
+clk-fixed-rate.c:37:22:clk_fixed_rate_recalc_accuracy	0	static
+clk-fixed-rate.c:59:13:clk_register_fixed_rate_with_accuracy	128	static
+clk-fixed-rate.c:115:6:of_fixed_clk_setup	48	static
+clk-fixed-rate.c:102:13:clk_register_fixed_rate	16	static

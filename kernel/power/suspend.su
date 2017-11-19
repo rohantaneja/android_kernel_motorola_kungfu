@@ -1,0 +1,13 @@
+suspend.c:92:19:sleep_states_setup	0	static
+suspend.c:556:13:pm_suspend_marker	112	static
+suspend.c:449:13:suspend_sys_sync	32	static
+suspend.c:46:6:freeze_set_ops	32	static
+suspend.c:67:6:freeze_wake	16	static
+suspend.c:105:6:suspend_set_ops	64	static
+suspend.c:134:5:suspend_valid_only_mem	0	static
+suspend.c:258:13:arch_suspend_disable_irqs	0	static
+suspend.c:264:13:arch_suspend_enable_irqs	0	static
+suspend.c:276:12:suspend_enter	320	static
+suspend.c:380:5:suspend_devices_and_enter	96	static
+suspend.c:457:5:suspend_syssync_enqueue	32	static
+suspend.c:575:5:pm_suspend	80	static

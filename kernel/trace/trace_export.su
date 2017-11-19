@@ -1,0 +1,14 @@
+trace_entries.h:58:1:ftrace_define_fields_function	32	static
+trace_entries.h:75:1:ftrace_define_fields_funcgraph_entry	32	static
+trace_entries.h:91:1:ftrace_define_fields_funcgraph_exit	48	static
+trace_entries.h:127:1:ftrace_define_fields_context_switch	32	static
+trace_entries.h:147:1:ftrace_define_fields_wakeup	32	static
+trace_entries.h:175:1:ftrace_define_fields_kernel_stack	32	static
+trace_entries.h:216:1:ftrace_define_fields_bprint	32	static
+trace_entries.h:232:1:ftrace_define_fields_print	32	static
+trace_entries.h:247:1:ftrace_define_fields_bputs	32	static
+trace_entries.h:262:1:ftrace_define_fields_mmiotrace_rw	32	static
+trace_entries.h:283:1:ftrace_define_fields_mmiotrace_map	32	static
+trace_entries.h:194:1:ftrace_define_fields_user_stack	32	static
+trace_entries.h:307:1:ftrace_define_fields_branch	32	static
+trace_export.c:192:5:ftrace_event_is_function	0	static

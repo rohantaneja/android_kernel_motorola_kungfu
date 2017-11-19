@@ -1,0 +1,8 @@
+ebitmap.c:27:5:ebitmap_cmp	48	static
+ebitmap.c:192:5:ebitmap_contains	0	static
+ebitmap.c:233:5:ebitmap_get_bit	16	static
+ebitmap.c:250:5:ebitmap_set_bit	48	static
+ebitmap.c:318:6:ebitmap_destroy	32	static
+ebitmap.c:49:5:ebitmap_cpy	64	static
+ebitmap.c:337:5:ebitmap_read	80	static
+ebitmap.c:439:5:ebitmap_write	80	static

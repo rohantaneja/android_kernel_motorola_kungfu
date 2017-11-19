@@ -1,0 +1,4 @@
+sysctl_net_ipv6.c:135:24:ipv6_sysctl_net_exit	48	static
+sysctl_net_ipv6.c:79:23:ipv6_sysctl_net_init	48	static
+sysctl_net_ipv6.c:161:5:ipv6_sysctl_register	48	static
+sysctl_net_ipv6.c:180:6:ipv6_sysctl_unregister	16	static

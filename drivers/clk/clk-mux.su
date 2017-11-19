@@ -1,0 +1,4 @@
+clk-mux.c:32:11:clk_mux_get_parent	32	static
+clk-mux.c:69:12:clk_mux_set_parent	32	static
+clk-mux.c:116:13:clk_register_mux_table	160	static
+clk-mux.c:168:13:clk_register_mux	48	static

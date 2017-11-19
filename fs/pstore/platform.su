@@ -1,0 +1,10 @@
+platform.c:398:13:pstore_simp_console_write	32	static
+platform.c:430:12:pstore_write_compat	16	static
+platform.c:569:13:pstore_timefunc	32	static
+platform.c:97:6:pstore_set_kmsg_bytes	0	static
+platform.c:125:6:pstore_cannot_block_path	0	static
+platform.c:285:13:pstore_dump	160	static
+platform.c:406:6:pstore_bconsole_write	32	static
+platform.c:504:6:pstore_get_records	192	static
+platform.c:449:5:pstore_register	48	static
+platform.c:564:13:pstore_dowork	16	static

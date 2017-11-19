@@ -1,0 +1,14 @@
+inet_timewait_sock.c:28:5:inet_twsk_unhash	0	static
+inet_timewait_sock.c:51:5:inet_twsk_bind_unhash	16	static
+inet_timewait_sock.c:70:13:__inet_twsk_kill	64	static
+inet_timewait_sock.c:94:6:inet_twsk_free	32	static
+inet_timewait_sock.c:106:6:inet_twsk_put	16	static
+inet_timewait_sock.c:214:12:inet_twdr_do_twkill_work	64	static
+inet_timewait_sock.c:130:6:__inet_twsk_hashdance	80	static
+inet_timewait_sock.c:172:28:inet_twsk_alloc	32	static
+inet_timewait_sock.c:261:6:inet_twdr_hangman	32	static
+inet_timewait_sock.c:290:6:inet_twdr_twkill_work	64	static
+inet_timewait_sock.c:325:6:inet_twsk_deschedule	48	static
+inet_timewait_sock.c:339:6:inet_twsk_schedule	80	static
+inet_timewait_sock.c:419:6:inet_twdr_twcal_tick	96	static
+inet_timewait_sock.c:479:6:inet_twsk_purge	96	static

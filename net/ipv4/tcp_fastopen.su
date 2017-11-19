@@ -1,0 +1,5 @@
+tcp_fastopen.c:31:13:tcp_fastopen_ctx_free	32	static
+tcp_fastopen.c:75:13:__tcp_fastopen_cookie_gen	48	static
+tcp_fastopen.c:39:5:tcp_fastopen_reset_cipher	48	static
+tcp_fastopen.c:17:6:tcp_fastopen_init_key_once	32	static
+tcp_fastopen.c:264:6:tcp_try_fastopen	144	static

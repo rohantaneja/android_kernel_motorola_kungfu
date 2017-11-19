@@ -1,0 +1,11 @@
+ged_bridge.c:32:5:ged_bridge_log_buf_get	32	static
+ged_bridge.c:41:5:ged_bridge_log_buf_write	32	static
+ged_bridge.c:64:5:ged_bridge_log_buf_reset	32	static
+ged_bridge.c:72:5:ged_bridge_boost_gpu_freq	32	static
+ged_bridge.c:94:5:ged_bridge_monitor_3D_fence	32	static
+ged_bridge.c:102:5:ged_bridge_query_info	32	static
+ged_bridge.c:110:5:ged_bridge_notify_vsync	32	static
+ged_bridge.c:121:5:ged_bridge_dvfs_probe	32	static
+ged_bridge.c:130:5:ged_bridge_dvfs_um_retrun	32	static
+ged_bridge.c:141:5:ged_bridge_event_notify	32	static
+ged_bridge.c:161:5:ged_bridge_vsync_wait	16	static

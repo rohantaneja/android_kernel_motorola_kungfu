@@ -1,0 +1,4 @@
+ip_tunnel_core.c:49:5:iptunnel_xmit	96	static
+ip_tunnel_core.c:86:5:iptunnel_pull_header	48	static
+ip_tunnel_core.c:120:17:iptunnel_handle_offloads	48	static
+ip_tunnel_core.c:162:27:ip_tunnel_get_stats64	64	static

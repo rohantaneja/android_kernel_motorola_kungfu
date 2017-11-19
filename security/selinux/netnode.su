@@ -1,0 +1,4 @@
+netnode.c:114:28:sel_netnode_find	32	static
+netnode.c:303:19:sel_netnode_init	0	static
+netnode.c:263:5:sel_netnode_sid	64	static
+netnode.c:286:6:sel_netnode_flush	48	static

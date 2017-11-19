@@ -1,0 +1,4 @@
+twofish_generic.c:109:13:twofish_encrypt	0	static
+twofish_generic.c:146:13:twofish_decrypt	0	static
+twofish_generic.c:204:20:twofish_mod_fini	16	static
+twofish_generic.c:199:19:twofish_mod_init	16	static

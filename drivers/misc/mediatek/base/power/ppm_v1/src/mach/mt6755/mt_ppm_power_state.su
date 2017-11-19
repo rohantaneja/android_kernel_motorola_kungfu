@@ -1,0 +1,17 @@
+mt_ppm_power_state.c:351:13:ppm_trans_rule_LL_ONLY_to_4LL_L	0	static
+mt_ppm_power_state.c:389:13:ppm_trans_rule_L_ONLY_to_4L_LL	0	static
+mt_ppm_power_state.c:403:13:ppm_trans_rule_4LL_L_to_LL_ONLY	0	static
+mt_ppm_power_state.c:417:13:ppm_trans_rule_4L_LL_to_L_ONLY	0	static
+mt_ppm_power_state.c:315:13:ppm_trans_rule_LL_ONLY_to_L_ONLY	48	static
+mt_ppm_power_state.c:366:13:ppm_trans_rule_L_ONLY_to_LL_ONLY	48	static
+mt_ppm_power_state.c:435:30:ppm_get_power_state_info	0	static
+mt_ppm_power_state.c:441:33:ppm_get_power_table	0	static
+mt_ppm_power_state.c:447:13:ppm_get_power_state_name	0	static
+mt_ppm_power_state.c:456:22:ppm_change_state_with_fix_root_cluster	0	static
+mt_ppm_power_state.c:480:5:ppm_get_table_idx_by_perf	32	static
+mt_ppm_power_state.c:516:5:ppm_get_table_idx_by_pwr	32	static
+mt_ppm_power_state.c:548:22:ppm_find_next_state	80	static
+mt_ppm_power_state.c:594:5:ppm_find_pwr_idx	80	static
+mt_ppm_power_state.c:633:22:ppm_judge_state_by_user_limit	112	static
+mt_ppm_power_state.c:739:6:ppm_limit_check_for_user_limit	64	static
+mt_ppm_power_state.c:795:14:ppm_get_root_cluster_by_state	0	static

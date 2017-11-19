@@ -1,0 +1,3 @@
+nf_nat_proto_icmp.c:21:1:icmp_in_range	0	static
+nf_nat_proto_icmp.c:31:1:icmp_unique_tuple	64	static
+nf_nat_proto_icmp.c:57:1:icmp_manip_pkt	64	static

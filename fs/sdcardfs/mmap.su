@@ -1,0 +1,5 @@
+mmap.c:88:16:sdcardfs_direct_IO	16	static
+mmap.c:23:12:sdcardfs_fault.part.0	16	static
+mmap.c:23:12:sdcardfs_fault	208	static
+mmap.c:51:12:sdcardfs_page_mkwrite.part.1	16	static
+mmap.c:51:12:sdcardfs_page_mkwrite	224	static

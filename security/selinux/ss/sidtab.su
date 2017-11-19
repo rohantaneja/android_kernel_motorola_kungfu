@@ -1,0 +1,12 @@
+sidtab.c:85:24:sidtab_search_core	0	static
+sidtab.c:150:13:sidtab_update_cache	16	static
+sidtab.c:17:5:sidtab_init	32	static
+sidtab.c:33:5:sidtab_insert	80	static
+sidtab.c:115:17:sidtab_search	16	static
+sidtab.c:120:17:sidtab_search_force	16	static
+sidtab.c:125:5:sidtab_map	64	static
+sidtab.c:197:5:sidtab_context_to_sid	96	static
+sidtab.c:240:6:sidtab_hash_eval	16	static
+sidtab.c:267:6:sidtab_destroy	64	static
+sidtab.c:291:6:sidtab_set	48	static
+sidtab.c:306:6:sidtab_shutdown	32	static

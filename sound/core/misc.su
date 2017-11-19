@@ -1,0 +1,2 @@
+misc.c:44:6:release_and_free_resource	32	static
+misc.c:66:6:__snd_printk	160	static

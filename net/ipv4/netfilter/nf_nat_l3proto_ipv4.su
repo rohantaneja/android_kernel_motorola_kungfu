@@ -1,0 +1,14 @@
+nf_nat_l3proto_ipv4.c:158:12:nf_nat_ipv4_nlattr_to_range	0	static
+nf_nat_l3proto_ipv4.c:65:13:nf_nat_ipv4_in_range	0	static
+nf_nat_l3proto_ipv4.c:126:13:nf_nat_ipv4_csum_recalc	64	static
+nf_nat_l3proto_ipv4.c:108:13:nf_nat_ipv4_csum_update	16	static
+nf_nat_l3proto_ipv4.c:72:12:nf_nat_ipv4_secure_port	16	static
+nf_nat_l3proto_ipv4.c:474:20:nf_nat_l3proto_ipv4_exit	16	static
+nf_nat_l3proto_ipv4.c:456:19:nf_nat_l3proto_ipv4_init	32	static
+nf_nat_l3proto_ipv4.c:32:13:nf_nat_ipv4_decode_session	0	static
+nf_nat_l3proto_ipv4.c:78:13:nf_nat_ipv4_manip_pkt	80	static
+nf_nat_l3proto_ipv4.c:190:5:nf_nat_icmp_reply_translation	128	static
+nf_nat_l3proto_ipv4.c:258:1:nf_nat_ipv4_fn	96	static
+nf_nat_l3proto_ipv4.c:348:1:nf_nat_ipv4_in	48	static
+nf_nat_l3proto_ipv4.c:369:1:nf_nat_ipv4_out	32	static
+nf_nat_l3proto_ipv4.c:412:1:nf_nat_ipv4_local_fn	32	static

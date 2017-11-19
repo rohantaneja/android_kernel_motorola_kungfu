@@ -1,0 +1,5 @@
+hid-samsung.c:199:1:samsung_driver_init	16	static
+hid-samsung.c:154:12:samsung_probe	48	static
+hid-samsung.c:199:1:samsung_driver_exit	16	static
+hid-samsung.c:133:14:samsung_report_fixup	32	static
+hid-samsung.c:141:12:samsung_input_mapping	48	static

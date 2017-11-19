@@ -1,0 +1,7 @@
+nf_conntrack_seqadj.c:9:5:nf_ct_seqadj_init	48	static
+nf_conntrack_seqadj.c:29:5:nf_ct_seqadj_set	64	static
+nf_conntrack_seqadj.c:59:6:nf_ct_tcp_seqadj_set	16	static
+nf_conntrack_seqadj.c:162:5:nf_ct_seq_adjust	160	static
+nf_conntrack_seqadj.c:213:5:nf_ct_seq_offset	0	static
+nf_conntrack_seqadj.c:235:5:nf_conntrack_seqadj_init	16	static
+nf_conntrack_seqadj.c:240:6:nf_conntrack_seqadj_fini	16	static

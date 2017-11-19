@@ -1,0 +1,2 @@
+llc_output.c:32:5:llc_mac_hdr_init	16	static
+llc_output.c:65:5:llc_build_and_send_ui_pkt	64	static

@@ -1,0 +1,4 @@
+ioctl.c:32:13:memswap	0	static
+ioctl.c:59:13:swap_inode_data	48	static
+ioctl.c:211:6:ext4_ioctl	160	static
+ioctl.c:712:6:ext4_compat_ioctl	80	static

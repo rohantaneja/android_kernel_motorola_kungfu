@@ -1,0 +1,10 @@
+wmt_ic_6632.c:996:21:mt6632_quick_sleep_flag_get	0	static
+wmt_ic_6632.c:1010:21:mt6632_trigger_stp_assert	48	static
+wmt_ic_6632.c:1002:21:mt6632_aee_dump_flag_get	16	static
+wmt_ic_6632.c:1037:14:mt6632_ver_check	96	static
+wmt_ic_6632.c:856:14:mt6632_sw_deinit	32	static
+wmt_ic_6632.c:1467:14:mt6632_patch_dwn	384	static
+wmt_ic_6632.c:1309:14:mt6632_crystal_triming_set	240	static
+wmt_ic_6632.c:577:14:mt6632_sw_init	512	static
+wmt_ic_6632.c:980:7:mt6632_co_clock_ctrl	32	static
+wmt_ic_6632.c:942:14:mt6632_pin_ctrl	64	static

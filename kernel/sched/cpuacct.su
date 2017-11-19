@@ -1,0 +1,8 @@
+cpuacct.c:135:12:cpuusage_read	64	static
+cpuacct.c:147:12:cpuusage_write	48	static
+cpuacct.c:185:12:cpuacct_stats_show	80	static
+cpuacct.c:166:12:cpuacct_percpu_seq_show	80	static
+cpuacct.c:90:13:cpuacct_css_free	32	static
+cpuacct.c:60:1:cpuacct_css_alloc	32	static
+cpuacct.c:235:6:cpuacct_charge	48	static
+cpuacct.c:263:6:cpuacct_account_field	80	static

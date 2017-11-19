@@ -1,0 +1,12 @@
+ping.c:59:12:dummy_ipv6_recv_error	0	static
+ping.c:64:13:dummy_ip6_datagram_recv_ctl	0	static
+ping.c:68:12:dummy_icmpv6_err_convert	0	static
+ping.c:72:13:dummy_ipv6_icmp_error	0	static
+ping.c:74:12:dummy_ipv6_chk_addr	0	static
+ping.c:80:5:ping_v6_sendmsg	224	static
+ping.c:234:24:ping_v6_proc_exit_net	16	static
+ping.c:203:12:ping_v6_seq_show	16	static
+ping.c:198:14:ping_v6_seq_start	16	static
+ping.c:229:23:ping_v6_proc_init_net	16	static
+ping.c:245:12:pingv6_init	32	static
+ping.c:265:6:pingv6_exit	32	static

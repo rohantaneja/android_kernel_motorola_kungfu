@@ -1,0 +1,4 @@
+mali_kbase_pm_coarse_demand.c:27:12:coarse_demand_get_core_mask	0	static
+mali_kbase_pm_coarse_demand.c:35:13:coarse_demand_get_core_active	0	static
+mali_kbase_pm_coarse_demand.c:44:13:coarse_demand_init	0	static
+mali_kbase_pm_coarse_demand.c:49:13:coarse_demand_term	0	static

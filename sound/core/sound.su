@@ -1,0 +1,10 @@
+sound.c:152:12:snd_open	48	static
+sound.c:407:13:snd_minor_info_read	64	static
+sound.c:478:20:alsa_sound_exit	16	static
+sound.c:459:19:alsa_sound_init	48	static
+sound.c:109:7:snd_lookup_minor_data	48	static
+sound.c:259:5:snd_register_device_for_dev	80	static
+sound.c:337:5:snd_unregister_device	64	static
+sound.c:361:16:snd_get_device	48	static
+sound.c:432:12:snd_minor_info_init	32	static
+sound.c:448:12:snd_minor_info_done	16	static

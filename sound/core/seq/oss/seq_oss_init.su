@@ -1,0 +1,14 @@
+seq_oss_init.c:65:13:async_call_lookup_ports	16	static
+seq_oss_init.c:315:1:create_port	272	static
+seq_oss_init.c:402:1:free_devinfo	32	static
+seq_oss_init.c:363:1:alloc_seq_queue.isra.0	176	static
+seq_oss_init.c:136:1:receive_announce.part.1	208	static
+seq_oss_init.c:136:1:receive_announce	16	static
+seq_oss_init.c:382:1:delete_seq_queue.part.2	176	static
+seq_oss_init.c:76:1:snd_seq_oss_create_client	208	static
+seq_oss_init.c:169:1:snd_seq_oss_delete_client	32	static
+seq_oss_init.c:185:1:snd_seq_oss_open	64	static
+seq_oss_init.c:447:1:snd_seq_oss_reset	32	static
+seq_oss_init.c:423:1:snd_seq_oss_release	32	static
+seq_oss_init.c:477:1:enabled_str	0	static
+seq_oss_init.c:496:1:snd_seq_oss_system_info_read	80	static

@@ -1,0 +1,6 @@
+dst.h:493:19:dst_output	16	static
+output_core.c:20:6:ipv6_proxy_select_ident	80	static
+output_core.c:45:5:ip6_find_1stfragopt	64	static
+output_core.c:87:5:ip6_dst_hoplimit	32	static
+output_core.c:107:5:__ip6_local_out	16	static
+output_core.c:122:5:ip6_local_out	32	static

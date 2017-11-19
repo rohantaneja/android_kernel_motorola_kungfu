@@ -1,0 +1,6 @@
+range.c:112:12:cmp_range	0	static
+range.c:10:5:add_range	0	static
+range.c:27:5:add_range_with_merge	80	static
+range.c:63:6:subtract_range	80	static
+range.c:124:5:clean_sort_range	32	static
+range.c:159:6:sort_range	16	static

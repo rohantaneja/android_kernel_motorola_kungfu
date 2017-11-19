@@ -1,0 +1,12 @@
+tcp_timer.c:38:13:tcp_write_err	32	static
+tcp_timer.c:130:13:retransmits_timed_out	0	static
+tcp_timer.c:567:13:tcp_keepalive_timer	48	static
+tcp_timer.c:58:12:tcp_out_of_resources	48	static
+tcp_timer.c:206:6:tcp_delack_timer_handler	48	static
+tcp_timer.c:253:13:tcp_delack_timer	32	static
+tcp_timer.c:350:6:tcp_retransmit_timer	48	static
+tcp_timer.c:487:6:tcp_write_timer_handler	48	static
+tcp_timer.c:523:13:tcp_write_timer	32	static
+tcp_timer.c:549:6:tcp_syn_ack_timeout	16	static
+tcp_timer.c:555:6:tcp_set_keepalive	16	static
+tcp_timer.c:652:6:tcp_init_xmit_timers	16	static

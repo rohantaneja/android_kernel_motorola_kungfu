@@ -1,0 +1,6 @@
+freezer.c:40:6:freezing_slow_path	32	static
+freezer.c:59:6:__refrigerator	96	static
+freezer.c:118:6:freeze_task	64	static
+freezer.c:149:6:__thaw_task	48	static
+freezer.c:164:6:set_nofreezable	32	static
+freezer.c:182:6:set_freezable	32	static

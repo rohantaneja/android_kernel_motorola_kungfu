@@ -1,0 +1,7 @@
+gpiolib-of.c:37:12:of_gpiochip_find_and_xlate	48	static
+gpiolib-of.c:131:5:of_gpio_simple_xlate	16	static
+gpiolib-of.c:73:19:of_get_named_gpiod_flags	160	static
+gpiolib-of.c:106:5:of_get_named_gpio_flags	16	static
+gpiolib-of.c:177:5:of_mm_gpiochip_add	48	static
+gpiolib-of.c:297:6:of_gpiochip_add	176	static
+gpiolib-of.c:314:6:of_gpiochip_remove	16	static

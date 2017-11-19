@@ -1,0 +1,4 @@
+mali_kbase_pm_ca_fixed.c:25:13:fixed_init	0	static
+mali_kbase_pm_ca_fixed.c:30:13:fixed_term	0	static
+mali_kbase_pm_ca_fixed.c:35:12:fixed_get_core_mask	0	static
+mali_kbase_pm_ca_fixed.c:40:13:fixed_update_core_status	0	static

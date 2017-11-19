@@ -1,0 +1,4 @@
+clk-devres.c:12:13:devm_clk_release	16	static
+clk-devres.c:37:12:devm_clk_match	16	static
+clk-devres.c:17:13:devm_clk_get	48	static
+clk-devres.c:47:6:devm_clk_put	16	static

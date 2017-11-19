@@ -1,0 +1,12 @@
+root.c:26:12:proc_test_super	0	static
+root.c:51:12:proc_parse_options	128	static
+root.c:149:13:proc_kill_sb	32	static
+root.c:31:12:proc_set_super	32	static
+root.c:100:23:proc_mount	64	static
+root.c:215:12:proc_root_readdir	32	static
+root.c:199:12:proc_root_getattr	48	static
+root.c:207:23:proc_root_lookup	48	static
+root.c:92:5:proc_remount	32	static
+root.c:169:13:proc_root_init	16	static
+root.c:261:5:pid_ns_prepare_proc	32	static
+root.c:273:6:pid_ns_release_proc	16	static

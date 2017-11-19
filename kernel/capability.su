@@ -1,0 +1,12 @@
+capability.c:31:19:file_caps_disable	0	static
+capability.c:80:12:cap_validate_magic	48	static
+capability.c:148:1:SyS_capget	96	static
+capability.c:222:1:SyS_capset	128	static
+capability.c:294:6:has_ns_capability	48	static
+capability.c:316:6:has_capability	16	static
+capability.c:334:6:has_ns_capability_noaudit	48	static
+capability.c:358:6:has_capability_noaudit	16	static
+capability.c:374:6:ns_capable	16	static
+capability.c:401:6:file_ns_capable	32	static
+capability.c:424:6:capable	16	static
+capability.c:439:6:capable_wrt_inode_uidgid	16	static

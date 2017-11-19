@@ -1,0 +1,11 @@
+ts3a225e.c:246:20:ts3a225e_exit	16	static
+ts3a225e.c:92:12:ts3a225e_i2c_remove	16	static
+ts3a225e.c:207:12:ts3a225e_remove	16	static
+ts3a225e.c:194:12:ts3a225e_probe	16	static
+ts3a225e.c:108:12:ts3a225e_i2c_resume	16	static
+ts3a225e.c:101:12:ts3a225e_i2c_suspend	16	static
+ts3a225e.c:63:5:ts3a225e_i2c_add_device	32	static
+ts3a225e.c:232:19:ts3a225e_init	16	static
+ts3a225e.c:134:5:ts3a225e_read_byte	64	static
+ts3a225e.c:49:12:ts3a225e_i2c_probe	64	static
+ts3a225e.c:166:5:ts3a225e_write_byte	64	static

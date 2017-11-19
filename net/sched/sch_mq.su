@@ -1,0 +1,13 @@
+sch_mq.c:124:29:mq_queue_get	0	static
+sch_mq.c:134:29:mq_select_queue	32	static
+sch_mq.c:165:22:mq_leaf	16	static
+sch_mq.c:172:22:mq_get	32	static
+sch_mq.c:181:13:mq_put	0	static
+sch_mq.c:185:12:mq_dump_class	48	static
+sch_mq.c:208:13:mq_walk	48	static
+sch_mq.c:99:12:mq_dump	64	static
+sch_mq.c:77:13:mq_attach	48	static
+sch_mq.c:25:13:mq_destroy	48	static
+sch_mq.c:38:12:mq_init	64	static
+sch_mq.c:196:12:mq_dump_class_stats	32	static
+sch_mq.c:148:12:mq_graft	48	static

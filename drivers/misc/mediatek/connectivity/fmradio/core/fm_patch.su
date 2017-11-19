@@ -1,0 +1,2 @@
+fm_patch.c:30:8:fm_file_read	64	static
+fm_patch.c:55:8:fm_file_write	0	static

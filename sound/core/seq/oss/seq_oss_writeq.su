@@ -1,0 +1,7 @@
+seq_oss_writeq.c:37:1:snd_seq_oss_writeq_new	144	static
+seq_oss_writeq.c:94:1:snd_seq_oss_writeq_sync	96	static
+seq_oss_writeq.c:134:1:snd_seq_oss_writeq_wakeup	64	static
+seq_oss_writeq.c:78:1:snd_seq_oss_writeq_clear	96	static
+seq_oss_writeq.c:65:1:snd_seq_oss_writeq_delete	32	static
+seq_oss_writeq.c:152:1:snd_seq_oss_writeq_get_free_size	112	static
+seq_oss_writeq.c:165:1:snd_seq_oss_writeq_set_output	128	static

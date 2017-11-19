@@ -1,0 +1,3 @@
+status.c:47:14:selinux_kernel_status_page	48	static
+status.c:83:6:selinux_status_update_setenforce	32	static
+status.c:108:6:selinux_status_update_policyload	48	static

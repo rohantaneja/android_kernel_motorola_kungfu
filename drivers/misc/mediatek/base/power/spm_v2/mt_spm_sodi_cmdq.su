@@ -1,0 +1,2 @@
+mt_spm_sodi_cmdq.c:16:6:exit_pd_by_cmdq	32	static
+mt_spm_sodi_cmdq.c:24:6:enter_pd_by_cmdq	16	static

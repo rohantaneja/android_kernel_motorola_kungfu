@@ -1,0 +1,6 @@
+blk-softirq.c:21:13:blk_done_softirq	48	static
+blk-softirq.c:40:13:trigger_softirq	48	static
+blk-softirq.c:175:19:blk_softirq_init	48	static
+blk-softirq.c:81:12:blk_cpu_notify	48	static
+blk-softirq.c:105:6:__blk_complete_request	64	static
+blk-softirq.c:166:6:blk_complete_request	32	static

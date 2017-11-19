@@ -1,0 +1,11 @@
+mt_ppm_policy_ptpod.c:96:29:ppm_ptpod_get_power_state_cb	0	static
+mt_ppm_policy_ptpod.c:158:1:ppm_ptpod_test_proc_open	32	static
+mt_ppm_policy_ptpod.c:129:12:ppm_ptpod_test_proc_show	16	static
+mt_ppm_policy_ptpod.c:160:19:ppm_ptpod_policy_init	48	static
+mt_ppm_policy_ptpod.c:120:13:ppm_ptpod_mode_change_cb	48	static
+mt_ppm_policy_ptpod.c:111:13:ppm_ptpod_status_change_cb	48	static
+mt_ppm_policy_ptpod.c:101:13:ppm_ptpod_update_limit_cb	32	static
+mt_ppm_policy_ptpod.c:198:20:ppm_ptpod_policy_exit	32	static
+mt_ppm_policy_ptpod.c:40:6:mt_ppm_ptpod_policy_activate	48	static
+mt_ppm_policy_ptpod.c:69:6:mt_ppm_ptpod_policy_deactivate	48	static
+mt_ppm_policy_ptpod.c:136:16:ppm_ptpod_test_proc_write	48	static

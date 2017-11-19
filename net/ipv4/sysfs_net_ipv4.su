@@ -1,0 +1,13 @@
+sysfs_net_ipv4.c:70:19:sysfs_ipv4_init	32	static
+sysfs_net_ipv4.c:54:1:tcp_rmem_max_store	48	static
+sysfs_net_ipv4.c:53:1:tcp_rmem_def_store	48	static
+sysfs_net_ipv4.c:52:1:tcp_rmem_min_store	48	static
+sysfs_net_ipv4.c:50:1:tcp_wmem_max_store	48	static
+sysfs_net_ipv4.c:49:1:tcp_wmem_def_store	48	static
+sysfs_net_ipv4.c:48:1:tcp_wmem_min_store	48	static
+sysfs_net_ipv4.c:54:1:tcp_rmem_max_show	16	static
+sysfs_net_ipv4.c:53:1:tcp_rmem_def_show	16	static
+sysfs_net_ipv4.c:52:1:tcp_rmem_min_show	16	static
+sysfs_net_ipv4.c:50:1:tcp_wmem_max_show	16	static
+sysfs_net_ipv4.c:49:1:tcp_wmem_def_show	16	static
+sysfs_net_ipv4.c:48:1:tcp_wmem_min_show	16	static

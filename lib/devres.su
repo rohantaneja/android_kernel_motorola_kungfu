@@ -1,0 +1,6 @@
+devres.c:12:12:devm_ioremap_match	0	static
+devres.c:7:6:devm_ioremap_release	16	static
+devres.c:25:15:devm_ioremap	48	static
+devres.c:54:15:devm_ioremap_nocache	48	static
+devres.c:81:6:devm_iounmap	32	static
+devres.c:107:15:devm_ioremap_resource	48	static

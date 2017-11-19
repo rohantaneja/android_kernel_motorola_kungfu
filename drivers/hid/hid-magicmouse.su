@@ -1,0 +1,8 @@
+hid-magicmouse.c:457:12:magicmouse_input_mapping	0	static
+hid-magicmouse.c:37:12:param_set_scroll_speed	32	static
+hid-magicmouse.c:583:1:magicmouse_driver_init	16	static
+hid-magicmouse.c:181:13:magicmouse_emit_touch	128	static
+hid-magicmouse.c:280:12:magicmouse_raw_event	80	static
+hid-magicmouse.c:491:12:magicmouse_probe	80	static
+hid-magicmouse.c:583:1:magicmouse_driver_exit	16	static
+hid-magicmouse.c:474:12:magicmouse_input_configured	48	static

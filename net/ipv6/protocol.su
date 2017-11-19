@@ -1,0 +1,4 @@
+protocol.c:32:5:inet6_add_protocol	0	static
+protocol.c:39:5:inet6_del_protocol	48	static
+protocol.c:56:5:inet6_add_offload	0	static
+protocol.c:63:5:inet6_del_offload	48	static

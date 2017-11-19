@@ -1,0 +1,14 @@
+port_ipc.c:168:6:port_ipc_md_state_notice	16	static
+port_ipc.c:74:12:port_ipc_ack_recv_skb	48	static
+port_ipc.c:460:12:port_ipc_kernel_thread	160	static
+port_ipc.c:95:5:port_ipc_recv_match	32	static
+port_ipc.c:182:5:port_ipc_write_check_id	32	static
+port_ipc.c:372:12:port_ipc_kernel_write	80	static
+port_ipc.c:564:5:send_new_time_to_md	144	static
+port_ipc.c:115:5:port_ipc_ioctl	112	static
+port_ipc.c:451:12:ccci_ipc_send_ilm_to_md1	32	static
+port_ipc.c:195:14:port_ipc_poll	48	static
+port_ipc.c:216:5:port_ipc_init	48	static
+port_ipc.c:537:12:port_ipc_kernel_init	48	static
+port_ipc.c:441:5:ccci_ipc_send_ilm	32	static
+port_ipc.c:599:5:ccci_get_emi_info	32	static

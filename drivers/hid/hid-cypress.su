@@ -1,0 +1,6 @@
+hid-cypress.c:147:1:cp_driver_init	16	static
+hid-cypress.c:72:12:cp_event	16	static
+hid-cypress.c:100:12:cp_probe	32	static
+hid-cypress.c:147:1:cp_driver_exit	16	static
+hid-cypress.c:33:14:cp_report_fixup	0	static
+hid-cypress.c:55:12:cp_input_mapped	32	static

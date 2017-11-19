@@ -1,0 +1,3 @@
+conn_md_log.c:19:5:__conn_md_log_print	400	static
+conn_md_log.c:35:5:__conn_md_get_log_lvl	0	static
+conn_md_log.c:48:5:conn_md_log_set_lvl	32	static

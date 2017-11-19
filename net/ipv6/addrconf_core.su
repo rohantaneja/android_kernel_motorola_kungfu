@@ -1,0 +1,5 @@
+addrconf_core.c:36:5:__ipv6_addr_type	0	static
+addrconf_core.c:92:5:register_inet6addr_notifier	16	static
+addrconf_core.c:98:5:unregister_inet6addr_notifier	16	static
+addrconf_core.c:104:5:inet6addr_notifier_call_chain	16	static
+addrconf_core.c:138:6:in6_dev_finish_destroy	32	static

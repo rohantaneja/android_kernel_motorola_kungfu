@@ -1,0 +1,11 @@
+flex_array.c:119:12:fa_element_to_part_nr	0	static
+flex_array.c:166:1:__fa_get_part	32	static
+flex_array.c:88:20:flex_array_alloc	64	static
+flex_array.c:137:6:flex_array_free_parts	32	static
+flex_array.c:148:6:flex_array_free	32	static
+flex_array.c:198:5:flex_array_put	64	static
+flex_array.c:230:5:flex_array_clear	48	static
+flex_array.c:268:5:flex_array_prealloc	48	static
+flex_array.c:315:7:flex_array_get	48	static
+flex_array.c:345:7:flex_array_get_ptr	16	static
+flex_array.c:376:5:flex_array_shrink	48	static

@@ -1,0 +1,14 @@
+flow.c:330:13:flow_cache_flush_per_cpu	48	static
+flow.c:53:13:flow_cache_new_hashrnd	64	static
+flow.c:393:12:flow_cache_cpu_prepare	64	static
+flow.c:99:13:flow_cache_queue_garbage.isra.9	48	static
+flow.c:112:13:__flow_cache_shrink	128	static
+flow.c:411:12:flow_cache_cpu	16	static
+flow.c:83:13:flow_cache_gc_task	80	static
+flow.c:281:13:flow_cache_flush_tasklet	128	static
+flow.c:192:1:flow_cache_lookup	128	static
+flow.c:340:6:flow_cache_flush	128	static
+flow.c:379:13:flow_cache_flush_task	16	static
+flow.c:388:6:flow_cache_flush_deferred	16	static
+flow.c:435:5:flow_cache_init	80	static
+flow.c:494:6:flow_cache_fini	80	static

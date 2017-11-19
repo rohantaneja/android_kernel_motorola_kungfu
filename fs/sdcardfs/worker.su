@@ -1,0 +1,11 @@
+worker.c:413:13:permwork_init_once	0	static
+worker.c:363:13:get_derive_permissions_recursive_internal	64	static
+worker.c:178:13:sdcardfs_work_handle_mkdir	256	static
+worker.c:396:13:sdcardfs_work_handle	128	static
+worker.c:58:5:sdcardfs_init_workqueue	48	static
+worker.c:82:6:sdcardfs_destroy_workqueue	32	static
+worker.c:421:5:sdcardfs_work_dispatch_permissions	48	static
+worker.c:448:5:sdcardfs_work_dispatch_syncjob	128	static
+worker.c:485:5:sdcardfs_work_dispatch_create	16	static
+worker.c:491:5:sdcardfs_work_dispatch_unlink	16	static
+worker.c:496:5:sdcardfs_work_dispatch_mkdir	16	static

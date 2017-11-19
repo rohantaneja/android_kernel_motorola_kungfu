@@ -1,0 +1,13 @@
+br_forward.c:38:5:br_dev_queue_push_xmit	32	static
+br_forward.c:54:5:br_forward_finish	32	static
+br_forward.c:62:13:__br_deliver	32	static
+br_forward.c:132:12:deliver_clone	48	static
+br_forward.c:84:13:__br_forward	32	static
+br_forward.c:222:13:br_multicast_flood	96	static
+br_forward.c:172:13:br_flood	96	static
+br_forward.c:106:6:br_deliver	16	static
+br_forward.c:118:6:br_forward	16	static
+br_forward.c:208:6:br_flood_deliver	16	static
+br_forward.c:214:6:br_flood_forward	16	static
+br_forward.c:271:6:br_multicast_deliver	16	static
+br_forward.c:278:6:br_multicast_forward	16	static

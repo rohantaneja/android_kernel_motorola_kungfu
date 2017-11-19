@@ -1,0 +1,3 @@
+mali_kbase_device_hw.c:29:6:kbase_reg_write	48	static
+mali_kbase_device_hw.c:46:5:kbase_reg_read	48	static
+mali_kbase_device_hw.c:93:6:kbase_gpu_interrupt	64	static

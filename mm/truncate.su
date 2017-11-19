@@ -1,0 +1,16 @@
+truncate.c:26:13:clear_exceptional_entry	80	static
+truncate.c:81:6:do_invalidatepage	16	static
+truncate.c:109:6:cancel_dirty_page	32	static
+truncate.c:174:5:truncate_inode_page	32	static
+truncate.c:187:5:generic_error_remove_page	16	static
+truncate.c:207:5:invalidate_inode_page	32	static
+truncate.c:243:6:truncate_inode_pages_range	352	static
+truncate.c:413:6:truncate_inode_pages	16	static
+truncate.c:428:6:truncate_inode_pages_final	32	static
+truncate.c:479:15:invalidate_mapping_pages	336	static
+truncate.c:582:5:invalidate_inode_pages2_range	352	static
+truncate.c:668:5:invalidate_inode_pages2	16	static
+truncate.c:689:6:truncate_pagecache	48	static
+truncate.c:752:6:pagecache_isize_extended	64	static
+truncate.c:722:6:truncate_setsize	32	static
+truncate.c:797:6:truncate_pagecache_range	48	static

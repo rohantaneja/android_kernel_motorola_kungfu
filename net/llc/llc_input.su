@@ -1,0 +1,4 @@
+llc_input.c:42:6:llc_add_pack	0	static
+llc_input.c:50:6:llc_remove_pack	16	static
+llc_input.c:57:6:llc_set_station_handler	16	static
+llc_input.c:154:5:llc_rcv	80	static

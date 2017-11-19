@@ -1,0 +1,8 @@
+ipanic_emmc.c:24:12:card_dump_func_read	0	static
+ipanic_emmc.c:29:12:card_dump_func_write	0	static
+ipanic_emmc.c:34:21:reset_boot_up_device	0	static
+ipanic_emmc.c:38:7:ipanic_read_size	64	static
+ipanic_emmc.c:61:5:ipanic_write_size	32	static
+ipanic_emmc.c:76:6:ipanic_msdc_init	32	static
+ipanic_emmc.c:83:5:ipanic_msdc_info	32	static
+ipanic_emmc.c:100:6:ipanic_erase	32	static

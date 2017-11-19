@@ -1,0 +1,9 @@
+namespaces.c:45:14:ns_dname	16	static
+namespaces.c:178:12:proc_ns_instantiate	48	static
+namespaces.c:203:12:proc_ns_dir_readdir	80	static
+namespaces.c:141:12:proc_ns_readlink	144	static
+namespaces.c:109:14:proc_ns_follow_link	96	static
+namespaces.c:235:23:proc_ns_dir_lookup	80	static
+namespaces.c:271:14:proc_ns_fget	16	static
+namespaces.c:289:17:get_proc_ns	0	static
+namespaces.c:294:6:proc_ns_inode	0	static

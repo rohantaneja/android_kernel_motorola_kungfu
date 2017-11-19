@@ -1,0 +1,5 @@
+xfrm4_input.c:25:19:xfrm4_rcv_encap_finish	32	static
+xfrm4_input.c:20:5:xfrm4_extract_input	16	static
+xfrm4_input.c:40:5:xfrm4_transport_finish	32	static
+xfrm4_input.c:67:5:xfrm4_udp_encap_rcv	48	static
+xfrm4_input.c:153:5:xfrm4_rcv	16	static

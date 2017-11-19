@@ -1,0 +1,10 @@
+dma-coherent.c:296:13:rmem_dma_device_release	0	static
+dma-coherent.c:20:12:dma_init_coherent_memory	80	static
+dma-coherent.c:279:12:rmem_dma_device_init	48	static
+dma-coherent.c:307:19:rmem_dma_setup	32	static
+dma-coherent.c:87:5:dma_declare_coherent_memory	64	static
+dma-coherent.c:106:6:dma_release_declared_memory	32	static
+dma-coherent.c:117:7:dma_mark_declared_memory_occupied	80	static
+dma-coherent.c:155:5:dma_alloc_from_coherent	80	static
+dma-coherent.c:213:5:dma_release_from_coherent	80	static
+dma-coherent.c:246:5:dma_mmap_from_coherent	32	static

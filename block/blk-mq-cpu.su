@@ -1,0 +1,5 @@
+blk-mq-cpu.c:21:12:blk_mq_main_cpu_notify	64	static
+blk-mq-cpu.c:40:6:blk_mq_register_cpu_notifier	32	static
+blk-mq-cpu.c:49:6:blk_mq_unregister_cpu_notifier	32	static
+blk-mq-cpu.c:56:6:blk_mq_init_cpu_notifier	0	static
+blk-mq-cpu.c:64:13:blk_mq_cpu_init	16	static

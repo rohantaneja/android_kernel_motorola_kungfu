@@ -1,0 +1,15 @@
+qos.c:137:12:apply_constraint	48	static
+qos.c:180:12:dev_pm_qos_constraints_allocate	48	static
+qos.c:61:26:__dev_pm_qos_flags	0	static
+qos.c:86:26:dev_pm_qos_flags	64	static
+qos.c:105:5:__dev_pm_qos_read_value	16	static
+qos.c:115:5:dev_pm_qos_read_value	48	static
+qos.c:230:6:dev_pm_qos_constraints_destroy	80	static
+qos.c:345:5:dev_pm_qos_add_request	80	static
+qos.c:416:5:dev_pm_qos_update_request	80	static
+qos.c:463:5:dev_pm_qos_remove_request	64	static
+qos.c:487:5:dev_pm_qos_add_notifier	64	static
+qos.c:517:5:dev_pm_qos_remove_notifier	48	static
+qos.c:543:5:dev_pm_qos_add_global_notifier	16	static
+qos.c:558:5:dev_pm_qos_remove_global_notifier	16	static
+qos.c:571:5:dev_pm_qos_add_ancestor_request	32	static

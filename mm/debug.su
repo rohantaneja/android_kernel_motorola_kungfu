@@ -1,0 +1,3 @@
+debug.c:59:13:dump_flags.constprop	64	static
+debug.c:89:6:dump_page_badflags	48	static
+debug.c:107:6:dump_page	16	static

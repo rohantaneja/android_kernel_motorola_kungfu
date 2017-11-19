@@ -1,0 +1,12 @@
+nf_conntrack_proto_udplite.c:65:13:udplite_invert_tuple	0	static
+nf_conntrack_proto_udplite.c:112:13:udplite_new	0	static
+nf_conntrack_proto_udplite.c:395:20:nf_conntrack_proto_udplite_exit	32	static
+nf_conntrack_proto_udplite.c:357:13:udplite_net_exit	32	static
+nf_conntrack_proto_udplite.c:335:12:udplite_net_init	48	static
+nf_conntrack_proto_udplite.c:74:12:udplite_print_tuple	16	static
+nf_conntrack_proto_udplite.c:49:13:udplite_pkt_to_tuple	48	static
+nf_conntrack_proto_udplite.c:118:12:udplite_error	96	static
+nf_conntrack_proto_udplite.c:370:19:nf_conntrack_proto_udplite_init	48	static
+nf_conntrack_proto_udplite.c:82:22:udplite_get_timeouts	48	static
+nf_conntrack_proto_udplite.c:256:12:udplite_init_net	48	static
+nf_conntrack_proto_udplite.c:88:12:udplite_packet	32	static

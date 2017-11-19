@@ -1,0 +1,4 @@
+thread_self.c:10:12:proc_thread_self_readlink	96	static
+thread_self.c:23:14:proc_thread_self_follow_link	64	static
+thread_self.c:48:5:proc_setup_thread_self	64	static
+thread_self.c:82:13:proc_thread_self_init	16	static

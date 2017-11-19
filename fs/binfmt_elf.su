@@ -1,0 +1,12 @@
+binfmt_elf.c:375:22:total_mapping_size	0	static
+binfmt_elf.c:2256:20:exit_elf_binfmt	16	static
+binfmt_elf.c:1245:12:notesize	32	static
+binfmt_elf.c:1152:22:vma_dump_size	32	static
+binfmt_elf.c:96:12:set_brk	32	static
+binfmt_elf.c:115:12:padzero	32	static
+binfmt_elf.c:1027:12:load_elf_library	128	static
+binfmt_elf.c:339:22:elf_map	48	static
+binfmt_elf.c:2250:19:init_elf_binfmt	16	static
+binfmt_elf.c:1256:12:writenote	48	static
+binfmt_elf.c:576:12:load_elf_binary	240	static
+binfmt_elf.c:2051:12:elf_core_dump	464	static

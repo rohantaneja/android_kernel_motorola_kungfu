@@ -1,0 +1,14 @@
+debugfs.c:184:12:mmc_clock_opt_get	0	static
+debugfs.c:208:1:mmc_clock_fops_open	16	static
+debugfs.c:277:1:mmc_dbg_card_status_fops_open	16	static
+debugfs.c:193:12:mmc_clock_opt_set	32	static
+debugfs.c:172:12:mmc_ios_open	16	static
+debugfs.c:34:12:mmc_ios_show	32	static
+debugfs.c:330:12:mmc_ext_csd_release	16	static
+debugfs.c:282:12:mmc_ext_csd_open	64	static
+debugfs.c:321:16:mmc_ext_csd_read	16	static
+debugfs.c:261:12:mmc_dbg_card_status_get	64	static
+debugfs.c:211:6:mmc_add_host_debugfs	48	static
+debugfs.c:256:6:mmc_remove_host_debugfs	16	static
+debugfs.c:433:6:mmc_add_card_debugfs	48	static
+debugfs.c:480:6:mmc_remove_card_debugfs	16	static

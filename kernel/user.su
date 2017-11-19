@@ -1,0 +1,5 @@
+user.c:109:28:uid_hash_find	0	static
+user.c:208:19:uid_cache_init	32	static
+user.c:143:21:find_user	48	static
+user.c:154:6:free_uid	48	static
+user.c:168:21:alloc_uid	80	static

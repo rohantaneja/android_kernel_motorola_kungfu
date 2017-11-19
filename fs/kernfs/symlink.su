@@ -1,0 +1,3 @@
+symlink.c:128:13:kernfs_iop_put_link	16	static
+symlink.c:115:14:kernfs_iop_follow_link	96	static
+symlink.c:25:21:kernfs_create_link	48	static

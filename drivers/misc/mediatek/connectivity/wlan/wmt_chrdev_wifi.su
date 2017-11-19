@@ -1,0 +1,8 @@
+wmt_chrdev_wifi.c:263:9:WIFI_write	128	static
+wmt_chrdev_wifi.c:256:12:WIFI_close	16	static
+wmt_chrdev_wifi.c:249:12:WIFI_open	16	static
+wmt_chrdev_wifi.c:109:6:register_set_p2p_mode_handler	32	static
+wmt_chrdev_wifi.c:139:7:wifi_reset_start	48	static
+wmt_chrdev_wifi.c:176:7:wifi_reset_end	112	static
+wmt_chrdev_wifi.c:530:7:mtk_wcn_wmt_wifi_init	112	static
+wmt_chrdev_wifi.c:536:6:mtk_wcn_wmt_wifi_exit	48	static

@@ -1,0 +1,10 @@
+mpage.c:67:1:mpage_alloc	80	static
+mpage.c:58:20:mpage_bio_submit	32	static
+mpage.c:140:1:do_mpage_readpage	208	static
+mpage.c:45:13:mpage_end_io	48	static
+mpage.c:437:13:clean_buffers	64	static
+mpage.c:462:12:__mpage_writepage	352	static
+mpage.c:356:1:mpage_readpages	192	static
+mpage.c:392:5:mpage_readpage	144	static
+mpage.c:676:1:mpage_writepages	128	static
+mpage.c:703:5:mpage_writepage	64	static

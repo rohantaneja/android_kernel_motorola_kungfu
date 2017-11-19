@@ -1,0 +1,6 @@
+inotify_fsnotify.c:56:12:inotify_merge	16	static
+inotify_fsnotify.c:65:5:inotify_handle_event	80	static
+inotify_fsnotify.c:174:13:inotify_free_event	16	static
+inotify_fsnotify.c:123:13:inotify_freeing_mark	16	static
+inotify_fsnotify.c:163:13:inotify_free_group_priv	32	static
+inotify_fsnotify.c:135:12:idr_callback	32	static

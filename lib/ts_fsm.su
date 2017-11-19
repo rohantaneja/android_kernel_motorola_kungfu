@@ -1,0 +1,6 @@
+ts_fsm.c:306:14:fsm_get_pattern	0	static
+ts_fsm.c:312:21:fsm_get_pattern_len	0	static
+ts_fsm.c:333:20:exit_fsm	16	static
+ts_fsm.c:138:21:fsm_find	128	static
+ts_fsm.c:259:26:fsm_init	64	static
+ts_fsm.c:328:19:init_fsm	16	static

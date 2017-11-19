@@ -1,0 +1,2 @@
+iomap_copy.c:31:28:__iowrite32_copy	0	static
+iomap_copy.c:54:28:__iowrite64_copy	0	static

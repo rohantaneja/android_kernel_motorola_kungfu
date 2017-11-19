@@ -1,0 +1,7 @@
+tcp_offload.c:54:17:tcp_gso_segment	128	static
+tcp_offload.c:32:17:tcp4_gso_segment	32	static
+tcp_offload.c:178:18:tcp_gro_receive	80	static
+tcp_offload.c:291:25:tcp4_gro_receive	48	static
+tcp_offload.c:274:5:tcp_gro_complete	0	static
+tcp_offload.c:304:12:tcp4_gro_complete	32	static
+tcp_offload.c:324:12:tcpv4_offload_init	16	static

@@ -1,0 +1,7 @@
+inflate.c:101:13:zlib_updatewindow	48	static
+inflate.c:18:5:zlib_inflate_workspacesize	0	static
+inflate.c:23:5:zlib_inflateReset	0	static
+inflate.c:48:5:zlib_inflateInit2	16	static
+inflate.c:317:5:zlib_inflate	160	static
+inflate.c:742:5:zlib_inflateEnd	0	static
+inflate.c:757:5:zlib_inflateIncomp	48	static

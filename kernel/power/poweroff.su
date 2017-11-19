@@ -1,0 +1,3 @@
+poweroff.c:40:19:pm_sysrq_init	16	static
+poweroff.c:20:13:do_poweroff	16	static
+poweroff.c:27:13:handle_poweroff	16	static

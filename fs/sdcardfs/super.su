@@ -1,0 +1,11 @@
+super.c:190:13:sdcardfs_umount_begin	16	static
+super.c:159:13:init_once	16	static
+super.c:199:12:sdcardfs_show_options	32	static
+super.c:99:12:sdcardfs_remount_fs	16	static
+super.c:53:12:sdcardfs_statfs	64	static
+super.c:30:13:sdcardfs_put_super	32	static
+super.c:123:13:sdcardfs_evict_inode	32	static
+super.c:153:13:sdcardfs_destroy_inode	16	static
+super.c:138:22:sdcardfs_alloc_inode	16	static
+super.c:166:5:sdcardfs_init_inode_cache	16	static
+super.c:180:6:sdcardfs_destroy_inode_cache	16	static

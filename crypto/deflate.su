@@ -1,0 +1,6 @@
+deflate.c:214:20:deflate_mod_fini	16	static
+deflate.c:104:12:deflate_init	48	static
+deflate.c:156:12:deflate_decompress	96	static
+deflate.c:127:12:deflate_compress	80	static
+deflate.c:209:19:deflate_mod_init	16	static
+deflate.c:119:13:deflate_exit	32	static

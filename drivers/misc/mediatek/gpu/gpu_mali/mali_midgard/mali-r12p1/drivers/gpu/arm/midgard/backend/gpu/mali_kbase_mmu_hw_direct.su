@@ -1,0 +1,7 @@
+mali_kbase_mmu_hw_direct.c:63:12:wait_ready	48	static
+mali_kbase_mmu_hw_direct.c:86:12:write_cmd	64	static
+mali_kbase_mmu_hw_direct.c:100:6:kbase_mmu_interrupt	128	static
+mali_kbase_mmu_hw_direct.c:209:6:kbase_mmu_hw_configure	48	static
+mali_kbase_mmu_hw_direct.c:262:5:kbase_mmu_hw_do_operation	64	static
+mali_kbase_mmu_hw_direct.c:310:6:kbase_mmu_hw_clear_fault	64	static
+mali_kbase_mmu_hw_direct.c:337:6:kbase_mmu_hw_enable_fault	64	static

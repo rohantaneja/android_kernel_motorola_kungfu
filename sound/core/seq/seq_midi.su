@@ -1,0 +1,11 @@
+seq_midi.c:475:20:alsa_seq_midi_exit	16	static
+seq_midi.c:462:19:alsa_seq_midi_init	16	static
+seq_midi.c:223:12:midisynth_use	96	static
+seq_midi.c:180:12:midisynth_subscribe	96	static
+seq_midi.c:75:13:snd_midi_input_event	112	static
+seq_midi.c:277:1:snd_seq_midisynth_register_port	240	static
+seq_midi.c:114:12:dump_midi	32	static
+seq_midi.c:132:12:event_process_midi	48	static
+seq_midi.c:250:12:midisynth_unuse	32	static
+seq_midi.c:211:12:midisynth_unsubscribe	16	static
+seq_midi.c:431:1:snd_seq_midisynth_unregister_port	80	static

@@ -1,0 +1,3 @@
+ged_thread.c:26:12:ged_thread_run	16	static
+ged_thread.c:44:11:ged_thread_create	80	static
+ged_thread.c:73:11:ged_thread_destroy	32	static

@@ -1,0 +1,12 @@
+deflate.c:288:13:putShortMSB	0	static
+deflate.c:554:13:longest_match	16	static
+deflate.c:733:13:fill_window	112	static
+deflate.c:303:13:flush_pending	48	static
+deflate.c:1006:20:deflate_slow	64	static
+deflate.c:912:20:deflate_fast	48	static
+deflate.c:853:20:deflate_stored	48	static
+deflate.c:253:5:zlib_deflateReset	32	static
+deflate.c:167:5:zlib_deflateInit2	16	static
+deflate.c:327:5:zlib_deflate	64	static
+deflate.c:465:5:zlib_deflateEnd	0	static
+deflate.c:1123:5:zlib_deflate_workspacesize	16	static

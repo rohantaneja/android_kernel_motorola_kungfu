@@ -1,0 +1,4 @@
+main.c:342:6:sdcardfs_kill_sb	48	static
+main.c:390:20:exit_sdcardfs_fs	16	static
+main.c:361:19:init_sdcardfs_fs	32	static
+main.c:331:16:sdcardfs_mount	176	static

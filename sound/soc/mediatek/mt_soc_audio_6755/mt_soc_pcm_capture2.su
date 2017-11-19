@@ -1,0 +1,16 @@
+mt_soc_pcm_capture2.c:526:21:mtk_capture2_pcm_page	16	static
+mt_soc_pcm_capture2.c:515:12:mtk_capture2_pcm_silence	16	static
+mt_soc_pcm_capture2.c:161:12:mtk_capture2_pcm_prepare	16	static
+mt_soc_pcm_capture2.c:570:12:mtk_asoc_capture2_pcm_new	16	static
+mt_soc_pcm_capture2.c:617:19:mtk_soc_capture2_platform_init	16	static
+mt_soc_pcm_capture2.c:587:12:mtk_capture2_remove	32	static
+mt_soc_pcm_capture2.c:554:12:mtk_capture2_probe	32	static
+mt_soc_pcm_capture2.c:365:12:mtk_capture2_pcm_copy	96	static
+mt_soc_pcm_capture2.c:182:26:mtk_capture2_pcm_pointer	16	static
+mt_soc_pcm_capture2.c:277:12:mtk_capture2_pcm_hw_free	32	static
+mt_soc_pcm_capture2.c:326:12:mtk_capture2_pcm_close	16	static
+mt_soc_pcm_capture2.c:291:12:mtk_capture2_pcm_open	48	static
+mt_soc_pcm_capture2.c:577:12:mtk_afe_capture2_probe	32	static
+mt_soc_pcm_capture2.c:639:20:mtk_soc_capture2_platform_exit	16	static
+mt_soc_pcm_capture2.c:341:12:mtk_capture2_pcm_trigger	48	static
+mt_soc_pcm_capture2.c:241:12:mtk_capture2_pcm_hw_params	64	static

@@ -1,0 +1,8 @@
+xt_connmark.c:93:1:connmark_mt	0	static
+xt_connmark.c:159:20:connmark_mt_exit	32	static
+xt_connmark.c:87:13:connmark_tg_destroy	16	static
+xt_connmark.c:117:13:connmark_mt_destroy	16	static
+xt_connmark.c:39:1:connmark_tg	16	static
+xt_connmark.c:76:12:connmark_tg_check	32	static
+xt_connmark.c:106:12:connmark_mt_check	32	static
+xt_connmark.c:144:19:connmark_mt_init	32	static

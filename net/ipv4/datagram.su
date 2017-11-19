@@ -1,0 +1,3 @@
+datagram.c:23:5:__ip4_datagram_connect	144	static
+datagram.c:87:5:ip4_datagram_connect	48	static
+datagram.c:102:6:ip4_datagram_release_cb	144	static

@@ -1,0 +1,9 @@
+driver.c:43:5:driver_for_each_device	64	static
+driver.c:77:16:driver_find_device	64	static
+driver.c:102:5:driver_create_file	16	static
+driver.c:119:6:driver_remove_file	16	static
+driver.c:127:5:driver_add_groups	16	static
+driver.c:133:6:driver_remove_groups	16	static
+driver.c:187:6:driver_unregister	32	static
+driver.c:210:23:driver_find	32	static
+driver.c:147:5:driver_register	48	static

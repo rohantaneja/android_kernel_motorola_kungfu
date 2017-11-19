@@ -1,0 +1,5 @@
+xt_string.c:89:20:string_mt_exit	16	static
+xt_string.c:68:13:string_mt_destroy	16	static
+xt_string.c:41:12:string_mt_check	32	static
+xt_string.c:26:1:string_mt	80	static
+xt_string.c:84:19:string_mt_init	16	static

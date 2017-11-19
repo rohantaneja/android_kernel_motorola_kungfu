@@ -1,0 +1,13 @@
+cpuidle-mt67xx_v2.c:176:12:mt67xx_v2_cpuidle_init	64	static
+cpuidle-mt67xx_v2.c:25:27:dpidle_enter	0	static
+cpuidle-mt67xx_v2.c:55:12:mt_dpidle_enter	16	static
+cpuidle-mt67xx_v2.c:30:27:soidle3_enter	0	static
+cpuidle-mt67xx_v2.c:61:12:mt_soidle3_enter	16	static
+cpuidle-mt67xx_v2.c:35:27:soidle_enter	0	static
+cpuidle-mt67xx_v2.c:67:12:mt_soidle_enter	16	static
+cpuidle-mt67xx_v2.c:40:27:mcidle_enter	0	static
+cpuidle-mt67xx_v2.c:73:12:mt_mcidle_enter	16	static
+cpuidle-mt67xx_v2.c:45:27:slidle_enter	0	static
+cpuidle-mt67xx_v2.c:79:12:mt_slidle_enter	16	static
+cpuidle-mt67xx_v2.c:50:27:rgidle_enter	0	static
+cpuidle-mt67xx_v2.c:85:12:mt_rgidle_enter	16	static

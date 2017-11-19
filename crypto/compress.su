@@ -1,0 +1,4 @@
+compress.c:20:12:crypto_compress	16	static
+compress.c:28:12:crypto_decompress	16	static
+compress.c:36:5:crypto_init_compress_ops	0	static
+compress.c:46:6:crypto_exit_compress_ops	0	static

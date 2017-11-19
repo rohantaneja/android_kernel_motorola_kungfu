@@ -1,0 +1,14 @@
+completion.c:99:1:wait_for_common	144	static
+completion.c:105:1:wait_for_common_io.constprop	112	static
+completion.c:29:6:complete	48	static
+completion.c:49:6:complete_all	48	static
+completion.c:120:14:wait_for_completion	16	static
+completion.c:139:1:wait_for_completion_timeout	16	static
+completion.c:153:14:wait_for_completion_io	16	static
+completion.c:172:1:wait_for_completion_io_timeout	16	static
+completion.c:187:13:wait_for_completion_interruptible	16	static
+completion.c:208:1:wait_for_completion_interruptible_timeout	16	static
+completion.c:224:13:wait_for_completion_killable	16	static
+completion.c:246:1:wait_for_completion_killable_timeout	16	static
+completion.c:265:6:try_wait_for_completion	48	static
+completion.c:288:6:completion_done	32	static

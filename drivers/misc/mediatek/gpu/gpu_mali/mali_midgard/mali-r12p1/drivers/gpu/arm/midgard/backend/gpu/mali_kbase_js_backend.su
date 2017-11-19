@@ -1,0 +1,6 @@
+mali_kbase_js_backend.c:90:29:timer_callback	128	static
+mali_kbase_js_backend.c:265:6:kbase_backend_ctx_count_changed	48	static
+mali_kbase_js_backend.c:300:5:kbase_backend_timer_init	32	static
+mali_kbase_js_backend.c:313:6:kbase_backend_timer_term	16	static
+mali_kbase_js_backend.c:320:6:kbase_backend_timer_suspend	16	static
+mali_kbase_js_backend.c:329:6:kbase_backend_timer_resume	16	static

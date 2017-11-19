@@ -1,0 +1,5 @@
+helper.c:29:14:snd_usb_combine_bytes	0	static
+helper.c:44:7:snd_usb_find_desc	0	static
+helper.c:67:7:snd_usb_find_csint_desc	48	static
+helper.c:83:5:snd_usb_ctl_msg	112	static
+helper.c:116:15:snd_usb_parse_datainterval	0	static

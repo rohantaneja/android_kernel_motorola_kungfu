@@ -1,0 +1,14 @@
+mt_ppm_policy_sys_boost.c:139:13:ppm_sysboost_update_limit_cb	80	static
+mt_ppm_policy_sys_boost.c:299:1:ppm_sysboost_freq_proc_open	32	static
+mt_ppm_policy_sys_boost.c:298:1:ppm_sysboost_core_proc_open	32	static
+mt_ppm_policy_sys_boost.c:266:12:ppm_sysboost_freq_proc_show	48	static
+mt_ppm_policy_sys_boost.c:234:12:ppm_sysboost_core_proc_show	48	static
+mt_ppm_policy_sys_boost.c:301:19:ppm_sysboost_policy_init	96	static
+mt_ppm_policy_sys_boost.c:130:29:ppm_sysboost_get_power_state_cb	0	static
+mt_ppm_policy_sys_boost.c:225:13:ppm_sysboost_mode_change_cb	48	static
+mt_ppm_policy_sys_boost.c:216:13:ppm_sysboost_status_change_cb	48	static
+mt_ppm_policy_sys_boost.c:365:20:ppm_sysboost_policy_exit	32	static
+mt_ppm_policy_sys_boost.c:54:6:mt_ppm_sysboost_core	64	static
+mt_ppm_policy_sys_boost.c:247:16:ppm_sysboost_core_proc_write	48	static
+mt_ppm_policy_sys_boost.c:92:6:mt_ppm_sysboost_freq	64	static
+mt_ppm_policy_sys_boost.c:279:16:ppm_sysboost_freq_proc_write	48	static

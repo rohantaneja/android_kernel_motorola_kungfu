@@ -1,0 +1,2 @@
+xfrm_hash.c:15:20:xfrm_hash_alloc	16	static
+xfrm_hash.c:31:6:xfrm_hash_free	16	static

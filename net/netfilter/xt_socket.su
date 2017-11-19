@@ -1,0 +1,10 @@
+xt_socket.c:513:20:socket_mt_exit	16	static
+xt_socket.c:432:12:socket_mt_v2_check	16	static
+xt_socket.c:421:12:socket_mt_v1_check	16	static
+xt_socket.c:503:19:socket_mt_init	16	static
+xt_socket.c:135:1:xt_socket_get4_sk	176	static
+xt_socket.c:204:1:socket_match	64	static
+xt_socket.c:250:1:socket_mt4_v1_v2	16	static
+xt_socket.c:240:1:socket_mt4_v0	16	static
+xt_socket.c:331:1:xt_socket_get6_sk	176	static
+xt_socket.c:382:1:socket_mt6_v1_v2	48	static

@@ -1,0 +1,7 @@
+xt_limit.c:153:13:limit_mt_compat_from_user	48	static
+xt_limit.c:204:20:limit_mt_exit	16	static
+xt_limit.c:167:12:limit_mt_compat_to_user	48	static
+xt_limit.c:132:13:limit_mt_destroy	16	static
+xt_limit.c:69:1:limit_mt	48	static
+xt_limit.c:199:19:limit_mt_init	16	static
+xt_limit.c:102:12:limit_mt_check	32	static

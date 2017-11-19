@@ -1,0 +1,5 @@
+ip6table_raw.c:79:20:ip6table_raw_fini	16	static
+ip6table_raw.c:47:24:ip6table_raw_net_exit	16	static
+ip6table_raw.c:34:23:ip6table_raw_net_init	48	static
+ip6table_raw.c:57:19:ip6table_raw_init	48	static
+ip6table_raw.c:22:1:ip6table_raw_hook	16	static

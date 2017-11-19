@@ -1,0 +1,11 @@
+percpu-refcount.c:157:13:percpu_ref_noop_confirm_switch	0	static
+percpu-refcount.c:161:13:__percpu_ref_switch_to_atomic	96	static
+percpu-refcount.c:110:13:percpu_ref_call_confirm_rcu	32	static
+percpu-refcount.c:122:13:percpu_ref_switch_to_atomic_rcu	64	static
+percpu-refcount.c:226:13:__percpu_ref_switch_to_percpu	112	static
+percpu-refcount.c:58:5:percpu_ref_init	48	static
+percpu-refcount.c:99:6:percpu_ref_exit	32	static
+percpu-refcount.c:219:6:percpu_ref_switch_to_atomic	16	static
+percpu-refcount.c:271:6:percpu_ref_switch_to_percpu	16	static
+percpu-refcount.c:299:6:percpu_ref_kill_and_confirm	48	static
+percpu-refcount.c:322:6:percpu_ref_reinit	32	static

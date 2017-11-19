@@ -1,0 +1,13 @@
+ram.c:143:12:ramoops_pstore_open	0	static
+ram.c:352:12:ramoops_pstore_erase	32	static
+ram.c:281:20:ramoops_pstore_write_buf	80	static
+ram.c:205:13:prz_ok	32	static
+ram.c:156:1:ramoops_get_next_prz	64	static
+ram.c:211:16:ramoops_pstore_read	112	static
+ram.c:681:19:ramoops_init	112	static
+ram.c:688:20:ramoops_exit	32	static
+ram.c:453:12:ramoops_init_prz.constprop	64	static
+ram.c:394:13:ramoops_free_przs.part.1.constprop	32	static
+ram.c:489:12:ramoops_probe	112	static
+ram.c:483:14:ramoops_console_write_buf	16	static
+ram.c:616:19:ramoops_remove	0	static

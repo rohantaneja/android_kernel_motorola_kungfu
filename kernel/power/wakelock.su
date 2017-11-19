@@ -1,0 +1,3 @@
+wakelock.c:36:9:pm_show_wakelocks	80	static
+wakelock.c:186:5:pm_wake_lock	96	static
+wakelock.c:234:5:pm_wake_unlock	112	static

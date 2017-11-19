@@ -1,0 +1,8 @@
+sha512_generic.c:134:1:sha512_init	0	static
+sha512_generic.c:151:1:sha384_init	0	static
+sha512_generic.c:81:1:sha512_transform	192	static
+sha512_generic.c:167:5:crypto_sha512_update	64	static
+sha512_generic.c:280:20:sha512_generic_mod_fini	16	static
+sha512_generic.c:204:1:sha512_final	64	static
+sha512_generic.c:235:12:sha384_final	96	static
+sha512_generic.c:275:19:sha512_generic_mod_init	16	static

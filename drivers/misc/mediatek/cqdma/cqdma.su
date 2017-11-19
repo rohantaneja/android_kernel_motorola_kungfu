@@ -1,0 +1,15 @@
+cqdma.c:685:12:cqdma_remove	0	static
+cqdma.c:586:20:gdma1_irq_handler	48	static
+cqdma.c:702:19:init_cqdma	32	static
+cqdma.c:221:5:mt_start_gdma	0	static
+cqdma.c:274:5:mt_stop_gdma	0	static
+cqdma.c:302:5:mt_config_gdma	64	static
+cqdma.c:464:5:mt_free_gdma	48	static
+cqdma.c:494:5:mt_dump_gdma	48	static
+cqdma.c:244:5:mt_polling_gdma	32	static
+cqdma.c:512:5:mt_warm_reset_gdma	16	static
+cqdma.c:537:5:mt_hard_reset_gdma	32	static
+cqdma.c:562:5:mt_reset_gdma	32	static
+cqdma.c:618:6:mt_reset_gdma_conf	96	static
+cqdma.c:169:5:mt_req_gdma	48	static
+cqdma.c:641:12:cqdma_probe	96	static

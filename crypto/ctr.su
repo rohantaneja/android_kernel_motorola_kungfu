@@ -1,0 +1,14 @@
+ctr.c:38:12:crypto_ctr_setkey	32	static
+ctr.c:458:20:crypto_ctr_module_exit	32	static
+ctr.c:239:13:crypto_ctr_free	32	static
+ctr.c:423:13:crypto_rfc3686_free	32	static
+ctr.c:127:12:crypto_ctr_crypt	240	dynamic
+ctr.c:278:12:crypto_rfc3686_crypt	16	static
+ctr.c:252:12:crypto_rfc3686_setkey	32	static
+ctr.c:174:13:crypto_ctr_exit_tfm	16	static
+ctr.c:329:13:crypto_rfc3686_exit_tfm	16	static
+ctr.c:158:12:crypto_ctr_init_tfm	32	static
+ctr.c:306:12:crypto_rfc3686_init_tfm	32	static
+ctr.c:336:32:crypto_rfc3686_alloc	80	static
+ctr.c:181:32:crypto_ctr_alloc	32	static
+ctr.c:438:19:crypto_ctr_module_init	48	static

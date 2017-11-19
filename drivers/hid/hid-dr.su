@@ -1,0 +1,4 @@
+hid-dr.c:237:14:dr_report_fixup	0	static
+hid-dr.c:298:1:dr_driver_init	16	static
+hid-dr.c:251:12:dr_probe	32	static
+hid-dr.c:298:1:dr_driver_exit	16	static

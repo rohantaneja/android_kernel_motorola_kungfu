@@ -1,0 +1,3 @@
+smp_spin_table.c:106:12:smp_spin_table_cpu_boot	16	static
+smp_spin_table.c:67:12:smp_spin_table_cpu_prepare	32	static
+smp_spin_table.c:51:12:smp_spin_table_cpu_init	32	static

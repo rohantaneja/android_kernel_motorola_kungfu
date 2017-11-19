@@ -1,0 +1,7 @@
+ioctl.c:85:5:fiemap_fill_next_extent	112	static
+ioctl.c:138:5:fiemap_check_flags	0	static
+ioctl.c:250:5:__generic_block_fiemap	240	static
+ioctl.c:404:5:generic_block_fiemap	64	static
+ioctl.c:425:5:ioctl_preallocate	80	static
+ioctl.c:546:5:do_vfs_ioctl	144	static
+ioctl.c:604:1:SyS_ioctl	64	static

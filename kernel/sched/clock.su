@@ -1,0 +1,5 @@
+clock.c:70:27:sched_clock	0	static
+clock.c:396:6:sched_clock_init	0	static
+clock.c:401:5:sched_clock_cpu	16	static
+clock.c:409:5:cpu_clock	16	static
+clock.c:414:5:local_clock	16	static

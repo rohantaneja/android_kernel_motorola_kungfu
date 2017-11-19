@@ -1,0 +1,4 @@
+stacktrace.c:14:6:print_stack_trace	64	static
+stacktrace.c:28:5:snprint_stack_trace	80	static
+stacktrace.c:66:1:save_stack_trace_tsk	32	static
+stacktrace.c:72:1:save_stack_trace_regs	32	static

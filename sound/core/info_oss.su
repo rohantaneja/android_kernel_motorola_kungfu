@@ -1,0 +1,5 @@
+info_oss.c:70:12:snd_sndstat_show_strings	112	static
+info_oss.c:93:13:snd_sndstat_proc_read	32	static
+info_oss.c:42:5:snd_oss_info_register	64	static
+info_oss.c:115:5:snd_info_minor_register	32	static
+info_oss.c:131:5:snd_info_minor_unregister	32	static

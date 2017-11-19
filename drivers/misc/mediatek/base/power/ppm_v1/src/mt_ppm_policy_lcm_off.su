@@ -1,0 +1,9 @@
+mt_ppm_policy_lcm_off.c:52:29:ppm_lcmoff_get_power_state_cb	0	static
+mt_ppm_policy_lcm_off.c:98:13:ppm_lcmoff_switch	64	static
+mt_ppm_policy_lcm_off.c:57:13:ppm_lcmoff_update_limit_cb	64	static
+mt_ppm_policy_lcm_off.c:89:13:ppm_lcmoff_mode_change_cb	48	static
+mt_ppm_policy_lcm_off.c:80:13:ppm_lcmoff_status_change_cb	48	static
+mt_ppm_policy_lcm_off.c:132:12:ppm_lcmoff_fb_notifier_callback	64	static
+mt_ppm_policy_lcm_off.c:194:20:ppm_lcmoff_policy_exit	32	static
+mt_ppm_policy_lcm_off.c:168:19:ppm_lcmoff_policy_init	48	static
+mt_ppm_policy_lcm_off.c:41:6:ppm_lcmoff_is_policy_activated	32	static

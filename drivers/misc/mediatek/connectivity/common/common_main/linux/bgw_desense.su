@@ -1,0 +1,4 @@
+bgw_desense.c:32:6:bgw_destroy_netlink_kernel	32	static
+bgw_desense.c:43:6:send_command_to_daemon	48	static
+bgw_desense.c:100:13:nl_data_handler	208	static
+bgw_desense.c:138:5:bgw_init_socket	80	static

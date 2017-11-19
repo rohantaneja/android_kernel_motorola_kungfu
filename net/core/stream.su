@@ -1,0 +1,6 @@
+stream.c:28:6:sk_stream_write_space	48	static
+stream.c:55:5:sk_stream_wait_connect	144	static
+stream.c:95:6:sk_stream_wait_close	112	static
+stream.c:117:5:sk_stream_wait_memory	128	static
+stream.c:176:5:sk_stream_error	32	static
+stream.c:186:6:sk_stream_kill_queues	32	static

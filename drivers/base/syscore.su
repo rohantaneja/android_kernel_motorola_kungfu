@@ -1,0 +1,5 @@
+syscore.c:23:6:register_syscore_ops	32	static
+syscore.c:35:6:unregister_syscore_ops	32	static
+syscore.c:49:5:syscore_suspend	112	static
+syscore.c:96:6:syscore_resume	80	static
+syscore.c:120:6:syscore_shutdown	64	static

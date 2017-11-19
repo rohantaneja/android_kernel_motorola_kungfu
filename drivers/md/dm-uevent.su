@@ -1,0 +1,4 @@
+dm-uevent.c:134:6:dm_send_uevents	96	static
+dm-uevent.c:183:6:dm_path_uevent	96	static
+dm-uevent.c:205:5:dm_uevent_init	16	static
+dm-uevent.c:216:6:dm_uevent_exit	16	static

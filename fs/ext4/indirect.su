@@ -1,0 +1,13 @@
+indirect.c:72:12:ext4_block_to_path	48	static
+indirect.c:142:18:ext4_get_branch	80	static
+indirect.c:863:18:ext4_find_shared	80	static
+indirect.c:804:12:try_to_extend_transaction	16	static
+indirect.c:923:12:ext4_clear_blocks	96	static
+indirect.c:997:13:ext4_free_data.part.8	96	static
+indirect.c:1082:13:ext4_free_branches	112	static
+indirect.c:513:5:ext4_ind_map_blocks	400	static
+indirect.c:645:9:ext4_ind_direct_IO	144	static
+indirect.c:756:5:ext4_ind_calc_metadata_amount	0	static
+indirect.c:782:5:ext4_ind_trans_blocks	0	static
+indirect.c:1194:6:ext4_ind_truncate	208	static
+indirect.c:1306:5:ext4_ind_remove_space	368	static

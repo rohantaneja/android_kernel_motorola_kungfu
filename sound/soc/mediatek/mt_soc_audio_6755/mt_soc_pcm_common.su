@@ -1,0 +1,2 @@
+mt_soc_pcm_common.c:42:15:audio_frame_to_bytes	0	static
+mt_soc_pcm_common.c:59:15:audio_bytes_to_frame	0	static

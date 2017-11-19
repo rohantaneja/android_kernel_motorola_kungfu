@@ -1,0 +1,9 @@
+wmt_ic_6628.c:1152:21:mt6628_quick_sleep_flag_get	0	static
+wmt_ic_6628.c:1158:21:mt6628_aee_dump_flag_get	0	static
+wmt_ic_6628.c:1171:14:mt6628_ver_check	96	static
+wmt_ic_6628.c:947:14:mt6628_sw_deinit	32	static
+wmt_ic_6628.c:1566:14:mt6628_patch_dwn	384	static
+wmt_ic_6628.c:1426:14:mt6628_crystal_triming_set	240	static
+wmt_ic_6628.c:666:14:mt6628_sw_init	496	static
+wmt_ic_6628.c:1136:7:mt6628_co_clock_ctrl	32	static
+wmt_ic_6628.c:1102:14:mt6628_pin_ctrl	80	static

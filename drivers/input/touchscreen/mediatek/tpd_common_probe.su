@@ -1,0 +1,2 @@
+tpd_common_probe.c:22:20:tpd_probe_exit	16	static
+tpd_common_probe.c:16:19:tpd_probe_init	16	static

@@ -1,0 +1,2 @@
+runtime.c:1419:5:pm_runtime_force_suspend	16	static
+runtime.c:1465:5:pm_runtime_force_resume	16	static

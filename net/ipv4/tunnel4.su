@@ -1,0 +1,8 @@
+tunnel4.c:128:13:tunnel4_err	48	static
+tunnel4.c:138:13:tunnel64_err	48	static
+tunnel4.c:180:20:tunnel4_fini	32	static
+tunnel4.c:90:12:tunnel4_rcv	32	static
+tunnel4.c:109:12:tunnel64_rcv	32	static
+tunnel4.c:164:19:tunnel4_init	32	static
+tunnel4.c:26:5:xfrm4_tunnel_register	48	static
+tunnel4.c:58:5:xfrm4_tunnel_deregister	48	static

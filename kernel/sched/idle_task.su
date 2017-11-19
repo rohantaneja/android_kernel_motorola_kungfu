@@ -1,0 +1,11 @@
+idle_task.c:12:1:select_task_rq_idle	0	static
+idle_task.c:27:1:pick_next_task_idle	32	static
+idle_task.c:54:13:task_tick_idle	0	static
+idle_task.c:58:13:set_curr_task_idle	0	static
+idle_task.c:73:21:get_rr_interval_idle	0	static
+idle_task.c:78:13:update_curr_idle	0	static
+idle_task.c:68:1:prio_changed_idle	16	static
+idle_task.c:62:13:switched_to_idle	16	static
+idle_task.c:48:13:put_prev_task_idle	16	static
+idle_task.c:21:13:check_preempt_curr_idle	16	static
+idle_task.c:40:1:dequeue_task_idle	32	static

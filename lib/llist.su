@@ -1,0 +1,3 @@
+llist.c:39:6:llist_add_batch	0	static
+llist.c:66:20:llist_del_first	0	static
+llist.c:92:20:llist_reverse_order	0	static

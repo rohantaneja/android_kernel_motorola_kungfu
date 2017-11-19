@@ -1,0 +1,4 @@
+wmt_plat_stub.c:115:21:wmt_plat_get_drv_status	16	static
+wmt_plat_stub.c:109:20:wmt_plat_thremal_query	16	static
+wmt_plat_stub.c:101:13:wmt_plat_func_ctrl	16	static
+wmt_plat_stub.c:121:7:wmt_plat_stub_init	80	static

@@ -1,0 +1,14 @@
+clk-mux.c:165:12:mtk_mux_upd_is_enabled	0	static
+clk-mux.c:175:12:mtk_mux_clr_set_upd_is_enabled	0	static
+clk-mux.c:185:11:mtk_mux_upd_get_parent	32	static
+clk-mux.c:201:11:mtk_mux_clr_set_upd_get_parent	32	static
+clk-mux.c:217:12:mtk_mux_upd_set_parent	48	static
+clk-mux.c:246:12:mtk_mux_clr_set_upd_set_parent	48	static
+clk-mux.c:117:13:mtk_mux_upd_disable	32	static
+clk-mux.c:65:12:mtk_mux_upd_enable	32	static
+clk-mux.c:141:13:mtk_mux_clr_set_upd_disable	32	static
+clk-mux.c:91:12:mtk_mux_clr_set_upd_enable	32	static
+clk-mux.c:306:21:mtk_clk_register_mux_upd	112	static
+clk-mux.c:348:13:mtk_clk_register_mux_upds	80	static
+clk-mux.c:371:21:mtk_clk_register_mux_clr_set_upd	112	static
+clk-mux.c:416:13:mtk_clk_register_mux_clr_set_upds	80	static

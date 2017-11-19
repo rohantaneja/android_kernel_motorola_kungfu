@@ -1,0 +1,6 @@
+devices.c:26:14:devinfo_start	0	static
+devices.c:33:14:devinfo_next	0	static
+devices.c:41:13:devinfo_stop	0	static
+devices.c:53:12:devinfo_open	16	static
+devices.c:6:12:devinfo_show	32	static
+devices.c:65:19:proc_devices_init	16	static

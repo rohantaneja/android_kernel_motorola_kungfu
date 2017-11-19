@@ -1,0 +1,13 @@
+datagram.c:43:12:__ip6_datagram_connect	208	static
+datagram.c:211:5:ip6_datagram_connect	48	static
+datagram.c:222:5:ip6_datagram_connect_v6_only	16	static
+datagram.c:232:6:ipv6_icmp_error	80	static
+datagram.c:267:6:ipv6_local_error	64	static
+datagram.c:306:6:ipv6_local_rxpmtu	48	static
+datagram.c:437:5:ipv6_recv_rxpmtu	112	static
+datagram.c:485:6:ip6_datagram_recv_common_ctl	48	static
+datagram.c:507:6:ip6_datagram_recv_specific_ctl	112	static
+datagram.c:344:5:ipv6_recv_error	160	static
+datagram.c:632:6:ip6_datagram_recv_ctl	48	static
+datagram.c:640:5:ip6_datagram_send_ctl	128	static
+datagram.c:917:6:ip6_dgram_sock_seq_show	304	static

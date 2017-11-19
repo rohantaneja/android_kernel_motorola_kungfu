@@ -1,0 +1,13 @@
+inotify_user.c:276:12:inotify_release	32	static
+inotify_user.c:112:21:inotify_poll	32	static
+inotify_user.c:508:13:inotify_free_mark	16	static
+inotify_user.c:796:19:inotify_user_setup	16	static
+inotify_user.c:367:35:inotify_idr_find_locked	32	static
+inotify_user.c:420:13:inotify_remove_from_idr	80	static
+inotify_user.c:288:13:inotify_ioctl	48	static
+inotify_user.c:223:16:inotify_read	208	static
+inotify_user.c:491:6:inotify_ignored_and_remove_idr	48	static
+inotify_user.c:670:1:SyS_inotify_init1	64	static
+inotify_user.c:695:1:sys_inotify_init	16	static
+inotify_user.c:700:1:SyS_inotify_add_watch	144	static
+inotify_user.c:756:1:SyS_inotify_rm_watch	64	static

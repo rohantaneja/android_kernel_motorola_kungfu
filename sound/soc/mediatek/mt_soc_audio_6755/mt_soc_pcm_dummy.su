@@ -1,0 +1,15 @@
+mt_soc_pcm_dummy.c:115:12:mtk_dummypcm_close	0	static
+mt_soc_pcm_dummy.c:166:12:mtk_pcm_hw_params	0	static
+mt_soc_pcm_dummy.c:153:21:mtk_pcm_page	16	static
+mt_soc_pcm_dummy.c:142:12:mtk_pcm_silence	16	static
+mt_soc_pcm_dummy.c:134:12:mtk_pcm_copy	16	static
+mt_soc_pcm_dummy.c:120:12:mtk_dummypcm_trigger	16	static
+mt_soc_pcm_dummy.c:160:12:mtk_pcm_prepare	16	static
+mt_soc_pcm_dummy.c:216:12:mtk_asoc_dummypcm_new	16	static
+mt_soc_pcm_dummy.c:225:12:mtk_afe_dummy_probe	16	static
+mt_soc_pcm_dummy.c:262:19:mtk_soc_dummy_platform_init	16	static
+mt_soc_pcm_dummy.c:232:12:mtk_afedummy_remove	32	static
+mt_soc_pcm_dummy.c:200:12:mtk_dummy_probe	32	static
+mt_soc_pcm_dummy.c:175:12:mtk_dummy_pcm_hw_free	16	static
+mt_soc_pcm_dummy.c:77:12:mtk_pcm_open	48	static
+mt_soc_pcm_dummy.c:285:20:mtk_soc_dummy_platform_exit	16	static

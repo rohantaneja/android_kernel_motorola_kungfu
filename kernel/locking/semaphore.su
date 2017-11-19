@@ -1,0 +1,11 @@
+semaphore.c:236:30:__down	96	static
+semaphore.c:241:29:__down_interruptible	96	static
+semaphore.c:246:29:__down_killable	96	static
+semaphore.c:251:29:__down_timeout	96	static
+semaphore.c:256:30:__up.isra.0	16	static
+semaphore.c:53:6:down	48	static
+semaphore.c:75:5:down_interruptible	48	static
+semaphore.c:101:5:down_killable	48	static
+semaphore.c:130:5:down_trylock	32	static
+semaphore.c:155:5:down_timeout	64	static
+semaphore.c:178:6:up	48	static

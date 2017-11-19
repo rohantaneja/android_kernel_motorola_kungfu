@@ -1,0 +1,12 @@
+stp_uart.c:255:13:stp_uart_tty_wakeup	0	static
+stp_uart.c:611:16:stp_uart_tty_read	0	static
+stp_uart.c:617:16:stp_uart_tty_write	0	static
+stp_uart.c:623:15:stp_uart_tty_poll	0	static
+stp_uart.c:241:13:stp_uart_tty_close	16	static
+stp_uart.c:208:14:stp_uart_tty_open	32	static
+stp_uart.c:628:7:mtk_wcn_uart_tx	128	static
+stp_uart.c:322:13:stp_uart_rx_handling	48	static
+stp_uart.c:348:13:stp_uart_tty_receive	64	static
+stp_uart.c:586:14:stp_uart_tty_ioctl	16	static
+stp_uart.c:852:7:mtk_wcn_stp_uart_drv_init	64	static
+stp_uart.c:859:6:mtk_wcn_stp_uart_drv_exit	32	static

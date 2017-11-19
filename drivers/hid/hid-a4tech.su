@@ -1,0 +1,5 @@
+hid-a4tech.c:136:1:a4_driver_init	16	static
+hid-a4tech.c:35:12:a4_input_mapped	48	static
+hid-a4tech.c:50:12:a4_event	16	static
+hid-a4tech.c:88:12:a4_probe	48	static
+hid-a4tech.c:136:1:a4_driver_exit	16	static

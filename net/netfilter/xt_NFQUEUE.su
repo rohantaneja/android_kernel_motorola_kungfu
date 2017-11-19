@@ -1,0 +1,7 @@
+xt_NFQUEUE.c:31:1:nfqueue_tg	0	static
+xt_NFQUEUE.c:39:1:nfqueue_tg_v1	0	static
+xt_NFQUEUE.c:52:1:nfqueue_tg_v2	32	static
+xt_NFQUEUE.c:154:20:nfqueue_tg_exit	16	static
+xt_NFQUEUE.c:88:1:nfqueue_tg_v3	32	static
+xt_NFQUEUE.c:62:12:nfqueue_tg_check	48	static
+xt_NFQUEUE.c:149:19:nfqueue_tg_init	16	static

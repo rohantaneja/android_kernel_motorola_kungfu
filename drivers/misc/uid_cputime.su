@@ -1,0 +1,8 @@
+uid_cputime.c:48:26:find_uid_entry	0	static
+uid_cputime.c:152:12:uid_stat_open	32	static
+uid_cputime.c:164:12:uid_remove_open	16	static
+uid_cputime.c:169:16:uid_remove_write	208	static
+uid_cputime.c:58:26:find_or_register_uid.part.3	32	static
+uid_cputime.c:79:12:uid_stat_show	144	static
+uid_cputime.c:251:19:proc_uid_cputime_init	32	static
+uid_cputime.c:217:12:process_notifier	64	static

@@ -1,0 +1,17 @@
+dm-io.c:174:13:list_get_page	0	static
+dm-io.c:185:13:list_next_page	0	static
+dm-io.c:203:13:bio_get_page	0	static
+dm-io.c:212:13:bio_next_page	0	static
+dm-io.c:238:13:vm_next_page	0	static
+dm-io.c:255:13:km_get_page	0	static
+dm-io.c:263:13:km_next_page	0	static
+dm-io.c:230:13:vm_get_page	64	static
+dm-io.c:395:13:sync_io_complete	16	static
+dm-io.c:128:13:dec_count	48	static
+dm-io.c:137:13:endio	48	static
+dm-io.c:361:13:dispatch_io.constprop	208	static
+dm-io.c:48:22:dm_io_client_create	32	static
+dm-io.c:75:6:dm_io_client_destroy	32	static
+dm-io.c:508:5:dm_io	160	static
+dm-io.c:527:12:dm_io_init	16	static
+dm-io.c:536:6:dm_io_exit	32	static

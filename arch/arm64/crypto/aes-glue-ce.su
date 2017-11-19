@@ -1,0 +1,10 @@
+aes-glue.c:437:20:aes_exit	16	static
+aes-glue.c:254:12:xts_decrypt	192	static
+aes-glue.c:230:12:xts_encrypt	192	static
+aes-glue.c:76:12:xts_set_key	48	static
+aes-glue.c:183:12:ctr_encrypt	224	static
+aes-glue.c:160:12:cbc_decrypt	176	static
+aes-glue.c:137:12:cbc_encrypt	176	static
+aes-glue.c:115:12:ecb_decrypt	176	static
+aes-glue.c:93:12:ecb_encrypt	176	static
+aes-glue.c:443:1:cpu_feature_match_AES_init	16	static

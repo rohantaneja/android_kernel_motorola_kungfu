@@ -1,0 +1,8 @@
+mt_ppm_policy_pwr_thro.c:149:6:ppm_pwrthro_low_bat_protect	48	static
+mt_ppm_policy_pwr_thro.c:112:13:ppm_pwrthro_bat_oc_protect	48	static
+mt_ppm_policy_pwr_thro.c:75:13:ppm_pwrthro_bat_per_protect	48	static
+mt_ppm_policy_pwr_thro.c:65:13:ppm_pwrthro_mode_change_cb	48	static
+mt_ppm_policy_pwr_thro.c:56:13:ppm_pwrthro_status_change_cb	48	static
+mt_ppm_policy_pwr_thro.c:41:13:ppm_pwrthro_update_limit_cb	48	static
+mt_ppm_policy_pwr_thro.c:220:20:ppm_pwrthro_policy_exit	32	static
+mt_ppm_policy_pwr_thro.c:188:19:ppm_pwrthro_policy_init	48	static

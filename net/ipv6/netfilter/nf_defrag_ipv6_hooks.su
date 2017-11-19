@@ -1,0 +1,4 @@
+nf_defrag_ipv6_hooks.c:126:20:nf_defrag_fini	16	static
+nf_defrag_ipv6_hooks.c:104:19:nf_defrag_init	32	static
+nf_defrag_ipv6_hooks.c:55:21:ipv6_defrag	64	static
+nf_defrag_ipv6_hooks.c:132:6:nf_defrag_ipv6_enable	0	static

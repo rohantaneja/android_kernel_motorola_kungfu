@@ -1,0 +1,7 @@
+pcm_timer.c:65:22:snd_pcm_timer_resolution	0	static
+pcm_timer.c:73:12:snd_pcm_timer_start	0	static
+pcm_timer.c:82:12:snd_pcm_timer_stop	0	static
+pcm_timer.c:105:13:snd_pcm_timer_free	0	static
+pcm_timer.c:32:6:snd_pcm_timer_resolution_change	80	static
+pcm_timer.c:111:6:snd_pcm_timer_init	64	static
+pcm_timer.c:137:6:snd_pcm_timer_done	32	static

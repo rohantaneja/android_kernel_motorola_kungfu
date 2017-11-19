@@ -1,0 +1,9 @@
+crc32c_generic.c:61:12:chksum_init	0	static
+crc32c_generic.c:76:12:chksum_setkey	0	static
+crc32c_generic.c:98:12:chksum_final	0	static
+crc32c_generic.c:128:12:crc32c_cra_init	0	static
+crc32c_generic.c:162:20:crc32c_mod_fini	16	static
+crc32c_generic.c:89:12:chksum_update	32	static
+crc32c_generic.c:157:19:crc32c_mod_init	16	static
+crc32c_generic.c:120:12:chksum_digest	32	static
+crc32c_generic.c:112:12:chksum_finup	32	static

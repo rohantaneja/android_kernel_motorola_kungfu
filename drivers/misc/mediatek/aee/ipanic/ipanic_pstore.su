@@ -1,0 +1,6 @@
+ipanic_pstore.c:33:6:ipanic_kmsg_hdr	48	static
+ipanic_pstore.c:49:6:ipanic_kmsg_init	32	static
+ipanic_pstore.c:65:6:ipanic_kmsg_hdr_write	16	static
+ipanic_pstore.c:70:6:ipanic_kmsg_next	32	static
+ipanic_pstore.c:97:5:ipanic_kmsg_write	48	static
+ipanic_pstore.c:113:5:ipanic_kmsg_get_next	80	static

@@ -1,0 +1,10 @@
+xfrm6_state.c:94:12:__xfrm6_state_sort_cmp	0	static
+xfrm6_state.c:131:12:__xfrm6_tmpl_sort_cmp	0	static
+xfrm6_state.c:44:1:xfrm6_init_temprop	0	static
+xfrm6_state.c:24:1:__xfrm6_init_tempsel	0	static
+xfrm6_state.c:60:1:__xfrm6_sort	128	dynamic
+xfrm6_state.c:117:1:__xfrm6_state_sort	16	static
+xfrm6_state.c:150:1:__xfrm6_tmpl_sort	16	static
+xfrm6_state.c:156:5:xfrm6_extract_header	0	static
+xfrm6_state.c:189:12:xfrm6_state_init	16	static
+xfrm6_state.c:194:6:xfrm6_state_fini	16	static

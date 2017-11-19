@@ -1,0 +1,5 @@
+mmio.c:23:9:clocksource_mmio_readl_up	0	static
+mmio.c:28:9:clocksource_mmio_readl_down	0	static
+mmio.c:33:9:clocksource_mmio_readw_up	0	static
+mmio.c:38:9:clocksource_mmio_readw_down	0	static
+mmio.c:52:12:clocksource_mmio_init	80	static

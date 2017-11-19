@@ -1,0 +1,15 @@
+klist.c:184:13:klist_release	64	static
+klist.c:210:13:klist_put	48	static
+klist.c:109:13:klist_node_init	32	static
+klist.c:85:6:klist_init	0	static
+klist.c:123:6:klist_add_head	32	static
+klist.c:135:6:klist_add_tail	32	static
+klist.c:147:6:klist_add_behind	48	static
+klist.c:163:6:klist_add_before	48	static
+klist.c:229:6:klist_del	16	static
+klist.c:239:6:klist_remove	96	static
+klist.c:266:5:klist_node_attached	0	static
+klist.c:281:6:klist_iter_init_node	0	static
+klist.c:298:6:klist_iter_init	0	static
+klist.c:312:6:klist_iter_exit	32	static
+klist.c:334:20:klist_next	64	static

@@ -1,0 +1,2 @@
+maccess.c:21:6:__probe_kernel_read	48	static
+maccess.c:49:6:__probe_kernel_write	48	static

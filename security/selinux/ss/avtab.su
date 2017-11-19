@@ -1,0 +1,16 @@
+avtab.c:36:1:avtab_insert_node.isra.1	96	static
+avtab.c:557:12:avtab_insertf	16	static
+avtab.c:116:1:avtab_insert_nonunique	16	static
+avtab.c:146:21:avtab_search	0	static
+avtab.c:181:1:avtab_search_node	0	static
+avtab.c:212:1:avtab_search_node_next	0	static
+avtab.c:240:6:avtab_destroy	64	static
+avtab.c:266:5:avtab_init	0	static
+avtab.c:273:5:avtab_alloc	48	static
+avtab.c:307:6:avtab_hash_eval	16	static
+avtab.c:376:5:avtab_read_item	192	static
+avtab.c:563:5:avtab_read	80	static
+avtab.c:607:5:avtab_write_item	32	static
+avtab.c:649:5:avtab_write	64	static
+avtab.c:671:6:avtab_cache_init	32	static
+avtab.c:681:6:avtab_cache_destroy	32	static

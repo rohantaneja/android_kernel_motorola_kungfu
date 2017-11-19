@@ -1,0 +1,10 @@
+misc.c:77:13:misc_seq_stop	16	static
+misc.c:112:12:misc_open	64	static
+misc.c:257:14:misc_devnode	16	static
+misc.c:98:12:misc_seq_open	16	static
+misc.c:82:12:misc_seq_show	16	static
+misc.c:72:14:misc_seq_next	16	static
+misc.c:66:14:misc_seq_start	48	static
+misc.c:268:19:misc_init	48	static
+misc.c:178:5:misc_register	64	static
+misc.c:238:5:misc_deregister	48	static

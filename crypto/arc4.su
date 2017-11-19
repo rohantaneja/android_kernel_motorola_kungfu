@@ -1,0 +1,6 @@
+arc4.c:29:12:arc4_set_key	0	static
+arc4.c:53:13:arc4_crypt	0	static
+arc4.c:90:13:arc4_crypt_one	16	static
+arc4.c:158:20:arc4_exit	16	static
+arc4.c:95:12:ecb_arc4_crypt	160	static
+arc4.c:153:19:arc4_init	16	static

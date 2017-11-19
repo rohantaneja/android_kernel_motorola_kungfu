@@ -1,0 +1,12 @@
+ah6.c:751:12:ah6_rcv_cb	0	static
+ah6.c:298:13:ah6_output_done	96	static
+ah6.c:60:14:ah_alloc_tmp	16	static
+ah6.c:465:13:ah6_input_done	96	static
+ah6.c:740:13:ah6_destroy	32	static
+ah6.c:646:12:ah6_err	64	static
+ah6.c:791:20:ah6_fini	32	static
+ah6.c:255:12:ipv6_clear_mutable_options	96	static
+ah6.c:333:12:ah6_output	208	static
+ah6.c:501:12:ah6_input	192	static
+ah6.c:671:12:ah6_init_state	48	static
+ah6.c:775:19:ah6_init	32	static

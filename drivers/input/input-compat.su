@@ -1,0 +1,3 @@
+input-compat.c:17:5:input_event_from_user	48	static
+input-compat.c:41:5:input_event_to_user	48	static
+input-compat.c:65:5:input_ff_effect_from_user	32	static

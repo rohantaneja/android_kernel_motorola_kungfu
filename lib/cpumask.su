@@ -1,0 +1,5 @@
+cpumask.c:8:5:__first_cpu	16	static
+cpumask.c:14:5:__next_cpu	16	static
+cpumask.c:37:5:cpumask_next_and	48	static
+cpumask.c:55:5:cpumask_any_but	48	static
+cpumask.c:183:5:cpumask_set_cpu_local_first	80	static

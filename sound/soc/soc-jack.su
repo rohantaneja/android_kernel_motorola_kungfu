@@ -1,0 +1,12 @@
+soc-jack.c:260:20:gpio_handler	64	static
+soc-jack.c:37:5:snd_soc_jack_new	64	static
+soc-jack.c:64:6:snd_soc_jack_report	64	static
+soc-jack.c:277:13:gpio_work	48	static
+soc-jack.c:124:5:snd_soc_jack_add_zones	0	static
+soc-jack.c:147:5:snd_soc_jack_get_type	0	static
+soc-jack.c:171:5:snd_soc_jack_add_pins	16	static
+soc-jack.c:214:6:snd_soc_jack_notifier_register	16	static
+soc-jack.c:229:6:snd_soc_jack_notifier_unregister	16	static
+soc-jack.c:413:6:snd_soc_jack_free_gpios	48	static
+soc-jack.c:295:5:snd_soc_jack_add_gpios	96	static
+soc-jack.c:391:5:snd_soc_jack_add_gpiods	16	static

@@ -1,0 +1,9 @@
+res_counter.c:53:12:__res_counter_charge	96	static
+res_counter.c:17:6:res_counter_init	0	static
+res_counter.c:87:5:res_counter_charge	16	static
+res_counter.c:93:5:res_counter_charge_nofail	16	static
+res_counter.c:99:5:res_counter_uncharge_until	80	static
+res_counter.c:120:5:res_counter_uncharge	16	static
+res_counter.c:145:9:res_counter_read	112	static
+res_counter.c:175:5:res_counter_read_u64	16	static
+res_counter.c:181:5:res_counter_memparse_write_strategy	48	static

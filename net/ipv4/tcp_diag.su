@@ -1,0 +1,6 @@
+tcp_diag.c:79:20:tcp_diag_exit	16	static
+tcp_diag.c:51:12:tcp_diag_destroy	16	static
+tcp_diag.c:21:13:tcp_diag_get_info	16	static
+tcp_diag.c:44:12:tcp_diag_dump_one	16	static
+tcp_diag.c:38:13:tcp_diag_dump	16	static
+tcp_diag.c:74:19:tcp_diag_init	16	static

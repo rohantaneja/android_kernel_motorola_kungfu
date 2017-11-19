@@ -1,0 +1,14 @@
+mt_ppm_policy_perfserv.c:70:13:ppm_perfserv_update_limit_cb	64	static
+mt_ppm_policy_perfserv.c:61:29:ppm_perfserv_get_power_state_cb	16	static
+mt_ppm_policy_perfserv.c:201:1:ppm_perfserv_max_perf_idx_proc_open	32	static
+mt_ppm_policy_perfserv.c:200:1:ppm_perfserv_min_perf_idx_proc_open	32	static
+mt_ppm_policy_perfserv.c:199:1:ppm_perfserv_perf_idx_proc_open	32	static
+mt_ppm_policy_perfserv.c:192:12:ppm_perfserv_max_perf_idx_proc_show	32	static
+mt_ppm_policy_perfserv.c:182:12:ppm_perfserv_min_perf_idx_proc_show	32	static
+mt_ppm_policy_perfserv.c:141:12:ppm_perfserv_perf_idx_proc_show	16	static
+mt_ppm_policy_perfserv.c:203:19:ppm_perfserv_policy_init	112	static
+mt_ppm_policy_perfserv.c:132:13:ppm_perfserv_mode_change_cb	48	static
+mt_ppm_policy_perfserv.c:123:13:ppm_perfserv_status_change_cb	48	static
+mt_ppm_policy_perfserv.c:243:20:ppm_perfserv_policy_exit	32	static
+mt_ppm_policy_perfserv.c:50:6:ppm_perfserv_is_policy_active	0	static
+mt_ppm_policy_perfserv.c:148:16:ppm_perfserv_perf_idx_proc_write	80	static

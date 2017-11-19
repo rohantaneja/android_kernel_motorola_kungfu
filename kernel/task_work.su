@@ -1,0 +1,3 @@
+task_work.c:25:1:task_work_add	32	static
+task_work.c:53:1:task_work_cancel	48	static
+task_work.c:85:6:task_work_run	48	static

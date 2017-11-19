@@ -1,0 +1,9 @@
+blk-iopoll.c:213:19:blk_iopoll_setup	48	static
+blk-iopoll.c:189:12:blk_iopoll_cpu_notify	48	static
+blk-iopoll.c:30:6:blk_iopoll_sched	48	static
+blk-iopoll.c:49:6:__blk_iopoll_complete	16	static
+blk-iopoll.c:77:13:blk_iopoll_softirq	64	static
+blk-iopoll.c:67:6:blk_iopoll_complete	32	static
+blk-iopoll.c:144:6:blk_iopoll_disable	32	static
+blk-iopoll.c:161:6:blk_iopoll_enable	16	static
+blk-iopoll.c:179:6:blk_iopoll_init	16	static

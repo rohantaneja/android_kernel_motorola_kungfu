@@ -1,0 +1,11 @@
+sch_ingress.c:25:22:ingress_leaf	0	static
+sch_ingress.c:30:22:ingress_get	0	static
+sch_ingress.c:35:22:ingress_bind_filter	0	static
+sch_ingress.c:41:13:ingress_put	0	static
+sch_ingress.c:45:13:ingress_walk	0	static
+sch_ingress.c:49:33:ingress_find_tcf	0	static
+sch_ingress.c:137:20:ingress_module_exit	16	static
+sch_ingress.c:98:12:ingress_dump	48	static
+sch_ingress.c:91:13:ingress_destroy	16	static
+sch_ingress.c:59:12:ingress_enqueue	48	static
+sch_ingress.c:132:19:ingress_module_init	16	static

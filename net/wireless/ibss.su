@@ -1,0 +1,7 @@
+ibss.c:156:13:__cfg80211_clear_ibss.isra.0	96	static
+ibss.c:17:6:__cfg80211_ibss_joined	48	static
+ibss.c:57:6:cfg80211_ibss_joined	80	static
+ibss.c:139:5:cfg80211_join_ibss	80	static
+ibss.c:191:6:cfg80211_clear_ibss	32	static
+ibss.c:200:5:__cfg80211_leave_ibss	48	static
+ibss.c:221:5:cfg80211_leave_ibss	64	static

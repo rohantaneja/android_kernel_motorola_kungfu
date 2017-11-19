@@ -1,0 +1,10 @@
+ecb.c:25:12:crypto_ecb_setkey	32	static
+ecb.c:178:20:crypto_ecb_module_exit	16	static
+ecb.c:160:13:crypto_ecb_free	32	static
+ecb.c:41:12:crypto_ecb_crypt	96	static
+ecb.c:83:12:crypto_ecb_decrypt	144	static
+ecb.c:69:12:crypto_ecb_encrypt	144	static
+ecb.c:112:13:crypto_ecb_exit_tfm	16	static
+ecb.c:97:12:crypto_ecb_init_tfm	32	static
+ecb.c:173:19:crypto_ecb_module_init	16	static
+ecb.c:118:32:crypto_ecb_alloc	32	static

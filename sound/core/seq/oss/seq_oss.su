@@ -1,0 +1,10 @@
+seq_oss.c:244:1:unregister_device	32	static
+seq_oss.c:140:1:odev_release	32	static
+seq_oss.c:123:1:odev_open	48	static
+seq_oss.c:263:1:info_read	32	static
+seq_oss.c:176:1:odev_ioctl	16	static
+seq_oss.c:192:1:odev_poll	16	static
+seq_oss.c:166:1:odev_write	16	static
+seq_oss.c:155:1:odev_read	16	static
+seq_oss.c:105:20:alsa_seq_oss_exit	32	static
+seq_oss.c:68:19:alsa_seq_oss_init	48	static

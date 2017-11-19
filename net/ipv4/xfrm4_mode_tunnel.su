@@ -1,0 +1,4 @@
+xfrm4_mode_tunnel.c:30:12:xfrm4_mode_tunnel_output	16	static
+xfrm4_mode_tunnel.c:71:12:xfrm4_mode_tunnel_input	48	static
+xfrm4_mode_tunnel.c:109:19:xfrm4_mode_tunnel_init	16	static
+xfrm4_mode_tunnel.c:114:20:xfrm4_mode_tunnel_exit	16	static

@@ -1,0 +1,5 @@
+wext-spy.c:26:5:iw_handler_set_spy	0	static
+wext-spy.c:74:5:iw_handler_get_spy	32	static
+wext-spy.c:110:5:iw_handler_set_thrspy	0	static
+wext-spy.c:137:5:iw_handler_get_thrspy	0	static
+wext-spy.c:192:6:wireless_spy_update	64	static

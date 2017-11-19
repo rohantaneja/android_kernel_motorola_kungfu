@@ -1,0 +1,15 @@
+seq_memory.c:136:12:seq_copy_in_user	32	static
+seq_memory.c:129:12:seq_copy_in_kernel	32	static
+seq_memory.c:222:12:snd_seq_cell_alloc.isra.0	128	static
+seq_memory.c:79:5:snd_seq_dump_var_event	112	static
+seq_memory.c:144:5:snd_seq_expand_var_event	48	static
+seq_memory.c:186:6:snd_seq_cell_free	48	static
+seq_memory.c:289:5:snd_seq_event_dup	144	static
+seq_memory.c:369:5:snd_seq_pool_poll_wait	32	static
+seq_memory.c:378:5:snd_seq_pool_init	48	static
+seq_memory.c:418:5:snd_seq_pool_done	64	static
+seq_memory.c:463:22:snd_seq_pool_new	32	static
+seq_memory.c:487:5:snd_seq_pool_delete	32	static
+seq_memory.c:500:12:snd_sequencer_memory_init	0	static
+seq_memory.c:506:13:snd_sequencer_memory_done	0	static
+seq_memory.c:512:6:snd_seq_info_pool	48	static

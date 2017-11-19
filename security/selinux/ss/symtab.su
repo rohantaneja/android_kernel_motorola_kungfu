@@ -1,0 +1,3 @@
+symtab.c:25:12:symcmp	16	static
+symtab.c:11:21:symhash	48	static
+symtab.c:35:5:symtab_init	32	static

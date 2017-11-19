@@ -1,0 +1,7 @@
+mount.c:105:23:configfs_do_mount	16	static
+mount.c:169:20:configfs_exit	32	static
+mount.c:134:19:configfs_init	32	static
+mount.c:69:12:configfs_fill_super	64	static
+mount.c:56:5:configfs_is_root	0	static
+mount.c:119:16:configfs_pin_fs	32	static
+mount.c:126:6:configfs_release_fs	16	static

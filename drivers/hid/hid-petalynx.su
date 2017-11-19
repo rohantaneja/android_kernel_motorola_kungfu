@@ -1,0 +1,5 @@
+hid-petalynx.c:106:1:pl_driver_init	16	static
+hid-petalynx.c:40:12:pl_input_mapping	16	static
+hid-petalynx.c:70:12:pl_probe	32	static
+hid-petalynx.c:106:1:pl_driver_exit	16	static
+hid-petalynx.c:25:14:pl_report_fixup	32	static

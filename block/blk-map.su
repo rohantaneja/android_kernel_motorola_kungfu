@@ -1,0 +1,6 @@
+blk-map.c:28:12:__blk_rq_unmap_user	16	static
+blk-map.c:12:5:blk_rq_append_bio	32	static
+blk-map.c:189:5:blk_rq_map_user_iov	64	static
+blk-map.c:253:5:blk_rq_unmap_user	48	static
+blk-map.c:110:5:blk_rq_map_user	96	static
+blk-map.c:289:5:blk_rq_map_kern	48	static

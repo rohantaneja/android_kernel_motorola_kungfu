@@ -1,0 +1,12 @@
+ccci_bm.c:444:13:__16_reload_work	64	static
+ccci_bm.c:430:13:__4K_reload_work	64	static
+ccci_bm.c:256:17:ccci_skb_dequeue	48	static
+ccci_bm.c:273:6:ccci_skb_enqueue	64	static
+ccci_bm.c:290:6:ccci_skb_queue_init	80	static
+ccci_bm.c:321:17:ccci_alloc_skb	112	static
+ccci_bm.c:369:6:ccci_free_skb	32	static
+ccci_bm.c:416:6:ccci_dump_skb_pool_usage	64	static
+ccci_bm.c:472:6:ccci_mem_dump	144	static
+ccci_bm.c:514:6:ccci_cmpt_mem_dump	336	static
+ccci_bm.c:563:6:ccci_dump_skb	16	static
+ccci_bm.c:568:5:ccci_subsys_bm_init	48	static

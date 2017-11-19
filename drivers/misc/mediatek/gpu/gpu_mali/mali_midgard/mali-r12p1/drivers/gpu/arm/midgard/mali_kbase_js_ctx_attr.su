@@ -1,0 +1,7 @@
+mali_kbase_js_ctx_attr.c:129:13:kbasep_js_ctx_attr_ctx_retain_attr	0	static
+mali_kbase_js_ctx_attr.c:166:13:kbasep_js_ctx_attr_ctx_release_attr	0	static
+mali_kbase_js_ctx_attr.c:196:6:kbasep_js_ctx_attr_set_initial_attrs	0	static
+mali_kbase_js_ctx_attr.c:221:6:kbasep_js_ctx_attr_runpool_retain_ctx	0	static
+mali_kbase_js_ctx_attr.c:240:6:kbasep_js_ctx_attr_runpool_release_ctx	0	static
+mali_kbase_js_ctx_attr.c:256:6:kbasep_js_ctx_attr_ctx_retain_atom	48	static
+mali_kbase_js_ctx_attr.c:280:6:kbasep_js_ctx_attr_ctx_release_atom	48	static

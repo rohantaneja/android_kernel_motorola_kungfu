@@ -1,0 +1,16 @@
+nf_conntrack_standalone.c:273:14:ct_cpu_seq_start	0	static
+nf_conntrack_standalone.c:291:14:ct_cpu_seq_next	0	static
+nf_conntrack_standalone.c:306:13:ct_cpu_seq_stop	0	static
+nf_conntrack_standalone.c:598:20:nf_conntrack_standalone_fini	16	static
+nf_conntrack_standalone.c:352:12:ct_cpu_seq_open	16	static
+nf_conntrack_standalone.c:259:12:ct_open	16	static
+nf_conntrack_standalone.c:310:12:ct_cpu_seq_show	112	static
+nf_conntrack_standalone.c:115:13:ct_seq_stop	16	static
+nf_conntrack_standalone.c:521:12:nf_conntrack_pernet_init	48	static
+nf_conntrack_standalone.c:565:19:nf_conntrack_standalone_init	32	static
+nf_conntrack_standalone.c:99:14:ct_seq_start	48	static
+nf_conntrack_standalone.c:549:13:nf_conntrack_pernet_exit	48	static
+nf_conntrack_standalone.c:109:14:ct_seq_next	0	static
+nf_conntrack_standalone.c:40:1:print_tuple	48	static
+nf_conntrack_standalone.c:173:12:ct_seq_show	48	static
+nf_conntrack_standalone.c:613:6:need_conntrack	0	static

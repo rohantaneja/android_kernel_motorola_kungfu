@@ -1,0 +1,17 @@
+eventfd.c:117:21:eventfd_poll	32	static
+eventfd.c:75:13:eventfd_free	16	static
+eventfd.c:290:12:eventfd_show_fdinfo	48	static
+eventfd.c:242:16:eventfd_write	96	static
+eventfd.c:54:7:eventfd_signal	64	static
+eventfd.c:88:21:eventfd_ctx_get	32	static
+eventfd.c:102:6:eventfd_ctx_put	16	static
+eventfd.c:108:12:eventfd_release	32	static
+eventfd.c:156:5:eventfd_ctx_remove_wait_queue	64	static
+eventfd.c:186:9:eventfd_ctx_read	128	static
+eventfd.c:226:16:eventfd_read	48	static
+eventfd.c:325:14:eventfd_fget	16	static
+eventfd.c:371:21:eventfd_ctx_fileget	16	static
+eventfd.c:350:21:eventfd_ctx_fdget	48	static
+eventfd.c:394:14:eventfd_file_create	48	static
+eventfd.c:423:1:SyS_eventfd2	48	static
+eventfd.c:448:1:SyS_eventfd	16	static

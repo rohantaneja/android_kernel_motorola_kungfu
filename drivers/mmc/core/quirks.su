@@ -1,0 +1,4 @@
+card.h:484:35:add_quirk	0	static
+card.h:489:35:remove_quirk	0	static
+quirks.c:41:13:add_quirk_for_sdio_devices	0	static
+quirks.c:72:6:mmc_fixup_device	96	static

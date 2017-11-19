@@ -1,0 +1,9 @@
+xcbc.c:279:20:crypto_xcbc_module_exit	16	static
+xcbc.c:61:12:crypto_xcbc_digest_setkey	64	dynamic
+xcbc.c:82:12:crypto_xcbc_digest_init	16	static
+xcbc.c:142:12:crypto_xcbc_digest_final	80	static
+xcbc.c:95:12:crypto_xcbc_digest_update	96	static
+xcbc.c:193:13:xcbc_exit_tfm	16	static
+xcbc.c:177:12:xcbc_init_tfm	32	static
+xcbc.c:274:19:crypto_xcbc_module_init	16	static
+xcbc.c:199:12:xcbc_create	64	static

@@ -1,0 +1,16 @@
+xfrm_algo.c:648:12:xfrm_alg_id_match	0	static
+xfrm_algo.c:619:31:xfrm_find_algo	80	static
+xfrm_algo.c:675:12:xfrm_alg_name_match	32	static
+xfrm_algo.c:710:12:xfrm_aead_name_match	16	static
+xfrm_algo.c:654:24:xfrm_aalg_get_byid	16	static
+xfrm_algo.c:661:24:xfrm_ealg_get_byid	16	static
+xfrm_algo.c:668:24:xfrm_calg_get_byid	16	static
+xfrm_algo.c:684:24:xfrm_aalg_get_byname	16	static
+xfrm_algo.c:691:24:xfrm_ealg_get_byname	16	static
+xfrm_algo.c:698:24:xfrm_calg_get_byname	16	static
+xfrm_algo.c:720:24:xfrm_aead_get_byname	32	static
+xfrm_algo.c:732:24:xfrm_aalg_get_byidx	0	static
+xfrm_algo.c:741:24:xfrm_ealg_get_byidx	0	static
+xfrm_algo.c:755:6:xfrm_probe_algs	48	static
+xfrm_algo.c:783:5:xfrm_count_pfkey_auth_supported	0	static
+xfrm_algo.c:794:5:xfrm_count_pfkey_enc_supported	0	static

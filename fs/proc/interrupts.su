@@ -1,0 +1,5 @@
+interrupts.c:11:14:int_seq_start	0	static
+interrupts.c:16:14:int_seq_next	0	static
+interrupts.c:24:13:int_seq_stop	0	static
+interrupts.c:36:12:interrupts_open	16	static
+interrupts.c:48:19:proc_interrupts_init	16	static

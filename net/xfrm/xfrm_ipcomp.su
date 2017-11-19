@@ -1,0 +1,6 @@
+xfrm_ipcomp.c:203:13:ipcomp_free_scratches	64	static
+xfrm_ipcomp.c:247:13:ipcomp_free_tfms	64	static
+xfrm_ipcomp.c:110:5:ipcomp_input	144	static
+xfrm_ipcomp.c:171:5:ipcomp_output	112	static
+xfrm_ipcomp.c:328:6:ipcomp_destroy	32	static
+xfrm_ipcomp.c:341:5:ipcomp_init_state	96	static

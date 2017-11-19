@@ -1,0 +1,13 @@
+audit_watch.c:510:19:audit_watch_init	16	static
+audit_watch.c:238:13:audit_watch_log_rule_change.isra.3.part.4	48	static
+audit_watch.c:75:13:audit_watch_free_mark	32	static
+audit_watch.c:111:6:audit_get_watch	0	static
+audit_watch.c:116:6:audit_put_watch	32	static
+audit_watch.c:126:13:audit_remove_watch	32	static
+audit_watch.c:258:13:audit_update_watch	96	static
+audit_watch.c:469:12:audit_watch_handle_event	112	static
+audit_watch.c:134:7:audit_watch_path	0	static
+audit_watch.c:139:5:audit_watch_compare	0	static
+audit_watch.c:189:5:audit_to_watch	48	static
+audit_watch.c:410:5:audit_add_watch	112	static
+audit_watch.c:450:6:audit_remove_watch_rule	32	static

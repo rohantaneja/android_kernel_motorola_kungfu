@@ -1,0 +1,6 @@
+aes_generic.c:1329:13:aes_encrypt	0	static
+aes_generic.c:1401:13:aes_decrypt	0	static
+aes_generic.c:1467:20:aes_fini	16	static
+aes_generic.c:1462:19:aes_init	16	static
+aes_generic.c:1216:5:crypto_aes_expand_key	0	static
+aes_generic.c:1282:5:crypto_aes_set_key	32	static

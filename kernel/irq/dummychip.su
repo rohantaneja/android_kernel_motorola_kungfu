@@ -1,0 +1,3 @@
+dummychip.c:28:13:noop	0	static
+dummychip.c:30:21:noop_ret	0	static
+dummychip.c:17:13:ack_bad	32	static

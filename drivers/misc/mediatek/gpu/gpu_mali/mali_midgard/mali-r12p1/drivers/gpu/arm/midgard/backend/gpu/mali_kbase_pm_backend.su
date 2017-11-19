@@ -1,0 +1,14 @@
+mali_kbase_pm_backend.c:35:6:kbase_pm_register_access_enable	32	static
+mali_kbase_pm_backend.c:47:6:kbase_pm_register_access_disable	32	static
+mali_kbase_pm_backend.c:59:5:kbase_hwaccess_pm_init	32	static
+mali_kbase_pm_backend.c:141:6:kbase_pm_do_poweron	32	static
+mali_kbase_pm_backend.c:160:6:kbase_pm_do_poweroff	64	static
+mali_kbase_pm_backend.c:202:5:kbase_hwaccess_pm_powerup	64	static
+mali_kbase_pm_backend.c:265:6:kbase_hwaccess_pm_halt	32	static
+mali_kbase_pm_backend.c:285:6:kbase_hwaccess_pm_term	32	static
+mali_kbase_pm_backend.c:299:6:kbase_pm_power_changed	64	static
+mali_kbase_pm_backend.c:324:6:kbase_pm_set_debug_core_mask	16	static
+mali_kbase_pm_backend.c:337:6:kbase_hwaccess_pm_gpu_active	16	static
+mali_kbase_pm_backend.c:342:6:kbase_hwaccess_pm_gpu_idle	16	static
+mali_kbase_pm_backend.c:347:6:kbase_hwaccess_pm_suspend	48	static
+mali_kbase_pm_backend.c:373:6:kbase_hwaccess_pm_resume	48	static

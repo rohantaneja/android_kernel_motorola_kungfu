@@ -1,0 +1,4 @@
+futex_compat.c:50:6:compat_exit_robust_list	112	static
+futex_compat.c:120:1:compat_SyS_set_robust_list	0	static
+futex_compat.c:135:1:compat_SyS_get_robust_list	64	static
+futex_compat.c:174:1:compat_SyS_futex	128	static

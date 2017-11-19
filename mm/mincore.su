@@ -1,0 +1,3 @@
+mincore.c:62:22:mincore_page	48	static
+mincore.c:97:13:mincore_unmapped_range	64	static
+mincore.c:268:1:SyS_mincore	208	static

@@ -1,0 +1,6 @@
+mmzone.c:13:21:first_online_pgdat	0	static
+mmzone.c:19:21:next_online_pgdat	0	static
+mmzone.c:32:14:next_zone	0	static
+mmzone.c:59:17:next_zones_zonelist	0	static
+mmzone.c:81:5:memmap_valid_within	0	static
+mmzone.c:94:6:lruvec_init	0	static

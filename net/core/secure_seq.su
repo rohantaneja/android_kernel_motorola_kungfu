@@ -1,0 +1,4 @@
+secure_seq.c:43:7:secure_tcpv6_sequence_number	144	static
+secure_seq.c:65:5:secure_ipv6_port_ephemeral	128	static
+secure_seq.c:89:7:secure_tcp_sequence_number	80	static
+secure_seq.c:105:5:secure_ipv4_port_ephemeral	64	static

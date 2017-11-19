@@ -1,0 +1,12 @@
+nf_conntrack_proto_icmpv6.c:73:13:icmpv6_invert_tuple	0	static
+nf_conntrack_proto_icmpv6.c:96:22:icmpv6_get_timeouts	0	static
+nf_conntrack_proto_icmpv6.c:259:12:icmpv6_nlattr_to_tuple	0	static
+nf_conntrack_proto_icmpv6.c:362:29:icmpv6_get_net_proto	0	static
+nf_conntrack_proto_icmpv6.c:279:12:icmpv6_nlattr_tuple_size	16	static
+nf_conntrack_proto_icmpv6.c:240:12:icmpv6_tuple_to_nlattr	48	static
+nf_conntrack_proto_icmpv6.c:87:12:icmpv6_print_tuple	16	static
+nf_conntrack_proto_icmpv6.c:37:13:icmpv6_pkt_to_tuple	48	static
+nf_conntrack_proto_icmpv6.c:119:13:icmpv6_new	64	static
+nf_conntrack_proto_icmpv6.c:102:12:icmpv6_packet	16	static
+nf_conntrack_proto_icmpv6.c:352:12:icmpv6_init_net	32	static
+nf_conntrack_proto_icmpv6.c:196:1:icmpv6_error	176	static

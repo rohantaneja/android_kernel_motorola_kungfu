@@ -1,0 +1,6 @@
+soc-devres.c:17:13:devm_component_release	16	static
+soc-devres.c:55:13:devm_platform_release	16	static
+soc-devres.c:90:13:devm_card_release	16	static
+soc-devres.c:32:5:devm_snd_soc_register_component	64	static
+soc-devres.c:68:5:devm_snd_soc_register_platform	48	static
+soc-devres.c:103:5:devm_snd_soc_register_card	64	static

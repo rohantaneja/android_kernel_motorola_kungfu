@@ -1,0 +1,1 @@
+fadvise.c:28:1:SyS_fadvise64_64	80	static

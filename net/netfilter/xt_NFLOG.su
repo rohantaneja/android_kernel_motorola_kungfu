@@ -1,0 +1,4 @@
+xt_NFLOG.c:41:12:nflog_tg_check	0	static
+xt_NFLOG.c:67:20:nflog_tg_exit	16	static
+xt_NFLOG.c:25:1:nflog_tg	32	static
+xt_NFLOG.c:62:19:nflog_tg_init	16	static

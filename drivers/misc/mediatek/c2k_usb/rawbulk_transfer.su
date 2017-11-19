@@ -1,0 +1,17 @@
+rawbulk_transfer.c:330:13:start_upstream	256	static
+rawbulk_transfer.c:478:13:upstream_complete	48	static
+rawbulk_transfer.c:308:13:free_upstream_sdio_buf	64	static
+rawbulk_transfer.c:286:13:free_upstream_transaction	64	static
+rawbulk_transfer.c:782:13:downstream_complete	224	static
+rawbulk_transfer.c:680:13:free_downstream_transaction	64	static
+rawbulk_transfer.c:856:13:downstream_delayed_work	96	static
+rawbulk_transfer.c:1303:19:rawbulk_init	176	static
+rawbulk_transfer.c:526:5:rawbulk_push_upstream_buffer	256	static
+rawbulk_transfer.c:915:5:rawbulk_start_transactions	160	static
+rawbulk_transfer.c:1047:6:rawbulk_stop_transactions	128	static
+rawbulk_transfer.c:1351:20:rawbulk_exit	64	static
+rawbulk_transfer.c:1134:5:rawbulk_transfer_statistics	112	static
+rawbulk_transfer.c:1210:5:rawbulk_bind_function	64	static
+rawbulk_transfer.c:1236:6:rawbulk_unbind_function	48	static
+rawbulk_transfer.c:1266:5:rawbulk_bind_sdio_channel	48	static
+rawbulk_transfer.c:1285:6:rawbulk_unbind_sdio_channel	32	static

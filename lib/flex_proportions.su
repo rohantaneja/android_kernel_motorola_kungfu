@@ -1,0 +1,14 @@
+flex_proportions.c:105:13:fprop_reflect_period_single.isra.4	48	static
+flex_proportions.c:188:13:fprop_reflect_period_percpu.isra.5	64	static
+flex_proportions.c:37:5:fprop_global_init	32	static
+flex_proportions.c:50:6:fprop_global_destroy	16	static
+flex_proportions.c:63:6:fprop_new_period	48	static
+flex_proportions.c:93:5:fprop_local_init_single	0	static
+flex_proportions.c:101:6:fprop_local_destroy_single	0	static
+flex_proportions.c:130:6:__fprop_inc_single	32	static
+flex_proportions.c:138:6:fprop_fraction_single	64	static
+flex_proportions.c:171:5:fprop_local_init_percpu	32	static
+flex_proportions.c:183:6:fprop_local_destroy_percpu	16	static
+flex_proportions.c:219:6:__fprop_inc_percpu	32	static
+flex_proportions.c:226:6:fprop_fraction_percpu	64	static
+flex_proportions.c:258:6:__fprop_inc_percpu_max	64	static

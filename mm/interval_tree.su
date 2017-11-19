@@ -1,0 +1,13 @@
+interval_tree.c:24:1:vma_interval_tree_augment_rotate	0	static
+interval_tree.c:24:1:vma_interval_tree_subtree_search	0	static
+interval_tree.c:72:1:__anon_vma_interval_tree_augment_rotate	0	static
+interval_tree.c:72:1:__anon_vma_interval_tree_subtree_search	0	static
+interval_tree.c:24:1:vma_interval_tree_insert	16	static
+interval_tree.c:24:1:vma_interval_tree_remove	16	static
+interval_tree.c:24:1:vma_interval_tree_iter_first	16	static
+interval_tree.c:24:1:vma_interval_tree_iter_next	16	static
+interval_tree.c:29:6:vma_interval_tree_insert_after	16	static
+interval_tree.c:76:6:anon_vma_interval_tree_insert	16	static
+interval_tree.c:86:6:anon_vma_interval_tree_remove	16	static
+interval_tree.c:93:1:anon_vma_interval_tree_iter_first	16	static
+interval_tree.c:100:1:anon_vma_interval_tree_iter_next	16	static

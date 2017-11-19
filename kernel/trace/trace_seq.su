@@ -1,0 +1,11 @@
+trace_seq.c:44:5:trace_print_seq	32	static
+trace_seq.c:78:5:trace_seq_printf	144	static
+trace_seq.c:116:5:trace_seq_bitmask	32	static
+trace_seq.c:145:5:trace_seq_vprintf	64	static
+trace_seq.c:184:5:trace_seq_bprintf	32	static
+trace_seq.c:218:5:trace_seq_puts	48	static
+trace_seq.c:249:5:trace_seq_putc	0	static
+trace_seq.c:277:5:trace_seq_putmem	32	static
+trace_seq.c:309:5:trace_seq_putmem_hex	112	static
+trace_seq.c:356:5:trace_seq_path	32	static
+trace_seq.c:405:5:trace_seq_to_user	32	static

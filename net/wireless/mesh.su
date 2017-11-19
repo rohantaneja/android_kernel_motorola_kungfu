@@ -1,0 +1,5 @@
+mesh.c:96:5:__cfg80211_join_mesh	80	static
+mesh.c:191:5:cfg80211_join_mesh	64	static
+mesh.c:206:5:cfg80211_set_mesh_channel	80	static
+mesh.c:241:5:__cfg80211_leave_mesh	80	static
+mesh.c:268:5:cfg80211_leave_mesh	48	static

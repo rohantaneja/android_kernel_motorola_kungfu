@@ -1,0 +1,7 @@
+proc.c:133:12:crypto_info_open	16	static
+proc.c:80:12:c_show	32	static
+proc.c:70:14:c_next	16	static
+proc.c:75:13:c_stop	16	static
+proc.c:64:14:c_start	32	static
+proc.c:145:13:crypto_init_proc	16	static
+proc.c:151:13:crypto_exit_proc	16	static

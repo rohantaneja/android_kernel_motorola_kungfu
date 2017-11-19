@@ -1,0 +1,6 @@
+commit.c:35:13:journal_end_buffer_io_sync	32	static
+commit.c:340:13:jbd2_block_tag_csum_set	400	dynamic,bounded
+commit.c:324:13:jbd2_descr_block_csum_set.isra.5	240	dynamic,bounded
+commit.c:95:13:jbd2_commit_block_csum_set.isra.6	224	dynamic,bounded
+commit.c:119:12:journal_submit_commit_record.isra.7	80	static
+commit.c:370:6:jbd2_journal_commit_transaction	368	static

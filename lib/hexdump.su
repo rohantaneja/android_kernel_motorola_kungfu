@@ -1,0 +1,5 @@
+hexdump.c:27:5:hex_to_bin	0	static
+hexdump.c:46:5:hex2bin	48	static
+hexdump.c:67:7:bin2hex	0	static
+hexdump.c:101:6:hex_dump_to_buffer	112	static
+hexdump.c:214:6:print_hex_dump	256	static

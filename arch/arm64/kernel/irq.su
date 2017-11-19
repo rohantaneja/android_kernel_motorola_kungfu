@@ -1,0 +1,11 @@
+irq.c:194:13:del_from_irq_need_migrate_list	112	static
+irq.c:215:13:add_to_irq_need_migrate_list	112	static
+irq.c:34:5:arch_show_interrupts	48	static
+irq.c:45:13:set_handle_irq	0	static
+irq.c:53:13:init_IRQ	16	static
+irq.c:73:6:fixup_update_irq_need_migrate_list	32	static
+irq.c:88:6:check_consistency_of_irq_settings	112	static
+irq.c:177:6:dump_irq_need_migrate_list	112	static
+irq.c:250:6:update_irq_need_migrate_list	96	static
+irq.c:293:6:update_affinity_settings	48	static
+irq.c:351:6:migrate_irqs	128	static

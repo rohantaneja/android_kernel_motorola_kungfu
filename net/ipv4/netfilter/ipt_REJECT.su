@@ -1,0 +1,4 @@
+ipt_REJECT.c:106:20:reject_tg_exit	16	static
+ipt_REJECT.c:70:12:reject_tg_check	16	static
+ipt_REJECT.c:34:1:reject_tg	16	static
+ipt_REJECT.c:101:19:reject_tg_init	16	static

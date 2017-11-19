@@ -1,0 +1,15 @@
+mali_kbase_ipa.c:78:16:set_ipa_group	96	static
+mali_kbase_ipa.c:57:16:show_ipa_group	96	static
+mali_kbase_ipa.c:225:12:calc_power_sc_single.isra.3	0	static
+mali_kbase_ipa.c:297:12:calc_power_group2	16	static
+mali_kbase_ipa.c:310:12:calc_power_group4	16	static
+mali_kbase_ipa.c:316:12:calc_power_group5	16	static
+mali_kbase_ipa.c:329:12:calc_power_group7	16	static
+mali_kbase_ipa.c:251:12:calc_power_sc_double.isra.4	0	static
+mali_kbase_ipa.c:303:12:calc_power_group3	16	static
+mali_kbase_ipa.c:322:12:calc_power_group6	16	static
+mali_kbase_ipa.c:285:12:calc_power_group0	0	static
+mali_kbase_ipa.c:291:12:calc_power_group1	0	static
+mali_kbase_ipa.c:372:27:kbase_ipa_init	128	static
+mali_kbase_ipa.c:398:6:kbase_ipa_term	32	static
+mali_kbase_ipa.c:407:5:kbase_ipa_dynamic_power	96	static

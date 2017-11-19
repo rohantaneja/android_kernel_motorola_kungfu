@@ -1,0 +1,5 @@
+mali_kbase_js_affinity.c:30:6:kbase_js_can_run_job_on_slot_no_lock	0	static
+mali_kbase_js_affinity.c:89:6:kbase_js_choose_affinity	96	static
+mali_kbase_js_affinity.c:209:6:kbase_js_affinity_would_violate	32	static
+mali_kbase_js_affinity.c:227:6:kbase_js_affinity_retain_slot_cores	0	static
+mali_kbase_js_affinity.c:256:6:kbase_js_affinity_release_slot_cores	0	static

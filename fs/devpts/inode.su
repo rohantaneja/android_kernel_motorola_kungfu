@@ -1,0 +1,13 @@
+inode.c:502:13:devpts_kill_sb	32	static
+inode.c:495:23:devpts_mount	16	static
+inode.c:332:12:devpts_show_options	48	static
+inode.c:375:1:devpts_fill_super	48	static
+inode.c:693:19:init_devpts_fs	48	static
+inode.c:312:12:devpts_remount	144	static
+inode.c:525:5:devpts_new_index	96	static
+inode.c:561:6:devpts_kill_index	64	static
+inode.c:576:6:devpts_add_ref	16	static
+inode.c:584:6:devpts_del_ref	32	static
+inode.c:601:15:devpts_pty_new	96	static
+inode.c:647:7:devpts_get_priv	32	static
+inode.c:673:6:devpts_pty_kill	48	static

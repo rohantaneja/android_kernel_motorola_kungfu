@@ -1,0 +1,4 @@
+hid-cherry.c:72:1:ch_driver_init	16	static
+hid-cherry.c:72:1:ch_driver_exit	16	static
+hid-cherry.c:41:12:ch_input_mapping	16	static
+hid-cherry.c:28:14:ch_report_fixup	32	static

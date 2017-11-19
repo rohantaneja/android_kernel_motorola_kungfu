@@ -1,0 +1,14 @@
+assoc.c:157:9:assocBuildCapabilityInfo	32	static
+assoc.c:211:21:assocBuildReAssocReqFrameCommonIEs	96	static
+assoc.c:344:1:assocComposeReAssocReqFrameHeaderAndFF	64	static
+assoc.c:433:13:assocSendReAssocReqFrame	112	static
+assoc.c:606:13:assocCheckTxReAssocReqFrame	32	static
+assoc.c:652:13:assocCheckTxReAssocRespFrame	32	static
+assoc.c:700:1:assocCheckRxReAssocRspFrameStatus	80	static
+assoc.c:859:1:assocComposeDisassocFrame	32	static
+assoc.c:906:13:assocSendDisAssocFrame	80	static
+assoc.c:982:1:assocProcessRxDisassocFrame	32	static
+assoc.c:1030:13:assocProcessRxAssocReqFrame	160	static
+assoc.c:1337:1:assocBuildReAssocRespFrameCommonIEs	64	static
+assoc.c:1400:1:assocComposeReAssocRespFrameHeaderAndFF	32	static
+assoc.c:1465:13:assocSendReAssocRespFrame	80	static

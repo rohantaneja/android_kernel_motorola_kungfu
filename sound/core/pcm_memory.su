@@ -1,0 +1,13 @@
+pcm_memory.c:231:12:snd_pcm_lib_preallocate_pages1	80	static
+pcm_memory.c:144:13:snd_pcm_lib_preallocate_max_proc_read	16	static
+pcm_memory.c:132:13:snd_pcm_lib_preallocate_proc_read	16	static
+pcm_memory.c:156:13:snd_pcm_lib_preallocate_proc_write	224	static
+pcm_memory.c:93:5:snd_pcm_lib_preallocate_free	32	static
+pcm_memory.c:113:5:snd_pcm_lib_preallocate_free_for_all	32	static
+pcm_memory.c:258:5:snd_pcm_lib_preallocate_pages	16	static
+pcm_memory.c:282:5:snd_pcm_lib_preallocate_pages_for_all	80	static
+pcm_memory.c:384:5:snd_pcm_lib_free_pages	32	static
+pcm_memory.c:332:5:snd_pcm_lib_malloc_pages	48	static
+pcm_memory.c:404:5:_snd_pcm_lib_alloc_vmalloc_buffer	48	static
+pcm_memory.c:432:5:snd_pcm_lib_free_vmalloc_buffer	32	static
+pcm_memory.c:455:14:snd_pcm_lib_get_vmalloc_page	16	static

@@ -1,0 +1,11 @@
+core.c:174:14:__bpf_call_base	0	static
+core.c:57:7:bpf_internal_load_pointer_neg_helper	0	static
+core.c:71:18:bpf_prog_alloc	48	static
+core.c:125:6:__bpf_prog_free	32	static
+core.c:640:13:bpf_prog_free_deferred	16	static
+core.c:96:18:bpf_prog_realloc	48	static
+core.c:618:13:bpf_int_jit_compile	0	static
+core.c:629:6:bpf_prog_select_runtime	16	static
+core.c:649:6:bpf_prog_free	16	static
+core.c:662:12:skb_copy_bits	0	static
+core.c:186:21:__bpf_prog_run	656	static

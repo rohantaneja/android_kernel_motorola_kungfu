@@ -1,0 +1,3 @@
+drop_caches.c:17:13:drop_pagecache_sb	64	static
+drop_caches.c:55:6:drop_pagecache	16	static
+drop_caches.c:61:5:drop_caches_sysctl_handler	64	static

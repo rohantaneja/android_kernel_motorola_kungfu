@@ -1,0 +1,17 @@
+cls_u32.c:305:13:u32_put	0	static
+cls_u32.c:865:13:u32_walk	64	static
+cls_u32.c:1050:20:exit_u32	16	static
+cls_u32.c:905:12:u32_dump	144	static
+cls_u32.c:431:13:u32_clear_hnode	80	static
+cls_u32.c:446:12:u32_destroy_hnode	48	static
+cls_u32.c:503:12:u32_delete	32	static
+cls_u32.c:470:13:u32_destroy	48	static
+cls_u32.c:105:12:u32_classify	256	static
+cls_u32.c:1035:19:init_u32	16	static
+cls_u32.c:401:13:u32_delete_key_freepf_rcu	32	static
+cls_u32.c:309:12:gen_new_htid	0	static
+cls_u32.c:324:12:u32_init	48	static
+cls_u32.c:286:22:u32_get	0	static
+cls_u32.c:560:12:u32_set_parms.isra.10	112	static
+cls_u32.c:693:12:u32_change	208	static
+cls_u32.c:387:13:u32_delete_key_rcu	32	static

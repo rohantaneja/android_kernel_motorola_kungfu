@@ -1,0 +1,7 @@
+jack.c:37:12:snd_jack_dev_disconnect	32	static
+jack.c:54:12:snd_jack_dev_free	32	static
+jack.c:69:12:snd_jack_dev_register	48	static
+jack.c:116:5:snd_jack_new	64	static
+jack.c:175:6:snd_jack_set_parent	32	static
+jack.c:208:5:snd_jack_set_key	64	static
+jack.c:231:6:snd_jack_report	64	static

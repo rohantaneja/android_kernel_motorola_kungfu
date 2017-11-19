@@ -1,0 +1,9 @@
+mali_kbase_pm_ca.c:40:5:kbase_pm_ca_init	16	static
+mali_kbase_pm_ca.c:51:6:kbase_pm_ca_term	16	static
+mali_kbase_pm_ca.c:56:5:kbase_pm_ca_list_policies	0	static
+mali_kbase_pm_ca.c:69:2:kbase_pm_ca_get_policy	0	static
+mali_kbase_pm_ca.c:78:6:kbase_pm_ca_set_policy	64	static
+mali_kbase_pm_ca.c:132:5:kbase_pm_ca_get_core_mask	32	static
+mali_kbase_pm_ca.c:151:6:kbase_pm_ca_update_core_status	16	static
+mali_kbase_pm_ca.c:162:6:kbase_pm_ca_instr_enable	48	static
+mali_kbase_pm_ca.c:173:6:kbase_pm_ca_instr_disable	48	static

@@ -1,0 +1,3 @@
+vmacache.c:16:6:vmacache_flush_all	48	static
+vmacache.c:58:6:vmacache_update	0	static
+vmacache.c:84:24:vmacache_find	32	static

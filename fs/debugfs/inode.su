@@ -1,0 +1,17 @@
+inode.c:299:23:debug_mount	16	static
+inode.c:232:12:debugfs_show_options	32	static
+inode.c:249:13:debugfs_evict_inode	32	static
+inode.c:153:12:debugfs_parse_options	128	static
+inode.c:264:12:debug_fill_super	48	static
+inode.c:674:19:debugfs_init	48	static
+inode.c:473:12:__debugfs_remove.isra.10	48	static
+inode.c:73:12:debugfs_mknod.isra.8.part.9.constprop	64	static
+inode.c:314:23:__create_file	96	static
+inode.c:216:12:debugfs_remount	48	static
+inode.c:392:16:debugfs_create_file	16	static
+inode.c:426:16:debugfs_create_dir	16	static
+inode.c:456:16:debugfs_create_symlink	48	static
+inode.c:503:6:debugfs_remove	32	static
+inode.c:535:6:debugfs_remove_recursive	64	static
+inode.c:618:16:debugfs_rename	112	static
+inode.c:665:6:debugfs_initialized	0	static

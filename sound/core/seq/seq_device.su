@@ -1,0 +1,16 @@
+seq_device.c:432:13:remove_drivers	48	static
+seq_device.c:555:20:alsa_seq_device_exit	32	static
+seq_device.c:106:13:snd_seq_device_info	80	static
+seq_device.c:526:13:unlock_driver.isra.0	32	static
+seq_device.c:508:26:find_driver	64	static
+seq_device.c:480:12:free_device	48	static
+seq_device.c:291:12:snd_seq_device_dev_disconnect	32	static
+seq_device.c:455:12:init_device	48	static
+seq_device.c:269:12:snd_seq_device_dev_register	32	static
+seq_device.c:233:12:snd_seq_device_free	48	static
+seq_device.c:260:12:snd_seq_device_dev_free	16	static
+seq_device.c:538:19:alsa_seq_device_init	32	static
+seq_device.c:142:6:snd_seq_device_load_drivers	0	static
+seq_device.c:176:5:snd_seq_device_new	80	static
+seq_device.c:311:5:snd_seq_device_register_driver	64	static
+seq_device.c:391:5:snd_seq_device_unregister_driver	48	static

@@ -1,0 +1,3 @@
+hid-kensington.c:23:12:ks_input_mapping	0	static
+hid-kensington.c:50:1:ks_driver_init	16	static
+hid-kensington.c:50:1:ks_driver_exit	16	static

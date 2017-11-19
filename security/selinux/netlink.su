@@ -1,0 +1,4 @@
+netlink.c:70:13:selnl_notify	48	static
+netlink.c:111:19:selnl_init	64	static
+netlink.c:101:6:selnl_notify_setenforce	32	static
+netlink.c:106:6:selnl_notify_policyload	32	static

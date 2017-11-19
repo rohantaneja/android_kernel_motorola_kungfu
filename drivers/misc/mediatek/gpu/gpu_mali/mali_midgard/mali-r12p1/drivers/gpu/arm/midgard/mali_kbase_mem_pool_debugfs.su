@@ -1,0 +1,7 @@
+mali_kbase_mem_pool_debugfs.c:25:12:kbase_mem_pool_debugfs_size_get	0	static
+mali_kbase_mem_pool_debugfs.c:48:12:kbase_mem_pool_debugfs_max_size_get	0	static
+mali_kbase_mem_pool_debugfs.c:66:1:kbase_mem_pool_debugfs_max_size_fops_open	16	static
+mali_kbase_mem_pool_debugfs.c:43:1:kbase_mem_pool_debugfs_size_fops_open	16	static
+mali_kbase_mem_pool_debugfs.c:57:12:kbase_mem_pool_debugfs_max_size_set	16	static
+mali_kbase_mem_pool_debugfs.c:34:12:kbase_mem_pool_debugfs_size_set	16	static
+mali_kbase_mem_pool_debugfs.c:71:6:kbase_mem_pool_debugfs_add	48	static

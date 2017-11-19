@@ -1,0 +1,4 @@
+cpufreq_governor.c:33:6:dbs_check_cpu	144	static
+cpufreq_governor.c:171:6:gov_queue_work	80	static
+cpufreq_governor.c:212:6:need_load_eval	32	static
+cpufreq_governor.c:242:5:cpufreq_governor_dbs	144	static

@@ -1,0 +1,6 @@
+stp_dbg_soc.c:60:14:wmt_plat_get_dump_info	16	static
+stp_dbg_soc.c:67:14:wmt_plat_set_host_dump_state	16	static
+stp_dbg_soc.c:74:14:wmt_plat_update_host_sync_num	16	static
+stp_dbg_soc.c:431:7:stp_dbg_soc_core_dump	224	static
+stp_dbg_soc.c:446:8:stp_dbg_soc_id_to_task	32	static
+stp_dbg_soc.c:472:8:stp_dbg_soc_read_debug_crs	32	static

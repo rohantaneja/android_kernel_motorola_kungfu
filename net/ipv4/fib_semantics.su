@@ -1,0 +1,17 @@
+fib_semantics.c:701:13:fib_info_hash_free	16	static
+fib_semantics.c:431:12:fib_detect_death	64	static
+fib_semantics.c:143:13:rt_fibinfo_free.isra.8	16	static
+fib_semantics.c:204:13:free_fib_info_rcu	80	static
+fib_semantics.c:691:27:fib_info_hash_alloc	16	static
+fib_semantics.c:222:6:free_fib_info	16	static
+fib_semantics.c:238:6:fib_release_info	32	static
+fib_semantics.c:333:5:ip_fib_check_default	64	static
+fib_semantics.c:416:19:fib_find_alias	0	static
+fib_semantics.c:506:5:fib_nh_match	0	static
+fib_semantics.c:768:8:fib_info_update_nh_saddr	32	static
+fib_semantics.c:778:18:fib_create_info	192	static
+fib_semantics.c:999:5:fib_dump_info	128	static
+fib_semantics.c:384:6:rtmsg_fib	128	static
+fib_semantics.c:1097:5:fib_sync_down_addr	0	static
+fib_semantics.c:1118:5:fib_sync_down_dev	16	static
+fib_semantics.c:1170:6:fib_select_default	112	static

@@ -1,0 +1,4 @@
+io.c:63:26:io_capture_transfer	16	static
+io.c:90:26:io_src_channels	64	static
+io.c:37:26:io_playback_transfer	16	static
+io.c:108:5:snd_pcm_plugin_build_io	80	static

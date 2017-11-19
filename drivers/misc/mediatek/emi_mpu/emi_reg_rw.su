@@ -1,0 +1,6 @@
+mt_secure_api.h:45:21:mt_secure_call	0	static
+emi_reg_rw.c:50:6:mt_emi_reg_write	16	static
+emi_reg_rw.c:62:14:mt_emi_reg_read	16	static
+emi_reg_rw.c:74:5:mt_emi_mpu_set_region_protection	16	static
+emi_reg_rw.c:84:6:mt_emi_reg_base_set	0	static
+emi_reg_rw.c:89:7:mt_emi_reg_base_get	0	static

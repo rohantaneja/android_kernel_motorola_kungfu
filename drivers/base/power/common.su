@@ -1,0 +1,4 @@
+common.c:25:5:dev_pm_get_subsys_data	48	static
+common.c:62:5:dev_pm_put_subsys_data	48	static
+common.c:107:5:dev_pm_domain_attach	0	static
+common.c:131:6:dev_pm_domain_detach	16	static

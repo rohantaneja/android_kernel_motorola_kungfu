@@ -1,0 +1,4 @@
+hid-belkin.c:89:1:belkin_driver_init	16	static
+hid-belkin.c:29:12:belkin_input_mapping	16	static
+hid-belkin.c:49:12:belkin_probe	64	static
+hid-belkin.c:89:1:belkin_driver_exit	16	static

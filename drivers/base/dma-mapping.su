@@ -1,0 +1,15 @@
+dma-mapping.c:33:13:dmam_noncoherent_release	0	static
+dma-mapping.c:26:13:dmam_coherent_release	64	static
+dma-mapping.c:172:13:dmam_coherent_decl_release	16	static
+dma-mapping.c:40:12:dmam_match	16	static
+dma-mapping.c:65:8:dmam_alloc_coherent	80	static
+dma-mapping.c:100:6:dmam_free_coherent	96	static
+dma-mapping.c:124:7:dmam_alloc_noncoherent	16	static
+dma-mapping.c:159:6:dmam_free_noncoherent	48	static
+dma-mapping.c:190:5:dmam_declare_coherent_memory	64	static
+dma-mapping.c:217:6:dmam_release_declared_memory	16	static
+dma-mapping.c:228:5:dma_common_get_sgtable	48	static
+dma-mapping.c:246:5:dma_common_mmap	96	static
+dma-mapping.c:278:7:dma_common_pages_remap	48	static
+dma-mapping.c:303:7:dma_common_contiguous_remap	80	static
+dma-mapping.c:329:6:dma_common_free_remap	48	static

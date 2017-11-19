@@ -1,0 +1,4 @@
+mulaw.c:168:13:mulaw_decode	128	static
+mulaw.c:214:13:mulaw_encode	144	static
+mulaw.c:248:26:mulaw_transfer	32	static
+mulaw.c:298:5:snd_pcm_plugin_build_mulaw	80	static

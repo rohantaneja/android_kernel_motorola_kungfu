@@ -1,0 +1,6 @@
+act_police.c:366:1:police_cleanup_module	16	static
+act_police.c:58:12:tcf_act_police_walker	128	static
+act_police.c:114:12:tcf_act_police_locate	144	static
+act_police.c:313:1:tcf_act_police_dump	112	static
+act_police.c:255:12:tcf_act_police	48	static
+act_police.c:360:1:police_init_module	16	static

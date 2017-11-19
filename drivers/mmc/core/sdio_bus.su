@@ -1,0 +1,17 @@
+sdio_bus.c:172:12:sdio_bus_remove	32	static
+sdio_bus.c:109:1:sdio_bus_uevent	32	static
+sdio_bus.c:49:16:modalias_show	16	static
+sdio_bus.c:47:1:device_show	16	static
+sdio_bus.c:46:1:vendor_show	16	static
+sdio_bus.c:45:1:class_show	16	static
+sdio_bus.c:265:13:sdio_release_func	32	static
+sdio_bus.c:79:37:sdio_match_device.isra.6	0	static
+sdio_bus.c:97:12:sdio_bus_match	16	static
+sdio_bus.c:129:12:sdio_bus_probe	48	static
+sdio_bus.c:232:5:sdio_register_bus	16	static
+sdio_bus.c:237:6:sdio_unregister_bus	16	static
+sdio_bus.c:246:5:sdio_register_driver	16	static
+sdio_bus.c:258:6:sdio_unregister_driver	16	static
+sdio_bus.c:286:19:sdio_alloc_func	32	static
+sdio_bus.c:320:5:sdio_add_func	48	static
+sdio_bus.c:342:6:sdio_remove_func	32	static

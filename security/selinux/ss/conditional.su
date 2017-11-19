@@ -1,0 +1,16 @@
+conditional.c:352:12:cond_read_av_list	112	static
+conditional.c:271:12:cond_insertf	64	static
+conditional.c:525:12:cond_write_av_list	48	static
+conditional.c:143:13:cond_node_destroy	32	static
+conditional.c:90:5:evaluate_cond_node	80	static
+conditional.c:119:5:cond_policydb_init	16	static
+conditional.c:169:6:cond_policydb_destroy	32	static
+conditional.c:176:5:cond_init_bool_indexes	32	static
+conditional.c:186:5:cond_destroy_bool	32	static
+conditional.c:193:5:cond_index_bool	48	static
+conditional.c:221:5:cond_read_bool	80	static
+conditional.c:453:5:cond_read_list	128	static
+conditional.c:493:5:cond_write_bool	64	static
+conditional.c:593:5:cond_write_list	48	static
+conditional.c:617:6:cond_compute_xperms	48	static
+conditional.c:636:6:cond_compute_av	96	static

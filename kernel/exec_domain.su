@@ -1,0 +1,8 @@
+exec_domain.c:172:12:execdomains_proc_open	16	static
+exec_domain.c:159:12:execdomains_proc_show	64	static
+exec_domain.c:184:19:proc_execdomains_init	16	static
+exec_domain.c:97:1:register_exec_domain	48	static
+exec_domain.c:125:1:unregister_exec_domain	32	static
+exec_domain.c:146:5:__set_personality	64	static
+exec_domain.c:48:1:default_handler	48	static
+exec_domain.c:192:1:SyS_personality	32	static

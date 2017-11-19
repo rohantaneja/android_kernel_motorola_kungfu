@@ -1,0 +1,4 @@
+nf_nat_ftp.c:123:20:nf_nat_ftp_fini	16	static
+nf_nat_ftp.c:137:12:warn_set	16	static
+nf_nat_ftp.c:129:19:nf_nat_ftp_init	16	static
+nf_nat_ftp.c:59:21:nf_nat_ftp	208	static

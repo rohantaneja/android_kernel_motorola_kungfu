@@ -1,0 +1,11 @@
+trace_stat.c:114:12:dummy_cmp	0	static
+trace_stat.c:215:12:stat_seq_show	16	static
+trace_stat.c:209:13:stat_seq_stop	16	static
+trace_stat.c:46:13:__reset_stat_session	48	static
+trace_stat.c:196:14:stat_seq_next	16	static
+trace_stat.c:172:14:stat_seq_start	48	static
+trace_stat.c:76:12:insert_stat	64	static
+trace_stat.c:234:12:tracing_stat_open	80	static
+trace_stat.c:258:12:tracing_stat_release	64	static
+trace_stat.c:302:5:register_stat_tracer	48	static
+trace_stat.c:346:6:unregister_stat_tracer	48	static

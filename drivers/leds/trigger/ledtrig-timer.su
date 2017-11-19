@@ -1,0 +1,8 @@
+ledtrig-timer.c:120:20:timer_trig_exit	16	static
+ledtrig-timer.c:97:13:timer_trig_deactivate	32	static
+ledtrig-timer.c:54:16:led_delay_off_store	48	static
+ledtrig-timer.c:29:16:led_delay_on_store	48	static
+ledtrig-timer.c:46:16:led_delay_off_show	16	static
+ledtrig-timer.c:21:16:led_delay_on_show	16	static
+ledtrig-timer.c:115:19:timer_trig_init	16	static
+ledtrig-timer.c:74:13:timer_trig_activate	48	static

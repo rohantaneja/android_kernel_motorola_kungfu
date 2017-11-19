@@ -1,0 +1,14 @@
+mip6.c:335:13:mip6_destopt_destroy	0	static
+mip6.c:467:13:mip6_rthdr_destroy	0	static
+mip6.c:446:12:mip6_rthdr_init_state	16	static
+mip6.c:311:12:mip6_destopt_init_state	16	static
+mip6.c:399:12:mip6_rthdr_offset	80	static
+mip6.c:263:12:mip6_destopt_offset	80	static
+mip6.c:209:12:mip6_destopt_reject	176	static
+mip6.c:149:12:mip6_destopt_output	64	static
+mip6.c:370:12:mip6_rthdr_output	48	static
+mip6.c:130:12:mip6_destopt_input	48	static
+mip6.c:352:12:mip6_rthdr_input	48	static
+mip6.c:511:20:mip6_fini	32	static
+mip6.c:483:19:mip6_init	48	static
+mip6.c:86:12:mip6_mh_filter	48	static

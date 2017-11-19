@@ -1,0 +1,2 @@
+devinfosys.c:42:16:devinfo_show	48	static
+devinfosys.c:56:19:devinfo_init	32	static

@@ -1,0 +1,4 @@
+symlink.c:299:13:configfs_put_link	16	static
+symlink.c:282:14:configfs_follow_link	112	static
+symlink.c:135:5:configfs_symlink	112	static
+symlink.c:185:5:configfs_unlink	80	static

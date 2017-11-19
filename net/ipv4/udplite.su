@@ -1,0 +1,8 @@
+udp.h:188:20:udp_lib_hash	16	static
+udp.h:196:20:udp_lib_close	16	static
+udplite.h:26:19:udplite_sk_init	0	static
+udplite.c:27:13:udplite_err	16	static
+udplite.c:22:12:udplite_rcv	16	static
+udplite.c:101:24:udplite4_proc_exit_net	16	static
+udplite.c:96:23:udplite4_proc_init_net	16	static
+udplite.c:122:13:udplite4_register	48	static

@@ -1,0 +1,5 @@
+trace_clock.c:30:13:trace_clock_local	32	static
+trace_clock.c:55:13:trace_clock	16	static
+trace_clock.c:67:13:trace_clock_jiffies	16	static
+trace_clock.c:90:13:trace_clock_global	32	static
+trace_clock.c:134:13:trace_clock_counter	0	static

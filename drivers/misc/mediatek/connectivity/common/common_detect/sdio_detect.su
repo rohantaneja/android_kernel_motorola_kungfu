@@ -1,0 +1,7 @@
+sdio_detect.c:254:13:sdio_detect_remove	32	static
+sdio_detect.c:231:12:sdio_detect_probe	64	static
+sdio_detect.c:94:5:hif_sdio_is_chipid_valid	32	static
+sdio_detect.c:154:5:sdio_detect_query_chipid	32	static
+sdio_detect.c:175:5:sdio_detect_do_autok	16	static
+sdio_detect.c:265:5:sdio_detect_init	16	static
+sdio_detect.c:274:5:sdio_detect_exit	16	static

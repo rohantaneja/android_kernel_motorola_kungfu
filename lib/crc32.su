@@ -1,0 +1,6 @@
+crc32.c:239:32:crc32_generic_shift	0	static
+crc32.c:194:12:crc32_le	32	static
+crc32.c:199:12:__crc32c_le	32	static
+crc32.c:269:25:crc32_le_shift	16	static
+crc32.c:274:25:__crc32c_le_shift	16	static
+crc32.c:336:12:crc32_be	32	static

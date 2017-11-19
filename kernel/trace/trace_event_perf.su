@@ -1,0 +1,6 @@
+trace_event_perf.c:144:13:perf_trace_event_unreg.isra.3	48	static
+trace_event_perf.c:207:5:perf_trace_init	80	static
+trace_event_perf.c:229:6:perf_trace_destroy	32	static
+trace_event_perf.c:237:5:perf_trace_add	48	static
+trace_event_perf.c:256:6:perf_trace_del	16	static
+trace_event_perf.c:263:7:perf_trace_buf_prepare	80	static

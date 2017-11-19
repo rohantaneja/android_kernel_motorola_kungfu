@@ -1,0 +1,15 @@
+cls_flow.c:576:22:flow_get	16	static
+cls_flow.c:587:13:flow_put	0	static
+cls_flow.c:652:13:flow_walk	64	static
+cls_flow.c:688:20:cls_flow_exit	16	static
+cls_flow.c:591:12:flow_dump	112	static
+cls_flow.c:542:12:flow_delete	16	static
+cls_flow.c:352:13:flow_destroy_filter	32	static
+cls_flow.c:328:13:flow_perturbation	32	static
+cls_flow.c:362:12:flow_change	256	static
+cls_flow.c:551:12:flow_init	32	static
+cls_flow.c:563:13:flow_destroy	48	static
+cls_flow.c:683:19:cls_flow_init	16	static
+cls_flow.c:69:12:flow_get_src.isra.15	0	static
+cls_flow.c:76:12:flow_get_dst.isra.16	0	static
+cls_flow.c:279:12:flow_classify	192	static

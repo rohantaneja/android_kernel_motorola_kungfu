@@ -1,0 +1,14 @@
+proc.c:256:12:snmp6_dev_seq_open	32	static
+proc.c:189:13:snmp6_seq_show_item	80	static
+proc.c:153:13:snmp6_seq_show_icmpv6msg	112	static
+proc.c:324:24:ipv6_proc_exit_net	32	static
+proc.c:230:12:snmp6_seq_open	16	static
+proc.c:50:12:sockstat6_seq_open	16	static
+proc.c:33:12:sockstat6_seq_show	48	static
+proc.c:303:23:ipv6_proc_init_net	48	static
+proc.c:214:12:snmp6_seq_show	96	static
+proc.c:243:12:snmp6_dev_seq_show	96	static
+proc.c:269:5:snmp6_register_dev	32	static
+proc.c:291:5:snmp6_unregister_dev	32	static
+proc.c:336:12:ipv6_misc_proc_init	16	static
+proc.c:341:6:ipv6_misc_proc_exit	16	static

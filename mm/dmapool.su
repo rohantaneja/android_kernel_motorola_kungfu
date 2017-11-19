@@ -1,0 +1,9 @@
+dmapool.c:482:12:dmam_pool_match	0	static
+dmapool.c:68:1:show_pools	96	static
+dmapool.c:131:18:dma_pool_create	80	static
+dmapool.c:270:6:dma_pool_destroy	96	static
+dmapool.c:475:13:dmam_pool_release	16	static
+dmapool.c:318:7:dma_pool_alloc	112	static
+dmapool.c:404:6:dma_pool_free	48	static
+dmapool.c:498:18:dmam_pool_create	80	static
+dmapool.c:523:6:dmam_pool_destroy	16	static

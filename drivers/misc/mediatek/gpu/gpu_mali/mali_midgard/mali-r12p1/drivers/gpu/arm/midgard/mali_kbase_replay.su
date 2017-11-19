@@ -1,0 +1,11 @@
+mali_kbase_replay.c:607:12:kbasep_allocate_katom	32	static
+mali_kbase_replay.c:635:13:kbasep_release_katom	32	static
+mali_kbase_replay.c:190:12:kbasep_replay_reset_mfbd	224	static
+mali_kbase_replay.c:108:12:kbasep_replay_reset_sfbd	224	static
+mali_kbase_replay.c:289:12:kbasep_replay_reset_tiler_job	128	static
+mali_kbase_replay.c:544:12:kbasep_replay_parse_jc	176	static
+mali_kbase_replay.c:980:13:kbase_replay_fault_check	192	static
+mali_kbase_replay.c:491:12:kbasep_replay_find_hw_job_id.constprop	128	static
+mali_kbase_replay.c:754:12:kbasep_replay_parse_payload.isra.3	240	static
+mali_kbase_replay.c:905:13:kbase_replay_process_worker	176	static
+mali_kbase_replay.c:1086:6:kbase_replay_process	48	static

@@ -1,0 +1,8 @@
+br_nf_core.c:28:13:fake_update_pmtu	0	static
+br_nf_core.c:33:13:fake_redirect	0	static
+br_nf_core.c:38:13:fake_cow_metrics	0	static
+br_nf_core.c:43:26:fake_neigh_lookup	0	static
+br_nf_core.c:50:21:fake_mtu	0	static
+br_nf_core.c:76:6:br_netfilter_rtable_init	0	static
+br_nf_core.c:88:12:br_nf_core_init	16	static
+br_nf_core.c:93:6:br_nf_core_fini	16	static

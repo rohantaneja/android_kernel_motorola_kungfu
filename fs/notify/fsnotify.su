@@ -1,0 +1,6 @@
+fsnotify.c:287:19:fsnotify_init	16	static
+fsnotify.c:34:6:__fsnotify_inode_delete	16	static
+fsnotify.c:40:6:__fsnotify_vfsmount_delete	16	static
+fsnotify.c:52:6:__fsnotify_update_child_dentry_flags	80	static
+fsnotify.c:191:5:fsnotify	256	static
+fsnotify.c:90:5:__fsnotify_parent	64	static

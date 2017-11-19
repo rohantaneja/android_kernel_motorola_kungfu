@@ -1,0 +1,6 @@
+file.c:287:12:configfs_release	32	static
+file.c:198:1:configfs_write_file	64	static
+file.c:107:1:configfs_read_file	96	static
+file.c:282:12:configfs_open_file	64	static
+file.c:317:5:configfs_add_file	64	static
+file.c:337:5:configfs_create_file	16	static

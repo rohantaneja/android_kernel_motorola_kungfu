@@ -1,0 +1,16 @@
+nf_conntrack_helper.c:134:1:__nf_conntrack_helper_find	64	static
+nf_conntrack_helper.c:152:1:nf_conntrack_helper_try_module_get	16	static
+nf_conntrack_helper.c:171:1:nf_ct_helper_ext_add	32	static
+nf_conntrack_helper.c:186:5:__nf_ct_try_assign_helper	64	static
+nf_conntrack_helper.c:267:6:nf_ct_helper_destroy	48	static
+nf_conntrack_helper.c:283:6:nf_ct_helper_expectfn_register	32	static
+nf_conntrack_helper.c:291:6:nf_ct_helper_expectfn_unregister	32	static
+nf_conntrack_helper.c:300:1:nf_ct_helper_expectfn_find_by_name	64	static
+nf_conntrack_helper.c:318:1:nf_ct_helper_expectfn_find_by_symbol	64	static
+nf_conntrack_helper.c:336:6:nf_ct_helper_log	128	static
+nf_conntrack_helper.c:362:5:nf_conntrack_helper_register	96	static
+nf_conntrack_helper.c:438:6:nf_conntrack_helper_unregister	176	static
+nf_conntrack_helper.c:465:5:nf_conntrack_helper_pernet_init	32	static
+nf_conntrack_helper.c:472:6:nf_conntrack_helper_pernet_fini	32	static
+nf_conntrack_helper.c:477:5:nf_conntrack_helper_init	48	static
+nf_conntrack_helper.c:498:6:nf_conntrack_helper_fini	16	static

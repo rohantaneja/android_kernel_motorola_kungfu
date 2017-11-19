@@ -1,0 +1,10 @@
+des_generic.c:803:13:des_encrypt	0	static
+des_generic.c:826:13:des_decrypt	0	static
+des_generic.c:892:13:des3_ede_encrypt	0	static
+des_generic.c:923:13:des3_ede_decrypt	0	static
+des_generic.c:991:20:des_generic_mod_fini	16	static
+des_generic.c:986:19:des_generic_mod_init	16	static
+des_generic.c:631:15:des_ekey	0	static
+des_generic.c:781:12:des_setkey	160	static
+des_generic.c:862:5:__des3_ede_setkey	32	static
+des_generic.c:882:12:des3_ede_setkey	16	static

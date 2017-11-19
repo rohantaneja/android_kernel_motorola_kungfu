@@ -1,0 +1,11 @@
+trace_printk.c:325:13:t_stop	0	static
+trace_printk.c:366:19:init_trace_printk	0	static
+trace_printk.c:350:19:init_trace_printk_function_export	16	static
+trace_printk.c:338:1:ftrace_formats_open	16	static
+trace_printk.c:288:12:t_show	64	static
+trace_printk.c:282:14:t_next	0	static
+trace_printk.c:276:1:t_start	0	static
+trace_printk.c:189:5:__trace_bprintk	128	static
+trace_printk.c:207:5:__ftrace_vbprintk	48	static
+trace_printk.c:219:5:__trace_printk	128	static
+trace_printk.c:234:5:__ftrace_vprintk	48	static

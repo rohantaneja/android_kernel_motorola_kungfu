@@ -1,0 +1,3 @@
+libcrc32c.c:66:20:libcrc32c_mod_fini	16	static
+libcrc32c.c:60:19:libcrc32c_mod_init	16	static
+libcrc32c.c:42:5:crc32c	96	dynamic

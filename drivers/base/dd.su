@@ -1,0 +1,17 @@
+dd.c:60:13:deferred_probe_work_func	64	static
+dd.c:220:12:driver_sysfs_add	48	static
+dd.c:151:13:driver_deferred_probe_trigger.part.8	48	static
+dd.c:181:12:deferred_probe_initcall	32	static
+dd.c:521:13:__device_release_driver	48	static
+dd.c:122:6:driver_deferred_probe_del	32	static
+dd.c:195:13:driver_bound	32	static
+dd.c:264:5:device_bind_driver	32	static
+dd.c:373:5:driver_probe_done	32	static
+dd.c:386:6:wait_for_device_probe	80	static
+dd.c:405:5:driver_probe_device	80	static
+dd.c:422:12:__device_attach	32	static
+dd.c:473:12:__driver_attach	48	static
+dd.c:446:5:device_attach	32	static
+dd.c:511:5:driver_attach	16	static
+dd.c:561:6:device_release_driver	32	static
+dd.c:578:6:driver_detach	48	static

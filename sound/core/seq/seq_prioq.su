@@ -1,0 +1,8 @@
+seq_prioq.c:57:23:snd_seq_prioq_new	16	static
+seq_prioq.c:146:5:snd_seq_prioq_cell_in	48	static
+seq_prioq.c:218:28:snd_seq_prioq_cell_out	48	static
+seq_prioq.c:74:6:snd_seq_prioq_delete	32	static
+seq_prioq.c:246:5:snd_seq_prioq_avail	32	static
+seq_prioq.c:257:28:snd_seq_prioq_cell_peek	32	static
+seq_prioq.c:290:6:snd_seq_prioq_leave	64	static
+seq_prioq.c:399:6:snd_seq_prioq_remove_events	64	static

@@ -1,0 +1,2 @@
+mmu_context.c:20:6:use_mm	80	static
+mmu_context.c:51:6:unuse_mm	48	static

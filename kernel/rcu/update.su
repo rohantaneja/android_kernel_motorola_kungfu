@@ -1,0 +1,14 @@
+update.c:366:12:rcu_panic	0	static
+rcu.h:20:1:ftrace_define_fields_rcu_utilization	16	static
+rcu.h:20:1:perf_trace_rcu_utilization	368	static
+rcu.h:20:1:ftrace_raw_event_rcu_utilization	96	static
+rcu.h:20:1:ftrace_raw_output_rcu_utilization	32	static
+update.c:211:13:wakeme_after_rcu	16	static
+update.c:376:19:check_cpu_stall_init	16	static
+update.c:72:6:__rcu_read_lock	0	static
+update.c:86:6:__rcu_read_unlock	32	static
+update.c:219:6:wait_rcu_gp	80	static
+update.c:310:6:do_trace_rcu_torture_read	0	static
+update.c:336:5:rcu_jiffies_till_stall_check	0	static
+update.c:354:6:rcu_sysrq_start	0	static
+update.c:360:6:rcu_sysrq_end	0	static

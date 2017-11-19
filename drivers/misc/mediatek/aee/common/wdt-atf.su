@@ -1,0 +1,10 @@
+mt_secure_api.h:45:21:mt_secure_call.constprop	0	static
+wdt-atf.c:563:19:aee_wdt_init	64	static
+wdt-atf.c:98:5:in_fiq_handler	0	static
+wdt-atf.c:103:6:aee_wdt_dump_info	128	static
+wdt-atf.c:190:6:aee_wdt_percpu_printf	144	static
+wdt-atf.c:248:13:aee_wdt_dump_stack_bin	192	static
+wdt-atf.c:204:6:aee_wdt_printf	160	static
+wdt-atf.c:403:6:aee_wdt_irq_info	16	static
+wdt-atf.c:409:6:aee_wdt_atf_info	224	static
+wdt-atf.c:504:14:aee_wdt_atf_entry	336	static

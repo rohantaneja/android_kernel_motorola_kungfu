@@ -1,0 +1,4 @@
+request_sock.c:40:5:reqsk_queue_alloc	48	static
+request_sock.c:73:6:__reqsk_queue_destroy	16	static
+request_sock.c:92:6:reqsk_queue_destroy	64	static
+request_sock.c:163:6:reqsk_fastopen_remove	64	static

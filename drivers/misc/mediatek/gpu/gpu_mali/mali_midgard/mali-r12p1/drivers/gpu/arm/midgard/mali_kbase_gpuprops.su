@@ -1,0 +1,4 @@
+mali_kbase_gpuprops.c:168:13:kbase_gpuprops_get_props	192	static
+mali_kbase_gpuprops.c:45:5:kbase_gpuprops_uk_get_props	32	static
+mali_kbase_gpuprops.c:269:6:kbase_gpuprops_set	64	static
+mali_kbase_gpuprops.c:299:6:kbase_gpuprops_set_features	192	static

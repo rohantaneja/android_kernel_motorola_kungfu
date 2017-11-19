@@ -1,0 +1,6 @@
+callchain.c:37:13:release_callchain_buffers_rcu	48	static
+callchain.c:27:13:perf_callchain_kernel	0	static
+callchain.c:32:13:perf_callchain_user	0	static
+callchain.c:97:5:get_callchain_buffers	96	static
+callchain.c:127:6:put_callchain_buffers	32	static
+callchain.c:160:1:perf_callchain	96	static

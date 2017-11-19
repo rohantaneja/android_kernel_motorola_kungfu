@@ -1,0 +1,3 @@
+conn_md_exp.c:22:5:mtk_conn_md_bridge_reg	32	static
+conn_md_exp.c:40:5:mtk_conn_md_bridge_unreg	16	static
+conn_md_exp.c:50:5:mtk_conn_md_bridge_send_msg	32	static

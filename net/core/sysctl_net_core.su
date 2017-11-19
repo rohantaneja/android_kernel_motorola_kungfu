@@ -1,0 +1,7 @@
+sysctl_net_core.c:381:23:sysctl_core_net_init	32	static
+sysctl_net_core.c:429:19:sysctl_core_init	16	static
+sysctl_net_core.c:414:24:sysctl_core_net_exit	32	static
+sysctl_net_core.c:200:12:set_default_qdisc	144	static
+sysctl_net_core.c:177:12:flow_limit_table_len_sysctl	96	static
+sysctl_net_core.c:98:12:flow_limit_cpu_sysctl	256	static
+sysctl_net_core.c:31:12:rps_sock_flow_sysctl	176	static

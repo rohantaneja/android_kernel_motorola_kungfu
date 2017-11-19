@@ -1,0 +1,7 @@
+xt_nat.c:157:20:xt_nat_exit	16	static
+xt_nat.c:91:1:xt_dnat_target_v1	16	static
+xt_nat.c:76:1:xt_snat_target_v1	16	static
+xt_nat.c:43:1:xt_snat_target_v0	64	static
+xt_nat.c:151:19:xt_nat_init	16	static
+xt_nat.c:17:12:xt_nat_checkentry_v0	16	static
+xt_nat.c:60:1:xt_dnat_target_v0	64	static

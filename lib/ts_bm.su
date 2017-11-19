@@ -1,0 +1,6 @@
+ts_bm.c:172:14:bm_get_pattern	0	static
+ts_bm.c:178:21:bm_get_pattern_len	0	static
+ts_bm.c:199:20:exit_bm	16	static
+ts_bm.c:62:21:bm_find	96	static
+ts_bm.c:145:26:bm_init	80	static
+ts_bm.c:194:19:init_bm	16	static

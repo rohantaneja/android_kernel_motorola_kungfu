@@ -1,0 +1,4 @@
+exthdrs_core.c:12:6:ipv6_ext_hdr	0	static
+exthdrs_core.c:71:5:ipv6_skip_exthdr	80	static
+exthdrs_core.c:115:5:ipv6_find_tlv	0	static
+exthdrs_core.c:185:5:ipv6_find_hdr	160	static

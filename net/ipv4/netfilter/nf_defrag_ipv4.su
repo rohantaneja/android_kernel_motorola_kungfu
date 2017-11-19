@@ -1,0 +1,4 @@
+nf_defrag_ipv4.c:118:20:nf_defrag_fini	16	static
+nf_defrag_ipv4.c:113:19:nf_defrag_init	16	static
+nf_defrag_ipv4.c:64:21:ipv4_conntrack_defrag	32	static
+nf_defrag_ipv4.c:123:6:nf_defrag_ipv4_enable	0	static

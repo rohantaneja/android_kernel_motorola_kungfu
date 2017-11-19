@@ -1,0 +1,4 @@
+nf_reject_ipv6.c:17:22:nf_reject_ip6_tcphdr_get	80	static
+nf_reject_ipv6.c:65:17:nf_reject_ip6hdr_put	64	static
+nf_reject_ipv6.c:89:6:nf_reject_ip6_tcphdr_put	48	static
+nf_reject_ipv6.c:131:6:nf_send_reset6	160	static

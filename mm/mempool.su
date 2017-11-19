@@ -1,0 +1,13 @@
+mempool.c:25:14:remove_element	16	static
+mempool.c:39:6:mempool_destroy	32	static
+mempool.c:72:12:mempool_create_node	64	static
+mempool.c:64:12:mempool_create	16	static
+mempool.c:126:5:mempool_resize	64	static
+mempool.c:198:8:mempool_alloc	128	static
+mempool.c:275:6:mempool_free	32	static
+mempool.c:332:7:mempool_alloc_slab	16	static
+mempool.c:339:6:mempool_free_slab	16	static
+mempool.c:350:7:mempool_kmalloc	16	static
+mempool.c:357:6:mempool_kfree	16	static
+mempool.c:367:7:mempool_alloc_pages	16	static
+mempool.c:374:6:mempool_free_pages	16	static

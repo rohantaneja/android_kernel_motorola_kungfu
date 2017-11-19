@@ -1,0 +1,4 @@
+dummy_timer.c:19:13:dummy_timer_set_mode	0	static
+dummy_timer.c:28:13:dummy_timer_setup	16	static
+dummy_timer.c:57:19:dummy_timer_register	32	static
+dummy_timer.c:44:12:dummy_timer_cpu_notify	16	static

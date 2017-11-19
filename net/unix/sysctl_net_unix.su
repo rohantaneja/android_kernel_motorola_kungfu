@@ -1,0 +1,2 @@
+sysctl_net_unix.c:29:16:unix_sysctl_register	32	static
+sysctl_net_unix.c:54:6:unix_sysctl_unregister	32	static

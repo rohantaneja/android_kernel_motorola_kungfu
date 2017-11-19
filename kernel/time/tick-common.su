@@ -1,0 +1,16 @@
+tick-common.c:78:13:tick_periodic	32	static
+tick-common.c:236:13:tick_check_percpu	32	static
+tick-common.c:252:13:tick_check_preferred	48	static
+tick-common.c:56:21:tick_get_device	0	static
+tick-common.c:64:5:tick_is_oneshot_available	16	static
+tick-common.c:98:6:tick_handle_periodic	48	static
+tick-common.c:133:6:tick_setup_periodic	48	static
+tick-common.c:166:13:tick_setup_device	80	static
+tick-common.c:225:6:tick_install_replacement	64	static
+tick-common.c:276:6:tick_check_replacement	32	static
+tick-common.c:289:6:tick_check_new_device	64	static
+tick-common.c:340:6:tick_handover_do_timer	32	static
+tick-common.c:357:6:tick_shutdown	48	static
+tick-common.c:375:6:tick_suspend	32	static
+tick-common.c:382:6:tick_resume	48	static
+tick-common.c:400:13:tick_init	16	static

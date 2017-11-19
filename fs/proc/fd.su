@@ -1,0 +1,13 @@
+fd.c:201:23:proc_lookupfd_common	64	static
+fd.c:274:23:proc_lookupfd	16	static
+fd.c:337:1:proc_lookupfdinfo	16	static
+fd.c:140:12:proc_fd_link	64	static
+fd.c:75:12:tid_fd_revalidate	80	static
+fd.c:171:1:proc_fd_instantiate	48	static
+fd.c:309:1:proc_fdinfo_instantiate	48	static
+fd.c:221:12:proc_readfd_common	112	static
+fd.c:263:12:proc_readfd	16	static
+fd.c:342:12:proc_readfdinfo	16	static
+fd.c:284:5:proc_fd_permission	32	static
+fd.c:63:12:seq_fdinfo_open	16	static
+fd.c:18:12:seq_show	80	static

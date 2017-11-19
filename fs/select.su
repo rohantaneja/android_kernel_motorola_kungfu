@@ -1,0 +1,16 @@
+select.c:219:13:__pollwait	64	static
+select.c:289:12:poll_select_copy_remaining	80	static
+select.c:208:12:pollwake	64	static
+select.c:73:6:select_estimate_accuracy	64	static
+select.c:119:6:poll_initwait	0	static
+select.c:136:6:poll_freewait	48	static
+select.c:234:5:poll_schedule_timeout	32	static
+select.c:272:5:poll_select_set_timeout	48	static
+select.c:399:5:do_select	912	static
+select.c:547:5:core_sys_select	400	static
+select.c:622:1:SyS_select	96	static
+select.c:700:1:SyS_pselect6	128	static
+select.c:870:5:do_sys_poll	1056	static
+select.c:935:13:do_restart_poll	48	static
+select.c:957:1:SyS_poll	64	static
+select.c:991:1:SyS_ppoll	128	static

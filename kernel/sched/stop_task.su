@@ -1,0 +1,13 @@
+stop_task.c:14:1:select_task_rq_stop	0	static
+stop_task.c:21:1:check_preempt_curr_stop	0	static
+stop_task.c:27:1:pick_next_task_stop	32	static
+stop_task.c:77:13:task_tick_stop	0	static
+stop_task.c:81:13:set_curr_task_stop	0	static
+stop_task.c:100:1:get_rr_interval_stop	0	static
+stop_task.c:105:13:update_curr_stop	0	static
+stop_task.c:94:1:prio_changed_stop	16	static
+stop_task.c:88:13:switched_to_stop	16	static
+stop_task.c:53:13:yield_task_stop	16	static
+stop_task.c:58:13:put_prev_task_stop	64	static
+stop_task.c:48:1:dequeue_task_stop	32	static
+stop_task.c:42:1:enqueue_task_stop	32	static

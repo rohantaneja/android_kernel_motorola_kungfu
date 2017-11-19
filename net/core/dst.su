@@ -1,0 +1,14 @@
+dst.h:404:19:dst_discard	16	static
+dst.c:145:5:dst_discard_sk	16	static
+dst.c:363:13:dst_ifdown.part.8	0	static
+dst.c:382:12:dst_dev_event	80	static
+dst.c:162:7:dst_alloc	64	static
+dst.c:219:6:__dst_free	32	static
+dst.c:235:19:dst_destroy	64	static
+dst.c:63:13:dst_gc_task	256	static
+dst.c:272:13:dst_destroy_rcu	16	static
+dst.c:281:6:dst_release	16	static
+dst.c:295:6:dst_cow_metrics_generic	48	static
+dst.c:320:6:__dst_destroy_metrics_generic	16	static
+dst.c:340:6:__skb_dst_set_noref	0	static
+dst.c:419:13:dst_init	16	static

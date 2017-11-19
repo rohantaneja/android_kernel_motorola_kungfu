@@ -1,0 +1,5 @@
+gpiolib-legacy.c:8:6:gpio_free	16	static
+gpiolib-legacy.c:20:5:gpio_request_one	64	static
+gpiolib-legacy.c:63:5:gpio_request	32	static
+gpiolib-legacy.c:74:5:gpio_request_array	48	static
+gpiolib-legacy.c:97:6:gpio_free_array	48	static

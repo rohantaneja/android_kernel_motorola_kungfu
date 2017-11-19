@@ -1,0 +1,5 @@
+memalloc.c:45:7:snd_malloc_pages	16	static
+memalloc.c:65:6:snd_free_pages	16	static
+memalloc.c:172:5:snd_dma_alloc_pages	80	static
+memalloc.c:236:5:snd_dma_alloc_pages_fallback	64	static
+memalloc.c:265:6:snd_dma_free_pages	64	static

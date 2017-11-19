@@ -1,0 +1,3 @@
+hid-zpff.c:145:1:zp_driver_init	16	static
+hid-zpff.c:110:12:zp_probe	32	static
+hid-zpff.c:145:1:zp_driver_exit	16	static

@@ -1,0 +1,14 @@
+blk-ioc.c:39:13:ioc_exit_icq	32	static
+blk-ioc.c:31:13:icq_free_icq_rcu	16	static
+blk-ioc.c:53:13:ioc_destroy_icq	48	static
+blk-ioc.c:88:13:ioc_release_fn	80	static
+blk-ioc.c:401:19:blk_ioc_init	16	static
+blk-ioc.c:24:6:get_io_context	16	static
+blk-ioc.c:129:6:put_io_context	48	static
+blk-ioc.c:165:6:put_io_context_active	64	static
+blk-ioc.c:200:6:exit_io_context	48	static
+blk-ioc.c:219:6:ioc_clear_queue	48	static
+blk-ioc.c:234:5:create_task_io_context	64	static
+blk-ioc.c:287:20:get_task_io_context	64	static
+blk-ioc.c:317:15:ioc_lookup_icq	48	static
+blk-ioc.c:357:15:ioc_create_icq	80	static

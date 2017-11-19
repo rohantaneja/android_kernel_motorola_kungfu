@@ -1,0 +1,17 @@
+mt_soc_pcm_btcvsd_tx.c:312:12:mtk_pcm_btcvsd_tx_silence	0	static
+mt_soc_pcm_btcvsd_tx.c:319:12:mtk_asoc_pcm_btcvsd_tx_new	0	static
+mt_soc_pcm_btcvsd_tx.c:160:12:mtk_pcm_btcvsd_tx_hw_params	16	static
+mt_soc_pcm_btcvsd_tx.c:74:12:Btcvsd_Loopback_Control_Get	32	static
+mt_soc_pcm_btcvsd_tx.c:417:19:mtk_btcvsd_tx_soc_platform_init	32	static
+mt_soc_pcm_btcvsd_tx.c:378:12:mtk_btcvsd_tx_remove	16	static
+mt_soc_pcm_btcvsd_tx.c:356:12:mtk_btcvsd_tx_probe	32	static
+mt_soc_pcm_btcvsd_tx.c:298:12:mtk_pcm_btcvsd_tx_copy	32	static
+mt_soc_pcm_btcvsd_tx.c:114:26:mtk_pcm_btcvsd_tx_pointer	48	static
+mt_soc_pcm_btcvsd_tx.c:261:12:mtk_pcm_btcvsd_tx_prepare	16	static
+mt_soc_pcm_btcvsd_tx.c:193:12:mtk_pcm_btcvsd_tx_hw_free	32	static
+mt_soc_pcm_btcvsd_tx.c:213:12:mtk_pcm_btcvsd_tx_close	16	static
+mt_soc_pcm_btcvsd_tx.c:230:12:mtk_pcm_btcvsd_tx_open	48	static
+mt_soc_pcm_btcvsd_tx.c:327:12:mtk_asoc_pcm_btcvsd_tx_platform_probe	32	static
+mt_soc_pcm_btcvsd_tx.c:450:20:mtk_btcvsd_tx_soc_platform_exit	16	static
+mt_soc_pcm_btcvsd_tx.c:283:12:mtk_pcm_btcvsd_tx_trigger	16	static
+mt_soc_pcm_btcvsd_tx.c:82:12:Btcvsd_Loopback_Control_Set	32	static

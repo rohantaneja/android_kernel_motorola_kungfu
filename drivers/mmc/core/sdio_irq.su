@@ -1,0 +1,6 @@
+sdio_irq.c:31:12:process_sdio_pending_irqs	96	static
+sdio_irq.c:101:12:sdio_irq_thread	96	static
+sdio_irq.c:242:13:sdio_single_irq_set	0	static
+sdio_irq.c:92:6:sdio_run_irqs	32	static
+sdio_irq.c:269:5:sdio_claim_irq	64	static
+sdio_irq.c:312:5:sdio_release_irq	48	static

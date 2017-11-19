@@ -1,0 +1,13 @@
+led-class.c:95:13:led_timer_function	48	static
+led-class.c:144:13:set_brightness_delayed	32	static
+led-class.c:282:20:leds_exit	16	static
+led-class.c:272:19:leds_init	32	static
+led-class.c:57:16:max_brightness_show	16	static
+led-class.c:27:16:brightness_show	48	static
+led-class.c:38:16:brightness_store	48	static
+led-class.c:158:6:led_classdev_suspend	16	static
+led-class.c:177:12:led_suspend	16	static
+led-class.c:169:6:led_classdev_resume	32	static
+led-class.c:187:12:led_resume	16	static
+led-class.c:205:5:led_classdev_register	48	static
+led-class.c:249:6:led_classdev_unregister	32	static

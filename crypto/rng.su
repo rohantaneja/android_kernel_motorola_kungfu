@@ -1,0 +1,7 @@
+rng.c:52:12:crypto_init_rng_ops	0	static
+rng.c:95:21:crypto_rng_ctxsize	0	static
+rng.c:64:12:crypto_rng_report	112	static
+rng.c:89:13:crypto_rng_show	32	static
+rng.c:32:12:rngapi_reset	64	static
+rng.c:111:5:crypto_get_default_rng	48	static
+rng.c:142:6:crypto_put_default_rng	32	static

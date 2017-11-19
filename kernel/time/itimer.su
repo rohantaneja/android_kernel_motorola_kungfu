@@ -1,0 +1,8 @@
+itimer.c:45:13:get_cpu_itimer	96	static
+itimer.c:143:13:set_cpu_itimer	128	static
+itimer.c:79:5:do_getitimer	48	static
+itimer.c:103:1:SyS_getitimer	64	static
+itimer.c:121:22:it_real_fn	48	static
+itimer.c:190:5:do_setitimer	64	static
+itimer.c:253:14:alarm_setitimer	80	static
+itimer.c:278:1:SyS_setitimer	96	static

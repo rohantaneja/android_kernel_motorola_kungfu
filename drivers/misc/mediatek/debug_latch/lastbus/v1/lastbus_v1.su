@@ -1,0 +1,5 @@
+lastbus_v1.c:91:12:enable	0	static
+lastbus_v1.c:106:12:test_show	16	static
+lastbus_v1.c:29:12:dump	112	static
+lastbus_v1.c:182:19:lastbus_init	32	static
+lastbus_v1.c:157:12:test	32	static

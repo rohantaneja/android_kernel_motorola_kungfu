@@ -1,0 +1,12 @@
+statfs.c:106:12:do_statfs_native	160	static
+statfs.c:148:12:do_statfs64	160	static
+statfs.c:49:12:statfs_by_dentry	32	static
+statfs.c:66:5:vfs_statfs	32	static
+statfs.c:77:5:user_statfs	64	static
+statfs.c:95:5:fd_statfs	64	static
+statfs.c:172:1:SyS_statfs	160	static
+statfs.c:181:1:SyS_statfs64	160	static
+statfs.c:193:1:SyS_fstatfs	160	static
+statfs.c:202:1:SyS_fstatfs64	160	static
+statfs.c:216:5:vfs_ustat	48	static
+statfs.c:228:1:SyS_ustat	192	static

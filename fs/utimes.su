@@ -1,0 +1,5 @@
+utimes.c:51:12:utimes_common	160	static
+utimes.c:136:6:do_utimes	80	static
+utimes.c:185:1:SyS_utimensat	80	static
+utimes.c:203:1:SyS_futimesat	96	static
+utimes.c:231:1:SyS_utimes	16	static

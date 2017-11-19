@@ -1,0 +1,17 @@
+wext-core.c:379:23:wext_pernet_init	0	static
+wext-core.c:385:24:wext_pernet_exit	16	static
+wext-core.c:417:25:rtnetlink_ifinfo_prep	48	static
+wext-core.c:914:12:wireless_process_ioctl	64	static
+wext-core.c:395:19:wireless_nlevent_init	32	static
+wext-core.c:345:6:wireless_nlevent_flush	48	static
+wext-core.c:360:12:wext_netdev_notifier_call	16	static
+wext-core.c:408:13:wireless_nlevent_process	16	static
+wext-core.c:450:6:wireless_send_event	144	static
+wext-core.c:715:12:ioctl_standard_iw_point	160	static
+wext-core.c:639:23:get_wireless_stats	16	static
+wext-core.c:659:12:iw_handler_get_iwstats	32	static
+wext-core.c:894:5:call_commit_handler	16	static
+wext-core.c:1000:12:ioctl_standard_call	64	static
+wext-core.c:1057:12:compat_standard_call	48	static
+wext-core.c:1039:5:wext_handle_ioctl	80	static
+wext-core.c:1087:5:compat_wext_handle_ioctl	96	static

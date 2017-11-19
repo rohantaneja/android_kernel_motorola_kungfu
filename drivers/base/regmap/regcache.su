@@ -1,0 +1,17 @@
+regcache.c:562:12:regcache_default_cmp	0	static
+regcache.c:633:12:regcache_sync_block_raw_flush	64	static
+regcache.c:175:6:regcache_exit	32	static
+regcache.c:202:5:regcache_read	64	static
+regcache.c:233:5:regcache_write	48	static
+regcache.c:416:5:regcache_drop_region	48	static
+regcache.c:448:6:regcache_cache_only	48	static
+regcache.c:467:6:regcache_mark_dirty	32	static
+regcache.c:486:6:regcache_cache_bypass	48	static
+regcache.c:531:14:regcache_get_val	16	static
+regcache.c:94:5:regcache_init	64	static
+regcache.c:496:6:regcache_set_val	64	static
+regcache.c:570:5:regcache_lookup_reg	48	static
+regcache.c:247:12:regcache_default_sync	80	static
+regcache.c:294:5:regcache_sync	80	static
+regcache.c:362:5:regcache_sync_region	80	static
+regcache.c:705:5:regcache_sync_block	128	static

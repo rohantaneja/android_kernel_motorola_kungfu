@@ -1,0 +1,11 @@
+devinfo.c:111:12:devinfo_open	0	static
+devinfo.c:116:12:devinfo_release	0	static
+devinfo.c:297:20:devinfo_exit	32	static
+devinfo.c:183:19:devinfo_init	48	static
+devinfo.c:257:13:init_devinfo_exclusive	16	static
+devinfo.c:274:19:devinfo_of_init	16	static
+devinfo.c:229:19:devinfo_parse_dt	48	static
+devinfo.c:56:5:devinfo_get_size	0	static
+devinfo.c:62:5:devinfo_ready	0	static
+devinfo.c:70:5:get_devinfo_with_index	64	static
+devinfo.c:124:13:devinfo_ioctl	64	static

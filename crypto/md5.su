@@ -1,0 +1,7 @@
+md5.c:50:12:md5_init	0	static
+md5.c:161:20:md5_mod_fini	16	static
+md5.c:131:12:md5_import	16	static
+md5.c:123:12:md5_export	16	static
+md5.c:63:12:md5_update	64	static
+md5.c:95:12:md5_final	48	static
+md5.c:156:19:md5_mod_init	16	static

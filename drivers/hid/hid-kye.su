@@ -1,0 +1,5 @@
+hid-kye.c:610:1:kye_driver_init	16	static
+hid-kye.c:537:12:kye_probe	48	static
+hid-kye.c:610:1:kye_driver_exit	16	static
+hid-kye.c:402:14:kye_consumer_control_fixup.isra.0.part.1	32	static
+hid-kye.c:422:14:kye_report_fixup	48	static

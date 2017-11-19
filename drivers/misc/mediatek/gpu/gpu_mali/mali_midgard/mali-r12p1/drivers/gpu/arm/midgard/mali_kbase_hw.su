@@ -1,0 +1,2 @@
+mali_kbase_hw.c:33:6:kbase_hw_set_features_mask	32	static
+mali_kbase_hw.c:87:5:kbase_hw_set_issues_mask	32	static

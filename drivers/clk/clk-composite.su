@@ -1,0 +1,10 @@
+clk-composite.c:24:11:clk_composite_get_parent	16	static
+clk-composite.c:35:12:clk_composite_set_parent	16	static
+clk-composite.c:46:22:clk_composite_recalc_rate	16	static
+clk-composite.c:127:13:clk_composite_round_rate	16	static
+clk-composite.c:139:12:clk_composite_set_rate	16	static
+clk-composite.c:151:12:clk_composite_is_enabled	16	static
+clk-composite.c:162:12:clk_composite_enable	16	static
+clk-composite.c:173:13:clk_composite_disable	16	static
+clk-composite.c:58:13:clk_composite_determine_rate	112	static
+clk-composite.c:184:13:clk_register_composite	160	static

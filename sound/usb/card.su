@@ -1,0 +1,13 @@
+card.c:796:1:usb_audio_driver_init	16	static
+card.c:721:12:__usb_audio_resume	64	static
+card.c:762:12:usb_audio_reset_resume	16	static
+card.c:757:12:usb_audio_resume	16	static
+card.c:683:12:usb_audio_suspend	48	static
+card.c:134:12:snd_usb_create_stream	64	static
+card.c:796:1:usb_audio_driver_exit	16	static
+card.c:653:13:usb_audio_disconnect	64	static
+card.c:326:13:remove_trailing_spaces.part.8	32	static
+card.c:320:12:snd_usb_audio_dev_free	48	static
+card.c:641:12:usb_audio_probe	144	static
+card.c:661:5:snd_usb_autoresume	32	static
+card.c:675:6:snd_usb_autosuspend	32	static

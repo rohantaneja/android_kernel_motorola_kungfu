@@ -1,0 +1,12 @@
+dm-target.c:114:12:io_err_ctr	0	static
+dm-target.c:124:13:io_err_dtr	0	static
+dm-target.c:129:12:io_err_map	0	static
+dm-target.c:134:12:io_err_map_rq	0	static
+dm-target.c:32:28:get_target_type	48	static
+dm-target.c:51:21:dm_get_target_type	32	static
+dm-target.c:63:6:dm_put_target_type	32	static
+dm-target.c:70:5:dm_target_iterate	64	static
+dm-target.c:83:5:dm_register_target	64	static
+dm-target.c:97:6:dm_unregister_target	64	static
+dm-target.c:149:12:dm_target_init	16	static
+dm-target.c:154:6:dm_target_exit	16	static

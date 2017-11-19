@@ -1,0 +1,10 @@
+link_watch.c:53:13:rfc2863_policy	48	static
+link_watch.c:144:13:linkwatch_do_dev	32	static
+link_watch.c:87:13:linkwatch_urgent_event.part.3	0	static
+link_watch.c:115:13:linkwatch_schedule_work	32	static
+link_watch.c:169:13:__linkwatch_run_queue	96	static
+link_watch.c:234:13:linkwatch_event	16	static
+link_watch.c:79:6:linkwatch_init_dev	16	static
+link_watch.c:211:6:linkwatch_forget_dev	48	static
+link_watch.c:228:6:linkwatch_run_queue	16	static
+link_watch.c:242:6:linkwatch_fire_event	48	static

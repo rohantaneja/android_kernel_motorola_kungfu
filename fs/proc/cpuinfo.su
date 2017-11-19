@@ -1,0 +1,2 @@
+cpuinfo.c:7:12:cpuinfo_open	16	static
+cpuinfo.c:19:19:proc_cpuinfo_init	16	static

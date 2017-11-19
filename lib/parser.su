@@ -1,0 +1,8 @@
+parser.c:128:12:match_number	80	static
+parser.c:107:5:match_token	112	static
+parser.c:163:5:match_int	16	static
+parser.c:178:5:match_octal	16	static
+parser.c:193:5:match_hex	16	static
+parser.c:210:6:match_wildcard	0	static
+parser.c:260:8:match_strlcpy	48	static
+parser.c:281:7:match_strdup	48	static

@@ -1,0 +1,12 @@
+reassembly.c:118:6:ip6_frag_init	0	static
+reassembly.c:102:6:ip6_frag_match	16	static
+reassembly.c:86:21:inet6_hash_frag	48	static
+reassembly.c:94:21:ip6_hashfn	16	static
+reassembly.c:667:24:ip6_frags_ns_sysctl_unregister	16	static
+reassembly.c:721:24:ipv6_frags_exit_net	32	static
+reassembly.c:710:23:ipv6_frags_init_net	32	static
+reassembly.c:522:12:ipv6_frag_rcv	176	static
+reassembly.c:131:6:ip6_expire_frag_queue	80	static
+reassembly.c:173:13:ip6_frag_expire	16	static
+reassembly.c:732:12:ipv6_frag_init	48	static
+reassembly.c:769:6:ipv6_frag_exit	16	static

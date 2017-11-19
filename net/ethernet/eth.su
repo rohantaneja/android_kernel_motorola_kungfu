@@ -1,0 +1,15 @@
+eth.c:239:5:eth_header_parse	0	static
+eth.c:255:5:eth_header_cache	0	static
+eth.c:282:6:eth_header_cache_update	0	static
+eth.c:78:5:eth_header	64	static
+eth.c:383:6:ether_setup	0	static
+eth.c:125:5:eth_rebuild_header	32	static
+eth.c:156:5:eth_get_headlen	64	static
+eth.c:184:8:eth_type_trans	32	static
+eth.c:296:5:eth_prepare_mac_addr_change	0	static
+eth.c:313:6:eth_commit_mac_addr_change	0	static
+eth.c:331:5:eth_mac_addr	32	static
+eth.c:351:5:eth_change_mtu	0	static
+eth.c:360:5:eth_validate_addr	0	static
+eth.c:414:20:alloc_etherdev_mqs	16	static
+eth.c:422:9:sysfs_format_mac	16	static

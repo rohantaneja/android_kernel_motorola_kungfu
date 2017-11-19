@@ -1,0 +1,4 @@
+gl_p2p_init.c:81:6:p2pSetSuspendMode	16	static
+gl_p2p_init.c:111:9:p2pLaunch	48	static
+gl_p2p_init.c:128:6:p2pSetMode	0	static
+gl_p2p_init.c:150:9:p2pRemove	32	static

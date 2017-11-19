@@ -1,0 +1,7 @@
+symlink.c:21:12:sysfs_do_create_link_sd.isra.2	80	static
+symlink.c:61:5:sysfs_create_link_sd	16	static
+symlink.c:89:5:sysfs_create_link	16	static
+symlink.c:105:5:sysfs_create_link_nowarn	16	static
+symlink.c:120:6:sysfs_delete_link	64	static
+symlink.c:142:6:sysfs_remove_link	16	static
+symlink.c:165:5:sysfs_rename_link_ns	64	static

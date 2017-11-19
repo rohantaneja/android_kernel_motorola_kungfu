@@ -1,0 +1,2 @@
+mcs_spinlock.c:86:6:osq_lock	64	static
+mcs_spinlock.c:181:6:osq_unlock	32	static

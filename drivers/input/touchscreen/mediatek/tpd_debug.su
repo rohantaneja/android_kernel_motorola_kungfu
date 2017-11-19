@@ -1,0 +1,16 @@
+tpd_debug.c:288:16:tpd_debug_log_write	0	static
+met_ftrace_touch.h:24:1:perf_trace_MET_touch	400	static
+met_ftrace_touch.h:24:1:ftrace_raw_event_MET_touch	128	static
+met_ftrace_touch.h:24:1:ftrace_raw_output_MET_touch	32	static
+tpd_debug.c:515:19:tpd_log_init	16	static
+tpd_debug.c:279:12:tpd_debug_log_release	16	static
+tpd_debug.c:294:16:tpd_debug_log_read	112	static
+met_ftrace_touch.h:24:1:ftrace_define_fields_MET_touch	48	static
+tpd_debug.c:260:12:tpd_debug_log_open	48	static
+tpd_debug.c:27:6:tpd_debug_no_response	224	static
+tpd_debug.c:87:6:tpd_debug_set_time	48	static
+tpd_debug.c:159:6:tpd_enable_em_log	0	static
+tpd_debug.c:366:15:MET_touch	112	static
+tpd_debug.c:381:6:tpd_em_log_output	16	static
+tpd_debug.c:418:6:tpd_em_log_store	176	static
+tpd_debug.c:497:6:tpd_em_log_release	48	static

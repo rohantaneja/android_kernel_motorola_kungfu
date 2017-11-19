@@ -1,0 +1,12 @@
+ah4.c:539:12:ah4_rcv_cb	0	static
+ah4.c:78:12:ip_clear_mutable_options	64	static
+ah4.c:118:13:ah_output_done	80	static
+ah4.c:23:14:ah_alloc_tmp	16	static
+ah4.c:145:12:ah_output	192	static
+ah4.c:261:13:ah_input_done	112	static
+ah4.c:296:12:ah_input	176	static
+ah4.c:528:13:ah_destroy	32	static
+ah4.c:431:12:ah4_err	48	static
+ah4.c:578:20:ah4_fini	32	static
+ah4.c:462:12:ah_init_state	48	static
+ah4.c:564:19:ah4_init	32	static

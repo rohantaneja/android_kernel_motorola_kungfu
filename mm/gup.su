@@ -1,0 +1,8 @@
+gup.c:20:21:no_page_table.isra.19	0	static
+gup.c:154:14:follow_page_mask	112	static
+gup.c:483:6:__get_user_pages.part.22	160	static
+gup.c:483:6:__get_user_pages	16	static
+gup.c:615:5:fixup_user_fault	48	static
+gup.c:664:14:get_dump_page	32	static
+gup.c:934:5:__get_user_pages_fast	64	static
+gup.c:994:5:get_user_pages_fast	80	static

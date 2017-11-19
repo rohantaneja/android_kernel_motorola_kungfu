@@ -1,0 +1,4 @@
+ipt_MASQUERADE.c:84:20:masquerade_tg_exit	16	static
+ipt_MASQUERADE.c:48:1:masquerade_tg	64	static
+ipt_MASQUERADE.c:72:19:masquerade_tg_init	32	static
+ipt_MASQUERADE.c:32:12:masquerade_tg_check	32	static

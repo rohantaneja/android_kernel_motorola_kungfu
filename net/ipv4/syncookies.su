@@ -1,0 +1,7 @@
+syncookies.c:36:12:cookie_hash	96	static
+syncookies.c:62:7:cookie_init_timestamp	0	static
+syncookies.c:156:5:__cookie_v4_init_sequence	80	static
+syncookies.c:173:7:cookie_v4_init_sequence	48	static
+syncookies.c:189:5:__cookie_v4_check	80	static
+syncookies.c:227:6:cookie_check_timestamp	0	static
+syncookies.c:258:14:cookie_v4_check	208	static

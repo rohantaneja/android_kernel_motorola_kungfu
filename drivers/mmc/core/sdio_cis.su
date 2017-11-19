@@ -1,0 +1,11 @@
+sdio_cis.c:74:12:cistpl_manfid	0	static
+sdio_cis.c:146:12:cistpl_funce_common	0	static
+sdio_cis.c:111:12:cis_tpl_parse	64	static
+sdio_cis.c:208:12:cistpl_funce	16	static
+sdio_cis.c:228:12:sdio_read_cis	128	static
+sdio_cis.c:27:12:cistpl_vers_1	80	static
+sdio_cis.c:163:12:cistpl_funce_func	32	static
+sdio_cis.c:346:5:sdio_read_common_cis	16	static
+sdio_cis.c:351:6:sdio_free_common_cis	32	static
+sdio_cis.c:366:5:sdio_read_func_cis	32	static
+sdio_cis.c:392:6:sdio_free_func_cis	32	static

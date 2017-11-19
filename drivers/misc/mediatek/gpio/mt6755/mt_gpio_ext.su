@@ -1,0 +1,17 @@
+mt_gpio_ext.c:25:5:mt_set_gpio_dir_ext	16	static
+mt_gpio_ext.c:32:5:mt_get_gpio_dir_ext	16	static
+mt_gpio_ext.c:39:5:mt_set_gpio_pull_enable_ext	16	static
+mt_gpio_ext.c:46:5:mt_get_gpio_pull_enable_ext	16	static
+mt_gpio_ext.c:53:5:mt_set_gpio_smt_ext	16	static
+mt_gpio_ext.c:60:5:mt_get_gpio_smt_ext	16	static
+mt_gpio_ext.c:67:5:mt_set_gpio_ies_ext	16	static
+mt_gpio_ext.c:74:5:mt_get_gpio_ies_ext	16	static
+mt_gpio_ext.c:81:5:mt_set_gpio_pull_select_ext	16	static
+mt_gpio_ext.c:88:5:mt_get_gpio_pull_select_ext	16	static
+mt_gpio_ext.c:95:5:mt_set_gpio_inversion_ext	16	static
+mt_gpio_ext.c:102:5:mt_get_gpio_inversion_ext	16	static
+mt_gpio_ext.c:109:5:mt_set_gpio_out_ext	16	static
+mt_gpio_ext.c:116:5:mt_get_gpio_out_ext	16	static
+mt_gpio_ext.c:123:5:mt_get_gpio_in_ext	16	static
+mt_gpio_ext.c:130:5:mt_set_gpio_mode_ext	16	static
+mt_gpio_ext.c:137:5:mt_get_gpio_mode_ext	16	static

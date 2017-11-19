@@ -1,0 +1,7 @@
+misc.c:50:6:fat_msg	112	static
+misc.c:23:6:__fat_fs_error	128	static
+misc.c:64:5:fat_clusters_flush	48	static
+misc.c:103:5:fat_chain_add	144	static
+misc.c:193:6:fat_time_fat2unix	0	static
+misc.c:231:6:fat_time_unix2fat	96	static
+misc.c:269:5:fat_sync_bhs	64	static

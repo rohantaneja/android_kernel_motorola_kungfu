@@ -1,0 +1,9 @@
+port_net.c:435:13:port_net_md_state_notice	32	static
+port_net.c:42:5:ccci_get_ccmni_channel	32	static
+port_net.c:215:5:ccmni_send_pkt	80	static
+port_net.c:385:12:port_net_recv_skb	64	static
+port_net.c:365:12:port_net_init	16	static
+port_net.c:462:6:port_net_md_dump_info	16	static
+port_net.c:288:5:ccmni_napi_poll	64	static
+port_net.c:335:5:ccmni_send_mbim_skb	48	static
+port_net.c:354:6:ccmni_update_mbim_interface	16	static

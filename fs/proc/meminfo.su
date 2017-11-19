@@ -1,0 +1,4 @@
+meminfo.c:206:12:meminfo_proc_open	16	static
+meminfo.c:218:19:proc_meminfo_init	16	static
+meminfo.c:19:28:arch_report_meminfo	0	static
+meminfo.c:23:12:meminfo_proc_show	656	static

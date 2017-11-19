@@ -1,0 +1,10 @@
+cpu_pm.c:28:12:cpu_pm_notify	16	static
+cpu_pm.c:227:12:cpu_pm_init	16	static
+cpu_pm.c:48:5:cpu_pm_register_notifier	64	static
+cpu_pm.c:70:5:cpu_pm_unregister_notifier	64	static
+cpu_pm.c:98:5:cpu_pm_enter	48	static
+cpu_pm.c:129:5:cpu_pm_exit	32	static
+cpu_pm.c:157:5:cpu_cluster_pm_enter	48	static
+cpu_pm.c:204:12:cpu_pm_suspend	16	static
+cpu_pm.c:191:5:cpu_cluster_pm_exit	32	static
+cpu_pm.c:216:13:cpu_pm_resume	16	static

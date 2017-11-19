@@ -1,0 +1,15 @@
+srcu.c:414:13:wakeme_after_rcu	16	static
+srcu.c:655:13:srcu_reschedule	80	static
+srcu.c:340:13:try_check_zero	128	static
+srcu.c:575:13:srcu_advance_batches	64	static
+srcu.c:428:13:__synchronize_srcu	96	static
+srcu.c:682:6:process_srcu	64	static
+srcu.c:135:5:init_srcu_struct	32	static
+srcu.c:281:6:cleanup_srcu_struct	64	static
+srcu.c:295:5:__srcu_read_lock	48	static
+srcu.c:315:6:__srcu_read_unlock	0	static
+srcu.c:388:6:call_srcu	64	static
+srcu.c:508:6:synchronize_srcu	16	static
+srcu.c:526:6:synchronize_srcu_expedited	16	static
+srcu.c:536:6:srcu_barrier	16	static
+srcu.c:549:6:srcu_batches_completed	0	static

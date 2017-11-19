@@ -1,0 +1,8 @@
+mt_psci.c:25:19:mt_psci_cpu_init	0	static
+mt_psci.c:49:12:mt_psci_cpu_disable	16	static
+mt_psci.c:54:13:mt_psci_cpu_die	16	static
+mt_psci.c:74:12:mt_psci_cpu_init_idle	16	static
+mt_psci.c:80:12:mt_psci_cpu_suspend	16	static
+mt_psci.c:59:12:mt_psci_cpu_kill	32	static
+mt_psci.c:30:19:mt_psci_cpu_prepare	32	static
+mt_psci.c:37:12:mt_psci_cpu_boot	32	static

@@ -1,0 +1,2 @@
+uuid.c:33:6:uuid_le_gen	32	static
+uuid.c:41:6:uuid_be_gen	32	static

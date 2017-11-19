@@ -1,0 +1,17 @@
+nobootmem.c:35:22:__alloc_memory_core_early	48	static
+nobootmem.c:221:22:___alloc_bootmem_nopanic	48	static
+nobootmem.c:70:13:free_bootmem_late	64	static
+nobootmem.c:148:6:reset_node_managed_pages	0	static
+nobootmem.c:156:13:reset_all_zones_managed_pages	32	static
+nobootmem.c:174:22:free_all_bootmem	144	static
+nobootmem.c:201:13:free_bootmem_node	16	static
+nobootmem.c:216:13:free_bootmem	16	static
+nobootmem.c:259:15:__alloc_bootmem_nopanic	16	static
+nobootmem.c:295:15:__alloc_bootmem	32	static
+nobootmem.c:303:15:___alloc_bootmem_node_nopanic	64	static
+nobootmem.c:330:15:__alloc_bootmem_node_nopanic	48	static
+nobootmem.c:369:15:__alloc_bootmem_node	48	static
+nobootmem.c:378:15:__alloc_bootmem_node_high	16	static
+nobootmem.c:401:15:__alloc_bootmem_low	32	static
+nobootmem.c:407:15:__alloc_bootmem_low_nopanic	16	static
+nobootmem.c:430:15:__alloc_bootmem_low_node	48	static

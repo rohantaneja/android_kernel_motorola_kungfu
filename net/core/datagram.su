@@ -1,0 +1,15 @@
+datagram.c:70:12:receiver_wake_function	16	static
+datagram.c:684:12:skb_copy_and_csum_datagram	160	static
+datagram.c:193:17:__skb_recv_datagram	224	static
+datagram.c:267:17:skb_recv_datagram	32	static
+datagram.c:277:6:skb_free_datagram	32	static
+datagram.c:284:6:skb_free_datagram_locked	48	static
+datagram.c:324:5:skb_kill_datagram	48	static
+datagram.c:356:5:skb_copy_datagram_iovec	112	static
+datagram.c:442:5:skb_copy_datagram_const_iovec	128	static
+datagram.c:531:5:skb_copy_datagram_from_iovec	128	static
+datagram.c:626:5:zerocopy_sg_from_iovec	256	static
+datagram.c:773:9:__skb_checksum_complete_head	48	static
+datagram.c:789:9:__skb_checksum_complete	48	static
+datagram.c:829:5:skb_copy_and_csum_datagram_iovec	96	static
+datagram.c:883:14:datagram_poll	32	static

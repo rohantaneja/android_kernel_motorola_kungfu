@@ -1,0 +1,13 @@
+port_char.c:318:14:dev_char_poll	64	static
+port_char.c:295:13:dev_char_compat_ioctl	32	static
+port_char.c:491:13:port_char_md_state_notice	32	static
+port_char.c:458:12:port_char_recv_skb	96	static
+port_char.c:57:12:dev_char_close	80	static
+port_char.c:32:12:dev_char_open	48	static
+port_char.c:347:12:dev_char_mmap	32	static
+port_char.c:268:13:dev_char_ioctl	16	static
+port_char.c:165:16:dev_char_write	80	static
+port_char.c:92:16:dev_char_read	160	static
+port_char.c:372:12:port_char_init	32	static
+port_char.c:500:6:port_char_dump_info	64	static
+port_char.c:477:12:port_char_recv_match	16	static

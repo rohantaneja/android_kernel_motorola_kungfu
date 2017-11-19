@@ -1,0 +1,2 @@
+nf_nat_proto_tcp.c:24:1:tcp_unique_tuple	16	static
+nf_nat_proto_tcp.c:35:1:tcp_manip_pkt	96	static

@@ -1,0 +1,9 @@
+ring_buffer.c:44:13:perf_output_put_handle	16	static
+ring_buffer.c:359:13:rb_free_work	48	static
+ring_buffer.c:205:14:perf_output_copy	64	static
+ring_buffer.c:104:5:perf_output_begin	240	static
+ring_buffer.c:211:14:perf_output_skip	0	static
+ring_buffer.c:217:6:perf_output_end	16	static
+ring_buffer.c:343:1:perf_mmap_to_page	16	static
+ring_buffer.c:377:6:rb_free	16	static
+ring_buffer.c:382:21:rb_alloc	48	static

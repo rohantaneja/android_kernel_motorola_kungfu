@@ -1,0 +1,17 @@
+cpufreq_stats.c:475:12:compare_for_sort	0	static
+cpufreq_stats.c:65:12:cpufreq_stats_update	48	static
+cpufreq_stats.c:519:13:cpufreq_allstats_create	96	static
+cpufreq_stats.c:430:13:cpufreq_powerstats_create	80	static
+cpufreq_stats.c:292:13:__cpufreq_stats_free_table	48	static
+cpufreq_stats.c:100:16:show_time_in_state	80	static
+cpufreq_stats.c:91:16:show_total_trans	16	static
+cpufreq_stats.c:307:13:cpufreq_stats_free_table	32	static
+cpufreq_stats.c:171:16:show_all_time_in_state	128	static
+cpufreq_stats.c:148:16:show_current_in_state	112	static
+cpufreq_stats.c:712:20:cpufreq_stats_exit	96	static
+cpufreq_stats.c:215:16:show_trans_table	96	static
+cpufreq_stats.c:630:12:cpufreq_stat_notifier_trans	48	static
+cpufreq_stats.c:361:12:__cpufreq_stats_create_table	112	static
+cpufreq_stats.c:594:12:cpufreq_stat_notifier_policy	112	static
+cpufreq_stats.c:674:19:cpufreq_stats_init	112	static
+cpufreq_stats.c:129:6:acct_update_power	32	static

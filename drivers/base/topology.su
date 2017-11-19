@@ -1,0 +1,9 @@
+topology.c:47:16:show_cpumap	32	static
+topology.c:87:1:show_thread_cpumask	16	static
+topology.c:87:1:show_thread_cpumask_list	16	static
+topology.c:91:1:show_core_cpumask	16	static
+topology.c:91:1:show_core_cpumask_list	16	static
+topology.c:84:1:show_core_id	16	static
+topology.c:81:1:show_physical_package_id	16	static
+topology.c:138:12:topology_cpu_callback	16	static
+topology.c:162:12:topology_sysfs_init	64	static

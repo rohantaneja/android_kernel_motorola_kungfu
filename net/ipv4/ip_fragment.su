@@ -1,0 +1,13 @@
+ip_fragment.c:119:13:ip4_frag_match	0	static
+ip_fragment.c:151:24:ip4_frag_free	16	static
+ip_fragment.c:103:21:ipqhashfn	64	static
+ip_fragment.c:111:21:ip4_hashfn	16	static
+ip_fragment.c:132:13:ip4_frag_init	64	static
+ip_fragment.c:790:24:ip4_frags_ns_ctl_unregister	32	static
+ip_fragment.c:848:24:ipv4_frags_exit_net	32	static
+ip_fragment.c:818:23:ipv4_frags_init_net	32	static
+ip_fragment.c:179:13:ip_expire	48	static
+ip_fragment.c:90:5:ip_frag_mem	32	static
+ip_fragment.c:636:5:ip_defrag	160	static
+ip_fragment.c:663:17:ip_check_defrag	96	static
+ip_fragment.c:859:13:ipfrag_init	32	static

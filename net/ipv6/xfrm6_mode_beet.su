@@ -1,0 +1,5 @@
+xfrm6_mode_beet.c:22:13:xfrm6_beet_make_header	0	static
+xfrm6_mode_beet.c:40:12:xfrm6_beet_output	96	static
+xfrm6_mode_beet.c:115:19:xfrm6_beet_init	16	static
+xfrm6_mode_beet.c:120:20:xfrm6_beet_exit	16	static
+xfrm6_mode_beet.c:80:12:xfrm6_beet_input	32	static

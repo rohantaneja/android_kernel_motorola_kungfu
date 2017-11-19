@@ -1,0 +1,4 @@
+regcache-flat.c:45:12:regcache_flat_read	0	static
+regcache-flat.c:55:12:regcache_flat_write	0	static
+regcache-flat.c:37:12:regcache_flat_exit	32	static
+regcache-flat.c:19:12:regcache_flat_init	32	static

@@ -1,0 +1,15 @@
+ged_profile_dvfs.c:24:11:ged_profile_dvfs_init	16	static
+ged_profile_dvfs.c:35:11:ged_profile_dvfs_enable	32	static
+ged_profile_dvfs.c:53:6:ged_profile_dvfs_disable	32	static
+ged_profile_dvfs.c:66:6:ged_profile_dvfs_start	0	static
+ged_profile_dvfs.c:71:6:ged_profile_dvfs_stop	0	static
+ged_profile_dvfs.c:76:6:ged_profile_dvfs_ignore_lines	48	static
+ged_profile_dvfs.c:88:6:ged_profile_dvfs_exit	16	static
+ged_profile_dvfs.c:93:6:ged_profile_dvfs_record_freq_volt	48	static
+ged_profile_dvfs.c:111:6:ged_profile_dvfs_record_temp	48	static
+ged_profile_dvfs.c:130:6:ged_profile_dvfs_record_thermal_limit	48	static
+ged_profile_dvfs.c:148:6:ged_profile_dvfs_record_gpu_loading	48	static
+ged_profile_dvfs.c:167:6:ged_profile_dvfs_record_clock_on	32	static
+ged_profile_dvfs.c:186:6:ged_profile_dvfs_record_clock_off	32	static
+ged_profile_dvfs.c:205:6:ged_profile_dvfs_record_SW_vsync	64	static
+ged_profile_dvfs.c:224:6:ged_profile_dvfs_record_policy	128	static

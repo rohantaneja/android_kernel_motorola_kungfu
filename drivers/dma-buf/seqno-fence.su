@@ -1,0 +1,6 @@
+seqno-fence.c:24:20:seqno_fence_get_driver_name	16	static
+seqno-fence.c:30:20:seqno_fence_get_timeline_name	16	static
+seqno-fence.c:36:13:seqno_enable_signaling	16	static
+seqno-fence.c:42:13:seqno_signaled	16	static
+seqno-fence.c:59:20:seqno_wait	16	static
+seqno-fence.c:48:13:seqno_release	32	static

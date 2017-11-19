@@ -1,0 +1,17 @@
+ccci_private_log.c:212:14:ccci_log_poll	32	static
+ccci_private_log.c:223:12:ccci_log_open	0	static
+ccci_private_log.c:231:12:ccci_log_close	0	static
+ccci_private_log.c:618:14:ccci_dump_poll	0	static
+ccci_private_log.c:165:16:ccci_log_read	160	static
+ccci_private_log.c:639:12:ccci_dump_close	64	static
+ccci_private_log.c:623:12:ccci_dump_open	32	static
+ccci_private_log.c:473:16:ccci_dump_read	176	static
+ccci_private_log.c:54:5:ccci_log_write	240	static
+ccci_private_log.c:104:5:ccci_log_write_raw	192	static
+ccci_private_log.c:329:5:ccci_dump_write	192	static
+ccci_private_log.c:738:5:get_dump_buf_usage	112	static
+ccci_private_log.c:756:6:ccci_util_mem_dump	112	static
+ccci_private_log.c:797:6:ccci_util_cmpt_mem_dump	256	static
+ccci_private_log.c:871:5:ccci_event_log	384	static
+ccci_private_log.c:945:5:ccci_event_log_cpy	96	static
+ccci_private_log.c:973:6:ccci_log_init	96	static

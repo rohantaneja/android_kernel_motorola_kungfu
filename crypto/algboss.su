@@ -1,0 +1,5 @@
+algboss.c:62:12:cryptomgr_probe	64	static
+algboss.c:276:12:cryptomgr_notify	96	static
+algboss.c:211:12:cryptomgr_test	32	static
+algboss.c:293:19:cryptomgr_init	16	static
+algboss.c:298:20:cryptomgr_exit	16	static

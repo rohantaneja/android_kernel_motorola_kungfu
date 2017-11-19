@@ -1,0 +1,4 @@
+xt_physdev.c:26:1:physdev_mt	0	static
+xt_physdev.c:125:20:physdev_mt_exit	16	static
+xt_physdev.c:120:19:physdev_mt_init	16	static
+xt_physdev.c:87:12:physdev_mt_check	48	static

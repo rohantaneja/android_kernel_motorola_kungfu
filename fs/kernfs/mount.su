@@ -1,0 +1,10 @@
+mount.c:22:12:kernfs_sop_remount_fs	16	static
+mount.c:32:12:kernfs_sop_show_options	16	static
+mount.c:100:12:kernfs_test_super	0	static
+mount.c:108:12:kernfs_set_super	32	static
+mount.c:58:21:kernfs_root_from_sb	0	static
+mount.c:123:13:kernfs_super_ns	0	static
+mount.c:146:16:kernfs_mount_ns	96	static
+mount.c:196:6:kernfs_kill_sb	48	static
+mount.c:226:21:kernfs_pin_sb	48	static
+mount.c:244:13:kernfs_init	16	static

@@ -1,0 +1,17 @@
+mtk_tpd.c:202:12:tpd_misc_release	0	static
+mtk_tpd.c:363:13:touch_resume_workqueue_callback	32	static
+mtk_tpd.c:208:13:tpd_compat_ioctl	32	static
+mtk_tpd.c:617:13:tpd_init_work_callback	16	static
+mtk_tpd.c:610:12:tpd_remove	16	static
+mtk_tpd.c:197:12:tpd_misc_open	16	static
+mtk_tpd.c:236:13:tpd_unlocked_ioctl	16	static
+mtk_tpd.c:369:12:tpd_fb_notifier_callback	32	static
+mtk_tpd.c:72:6:tpd_get_dts_info	160	static
+mtk_tpd.c:118:6:tpd_gpio_as_int	32	static
+mtk_tpd.c:128:6:tpd_gpio_output	48	static
+mtk_tpd.c:147:5:tpd_get_gpio_info	48	static
+mtk_tpd.c:437:12:tpd_probe	80	static
+mtk_tpd.c:411:5:tpd_driver_remove	64	static
+mtk_tpd.c:624:5:tpd_driver_add	64	static
+mtk_tpd.c:665:5:tpd_device_init	16	static
+mtk_tpd.c:679:7:tpd_device_exit	16	static

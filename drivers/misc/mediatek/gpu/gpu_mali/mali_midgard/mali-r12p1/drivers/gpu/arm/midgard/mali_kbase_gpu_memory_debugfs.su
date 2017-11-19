@@ -1,0 +1,3 @@
+mali_kbase_gpu_memory_debugfs.c:96:12:kbasep_gpu_memory_debugfs_open	16	static
+mali_kbase_gpu_memory_debugfs.c:40:12:kbasep_gpu_memory_seq_show	112	static
+mali_kbase_gpu_memory_debugfs.c:111:6:kbasep_gpu_memory_debugfs_init	16	static

@@ -1,0 +1,4 @@
+zcomp_lzo.c:40:13:lzo_destroy	16	static
+zcomp_lzo.c:61:12:lzo_decompress	32	static
+zcomp_lzo.c:53:12:lzo_compress	16	static
+zcomp_lzo.c:18:14:lzo_create	16	static

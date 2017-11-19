@@ -1,0 +1,17 @@
+endpoint.c:491:12:wait_clear_urbs	64	static
+endpoint.c:525:12:deactivate_urbs	64	static
+endpoint.c:553:13:release_urbs	48	static
+endpoint.c:130:5:snd_usb_endpoint_implicit_feedback_sink	0	static
+endpoint.c:145:5:snd_usb_endpoint_next_packet_size	32	static
+endpoint.c:189:13:prepare_outbound_urb	64	static
+endpoint.c:298:13:queue_pending_output_urbs	80	static
+endpoint.c:414:26:snd_usb_add_endpoint	80	static
+endpoint.c:516:6:snd_usb_endpoint_sync_pending_stop	16	static
+endpoint.c:791:5:snd_usb_endpoint_set_params	128	static
+endpoint.c:863:5:snd_usb_endpoint_start	80	static
+endpoint.c:949:6:snd_usb_endpoint_stop	32	static
+endpoint.c:977:6:snd_usb_endpoint_deactivate	32	static
+endpoint.c:997:6:snd_usb_endpoint_release	16	static
+endpoint.c:1009:6:snd_usb_endpoint_free	16	static
+endpoint.c:1027:6:snd_usb_handle_sync_urb	64	static
+endpoint.c:347:13:snd_complete_urb	48	static

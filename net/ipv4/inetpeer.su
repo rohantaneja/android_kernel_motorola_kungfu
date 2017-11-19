@@ -1,0 +1,11 @@
+inetpeer.c:160:12:addr_compare	0	static
+inetpeer.c:345:13:inetpeer_free_rcu	16	static
+inetpeer.c:532:13:inetpeer_inval_rcu	48	static
+inetpeer.c:87:13:inetpeer_gc_worker	112	static
+inetpeer.c:257:13:peer_avl_rebalance.isra.4	0	static
+inetpeer.c:71:6:inet_peer_base_init	0	static
+inetpeer.c:135:13:inet_initpeers	144	static
+inetpeer.c:419:19:inet_getpeer	448	static
+inetpeer.c:483:6:inet_putpeer	0	static
+inetpeer.c:509:6:inet_peer_xrlim_allow	0	static
+inetpeer.c:543:6:inetpeer_invalidate_tree	32	static

@@ -1,0 +1,5 @@
+bitmap.c:14:14:ext4_count_free	32	static
+bitmap.c:19:5:ext4_inode_bitmap_csum_verify	272	dynamic,bounded
+bitmap.c:41:6:ext4_inode_bitmap_csum_set	272	dynamic,bounded
+bitmap.c:57:5:ext4_block_bitmap_csum_verify	272	dynamic,bounded
+bitmap.c:83:6:ext4_block_bitmap_csum_set	272	dynamic,bounded

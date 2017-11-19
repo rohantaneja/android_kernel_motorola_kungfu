@@ -1,0 +1,4 @@
+flush.c:30:6:flush_cache_range	0	static
+flush.c:59:6:copy_to_user_page	64	static
+flush.c:73:6:__sync_icache_dcache	48	static
+flush.c:95:6:flush_dcache_page	16	static

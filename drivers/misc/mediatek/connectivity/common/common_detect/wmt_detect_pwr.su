@@ -1,0 +1,6 @@
+wmt_detect_pwr.c:51:5:_wmt_detect_output_low	48	static
+wmt_detect_pwr.c:63:5:_wmt_detect_output_high	48	static
+wmt_detect_pwr.c:75:5:_wmt_detect_read_gpio_input	32	static
+wmt_detect_pwr.c:188:5:wmt_detect_read_ext_cmb_status	32	static
+wmt_detect_pwr.c:202:5:wmt_detect_chip_pwr_ctrl	48	static
+wmt_detect_pwr.c:217:5:wmt_detect_sdio_pwr_ctrl	16	static

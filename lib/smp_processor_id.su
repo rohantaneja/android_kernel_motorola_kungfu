@@ -1,0 +1,3 @@
+smp_processor_id.c:10:29:check_preemption_disabled	48	static
+smp_processor_id.c:54:22:debug_smp_processor_id	16	static
+smp_processor_id.c:60:14:__this_cpu_preempt_check	16	static

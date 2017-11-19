@@ -1,0 +1,8 @@
+nsproxy.c:59:24:create_new_namespaces	80	static
+nsproxy.c:124:5:copy_namespaces	48	static
+nsproxy.c:158:6:free_nsproxy	32	static
+nsproxy.c:176:5:unshare_nsproxy_namespaces	64	static
+nsproxy.c:201:6:switch_task_namespaces	64	static
+nsproxy.c:216:6:exit_task_namespaces	16	static
+nsproxy.c:221:1:SyS_setns	64	static
+nsproxy.c:257:12:nsproxy_cache_init	16	static

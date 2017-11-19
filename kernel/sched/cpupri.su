@@ -1,0 +1,4 @@
+cpupri.c:68:5:cpupri_find	80	static
+cpupri.c:140:6:cpupri_set	80	static
+cpupri.c:208:5:cpupri_init	48	static
+cpupri.c:241:6:cpupri_cleanup	16	static

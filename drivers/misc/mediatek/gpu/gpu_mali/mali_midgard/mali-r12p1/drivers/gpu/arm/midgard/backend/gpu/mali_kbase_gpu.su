@@ -1,0 +1,4 @@
+mali_kbase_gpu.c:30:5:kbase_backend_early_init	48	static
+mali_kbase_gpu.c:65:6:kbase_backend_early_term	32	static
+mali_kbase_gpu.c:72:5:kbase_backend_late_init	48	static
+mali_kbase_gpu.c:117:6:kbase_backend_late_term	32	static

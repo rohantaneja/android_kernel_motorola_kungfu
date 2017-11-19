@@ -1,0 +1,6 @@
+mtk_wcn_cmb_hw.c:92:7:mtk_wcn_cmb_hw_pwr_off	32	static
+mtk_wcn_cmb_hw.c:138:7:mtk_wcn_cmb_hw_pwr_on	64	static
+mtk_wcn_cmb_hw.c:239:7:mtk_wcn_cmb_hw_rst	32	static
+mtk_wcn_cmb_hw.c:292:7:mtk_wcn_cmb_hw_state_show	16	static
+mtk_wcn_cmb_hw.c:302:7:mtk_wcn_cmb_hw_init	48	static
+mtk_wcn_cmb_hw.c:326:7:mtk_wcn_cmb_hw_deinit	32	static

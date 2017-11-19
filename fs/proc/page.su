@@ -1,0 +1,5 @@
+page.c:28:16:kpagecount_read	96	static
+page.c:89:16:kpageswapn_read	64	static
+page.c:290:19:proc_page_init	32	static
+page.c:149:5:stable_page_flags	0	static
+page.c:246:16:kpageflags_read	80	static

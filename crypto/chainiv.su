@@ -1,0 +1,14 @@
+chainiv.c:347:19:chainiv_module_init	16	static
+chainiv.c:334:13:chainiv_free	16	static
+chainiv.c:287:32:chainiv_alloc	48	static
+chainiv.c:48:12:chainiv_givencrypt	64	static
+chainiv.c:83:12:chainiv_givencrypt_first	48	static
+chainiv.c:264:12:async_chainiv_init	32	static
+chainiv.c:352:13:chainiv_module_exit	16	static
+chainiv.c:276:13:async_chainiv_exit	16	static
+chainiv.c:123:12:async_chainiv_schedule_work	32	static
+chainiv.c:161:12:async_chainiv_givencrypt_tail	48	static
+chainiv.c:181:12:async_chainiv_givencrypt	48	static
+chainiv.c:208:12:async_chainiv_givencrypt_first	48	static
+chainiv.c:235:13:async_chainiv_do_postponed	64	static
+chainiv.c:114:12:chainiv_init	16	static

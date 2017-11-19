@@ -1,0 +1,2 @@
+copy.c:27:26:copy_transfer	64	static
+copy.c:61:5:snd_pcm_plugin_build_copy	64	static

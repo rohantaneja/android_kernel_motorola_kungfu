@@ -1,0 +1,6 @@
+dm-sysfs.c:60:16:dm_attr_suspended_show	32	static
+dm-sysfs.c:51:16:dm_attr_uuid_show	32	static
+dm-sysfs.c:42:16:dm_attr_name_show	32	static
+dm-sysfs.c:21:16:dm_attr_show	48	static
+dm-sysfs.c:96:5:dm_sysfs_init	32	static
+dm-sysfs.c:106:6:dm_sysfs_exit	32	static

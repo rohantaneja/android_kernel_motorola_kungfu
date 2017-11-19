@@ -1,0 +1,17 @@
+mbcache.c:291:1:mb_cache_shrink_count	32	static
+mbcache.c:851:20:exit_mbcache	16	static
+mbcache.c:845:19:init_mbcache	16	static
+mbcache.c:191:1:__mb_cache_entry_forget.isra.2	32	static
+mbcache.c:248:1:mb_cache_shrink_scan	112	static
+mbcache.c:201:1:__mb_cache_entry_release	48	static
+mbcache.c:719:1:__mb_cache_entry_find	160	static
+mbcache.c:325:1:mb_cache_create	64	static
+mbcache.c:396:1:mb_cache_shrink	96	static
+mbcache.c:452:1:mb_cache_destroy	96	static
+mbcache.c:502:1:mb_cache_entry_alloc	80	static
+mbcache.c:579:1:mb_cache_entry_insert	96	static
+mbcache.c:627:1:mb_cache_entry_release	16	static
+mbcache.c:638:1:mb_cache_entry_free	48	static
+mbcache.c:661:1:mb_cache_entry_get	144	static
+mbcache.c:786:1:mb_cache_entry_find_first	80	static
+mbcache.c:824:1:mb_cache_entry_find_next	64	static

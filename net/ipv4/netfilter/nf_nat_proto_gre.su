@@ -1,0 +1,5 @@
+nf_nat_proto_gre.c:137:20:nf_nat_proto_gre_fini	16	static
+nf_nat_proto_gre.c:42:1:gre_unique_tuple	80	static
+nf_nat_proto_gre.c:132:19:nf_nat_proto_gre_init	16	static
+nf_nat_proto_gre.c:85:1:gre_manip_pkt	64	static
+nf_nat_proto_gre.c:145:6:nf_nat_need_gre	0	static

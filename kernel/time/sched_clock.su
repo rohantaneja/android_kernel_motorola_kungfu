@@ -1,0 +1,9 @@
+sched_clock.c:43:20:jiffy_sched_clock_read	0	static
+sched_clock.c:83:21:update_sched_clock	32	static
+sched_clock.c:200:13:sched_clock_resume	32	static
+sched_clock.c:102:29:sched_clock_poll	48	static
+sched_clock.c:212:19:sched_clock_syscore_init	16	static
+sched_clock.c:192:12:sched_clock_suspend	16	static
+sched_clock.c:59:28:sched_clock	48	static
+sched_clock.c:109:13:sched_clock_register	112	static
+sched_clock.c:172:13:sched_clock_postinit	32	static

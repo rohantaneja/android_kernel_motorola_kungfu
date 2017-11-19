@@ -1,0 +1,9 @@
+sysctl_binary.c:923:16:bin_dir	0	static
+sysctl_binary.c:973:16:bin_intvec	128	static
+sysctl_binary.c:1044:16:bin_ulongvec	128	static
+sysctl_binary.c:930:16:bin_string	80	static
+sysctl_binary.c:1159:16:bin_dn_node_address	80	static
+sysctl_binary.c:1115:16:bin_uuid	160	static
+sysctl_binary.c:1403:16:do_sysctl.part.1	192	static
+sysctl_binary.c:1422:1:SyS_sysctl	112	static
+sysctl_binary.c:1464:1:compat_SyS_sysctl	80	static

@@ -1,0 +1,12 @@
+clk-xgene.c:370:13:xgene_clk_round_rate	0	static
+clk-xgene.c:84:22:xgene_clk_pll_recalc_rate	32	static
+clk-xgene.c:72:12:xgene_clk_pll_is_enabled	32	static
+clk-xgene.c:309:22:xgene_clk_recalc_rate	32	static
+clk-xgene.c:290:12:xgene_clk_is_enabled	48	static
+clk-xgene.c:331:12:xgene_clk_set_rate	64	static
+clk-xgene.c:260:13:xgene_clk_disable	32	static
+clk-xgene.c:220:12:xgene_clk_enable	48	static
+clk-xgene.c:442:20:xgene_devclk_init	224	static
+clk-xgene.c:166:13:xgene_pllclk_init	128	static
+clk-xgene.c:188:13:xgene_socpllclk_init	16	static
+clk-xgene.c:193:13:xgene_pcppllclk_init	16	static

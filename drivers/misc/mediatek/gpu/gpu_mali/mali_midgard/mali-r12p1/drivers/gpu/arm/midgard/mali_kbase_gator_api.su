@@ -1,0 +1,7 @@
+mali_kbase_gator_api.c:295:13:dump_worker	48	static
+mali_kbase_gator_api.c:41:21:kbase_gator_hwcnt_init_names	48	static
+mali_kbase_gator_api.c:138:6:kbase_gator_hwcnt_term_names	0	static
+mali_kbase_gator_api.c:145:35:kbase_gator_hwcnt_init	96	static
+mali_kbase_gator_api.c:280:6:kbase_gator_hwcnt_term	32	static
+mali_kbase_gator_api.c:310:10:kbase_gator_instr_hwcnt_dump_complete	0	static
+mali_kbase_gator_api.c:324:10:kbase_gator_instr_hwcnt_dump_irq	16	static

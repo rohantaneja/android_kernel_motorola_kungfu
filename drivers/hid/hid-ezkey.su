@@ -1,0 +1,4 @@
+hid-ezkey.c:28:12:ez_input_mapping	0	static
+hid-ezkey.c:79:1:ez_driver_init	16	static
+hid-ezkey.c:79:1:ez_driver_exit	16	static
+hid-ezkey.c:50:12:ez_event	16	static

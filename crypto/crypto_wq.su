@@ -1,0 +1,2 @@
+crypto_wq.c:31:20:crypto_wq_exit	16	static
+crypto_wq.c:22:19:crypto_wq_init	16	static

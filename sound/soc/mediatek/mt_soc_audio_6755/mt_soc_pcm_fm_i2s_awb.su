@@ -1,0 +1,16 @@
+mt_soc_pcm_fm_i2s_awb.c:525:21:mtk_fm_i2s_capture_pcm_page	16	static
+mt_soc_pcm_fm_i2s_awb.c:514:12:mtk_capture_pcm_silence	16	static
+mt_soc_pcm_fm_i2s_awb.c:173:12:mtk_fm_i2s_awb_pcm_prepare	16	static
+mt_soc_pcm_fm_i2s_awb.c:570:12:mtk_asoc_fm_i2s_awb_pcm_new	16	static
+mt_soc_pcm_fm_i2s_awb.c:637:20:mtk_soc_fm_i2s_awb_platform_exit	16	static
+mt_soc_pcm_fm_i2s_awb.c:587:12:mtk_fm_i2s_awb_remove	32	static
+mt_soc_pcm_fm_i2s_awb.c:554:12:mtk_fm_i2s_awb_probe	32	static
+mt_soc_pcm_fm_i2s_awb.c:363:12:mtk_fm_i2s_awb_pcm_copy	96	static
+mt_soc_pcm_fm_i2s_awb.c:196:26:mtk_awb_pcm_pointer	32	static
+mt_soc_pcm_fm_i2s_awb.c:338:12:mtk_capture_fm_i2s_pcm_trigger	64	static
+mt_soc_pcm_fm_i2s_awb.c:274:12:mtk_fm_i2s_capture_pcm_hw_free	32	static
+mt_soc_pcm_fm_i2s_awb.c:322:12:mtk_fm_i2s_awb_pcm_close	16	static
+mt_soc_pcm_fm_i2s_awb.c:288:12:mtk_fm_i2s_awb_pcm_open	48	static
+mt_soc_pcm_fm_i2s_awb.c:577:12:mtk_afe_fm_i2s_awb_probe	32	static
+mt_soc_pcm_fm_i2s_awb.c:617:19:mtk_soc_fm_i2s_awb_platform_init	16	static
+mt_soc_pcm_fm_i2s_awb.c:239:12:mtk_mgrrx_awb_pcm_hw_params	64	static

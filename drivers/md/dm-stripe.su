@@ -1,0 +1,13 @@
+dm-stripe.c:211:13:stripe_map_sector	0	static
+dm-stripe.c:239:13:stripe_map_range_sector	64	static
+dm-stripe.c:389:12:stripe_iterate_devices	64	static
+dm-stripe.c:415:12:stripe_merge	64	static
+dm-stripe.c:405:13:stripe_io_hints	48	static
+dm-stripe.c:322:13:stripe_status	96	dynamic
+dm-stripe.c:352:12:stripe_end_io	96	static
+dm-stripe.c:281:12:stripe_map	64	static
+dm-stripe.c:199:13:stripe_dtr	48	static
+dm-stripe.c:50:13:trigger_event	16	static
+dm-stripe.c:95:12:stripe_ctr	128	static
+dm-stripe.c:449:12:dm_stripe_init	32	static
+dm-stripe.c:462:6:dm_stripe_exit	16	static

@@ -1,0 +1,17 @@
+nf_conntrack_proto_tcp.c:301:13:tcp_invert_tuple	0	static
+nf_conntrack_proto_tcp.c:330:21:get_conntrack_index	0	static
+nf_conntrack_proto_tcp.c:821:22:tcp_get_timeouts	0	static
+nf_conntrack_proto_tcp.c:1648:29:tcp_get_net_proto	0	static
+nf_conntrack_proto_tcp.c:1272:12:tcp_nlattr_tuple_size	16	static
+nf_conntrack_proto_tcp.c:1266:12:tcp_nlattr_size	16	static
+nf_conntrack_proto_tcp.c:1215:12:nlattr_to_tcp	80	static
+nf_conntrack_proto_tcp.c:1169:12:tcp_to_nlattr	96	static
+nf_conntrack_proto_tcp.c:319:12:tcp_print_conntrack	64	static
+nf_conntrack_proto_tcp.c:310:12:tcp_print_tuple	16	static
+nf_conntrack_proto_tcp.c:284:13:tcp_pkt_to_tuple	64	static
+nf_conntrack_proto_tcp.c:767:12:tcp_error	112	static
+nf_conntrack_proto_tcp.c:388:13:tcp_options	80	static
+nf_conntrack_proto_tcp.c:1089:13:tcp_new	112	static
+nf_conntrack_proto_tcp.c:827:12:tcp_packet	288	static
+nf_conntrack_proto_tcp.c:1558:12:tcp_kmemdup_sysctl_table.isra.12.part.13	32	static
+nf_conntrack_proto_tcp.c:1617:12:tcp_init_net	48	static

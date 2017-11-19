@@ -1,0 +1,13 @@
+proportions.c:212:6:prop_norm_percpu	64	static
+proportions.c:342:6:prop_norm_single	48	static
+proportions.c:76:5:prop_descriptor_init	64	static
+proportions.c:105:6:prop_change_shift	64	static
+proportions.c:191:5:prop_local_init_percpu	16	static
+proportions.c:199:6:prop_local_destroy_percpu	16	static
+proportions.c:256:6:__prop_inc_percpu	48	static
+proportions.c:270:6:__prop_inc_percpu_max	64	static
+proportions.c:303:6:prop_fraction_percpu	80	static
+proportions.c:325:5:prop_local_init_single	0	static
+proportions.c:334:6:prop_local_destroy_single	0	static
+proportions.c:376:6:__prop_inc_single	48	static
+proportions.c:391:6:prop_fraction_single	80	static

@@ -1,0 +1,10 @@
+soc-utils.c:146:12:snd_soc_dummy_remove	32	static
+soc-utils.c:129:12:snd_soc_dummy_probe	48	static
+soc-utils.c:72:12:dummy_dma_open	16	static
+soc-utils.c:23:5:snd_soc_calc_frame_size	0	static
+soc-utils.c:29:5:snd_soc_params_to_frame_size	32	static
+soc-utils.c:42:5:snd_soc_calc_bclk	0	static
+soc-utils.c:48:5:snd_soc_params_to_bclk	32	static
+soc-utils.c:122:5:snd_soc_dai_is_dummy	0	static
+soc-utils.c:165:12:snd_soc_util_init	96	static
+soc-utils.c:181:13:snd_soc_util_exit	16	static

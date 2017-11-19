@@ -1,0 +1,5 @@
+syncookies.c:63:12:cookie_hash	80	static
+syncookies.c:116:5:__cookie_v6_init_sequence	80	static
+syncookies.c:133:7:cookie_v6_init_sequence	48	static
+syncookies.c:144:5:__cookie_v6_check	80	static
+syncookies.c:155:14:cookie_v6_check	240	static

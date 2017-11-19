@@ -1,0 +1,6 @@
+mali_kbase_jm_as.c:110:6:kbase_backend_use_ctx_sched	0	static
+mali_kbase_jm_as.c:134:6:kbase_backend_release_ctx_irq	64	static
+mali_kbase_jm_as.c:169:6:kbase_backend_release_ctx_noirq	0	static
+mali_kbase_jm_as.c:174:6:kbase_backend_release_free_address_space	0	static
+mali_kbase_jm_as.c:241:5:kbase_backend_find_free_address_space	112	static
+mali_kbase_jm_as.c:351:6:kbase_backend_use_ctx	48	static

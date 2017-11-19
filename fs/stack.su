@@ -1,0 +1,2 @@
+stack.c:10:6:fsstack_copy_inode_size	0	static
+stack.c:63:6:fsstack_copy_attr_all	16	static

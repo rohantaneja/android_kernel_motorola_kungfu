@@ -1,0 +1,16 @@
+kmod.c:199:13:call_usermodehelper_freeinfo	32	static
+kmod.c:206:13:umh_complete	16	static
+kmod.c:322:13:__call_usermodehelper	32	static
+kmod.c:223:12:____call_usermodehelper	96	static
+kmod.c:277:12:call_helper	16	static
+kmod.c:285:12:wait_for_helper	48	static
+kmod.c:647:12:proc_cap_handler	208	static
+kmod.c:377:5:usermodehelper_read_trylock	128	static
+kmod.c:407:6:usermodehelper_read_lock_wait	112	static
+kmod.c:434:6:usermodehelper_read_unlock	16	static
+kmod.c:447:6:__usermodehelper_set_disable_depth	48	static
+kmod.c:462:5:__usermodehelper_disable	96	static
+kmod.c:525:25:call_usermodehelper_setup	64	static
+kmod.c:561:5:call_usermodehelper_exec	80	static
+kmod.c:633:5:call_usermodehelper	32	static
+kmod.c:725:13:usermodehelper_init	16	static

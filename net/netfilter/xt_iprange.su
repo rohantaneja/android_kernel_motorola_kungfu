@@ -1,0 +1,4 @@
+xt_iprange.c:128:20:iprange_mt_exit	16	static
+xt_iprange.c:69:1:iprange_mt6	16	static
+xt_iprange.c:20:1:iprange_mt4	16	static
+xt_iprange.c:123:19:iprange_mt_init	16	static

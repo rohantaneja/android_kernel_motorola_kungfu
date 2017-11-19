@@ -1,0 +1,3 @@
+hid-tmff.c:262:1:tm_driver_init	16	static
+hid-tmff.c:213:12:tm_probe	32	static
+hid-tmff.c:262:1:tm_driver_exit	16	static

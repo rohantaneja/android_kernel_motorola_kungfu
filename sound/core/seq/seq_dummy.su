@@ -1,0 +1,6 @@
+seq_dummy.c:111:1:dummy_free	16	static
+seq_dummy.c:120:1:create_port	320	static
+seq_dummy.c:215:19:alsa_seq_dummy_init	48	static
+seq_dummy.c:88:1:dummy_input	48	static
+seq_dummy.c:205:1:delete_client	16	static
+seq_dummy.c:224:20:alsa_seq_dummy_exit	16	static

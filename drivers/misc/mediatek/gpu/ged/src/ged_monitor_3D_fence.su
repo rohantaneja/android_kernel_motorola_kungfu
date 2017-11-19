@@ -1,0 +1,7 @@
+ged_monitor_3D_fence.c:84:13:ged_monitor_3D_fence_work_cb	48	static
+ged_monitor_3D_fence.c:130:15:ged_monitor_3D_fence_done_time	0	static
+ged_monitor_3D_fence.c:135:11:ged_monitor_3D_fence_add	64	static
+ged_monitor_3D_fence.c:235:6:ged_monitor_3D_fence_set_enable	0	static
+ged_monitor_3D_fence.c:243:6:ged_monitor_3D_fence_notify	16	static
+ged_monitor_3D_fence.c:63:13:ged_sync_cb	32	static
+ged_monitor_3D_fence.c:254:5:ged_monitor_3D_fence_get_count	0	static

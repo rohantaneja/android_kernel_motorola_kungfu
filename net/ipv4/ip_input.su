@@ -1,0 +1,5 @@
+ip_input.c:190:12:ip_local_deliver_finish	48	static
+ip_input.c:312:12:ip_rcv_finish	64	static
+ip_input.c:153:6:ip_call_ra_chain	64	static
+ip_input.c:245:5:ip_local_deliver	32	static
+ip_input.c:376:5:ip_rcv	80	static

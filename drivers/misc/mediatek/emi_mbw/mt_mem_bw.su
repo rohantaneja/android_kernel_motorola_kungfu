@@ -1,0 +1,6 @@
+mt_mem_bw.c:229:20:mon_kernel_exit	0	static
+mt_mem_bw.c:141:12:mem_bw_suspend_callback	16	static
+mt_mem_bw.c:149:12:mem_bw_resume_callback	16	static
+mt_mem_bw.c:177:19:mon_kernel_init	32	static
+mt_mem_bw.c:32:6:mt_getmembw_registerCB	32	static
+mt_mem_bw.c:47:20:get_mem_bw	64	static

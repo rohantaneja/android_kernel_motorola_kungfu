@@ -1,0 +1,10 @@
+f_rawbulk.c:40:6:simple_setup_complete	0	static
+f_rawbulk.c:48:5:rawbulk_function_setup	96	static
+f_rawbulk.c:166:5:rawbulk_function_bind	80	static
+f_rawbulk.c:148:13:rawbulk_auto_reconnect	48	static
+f_rawbulk.c:218:6:rawbulk_function_unbind	32	static
+f_rawbulk.c:240:13:do_activate	48	static
+f_rawbulk.c:325:12:rawbulk_function_setalt	32	static
+f_rawbulk.c:336:13:rawbulk_function_disable	32	static
+f_rawbulk.c:319:5:rawbulk_usb_state_check	0	static
+f_rawbulk.c:347:5:rawbulk_bind_config	48	static

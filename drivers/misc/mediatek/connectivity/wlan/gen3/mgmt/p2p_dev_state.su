@@ -1,0 +1,10 @@
+p2p_dev_state.c:18:1:p2pDevStateInit_IDLE	32	static
+p2p_dev_state.c:42:6:p2pDevStateAbort_IDLE	0	static
+p2p_dev_state.c:48:1:p2pDevStateInit_REQING_CHANNEL	48	static
+p2p_dev_state.c:93:1:p2pDevStateAbort_REQING_CHANNEL	32	static
+p2p_dev_state.c:118:1:p2pDevStateInit_CHNL_ON_HAND	48	static
+p2p_dev_state.c:154:1:p2pDevStateAbort_CHNL_ON_HAND	64	static
+p2p_dev_state.c:187:6:p2pDevStateInit_SCAN	16	static
+p2p_dev_state.c:199:6:p2pDevStateAbort_SCAN	32	static
+p2p_dev_state.c:216:1:p2pDevStateInit_OFF_CHNL_TX	32	static
+p2p_dev_state.c:271:1:p2pDevStateAbort_OFF_CHNL_TX	64	static

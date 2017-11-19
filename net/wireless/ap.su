@@ -1,0 +1,2 @@
+ap.c:9:5:__cfg80211_stop_ap	80	static
+ap.c:40:5:cfg80211_stop_ap	64	static

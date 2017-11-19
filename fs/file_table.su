@@ -1,0 +1,13 @@
+file_table.c:44:13:file_free_rcu	32	static
+file_table.c:213:13:__fput	64	static
+file_table.c:258:13:delayed_fput	32	static
+file_table.c:269:13:____fput	16	static
+file_table.c:69:15:get_max_files	0	static
+file_table.c:79:5:proc_nr_files	16	static
+file_table.c:103:14:get_empty_filp	112	static
+file_table.c:185:14:alloc_file	48	static
+file_table.c:284:6:flush_delayed_fput	16	static
+file_table.c:291:6:fput	32	static
+file_table.c:320:6:__fput_sync	16	static
+file_table.c:331:6:put_filp	32	static
+file_table.c:339:13:files_init	32	static

@@ -1,0 +1,7 @@
+ged_base.c:25:15:ged_copy_to_user	16	static
+ged_base.c:38:15:ged_copy_from_user	16	static
+ged_base.c:51:7:ged_alloc	16	static
+ged_base.c:67:7:ged_alloc_atomic	16	static
+ged_base.c:83:6:ged_free	16	static
+ged_base.c:98:6:ged_get_pid	0	static
+ged_base.c:116:20:ged_get_time	32	static

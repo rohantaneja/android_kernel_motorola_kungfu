@@ -1,0 +1,12 @@
+seccomp.c:70:13:populate_seccomp_data	48	static
+seccomp.c:539:13:seccomp_send_sigsys	160	static
+seccomp.c:762:13:seccomp_set_mode_strict	32	static
+seccomp.c:503:6:get_seccomp_filter	0	static
+seccomp.c:521:6:put_seccomp_filter	32	static
+seccomp.c:798:13:seccomp_set_mode_filter	80	static
+seccomp.c:689:5:seccomp_phase1	128	static
+seccomp.c:716:5:seccomp_phase2	32	static
+seccomp.c:602:5:__secure_computing	16	static
+seccomp.c:750:6:prctl_get_seccomp	0	static
+seccomp.c:866:1:SyS_seccomp	16	static
+seccomp.c:879:6:prctl_set_seccomp	16	static

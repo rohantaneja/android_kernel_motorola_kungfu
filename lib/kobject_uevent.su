@@ -1,0 +1,9 @@
+kobject_uevent.c:149:13:cleanup_uevent_env	16	static
+kobject_uevent.c:91:12:kobj_bcast_filter	48	static
+kobject_uevent.c:465:19:kobject_uevent_init	16	static
+kobject_uevent.c:440:13:uevent_net_exit	48	static
+kobject_uevent.c:415:12:uevent_net_init	96	static
+kobject_uevent.c:65:5:kobject_action_type	64	static
+kobject_uevent.c:387:5:add_uevent_var	144	static
+kobject_uevent.c:165:5:kobject_uevent_env	144	static
+kobject_uevent.c:373:5:kobject_uevent	16	static

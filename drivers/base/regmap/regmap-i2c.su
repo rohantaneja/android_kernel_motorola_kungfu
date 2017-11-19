@@ -1,0 +1,10 @@
+regmap-i2c.c:18:12:regmap_smbus_byte_reg_read	32	static
+regmap-i2c.c:37:12:regmap_smbus_byte_reg_write	16	static
+regmap-i2c.c:54:12:regmap_smbus_word_reg_read	32	static
+regmap-i2c.c:73:12:regmap_smbus_word_reg_write	16	static
+regmap-i2c.c:139:12:regmap_i2c_read	64	static
+regmap-i2c.c:105:12:regmap_i2c_gather_write	112	static
+regmap-i2c.c:90:12:regmap_i2c_write	32	static
+regmap-i2c.c:175:33:regmap_get_i2c_bus.isra.0	32	static
+regmap-i2c.c:201:16:regmap_init_i2c	48	static
+regmap-i2c.c:223:16:devm_regmap_init_i2c	48	static

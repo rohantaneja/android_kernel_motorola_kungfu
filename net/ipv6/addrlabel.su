@@ -1,0 +1,14 @@
+addrlabel.c:251:12:__ip6addrlbl_add	32	static
+addrlabel.c:138:13:ip6addrlbl_free_rcu	16	static
+addrlabel.c:376:24:ip6addrlbl_net_exit	48	static
+addrlabel.c:171:33:__ipv6_addr_label.isra.6	0	static
+addrlabel.c:203:33:ip6addrlbl_alloc.isra.7	80	static
+addrlabel.c:414:12:ip6addrlbl_newdel	128	static
+addrlabel.c:474:12:ip6addrlbl_fill.constprop	64	static
+addrlabel.c:530:12:ip6addrlbl_get	96	static
+addrlabel.c:496:12:ip6addrlbl_dump	64	static
+addrlabel.c:356:23:ip6addrlbl_net_init	64	static
+addrlabel.c:183:5:ipv6_addr_label	64	static
+addrlabel.c:397:12:ipv6_addr_label_init	16	static
+addrlabel.c:404:6:ipv6_addr_label_cleanup	16	static
+addrlabel.c:594:13:ipv6_addr_label_rtnl_register	32	static

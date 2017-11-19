@@ -1,0 +1,13 @@
+sha2-ce-glue.c:26:12:sha224_init	0	static
+sha2-ce-glue.c:39:12:sha256_init	0	static
+sha2-ce-glue.c:187:12:sha2_export	16	static
+sha2-ce-glue.c:196:12:sha2_import	16	static
+sha2-ce-glue.c:248:20:sha2_ce_mod_fini	16	static
+sha2-ce-glue.c:52:12:sha2_update	80	static
+sha2-ce-glue.c:87:13:sha2_final	48	static
+sha2-ce-glue.c:115:12:sha256_final	48	static
+sha2-ce-glue.c:100:12:sha224_final	48	static
+sha2-ce-glue.c:253:1:cpu_feature_match_SHA2_init	16	static
+sha2-ce-glue.c:130:13:sha2_finup	48	static
+sha2-ce-glue.c:171:12:sha256_finup	48	static
+sha2-ce-glue.c:155:12:sha224_finup	48	static

@@ -1,0 +1,12 @@
+auth.c:170:6:authAddIEChallengeText	32	static
+auth.c:599:6:authHandleIEChallengeText	48	static
+auth.c:92:1:authComposeAuthFrameHeaderAndFF	32	static
+auth.c:300:1:authSendAuthFrame	112	static
+auth.c:430:13:authCheckTxAuthFrame	32	static
+auth.c:479:13:authCheckRxAuthFrameTransSeq	48	static
+auth.c:542:1:authCheckRxAuthFrameStatus	48	static
+auth.c:651:13:authProcessRxAuth2_Auth4Frame	64	static
+auth.c:694:1:authComposeDeauthFrameHeaderAndFF	32	static
+auth.c:749:1:authSendDeauthFrame	144	static
+auth.c:920:13:authProcessRxDeauthFrame	32	static
+auth.c:976:1:authProcessRxAuth1Frame	64	static

@@ -1,0 +1,7 @@
+hid-apple.c:580:1:apple_driver_init	16	static
+hid-apple.c:366:12:apple_probe	64	static
+hid-apple.c:580:1:apple_driver_exit	16	static
+hid-apple.c:348:12:apple_input_mapped	0	static
+hid-apple.c:332:12:apple_input_mapping	48	static
+hid-apple.c:298:14:apple_report_fixup	32	static
+hid-apple.c:270:12:apple_event	64	static

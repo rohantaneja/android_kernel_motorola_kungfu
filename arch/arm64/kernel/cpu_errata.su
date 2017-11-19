@@ -1,0 +1,2 @@
+cpu_errata.c:49:1:is_affected_midr_range	0	static
+cpu_errata.c:115:6:check_local_cpu_errata	80	static

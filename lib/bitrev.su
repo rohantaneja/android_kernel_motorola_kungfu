@@ -1,0 +1,2 @@
+bitrev.c:45:5:bitrev16	0	static
+bitrev.c:55:5:bitrev32	32	static

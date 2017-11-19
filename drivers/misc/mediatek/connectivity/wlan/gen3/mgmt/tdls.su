@@ -1,0 +1,13 @@
+tdls.c:241:9:TdlsexLinkOper	32	static
+tdls.c:292:9:TdlsFrameGeneralIeAppend	96	static
+tdls.c:390:1:TdlsDataFrameSend_TearDown	128	static
+tdls.c:508:1:TdlsDataFrameSend_SETUP_REQ	144	static
+tdls.c:719:1:TdlsDataFrameSend_SETUP_RSP	144	static
+tdls.c:929:1:TdlsDataFrameSend_CONFIRM	144	static
+tdls.c:1098:1:TdlsDataFrameSend_DISCOVERY_REQ	128	static
+tdls.c:1381:1:TdlsDataFrameSend_DISCOVERY_RSP	128	static
+tdls.c:94:9:TdlsexLinkMgt	32	static
+tdls.c:1778:6:TdlsEventTearDown	64	static
+tdls.c:1740:6:TdlsexEventHandle	48	static
+tdls.c:1946:6:TdlsBssExtCapParse	0	static
+tdls.c:1993:1:TdlsSendChSwControlCmd	80	static

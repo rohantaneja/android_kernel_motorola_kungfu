@@ -1,0 +1,4 @@
+xfrm6_mode_tunnel.c:34:12:xfrm6_mode_tunnel_output	32	static
+xfrm6_mode_tunnel.c:72:12:xfrm6_mode_tunnel_input	48	static
+xfrm6_mode_tunnel.c:110:19:xfrm6_mode_tunnel_init	16	static
+xfrm6_mode_tunnel.c:115:20:xfrm6_mode_tunnel_exit	16	static

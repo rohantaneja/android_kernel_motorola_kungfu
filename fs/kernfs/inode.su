@@ -1,0 +1,14 @@
+inode.c:49:30:kernfs_iattrs	48	static
+inode.c:78:12:__kernfs_setattr	48	static
+inode.c:124:5:kernfs_iop_setattr	64	static
+inode.c:172:5:kernfs_iop_setxattr	96	static
+inode.c:211:5:kernfs_iop_removexattr	32	static
+inode.c:223:9:kernfs_iop_getxattr	48	static
+inode.c:236:9:kernfs_iop_listxattr	32	static
+inode.c:263:13:kernfs_refresh_inode	32	static
+inode.c:282:5:kernfs_iop_getattr	64	static
+inode.c:369:5:kernfs_iop_permission	48	static
+inode.c:43:13:kernfs_inode_init	16	static
+inode.c:114:5:kernfs_setattr	48	static
+inode.c:342:15:kernfs_get_inode	48	static
+inode.c:360:6:kernfs_evict_inode	32	static

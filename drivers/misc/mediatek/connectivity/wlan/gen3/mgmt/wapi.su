@@ -1,0 +1,3 @@
+wapi.c:88:6:wapiGenerateWAPIIE	32	static
+wapi.c:121:9:wapiParseWapiIE	96	static
+wapi.c:348:9:wapiPerformPolicySelection	64	static

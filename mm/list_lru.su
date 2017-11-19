@@ -1,0 +1,6 @@
+list_lru.c:13:6:list_lru_add	48	static
+list_lru.c:32:6:list_lru_del	48	static
+list_lru.c:52:1:list_lru_count_node	32	static
+list_lru.c:67:1:list_lru_walk_node	128	static
+list_lru.c:127:5:list_lru_init_key	32	static
+list_lru.c:148:6:list_lru_destroy	16	static

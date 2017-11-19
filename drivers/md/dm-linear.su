@@ -1,0 +1,9 @@
+dm-linear.c:92:5:dm_linear_map	0	static
+dm-linear.c:133:5:dm_linear_merge	32	static
+dm-linear.c:148:5:dm_linear_iterate_devices	16	static
+dm-linear.c:28:5:dm_linear_ctr	80	static
+dm-linear.c:67:6:dm_linear_dtr	32	static
+dm-linear.c:99:6:dm_linear_status	16	static
+dm-linear.c:116:5:dm_linear_ioctl	48	static
+dm-linear.c:169:12:dm_linear_init	32	static
+dm-linear.c:179:6:dm_linear_exit	16	static

@@ -1,0 +1,12 @@
+nf_conntrack_proto_icmp.c:84:22:icmp_get_timeouts	0	static
+nf_conntrack_proto_icmp.c:253:12:icmp_nlattr_to_tuple	0	static
+nf_conntrack_proto_icmp.c:392:29:icmp_get_net_proto	0	static
+nf_conntrack_proto_icmp.c:272:12:icmp_nlattr_tuple_size	16	static
+nf_conntrack_proto_icmp.c:234:12:icmp_tuple_to_nlattr	48	static
+nf_conntrack_proto_icmp.c:75:12:icmp_print_tuple	16	static
+nf_conntrack_proto_icmp.c:32:13:icmp_pkt_to_tuple	48	static
+nf_conntrack_proto_icmp.c:107:13:icmp_new	32	static
+nf_conntrack_proto_icmp.c:90:12:icmp_packet	16	static
+nf_conntrack_proto_icmp.c:61:13:icmp_invert_tuple	0	static
+nf_conntrack_proto_icmp.c:373:12:icmp_init_net	48	static
+nf_conntrack_proto_icmp.c:180:1:icmp_error	176	static

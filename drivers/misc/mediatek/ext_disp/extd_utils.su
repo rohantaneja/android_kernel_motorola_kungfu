@@ -1,0 +1,7 @@
+extd_utils.c:25:5:extd_mutex_init	16	static
+extd_utils.c:33:5:extd_sw_mutex_lock	32	static
+extd_utils.c:43:5:extd_mutex_trylock	16	static
+extd_utils.c:52:5:extd_sw_mutex_unlock	16	static
+extd_utils.c:60:5:extd_msleep	32	static
+extd_utils.c:67:10:extd_get_time_us	32	static
+extd_utils.c:75:7:_extd_ioctl_spy	0	static

@@ -1,0 +1,2 @@
+madvise.c:139:12:swapin_walk_pmd_entry	112	static
+madvise.c:463:1:SyS_madvise	256	static

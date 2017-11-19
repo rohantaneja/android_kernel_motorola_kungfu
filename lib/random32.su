@@ -1,0 +1,11 @@
+random32.c:59:5:prandom_u32_state	0	static
+random32.c:135:13:prandom_warmup	32	static
+random32.c:197:19:prandom_init	48	static
+random32.c:245:13:__prandom_reseed	96	static
+random32.c:291:19:prandom_reseed	32	static
+random32.c:78:5:prandom_u32	32	static
+random32.c:100:6:prandom_bytes_state	64	static
+random32.c:126:6:prandom_bytes	48	static
+random32.c:177:6:prandom_seed	64	static
+random32.c:219:13:__prandom_timer	48	static
+random32.c:286:6:prandom_reseed_late	16	static

@@ -1,0 +1,4 @@
+fm_eint.c:23:8:fm_enable_eint	0	static
+fm_eint.c:28:8:fm_disable_eint	0	static
+fm_eint.c:33:8:fm_request_eint	16	static
+fm_eint.c:40:8:fm_eint_pin_cfg	0	static

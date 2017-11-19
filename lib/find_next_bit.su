@@ -1,0 +1,2 @@
+find_next_bit.c:23:15:find_next_bit	0	static
+find_next_bit.c:69:15:find_next_zero_bit	0	static

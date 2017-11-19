@@ -1,0 +1,10 @@
+conn_md.c:113:5:conn_md_dmp_msg	112	static
+conn_md.c:253:12:conn_md_thread	112	static
+conn_md.c:427:12:conn_md_init	48	static
+conn_md.c:484:13:conn_md_exit	48	static
+conn_md.c:25:5:conn_md_add_user	64	static
+conn_md.c:68:5:conn_md_del_user	80	static
+conn_md.c:191:5:conn_md_send_msg	64	static
+conn_md.c:412:5:conn_md_dmp_msg_queued	16	static
+conn_md.c:417:5:conn_md_dmp_msg_active	16	static
+conn_md.c:422:5:conn_md_dmp_msg_logged	16	static

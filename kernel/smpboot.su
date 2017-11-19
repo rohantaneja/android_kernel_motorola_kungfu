@@ -1,0 +1,13 @@
+smpboot.c:104:12:smpboot_thread_fn	80	static
+smpboot.c:218:13:smpboot_unpark_thread	32	static
+smpboot.c:271:13:smpboot_destroy_threads	80	static
+smpboot.c:166:1:__smpboot_create_thread.part.6	48	static
+smpboot.c:27:21:idle_thread_get	32	static
+smpboot.c:37:13:idle_thread_set_boot_cpu	32	static
+smpboot.c:64:13:idle_threads_init	80	static
+smpboot.c:203:5:smpboot_create_threads	64	static
+smpboot.c:227:6:smpboot_unpark_threads	64	static
+smpboot.c:246:6:smpboot_park_threads	64	static
+smpboot.c:302:5:smpboot_register_percpu_thread	80	static
+smpboot.c:334:6:smpboot_unregister_percpu_thread	32	static
+smpboot.c:353:5:smpboot_update_cpumask_percpu_thread	96	static

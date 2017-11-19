@@ -1,0 +1,9 @@
+flow_dissector.c:40:8:__skb_flow_get_ports	32	static
+flow_dissector.c:74:6:__skb_flow_dissect	144	static
+flow_dissector.c:283:5:flow_hash_from_keys	48	static
+flow_dissector.c:295:6:__skb_get_hash	96	static
+flow_dissector.c:315:5:__skb_tx_hash	48	static
+flow_dissector.c:430:12:__netdev_pick_tx	64	static
+flow_dissector.c:339:5:__skb_get_poff	48	static
+flow_dissector.c:390:5:skb_get_poff	64	static
+flow_dissector.c:451:22:netdev_pick_tx	48	static

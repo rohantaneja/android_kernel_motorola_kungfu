@@ -1,0 +1,4 @@
+ip6t_REJECT.c:112:20:reject_tg6_exit	16	static
+ip6t_REJECT.c:76:12:reject_tg6_check	16	static
+ip6t_REJECT.c:40:1:reject_tg6	48	static
+ip6t_REJECT.c:107:19:reject_tg6_init	16	static

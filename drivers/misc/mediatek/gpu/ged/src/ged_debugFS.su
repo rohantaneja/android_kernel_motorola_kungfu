@@ -1,0 +1,8 @@
+ged_debugFS.c:51:16:ged_debugFS_write	16	static
+ged_debugFS.c:33:12:ged_debugFS_open	32	static
+ged_debugFS.c:78:11:ged_debugFS_create_entry	80	static
+ged_debugFS.c:130:6:ged_debugFS_remove_entry	32	static
+ged_debugFS.c:140:11:ged_debugFS_create_entry_dir	48	static
+ged_debugFS.c:164:6:ged_debugFS_remove_entry_dir	16	static
+ged_debugFS.c:169:11:ged_debugFS_init	48	static
+ged_debugFS.c:183:6:ged_debugFS_exit	32	static

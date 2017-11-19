@@ -1,0 +1,2 @@
+p2p_rlm_obss.c:93:8:rlmObssChnlLevel	32	static
+p2p_rlm_obss.c:284:6:rlmObssScanExemptionRsp	64	static

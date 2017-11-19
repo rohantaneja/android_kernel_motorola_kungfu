@@ -1,0 +1,2 @@
+stats.c:215:6:StatsRxPktInfoDisplay	16	static
+stats.c:243:6:StatsTxPktInfoDisplay	16	static

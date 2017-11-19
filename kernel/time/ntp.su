@@ -1,0 +1,9 @@
+ntp.c:251:13:ntp_update_frequency	0	static
+ntp.c:939:19:ntp_tick_adj_setup	32	static
+ntp.c:341:6:ntp_clear	32	static
+ntp.c:358:5:ntp_tick_length	0	static
+ntp.c:374:5:second_overflow	32	static
+ntp.c:528:6:ntp_notify_cmos_timer	0	static
+ntp.c:610:5:ntp_validate_timex	32	static
+ntp.c:655:5:__do_adjtimex	96	static
+ntp.c:952:13:ntp_init	16	static

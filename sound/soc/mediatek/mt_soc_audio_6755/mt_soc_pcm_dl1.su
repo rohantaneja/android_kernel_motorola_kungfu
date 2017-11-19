@@ -1,0 +1,17 @@
+mt_soc_pcm_dl1.c:290:12:mtk_pcm_dl1_hw_free	0	static
+mt_soc_pcm_dl1.c:694:12:mtk_pcm_silence	0	static
+mt_soc_pcm_dl1.c:703:21:mtk_pcm_page	0	static
+mt_soc_pcm_dl1.c:730:12:mtk_asoc_pcm_dl1_new	0	static
+mt_soc_pcm_dl1.c:1208:19:mtk_soc_platform_init	16	static
+mt_soc_pcm_dl1.c:749:12:mtk_afe_remove	32	static
+mt_soc_pcm_dl1.c:546:12:mtk_pcm_copy	80	static
+mt_soc_pcm_dl1.c:187:26:mtk_pcm_pointer	64	static
+mt_soc_pcm_dl1.c:532:12:mtk_pcm_trigger	32	static
+mt_soc_pcm_dl1.c:383:12:mtk_pcm_prepare	48	static
+mt_soc_pcm_dl1.c:354:12:mtk_soc_pcm_dl1_close	32	static
+mt_soc_pcm_dl1.c:303:12:mtk_pcm_dl1_open	64	static
+mt_soc_pcm_dl1.c:739:12:mtk_asoc_dl1_probe	16	static
+mt_soc_pcm_dl1.c:1132:12:mtk_soc_dl1_probe	64	static
+mt_soc_pcm_dl1.c:1235:20:mtk_soc_platform_exit	16	static
+mt_soc_pcm_dl1.c:259:12:mtk_pcm_dl1_params	48	static
+mt_soc_pcm_dl1.c:968:5:GetGPIO_Info	48	static

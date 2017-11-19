@@ -1,0 +1,17 @@
+nf_conntrack_l3proto_ipv4.c:50:13:ipv4_invert_tuple	0	static
+nf_conntrack_l3proto_ipv4.c:95:21:ipv4_helper	16	static
+nf_conntrack_l3proto_ipv4.c:339:12:ipv4_nlattr_to_tuple	0	static
+nf_conntrack_l3proto_ipv4.c:365:12:ipv4_init_net	32	static
+nf_conntrack_l3proto_ipv4.c:351:12:ipv4_nlattr_tuple_size	16	static
+nf_conntrack_l3proto_ipv4.c:322:12:ipv4_tuple_to_nlattr	48	static
+nf_conntrack_l3proto_ipv4.c:34:13:ipv4_pkt_to_tuple	48	static
+nf_conntrack_l3proto_ipv4.c:66:12:ipv4_get_l4proto	80	static
+nf_conntrack_l3proto_ipv4.c:59:12:ipv4_print_tuple	16	static
+nf_conntrack_l3proto_ipv4.c:534:20:nf_conntrack_l3proto_ipv4_fini	32	static
+nf_conntrack_l3proto_ipv4.c:265:1:getorigdst	112	static
+nf_conntrack_l3proto_ipv4.c:446:13:ipv4_net_exit	32	static
+nf_conntrack_l3proto_ipv4.c:411:12:ipv4_net_init	64	static
+nf_conntrack_l3proto_ipv4.c:124:21:ipv4_confirm	32	static
+nf_conntrack_l3proto_ipv4.c:150:21:ipv4_conntrack_in	16	static
+nf_conntrack_l3proto_ipv4.c:459:19:nf_conntrack_l3proto_ipv4_init	64	static
+nf_conntrack_l3proto_ipv4.c:159:21:ipv4_conntrack_local	16	static

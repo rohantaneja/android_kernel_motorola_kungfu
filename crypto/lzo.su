@@ -1,0 +1,6 @@
+lzo.c:100:20:lzo_mod_fini	16	static
+lzo.c:44:13:lzo_exit	16	static
+lzo.c:30:12:lzo_init	32	static
+lzo.c:67:12:lzo_decompress	48	static
+lzo.c:51:12:lzo_compress	48	static
+lzo.c:95:19:lzo_mod_init	16	static

@@ -1,0 +1,5 @@
+nf_conntrack_acct.c:40:1:seq_print_acct	16	static
+nf_conntrack_acct.c:111:5:nf_conntrack_acct_pernet_init	32	static
+nf_conntrack_acct.c:117:6:nf_conntrack_acct_pernet_fini	32	static
+nf_conntrack_acct.c:122:5:nf_conntrack_acct_init	32	static
+nf_conntrack_acct.c:130:6:nf_conntrack_acct_fini	16	static

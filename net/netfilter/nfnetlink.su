@@ -1,0 +1,16 @@
+nfnetlink.c:542:20:nfnetlink_exit	16	static
+nfnetlink.c:512:24:nfnetlink_net_exit_batch	32	static
+nfnetlink.c:493:23:nfnetlink_net_init	80	static
+nfnetlink.c:528:19:nfnetlink_init	48	static
+nfnetlink.c:153:12:nfnetlink_rcv_msg	160	dynamic
+nfnetlink.c:254:13:nfnl_err_reset.constprop	32	static
+nfnetlink.c:434:13:nfnetlink_rcv	128	dynamic
+nfnetlink.c:54:6:nfnl_lock	16	static
+nfnetlink.c:60:6:nfnl_unlock	16	static
+nfnetlink.c:74:5:nfnetlink_subsys_register	48	static
+nfnetlink.c:88:5:nfnetlink_subsys_unregister	48	static
+nfnetlink.c:119:5:nfnetlink_has_listeners	16	static
+nfnetlink.c:125:17:nfnetlink_alloc_skb	16	static
+nfnetlink.c:132:5:nfnetlink_send	16	static
+nfnetlink.c:139:5:nfnetlink_set_err	16	static
+nfnetlink.c:145:5:nfnetlink_unicast	16	static

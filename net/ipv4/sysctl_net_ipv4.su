@@ -1,0 +1,10 @@
+sysctl_net_ipv4.c:985:19:sysctl_ipv4_init	32	static
+sysctl_net_ipv4.c:970:24:ipv4_sysctl_exit_net	32	static
+sysctl_net_ipv4.c:149:12:proc_tcp_default_init_rwnd	48	static
+sysctl_net_ipv4.c:55:12:ipv4_local_port_range	144	static
+sysctl_net_ipv4.c:934:23:ipv4_sysctl_init_net	32	static
+sysctl_net_ipv4.c:198:12:proc_allowed_congestion_control	128	static
+sysctl_net_ipv4.c:181:12:proc_tcp_available_congestion_control	112	static
+sysctl_net_ipv4.c:163:12:proc_tcp_congestion_control	144	static
+sysctl_net_ipv4.c:218:12:proc_tcp_fastopen_key	144	static
+sysctl_net_ipv4.c:113:12:ipv4_ping_group_range	144	static

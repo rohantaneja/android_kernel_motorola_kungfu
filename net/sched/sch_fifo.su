@@ -1,0 +1,12 @@
+sch_generic.h:601:31:qdisc_dequeue_head	0	static
+sch_generic.h:621:28:qdisc_queue_drop_head	32	static
+sch_generic.h:642:31:qdisc_peek_head	0	static
+sch_generic.h:686:20:qdisc_reset_queue	32	static
+sch_generic.h:706:28:qdisc_queue_drop	32	static
+sch_fifo.c:51:12:fifo_init	0	static
+sch_fifo.c:84:12:fifo_dump	48	static
+sch_fifo.c:38:12:pfifo_tail_enqueue	48	static
+sch_fifo.c:30:12:pfifo_enqueue	32	static
+sch_fifo.c:22:12:bfifo_enqueue	32	static
+sch_fifo.c:141:5:fifo_set_limit	48	static
+sch_fifo.c:163:15:fifo_create_dflt	32	static

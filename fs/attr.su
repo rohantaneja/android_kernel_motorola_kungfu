@@ -1,0 +1,4 @@
+attr.c:99:5:inode_newsize_ok	16	static
+attr.c:31:5:inode_change_ok	48	static
+attr.c:142:6:setattr_copy	48	static
+attr.c:190:5:notify_change	80	static

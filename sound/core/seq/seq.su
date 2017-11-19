@@ -1,0 +1,2 @@
+seq.c:118:20:alsa_seq_exit	16	static
+seq.c:85:19:alsa_seq_init	16	static

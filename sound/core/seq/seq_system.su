@@ -1,0 +1,5 @@
+seq_system.c:116:12:event_input_timer	16	static
+seq_system.c:94:6:snd_seq_system_broadcast	48	static
+seq_system.c:105:5:snd_seq_system_notify	16	static
+seq_system.c:122:12:snd_seq_system_client_init	144	static
+seq_system.c:166:13:snd_seq_system_client_done	16	static

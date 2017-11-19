@@ -1,0 +1,7 @@
+conn_md_dbg.c:57:9:conn_md_dbg_read	0	static
+conn_md_dbg.c:46:5:conn_md_dbg_dmp_msg_log	16	static
+conn_md_dbg.c:51:5:conn_md_dbg_set_log_lvl	16	static
+conn_md_dbg.c:127:5:conn_md_test_dbg	16	static
+conn_md_dbg.c:71:9:conn_md_dbg_write	336	static
+conn_md_dbg.c:132:5:conn_md_dbg_init	32	static
+conn_md_dbg.c:154:5:conn_md_dbg_deinit	16	static

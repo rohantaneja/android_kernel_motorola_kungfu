@@ -1,0 +1,6 @@
+dnotify.c:377:19:dnotify_init	32	static
+dnotify.c:128:13:dnotify_free_mark	16	static
+dnotify.c:53:13:dnotify_recalc_inode_mask	48	static
+dnotify.c:84:12:dnotify_handle_event	64	static
+dnotify.c:150:6:dnotify_flush	64	static
+dnotify.c:253:5:fcntl_dirnotify	112	static

@@ -1,0 +1,12 @@
+sysfs.c:83:12:wiphy_uevent	0	static
+sysfs.c:141:20:wiphy_namespace	0	static
+sysfs.c:122:12:wiphy_resume	48	static
+sysfs.c:76:13:wiphy_dev_release	16	static
+sysfs.c:40:16:name_show	16	static
+sysfs.c:38:1:address_mask_show	16	static
+sysfs.c:37:1:macaddress_show	16	static
+sysfs.c:36:1:index_show	16	static
+sysfs.c:48:16:addresses_show	64	static
+sysfs.c:98:12:wiphy_suspend	64	static
+sysfs.c:162:5:wiphy_sysfs_init	16	static
+sysfs.c:167:6:wiphy_sysfs_exit	16	static

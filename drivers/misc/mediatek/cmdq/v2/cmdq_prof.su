@@ -1,0 +1,4 @@
+cmdq_prof.c:33:13:cmdq_prof_get_statistic_id_name	0	static
+cmdq_prof.c:47:10:cmdq_prof_get_statistic_id	32	static
+cmdq_prof.c:99:10:cmdq_prof_calculate_HW_cycle	32	static
+cmdq_prof.c:119:9:cmdq_prof_estimate_command_exe_time	144	static

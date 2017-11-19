@@ -1,0 +1,7 @@
+idle.c:19:6:cpu_idle_poll_ctrl	32	static
+idle.c:58:13:arch_cpu_idle_prepare	0	static
+idle.c:59:13:arch_cpu_idle_enter	0	static
+idle.c:60:13:arch_cpu_idle_exit	0	static
+idle.c:61:13:arch_cpu_idle_dead	0	static
+idle.c:62:13:arch_cpu_idle	0	static
+idle.c:245:6:cpu_startup_entry	80	static

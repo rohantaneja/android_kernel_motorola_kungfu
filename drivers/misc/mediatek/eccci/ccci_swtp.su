@@ -1,0 +1,6 @@
+ccci_swtp.c:66:12:swtp_send_tx_power_mode	48	static
+ccci_swtp.c:109:20:swtp_irq_func	48	static
+ccci_swtp.c:140:5:swtp_md_tx_power_req_hdlr	16	static
+ccci_swtp.c:128:13:swtp_tx_work	16	static
+ccci_swtp.c:135:6:ccci_swtp_test	16	static
+ccci_swtp.c:152:5:swtp_init	80	static

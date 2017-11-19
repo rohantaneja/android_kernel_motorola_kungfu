@@ -1,0 +1,6 @@
+reed_solomon.c:199:27:init_rs_internal.part.1	96	static
+reed_solomon.c:171:6:free_rs	32	static
+reed_solomon.c:260:20:init_rs	16	static
+reed_solomon.c:279:20:init_rs_non_canonical	16	static
+reed_solomon.c:298:5:encode_rs8	144	static
+reed_solomon.c:324:5:decode_rs8	352	dynamic

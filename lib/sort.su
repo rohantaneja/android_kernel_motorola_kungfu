@@ -1,0 +1,3 @@
+sort.c:12:13:u32_swap	0	static
+sort.c:19:13:generic_swap	0	static
+sort.c:47:6:sort	112	static

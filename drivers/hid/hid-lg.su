@@ -1,0 +1,8 @@
+hid-lg.c:819:1:lg_driver_init	16	static
+hid-lg.c:550:12:lg_input_mapping	80	static
+hid-lg.c:341:14:lg_report_fixup	48	static
+hid-lg.c:728:13:lg_remove	32	static
+hid-lg.c:658:12:lg_probe	144	static
+hid-lg.c:819:1:lg_driver_exit	16	static
+hid-lg.c:603:12:lg_input_mapped	48	static
+hid-lg.c:641:12:lg_event	16	static

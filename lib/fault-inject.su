@@ -1,0 +1,2 @@
+fault-inject.c:17:5:setup_fault_attr	64	static
+fault-inject.c:102:6:should_fail	32	static

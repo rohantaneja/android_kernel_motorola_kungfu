@@ -1,0 +1,4 @@
+iovec.c:11:5:memcpy_fromiovec	64	static
+iovec.c:36:5:memcpy_toiovec	64	static
+iovec.c:59:5:memcpy_toiovecend	80	static
+iovec.c:85:5:memcpy_fromiovecend	64	static

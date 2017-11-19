@@ -1,0 +1,15 @@
+nf_conntrack_proto_gre.c:183:13:gre_invert_tuple	0	static
+nf_conntrack_proto_gre.c:275:13:gre_new	48	static
+nf_conntrack_proto_gre.c:438:20:nf_ct_proto_gre_fini	32	static
+nf_conntrack_proto_gre.c:406:13:proto_gre_net_exit	48	static
+nf_conntrack_proto_gre.c:397:12:proto_gre_net_init	32	static
+nf_conntrack_proto_gre.c:238:12:gre_print_conntrack	16	static
+nf_conntrack_proto_gre.c:229:12:gre_print_tuple	16	static
+nf_conntrack_proto_gre.c:419:19:nf_ct_proto_gre_init	32	static
+nf_conntrack_proto_gre.c:245:22:gre_get_timeouts	48	static
+nf_conntrack_proto_gre.c:351:12:gre_init_net	48	static
+nf_conntrack_proto_gre.c:251:12:gre_packet	32	static
+nf_conntrack_proto_gre.c:192:13:gre_pkt_to_tuple	96	static
+nf_conntrack_proto_gre.c:115:5:nf_ct_gre_keymap_add	96	static
+nf_conntrack_proto_gre.c:157:6:nf_ct_gre_keymap_destroy	64	static
+nf_conntrack_proto_gre.c:291:13:gre_destroy	32	static

@@ -1,0 +1,3 @@
+hash.c:70:13:str2hashbuf_signed	0	static
+hash.c:98:13:str2hashbuf_unsigned	0	static
+hash.c:139:5:ext4fs_dirhash	96	static

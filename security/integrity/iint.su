@@ -1,0 +1,5 @@
+iint.c:164:19:integrity_iintcache_init	16	static
+iint.c:150:13:init_once	0	static
+iint.c:57:30:integrity_iint_find	48	static
+iint.c:92:30:integrity_inode_get	64	static
+iint.c:135:6:integrity_inode_free	48	static

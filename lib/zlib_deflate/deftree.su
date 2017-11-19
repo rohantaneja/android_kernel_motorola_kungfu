@@ -1,0 +1,12 @@
+deftree.c:371:13:pqdownheap	0	static
+deftree.c:495:13:gen_codes	32	static
+deftree.c:538:13:build_tree	64	static
+deftree.c:626:13:scan_tree	0	static
+deftree.c:672:13:send_tree	16	static
+deftree.c:1018:13:compress_block	0	static
+deftree.c:295:6:zlib_tr_init	80	static
+deftree.c:792:6:zlib_tr_stored_block	32	static
+deftree.c:808:6:zlib_tr_stored_type_only	0	static
+deftree.c:829:6:zlib_tr_align	0	static
+deftree.c:856:5:zlib_tr_flush_block	64	static
+deftree.c:969:5:zlib_tr_tally	0	static

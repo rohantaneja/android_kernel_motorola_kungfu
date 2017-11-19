@@ -1,0 +1,5 @@
+mrdump_control.c:38:19:early_mrdump_rsvmem	80	static
+mrdump_control.c:102:13:mrdump_stop_noncore_cpu	16	static
+mrdump_control.c:68:13:mrdump_rsvmem	48	static
+mrdump_control.c:95:12:mrdump_init	0	static
+mrdump_control.c:126:6:__mrdump_create_oops_dump	80	static

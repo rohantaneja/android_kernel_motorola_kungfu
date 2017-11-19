@@ -1,0 +1,4 @@
+rate.c:142:1:rateGetRateSetFromIEs	32	static
+rate.c:234:1:rateGetDataRatesFromRateSet	32	static
+rate.c:273:9:rateGetHighestRateIndexFromRateSet	32	static
+rate.c:301:9:rateGetLowestRateIndexFromRateSet	32	static

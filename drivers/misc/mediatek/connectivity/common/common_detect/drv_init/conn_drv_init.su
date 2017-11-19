@@ -1,0 +1,3 @@
+conn_drv_init.c:29:12:do_wlan_drv_init	16	static
+conn_drv_init.c:35:12:do_ant_drv_init	16	static
+conn_drv_init.c:41:5:do_connectivity_driver_init	32	static

@@ -1,0 +1,7 @@
+workingset.c:398:19:workingset_init	48	static
+workingset.c:372:22:scan_shadow_nodes	16	static
+workingset.c:304:24:shadow_lru_isolate	64	static
+workingset.c:269:22:count_shadow_nodes	16	static
+workingset.c:213:7:workingset_eviction	0	static
+workingset.c:231:6:workingset_refault	48	static
+workingset.c:250:6:workingset_activation	0	static

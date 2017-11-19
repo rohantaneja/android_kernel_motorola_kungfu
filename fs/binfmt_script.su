@@ -1,0 +1,3 @@
+binfmt_script.c:112:20:exit_script_binfmt	16	static
+binfmt_script.c:17:12:load_script	176	static
+binfmt_script.c:106:19:init_script_binfmt	16	static

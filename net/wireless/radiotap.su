@@ -1,0 +1,2 @@
+radiotap.c:95:5:ieee80211_radiotap_iterator_init	0	static
+radiotap.c:211:5:ieee80211_radiotap_iterator_next	0	static

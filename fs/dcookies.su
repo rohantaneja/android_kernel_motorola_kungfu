@@ -1,0 +1,6 @@
+dcookies.c:65:32:find_dcookie	0	static
+dcookies.c:116:5:get_dcookie	80	static
+dcookies.c:149:1:SyS_lookup_dcookie	80	static
+dcookies.c:207:1:compat_SyS_lookup_dcookie	16	static
+dcookies.c:310:23:dcookie_register	64	static
+dcookies.c:335:6:dcookie_unregister	96	static

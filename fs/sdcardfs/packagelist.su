@@ -1,0 +1,13 @@
+packagelist.c:55:21:str_hash	32	static
+packagelist.c:336:28:sdcardfs_packages_make_item	32	static
+packagelist.c:380:13:sdcardfs_packages_release	32	static
+packagelist.c:179:13:remove_str_to_int_lock	32	static
+packagelist.c:306:13:package_appid_release	64	static
+packagelist.c:363:16:packages_attr_show	80	static
+packagelist.c:283:16:package_appid_attr_store	128	static
+packagelist.c:67:9:get_appid	48	static
+packagelist.c:274:16:package_appid_attr_show	32	static
+packagelist.c:89:5:check_caller_access_to_name	32	static
+packagelist.c:112:5:open_flags_to_access_mode	0	static
+packagelist.c:437:5:packagelist_init	48	static
+packagelist.c:452:6:packagelist_exit	64	static

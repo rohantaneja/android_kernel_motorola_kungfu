@@ -1,0 +1,7 @@
+mdee_ctl.c:40:14:mdee_get_ee_type	32	static
+mdee_ctl.c:55:6:mdee_bootup_timeout_handler	64	static
+mdee_ctl.c:70:5:mdee_ctlmsg_handler	80	static
+mdee_ctl.c:133:6:mdee_monitor_func	96	static
+mdee_ctl.c:220:6:mdee_monitor2_func	80	static
+mdee_ctl.c:283:6:mdee_state_notify	64	static
+mdee_ctl.c:323:15:mdee_alloc	48	static

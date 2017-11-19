@@ -1,0 +1,7 @@
+hid-microsoft.c:295:1:ms_driver_init	16	static
+hid-microsoft.c:172:12:ms_event	48	static
+hid-microsoft.c:230:12:ms_probe	64	static
+hid-microsoft.c:295:1:ms_driver_exit	16	static
+hid-microsoft.c:160:12:ms_input_mapped	16	static
+hid-microsoft.c:141:12:ms_input_mapping	64	static
+hid-microsoft.c:33:14:ms_report_fixup	48	static

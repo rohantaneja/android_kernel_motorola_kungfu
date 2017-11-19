@@ -1,0 +1,2 @@
+memory.c:38:5:copy_to_user_fromio	320	static
+memory.c:71:5:copy_from_user_toio	320	static

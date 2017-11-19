@@ -1,0 +1,3 @@
+irq-gic-common.c:24:6:gic_configure_irq	64	static
+irq-gic-common.c:75:13:gic_dist_config	16	static
+irq-gic-common.c:105:6:gic_cpu_config	16	static

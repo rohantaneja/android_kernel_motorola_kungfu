@@ -1,0 +1,10 @@
+early_ioremap.c:22:19:early_ioremap_debug_setup	0	static
+early_ioremap.c:78:19:check_early_ioremap_leak	16	static
+early_ioremap.c:97:1:__early_ioremap	96	static
+early_ioremap.c:32:20:early_ioremap_shutdown	0	static
+early_ioremap.c:36:13:early_ioremap_reset	16	static
+early_ioremap.c:66:13:early_ioremap_setup	16	static
+early_ioremap.c:159:13:early_iounmap	64	static
+early_ioremap.c:208:1:early_ioremap	16	static
+early_ioremap.c:215:1:early_memremap	16	static
+early_ioremap.c:242:13:early_memunmap	16	static

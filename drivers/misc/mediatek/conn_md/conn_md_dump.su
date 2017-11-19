@@ -1,0 +1,6 @@
+conn_md_dump.c:20:23:conn_md_dmp_init	32	static
+conn_md_dump.c:37:5:conn_md_dmp_deinit	32	static
+conn_md_dump.c:53:5:__conn_md_dmp_in	64	static
+conn_md_dump.c:95:5:conn_md_dmp_in	32	static
+conn_md_dump.c:110:5:__conn_md_dmp_msg_filter	64	static
+conn_md_dump.c:133:5:conn_md_dmp_out	80	static

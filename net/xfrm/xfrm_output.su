@@ -1,0 +1,5 @@
+xfrm_output.c:120:5:xfrm_output_resume	64	static
+xfrm_output.c:147:12:xfrm_output2	16	static
+xfrm_output.c:181:5:xfrm_output	32	static
+xfrm_output.c:202:5:xfrm_inner_extract_output	16	static
+xfrm_output.c:217:6:xfrm_local_error	48	static

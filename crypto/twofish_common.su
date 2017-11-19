@@ -1,0 +1,2 @@
+twofish_common.c:583:5:__twofish_setkey	96	static
+twofish_common.c:703:5:twofish_setkey	16	static

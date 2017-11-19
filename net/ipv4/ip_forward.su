@@ -1,0 +1,2 @@
+ip_forward.c:60:12:ip_forward_finish	48	static
+ip_forward.c:73:5:ip_forward	64	static

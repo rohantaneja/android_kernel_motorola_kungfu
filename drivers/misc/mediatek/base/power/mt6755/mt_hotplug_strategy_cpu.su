@@ -1,0 +1,9 @@
+mt_hotplug_strategy_cpu.c:70:5:hps_cpu_is_cpu_big	0	static
+mt_hotplug_strategy_cpu.c:82:5:hps_cpu_is_cpu_little	0	static
+mt_hotplug_strategy_cpu.c:94:14:num_online_little_cpus	16	static
+mt_hotplug_strategy_cpu.c:102:14:num_online_big_cpus	16	static
+mt_hotplug_strategy_cpu.c:126:14:hps_cpu_get_percpu_load	16	static
+mt_hotplug_strategy_cpu.c:135:14:hps_cpu_get_nr_heavy_task	16	static
+mt_hotplug_strategy_cpu.c:144:6:hps_cpu_get_tlp	16	static
+mt_hotplug_strategy_cpu.c:158:5:hps_cpu_init	96	static
+mt_hotplug_strategy_cpu.c:242:5:hps_cpu_deinit	16	static

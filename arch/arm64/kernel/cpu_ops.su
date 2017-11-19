@@ -1,0 +1,2 @@
+cpu_ops.c:62:12:cpu_read_ops	64	static
+cpu_ops.c:87:13:cpu_read_bootcpu_ops	16	static

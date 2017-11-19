@@ -1,0 +1,10 @@
+ip_options.c:513:31:ip_options_get_alloc	16	static
+ip_options.c:43:6:ip_options_build	96	static
+ip_options.c:90:5:__ip_options_echo	96	static
+ip_options.c:211:6:ip_options_fragment	48	static
+ip_options.c:257:5:ip_options_compile	112	static
+ip_options.c:486:6:ip_options_undo	32	static
+ip_options.c:534:5:ip_options_get_from_user	80	static
+ip_options.c:548:5:ip_options_get	80	static
+ip_options.c:560:6:ip_forward_options	96	static
+ip_options.c:607:5:ip_options_rcv_srr	112	static

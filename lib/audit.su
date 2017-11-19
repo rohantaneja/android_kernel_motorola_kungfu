@@ -1,0 +1,3 @@
+audit.c:64:19:audit_classes_init	32	static
+audit.c:31:5:audit_classify_arch	0	static
+audit.c:39:5:audit_classify_syscall	16	static

@@ -1,0 +1,4 @@
+cmd_buf.c:88:6:cmdBufInitialize	32	static
+cmd_buf.c:111:6:cmdBufDumpCmdQueue	96	static
+cmd_buf.c:156:14:cmdBufAllocateCmdInfo	96	static
+cmd_buf.c:226:6:cmdBufFreeCmdInfo	64	static

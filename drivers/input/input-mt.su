@@ -1,0 +1,12 @@
+input-mt.c:17:13:copy_abs	0	static
+input-mt.c:296:12:adjust_dual	0	static
+input-mt.c:239:13:__input_mt_drop_unused	48	static
+input-mt.c:41:5:input_mt_init_slots	48	static
+input-mt.c:110:6:input_mt_destroy_slots	32	static
+input-mt.c:132:6:input_mt_report_slot_state	32	static
+input-mt.c:170:6:input_mt_report_finger_count	32	static
+input-mt.c:191:6:input_mt_report_pointer_emulation	48	static
+input-mt.c:257:6:input_mt_drop_unused	32	static
+input-mt.c:276:6:input_mt_sync_frame	32	static
+input-mt.c:403:5:input_mt_assign_slots	128	static
+input-mt.c:434:5:input_mt_get_slot_by_key	0	static

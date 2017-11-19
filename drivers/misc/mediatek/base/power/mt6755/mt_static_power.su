@@ -1,0 +1,7 @@
+mt_static_power.c:86:5:interpolate	0	static
+mt_static_power.c:95:5:interpolate_2d	112	static
+mt_static_power.c:126:6:interpolate_table	112	static
+mt_static_power.c:155:5:sptab_lookup	16	static
+mt_static_power.c:205:5:mt_spower_make_table	208	static
+mt_static_power.c:444:5:mt_spower_init	80	static
+mt_static_power.c:525:5:mt_spower_get_leakage	16	static

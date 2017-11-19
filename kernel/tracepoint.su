@@ -1,0 +1,6 @@
+tracepoint.c:69:13:rcu_free_old_probes	16	static
+tracepoint.c:250:5:tracepoint_probe_register	80	static
+tracepoint.c:272:5:tracepoint_probe_unregister	64	static
+tracepoint.c:480:6:for_each_kernel_tracepoint	48	static
+tracepoint.c:493:6:syscall_regfunc	80	static
+tracepoint.c:507:6:syscall_unregfunc	64	static

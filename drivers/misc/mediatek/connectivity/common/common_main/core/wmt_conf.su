@@ -1,0 +1,9 @@
+wmt_conf.c:247:14:wmt_conf_write_int	48	static
+wmt_conf.c:204:14:wmt_conf_write_short	48	static
+wmt_conf.c:162:14:wmt_conf_write_char	48	static
+wmt_conf.c:225:14:wmt_conf_parse_int	80	static
+wmt_conf.c:182:14:wmt_conf_parse_short	80	static
+wmt_conf.c:143:14:wmt_conf_parse_char	80	static
+wmt_conf.c:413:7:wmt_conf_set_cfg_file	48	static
+wmt_conf.c:432:7:wmt_conf_read_file	160	static
+wmt_conf.c:492:16:wmt_conf_get_cfg	0	static

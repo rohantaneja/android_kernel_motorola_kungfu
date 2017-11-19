@@ -1,0 +1,7 @@
+mmp.c:10:15:ext4_mmp_csum.part.3	16	static
+mmp.c:10:15:ext4_mmp_csum	224	dynamic,bounded
+mmp.c:68:12:read_mmp_block	48	static
+mmp.c:41:12:write_mmp_block	48	static
+mmp.c:111:6:__dump_mmp_msg	48	static
+mmp.c:125:12:kmmpd	160	static
+mmp.c:269:5:ext4_multi_mount_protect	80	static

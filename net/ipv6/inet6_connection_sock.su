@@ -1,0 +1,9 @@
+inet6_connection_sock.c:101:12:inet6_synq_hash	0	static
+inet6_connection_sock.c:194:26:inet6_csk_route_socket	80	static
+inet6_connection_sock.c:30:5:inet6_csk_bind_conflict	80	static
+inet6_connection_sock.c:68:19:inet6_csk_route_req	80	static
+inet6_connection_sock.c:118:22:inet6_csk_search_req	80	static
+inet6_connection_sock.c:151:6:inet6_csk_reqsk_queue_hash_add	64	static
+inet6_connection_sock.c:166:6:inet6_csk_addr2sockaddr	48	static
+inet6_connection_sock.c:229:5:inet6_csk_xmit	128	static
+inet6_connection_sock.c:257:19:inet6_csk_update_pmtu	112	static

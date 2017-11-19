@@ -1,0 +1,9 @@
+checkpoint.c:387:5:jbd2_cleanup_journal_tail	48	static
+checkpoint.c:613:6:__jbd2_journal_insert_checkpoint	48	static
+checkpoint.c:645:6:__jbd2_journal_drop_transaction	48	static
+checkpoint.c:553:5:__jbd2_journal_remove_checkpoint	64	static
+checkpoint.c:208:5:jbd2_log_do_checkpoint	160	static
+checkpoint.c:111:6:__jbd2_log_wait_for_space	96	static
+checkpoint.c:425:12:journal_clean_one_cp_list	64	static
+checkpoint.c:469:6:__jbd2_journal_clean_checkpoint_list	64	static
+checkpoint.c:517:6:jbd2_journal_destroy_checkpoint	32	static

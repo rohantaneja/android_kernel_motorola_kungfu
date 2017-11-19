@@ -1,0 +1,3 @@
+seq_oss_rw.c:44:1:snd_seq_oss_read	128	static
+seq_oss_rw.c:96:1:snd_seq_oss_write	144	static
+seq_oss_rw.c:200:1:snd_seq_oss_poll	48	static

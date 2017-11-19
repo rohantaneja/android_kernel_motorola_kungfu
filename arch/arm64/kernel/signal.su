@@ -1,0 +1,4 @@
+signal.c:68:12:restore_fpsimd_context	576	static
+signal.c:338:13:do_signal	288	static
+signal.c:129:17:sys_rt_sigreturn	80	static
+signal.c:409:17:do_notify_resume	32	static

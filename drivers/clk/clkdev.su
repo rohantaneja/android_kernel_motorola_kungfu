@@ -1,0 +1,14 @@
+clkdev.c:233:1:vclkdev_alloc	96	static
+clkdev.c:39:13:of_clk_get_by_clkspec	48	static
+clkdev.c:56:13:of_clk_get	96	static
+clkdev.c:85:13:of_clk_get_by_name	80	static
+clkdev.c:168:13:clk_get_sys	96	static
+clkdev.c:182:13:clk_get	32	static
+clkdev.c:199:6:clk_put	16	static
+clkdev.c:205:6:clkdev_add	32	static
+clkdev.c:213:13:clkdev_add_table	64	static
+clkdev.c:257:1:clkdev_alloc	128	static
+clkdev.c:270:5:clk_add_alias	48	static
+clkdev.c:291:6:clkdev_drop	32	static
+clkdev.c:314:5:clk_register_clkdev	128	static
+clkdev.c:346:5:clk_register_clkdevs	48	static

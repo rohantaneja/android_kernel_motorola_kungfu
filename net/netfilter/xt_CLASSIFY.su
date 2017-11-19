@@ -1,0 +1,3 @@
+xt_CLASSIFY.c:32:1:classify_tg	0	static
+xt_CLASSIFY.c:67:20:classify_tg_exit	16	static
+xt_CLASSIFY.c:62:19:classify_tg_init	16	static

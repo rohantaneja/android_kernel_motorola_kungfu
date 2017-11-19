@@ -1,0 +1,7 @@
+sha1_generic.c:28:12:sha1_init	0	static
+sha1_generic.c:114:12:sha1_import	16	static
+sha1_generic.c:106:12:sha1_export	16	static
+sha1_generic.c:39:5:crypto_sha1_update	128	static
+sha1_generic.c:145:20:sha1_generic_mod_fini	16	static
+sha1_generic.c:78:12:sha1_final	64	static
+sha1_generic.c:140:19:sha1_generic_mod_init	16	static

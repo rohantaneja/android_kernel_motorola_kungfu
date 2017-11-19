@@ -1,0 +1,5 @@
+anon_inodes.c:165:19:anon_inode_init	32	static
+anon_inodes.c:41:23:anon_inodefs_mount	16	static
+anon_inodes.c:31:14:anon_inodefs_dname	16	static
+anon_inodes.c:70:14:anon_inode_getfile	96	static
+anon_inodes.c:139:5:anon_inode_getfd	64	static

@@ -1,0 +1,7 @@
+vlan_netlink.c:168:15:vlan_get_size	0	static
+vlan_netlink.c:179:12:vlan_fill_info	112	static
+vlan_netlink.c:89:12:vlan_changelink	48	static
+vlan_netlink.c:116:12:vlan_newlink	48	static
+vlan_netlink.c:41:12:vlan_validate	32	static
+vlan_netlink.c:255:12:vlan_netlink_init	16	static
+vlan_netlink.c:260:13:vlan_netlink_fini	16	static

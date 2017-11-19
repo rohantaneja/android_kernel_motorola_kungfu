@@ -1,0 +1,3 @@
+cpufreq_performance.c:50:20:cpufreq_gov_performance_exit	16	static
+cpufreq_performance.c:45:19:cpufreq_gov_performance_init	16	static
+cpufreq_performance.c:19:12:cpufreq_governor_performance	32	static

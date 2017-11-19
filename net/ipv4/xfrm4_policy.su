@@ -1,0 +1,15 @@
+xfrm4_policy.c:65:12:xfrm4_get_tos	0	static
+xfrm4_policy.c:70:12:xfrm4_init_path	0	static
+xfrm4_policy.c:76:12:xfrm4_fill_dst	0	static
+xfrm4_policy.c:189:19:xfrm4_garbage_collect	32	static
+xfrm4_policy.c:197:13:xfrm4_update_pmtu	16	static
+xfrm4_policy.c:206:13:xfrm4_redirect	16	static
+xfrm4_policy.c:298:24:xfrm4_net_sysctl_exit	16	static
+xfrm4_policy.c:338:24:xfrm4_net_exit	32	static
+xfrm4_policy.c:224:13:xfrm4_dst_ifdown	16	static
+xfrm4_policy.c:215:13:xfrm4_dst_destroy	48	static
+xfrm4_policy.c:102:1:_decode_session4	64	static
+xfrm4_policy.c:321:23:xfrm4_net_init	48	static
+xfrm4_policy.c:41:26:xfrm4_dst_lookup	64	static
+xfrm4_policy.c:50:12:xfrm4_get_saddr	80	static
+xfrm4_policy.c:354:13:xfrm4_init	16	static

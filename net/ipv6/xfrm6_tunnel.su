@@ -1,0 +1,14 @@
+xfrm6_tunnel.c:227:12:xfrm6_tunnel_input	0	static
+xfrm6_tunnel.c:242:12:xfrm6_tunnel_err	0	static
+xfrm6_tunnel.c:283:12:xfrm6_tunnel_init_state	0	static
+xfrm6_tunnel.c:339:24:xfrm6_tunnel_net_exit	0	static
+xfrm6_tunnel.c:87:33:__xfrm6_tunnel_spi_lookup	48	static
+xfrm6_tunnel.c:385:20:xfrm6_tunnel_fini	32	static
+xfrm6_tunnel.c:221:12:xfrm6_tunnel_output	16	static
+xfrm6_tunnel.c:191:13:x6spi_destroy_rcu	16	static
+xfrm6_tunnel.c:350:19:xfrm6_tunnel_init	64	static
+xfrm6_tunnel.c:325:23:xfrm6_tunnel_net_init	48	static
+xfrm6_tunnel.c:296:13:xfrm6_tunnel_destroy	48	static
+xfrm6_tunnel.c:102:8:xfrm6_tunnel_spi_lookup	48	static
+xfrm6_tunnel.c:232:12:xfrm6_tunnel_rcv	32	static
+xfrm6_tunnel.c:173:8:xfrm6_tunnel_alloc_spi	80	static

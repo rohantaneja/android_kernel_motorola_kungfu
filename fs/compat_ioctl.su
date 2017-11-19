@@ -1,0 +1,5 @@
+compat_ioctl.c:1620:19:init_sys32_ioctl_cmp	0	static
+compat_ioctl.c:515:12:mt_ioctl_trans	112	static
+compat_ioctl.c:607:12:serial_struct_ioctl	128	static
+compat_ioctl.c:1632:19:init_sys32_ioctl	16	static
+compat_ioctl.c:1543:1:compat_SyS_ioctl	144	static

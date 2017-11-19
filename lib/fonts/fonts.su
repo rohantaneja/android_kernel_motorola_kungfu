@@ -1,0 +1,2 @@
+fonts.c:90:25:find_font	32	static
+fonts.c:116:25:get_default_font	0	static

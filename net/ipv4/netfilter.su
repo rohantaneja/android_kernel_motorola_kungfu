@@ -1,0 +1,8 @@
+netfilter.c:176:12:nf_ip_route	32	static
+netfilter.c:124:9:nf_ip_checksum	48	static
+netfilter.c:201:20:ipv4_netfilter_fini	16	static
+netfilter.c:155:16:nf_ip_checksum_partial	48	static
+netfilter.c:196:19:ipv4_netfilter_init	16	static
+netfilter.c:92:13:nf_ip_saveroute	0	static
+netfilter.c:20:5:ip_route_me_harder	112	static
+netfilter.c:107:12:nf_ip_reroute	16	static

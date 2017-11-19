@@ -1,0 +1,2 @@
+copypage.c:25:6:__cpu_copy_user_page	32	static
+copypage.c:32:6:__cpu_clear_user_page	16	static

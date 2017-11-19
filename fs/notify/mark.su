@@ -1,0 +1,15 @@
+mark.c:420:19:fsnotify_mark_init	16	static
+mark.c:99:6:fsnotify_get_mark	0	static
+mark.c:104:6:fsnotify_put_mark	32	static
+mark.c:396:12:fsnotify_mark_destroy	160	static
+mark.c:118:6:fsnotify_destroy_mark_locked	64	static
+mark.c:187:6:fsnotify_destroy_mark	48	static
+mark.c:195:6:fsnotify_set_mark_mask_locked	16	static
+mark.c:205:6:fsnotify_set_mark_ignored_mask_locked	16	static
+mark.c:231:5:fsnotify_compare_groups	0	static
+mark.c:253:5:fsnotify_add_mark_locked	96	static
+mark.c:315:5:fsnotify_add_mark	64	static
+mark.c:328:6:fsnotify_clear_marks_by_group_flags	80	static
+mark.c:367:6:fsnotify_clear_marks_by_group	16	static
+mark.c:372:6:fsnotify_duplicate_mark	48	static
+mark.c:387:6:fsnotify_init_mark	0	static

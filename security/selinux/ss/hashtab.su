@@ -1,0 +1,6 @@
+hashtab.c:12:17:hashtab_create	48	static
+hashtab.c:39:5:hashtab_insert	64	static
+hashtab.c:77:7:hashtab_search	48	static
+hashtab.c:96:6:hashtab_destroy	48	static
+hashtab.c:120:5:hashtab_map	64	static
+hashtab.c:144:6:hashtab_stat	0	static

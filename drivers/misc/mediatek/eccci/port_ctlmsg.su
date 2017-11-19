@@ -1,0 +1,2 @@
+port_ctlmsg.c:123:12:port_ctl_init	32	static
+port_ctlmsg.c:89:13:control_msg_handler	64	static

@@ -1,0 +1,4 @@
+xt_time.c:280:20:time_mt_exit	16	static
+xt_time.c:232:12:time_mt_check	16	static
+xt_time.c:264:19:time_mt_init	16	static
+xt_time.c:155:1:time_mt	32	static

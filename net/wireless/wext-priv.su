@@ -1,0 +1,5 @@
+wext-priv.c:137:12:ioctl_private_iw_point	96	static
+wext-priv.c:93:12:get_priv_descr_and_size.isra.1	0	static
+wext-priv.c:16:5:iw_handler_get_private	16	static
+wext-priv.c:187:5:ioctl_private_call	80	static
+wext-priv.c:213:5:compat_private_call	96	static

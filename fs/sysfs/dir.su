@@ -1,0 +1,5 @@
+dir.c:22:6:sysfs_warn_dup	48	static
+dir.c:41:5:sysfs_create_dir_ns	48	static
+dir.c:75:6:sysfs_remove_dir	48	static
+dir.c:101:5:sysfs_rename_dir_ns	64	static
+dir.c:113:5:sysfs_move_dir_ns	16	static

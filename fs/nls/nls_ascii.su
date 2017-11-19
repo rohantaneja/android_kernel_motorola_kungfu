@@ -1,0 +1,4 @@
+nls_ascii.c:120:12:uni2char	0	static
+nls_ascii.c:137:12:char2uni	0	static
+nls_ascii.c:158:20:exit_nls_ascii	16	static
+nls_ascii.c:153:19:init_nls_ascii	16	static

@@ -1,0 +1,9 @@
+port_smem.c:30:29:smem_tx_timer_func	16	static
+port_smem.c:38:5:port_smem_init	0	static
+port_smem.c:58:5:port_smem_tx_nofity	80	static
+port_smem.c:74:5:port_smem_rx_poll	96	static
+port_smem.c:88:5:port_smem_rx_wakeup	16	static
+port_smem.c:99:5:port_smem_cfg	64	static
+port_smem.c:151:15:get_smem_start_addr	0	static
+port_smem.c:176:6:port_smem_ioctl	48	static
+port_smem.c:225:5:port_smem_mmap	80	static

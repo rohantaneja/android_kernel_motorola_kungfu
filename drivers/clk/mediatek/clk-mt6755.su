@@ -1,0 +1,13 @@
+clk-mt6755.c:1657:33:alloc_clk_data	32	static
+clk-mt6755.c:524:20:init_factors	64	static
+clk-mt6755.c:1689:20:mt_topckgen_init	48	static
+clk-mt6755.c:1727:20:mt_apmixedsys_init	96	static
+clk-mt6755.c:1226:20:init_clk_gates	64	static
+clk-mt6755.c:1787:20:mt_infrasys_init	48	static
+clk-mt6755.c:1842:20:mt_mfgsys_init	48	static
+clk-mt6755.c:1871:20:mt_imgsys_init	48	static
+clk-mt6755.c:1900:20:mt_mmsys_init	48	static
+clk-mt6755.c:1929:20:mt_vdecsys_init	48	static
+clk-mt6755.c:1959:20:mt_vencsys_init	48	static
+clk-mt6755.c:1988:20:mt_audiosys_init	48	static
+clk-mt6755.c:2017:6:pll_if_on	32	static

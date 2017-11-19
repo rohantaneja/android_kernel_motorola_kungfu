@@ -1,0 +1,3 @@
+nf_nat_proto_unknown.c:20:13:unknown_in_range	0	static
+nf_nat_proto_unknown.c:28:13:unknown_unique_tuple	0	static
+nf_nat_proto_unknown.c:41:1:unknown_manip_pkt	0	static

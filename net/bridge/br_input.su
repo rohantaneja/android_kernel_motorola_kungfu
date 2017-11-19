@@ -1,0 +1,3 @@
+br_input.c:146:12:br_handle_local_finish	16	static
+br_input.c:61:5:br_handle_frame_finish	64	static
+br_input.c:161:21:br_handle_frame	80	static

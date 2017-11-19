@@ -1,0 +1,2 @@
+mali_kbase_platform_fake.c:77:5:kbase_platform_fake_register	32	static
+mali_kbase_platform_fake.c:116:6:kbase_platform_fake_unregister	16	static

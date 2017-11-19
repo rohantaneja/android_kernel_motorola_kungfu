@@ -1,0 +1,5 @@
+xfrm6_input.c:19:5:xfrm6_extract_input	16	static
+xfrm6_input.c:24:5:xfrm6_rcv_spi	16	static
+xfrm6_input.c:32:5:xfrm6_transport_finish	32	static
+xfrm6_input.c:50:5:xfrm6_rcv	16	static
+xfrm6_input.c:57:5:xfrm6_input_addr	80	static

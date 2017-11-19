@@ -1,0 +1,15 @@
+sock_diag.c:240:20:sock_diag_exit	16	static
+sock_diag.c:224:24:diag_net_exit	32	static
+sock_diag.c:195:13:sock_diag_rcv	32	static
+sock_diag.c:214:23:diag_net_init	80	static
+sock_diag.c:235:19:sock_diag_init	16	static
+sock_diag.c:166:12:sock_diag_rcv_msg	64	static
+sock_diag.c:16:5:sock_diag_check_cookie	0	static
+sock_diag.c:28:6:sock_diag_save_cookie	0	static
+sock_diag.c:35:5:sock_diag_put_meminfo	48	static
+sock_diag.c:52:5:sock_diag_put_filterinfo	64	static
+sock_diag.c:87:6:sock_diag_register_inet_compat	32	static
+sock_diag.c:95:6:sock_diag_unregister_inet_compat	32	static
+sock_diag.c:103:5:sock_diag_register	48	static
+sock_diag.c:121:6:sock_diag_unregister	48	static
+sock_diag.c:202:5:sock_diag_destroy	32	static

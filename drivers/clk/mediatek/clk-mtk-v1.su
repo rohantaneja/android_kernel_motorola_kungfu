@@ -1,0 +1,2 @@
+clk-mtk-v1.c:32:13:get_mtk_clk_lock	0	static
+clk-mtk-v1.c:41:13:mtk_clk_register_mux	144	static

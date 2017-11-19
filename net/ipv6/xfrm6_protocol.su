@@ -1,0 +1,11 @@
+xfrm6_protocol.c:49:5:xfrm6_rcv_cb	48	static
+xfrm6_protocol.c:83:13:xfrm6_esp_err	80	static
+xfrm6_protocol.c:110:13:xfrm6_ah_err	80	static
+xfrm6_protocol.c:137:13:xfrm6_ipcomp_err	80	static
+xfrm6_protocol.c:120:12:xfrm6_ipcomp_rcv	32	static
+xfrm6_protocol.c:93:12:xfrm6_ah_rcv	32	static
+xfrm6_protocol.c:66:12:xfrm6_esp_rcv	32	static
+xfrm6_protocol.c:185:5:xfrm6_protocol_register	64	static
+xfrm6_protocol.c:232:5:xfrm6_protocol_deregister	48	static
+xfrm6_protocol.c:271:12:xfrm6_protocol_init	16	static
+xfrm6_protocol.c:276:6:xfrm6_protocol_fini	16	static

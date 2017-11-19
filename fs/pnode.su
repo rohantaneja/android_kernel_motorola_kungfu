@@ -1,0 +1,8 @@
+pnode.c:167:22:next_group	0	static
+pnode.c:146:22:propagation_next	0	static
+pnode.c:210:12:propagate_one.part.7	48	static
+pnode.c:55:5:get_dominating_id	64	static
+pnode.c:119:6:change_mnt_propagation	64	static
+pnode.c:277:5:propagate_mnt	64	static
+pnode.c:344:5:propagate_mount_busy	48	static
+pnode.c:406:5:propagate_umount	48	static

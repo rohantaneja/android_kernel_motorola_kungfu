@@ -1,0 +1,3 @@
+mt_gpio_affix.c:24:6:mt_gpio_pin_decrypt	32	static
+mt_gpio_affix.c:46:5:mt_gpio_create_attr	16	static
+mt_gpio_affix.c:60:5:mt_gpio_delete_attr	16	static

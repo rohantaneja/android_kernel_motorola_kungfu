@@ -1,0 +1,2 @@
+do_mounts_initrd.c:29:19:no_initrd	0	static
+do_mounts_initrd.c:124:12:initrd_load	32	static

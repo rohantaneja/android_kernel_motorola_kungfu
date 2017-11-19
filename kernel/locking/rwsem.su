@@ -1,0 +1,7 @@
+rwsem.c:39:14:down_read	16	static
+rwsem.c:52:5:down_read_trylock	0	static
+rwsem.c:66:14:down_write	32	static
+rwsem.c:80:5:down_write_trylock	0	static
+rwsem.c:97:6:up_read	16	static
+rwsem.c:109:6:up_write	16	static
+rwsem.c:122:6:downgrade_write	16	static

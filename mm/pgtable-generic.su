@@ -1,0 +1,8 @@
+pgtable-generic.c:19:6:pgd_clear_bad	16	static
+pgtable-generic.c:25:6:pud_clear_bad	32	static
+pgtable-generic.c:31:6:pmd_clear_bad	32	static
+pgtable-generic.c:47:5:ptep_set_access_flags	64	static
+pgtable-generic.c:61:5:pmdp_set_access_flags	16	static
+pgtable-generic.c:81:5:ptep_clear_flush_young	64	static
+pgtable-generic.c:93:5:pmdp_clear_flush_young	16	static
+pgtable-generic.c:110:7:ptep_clear_flush	0	static

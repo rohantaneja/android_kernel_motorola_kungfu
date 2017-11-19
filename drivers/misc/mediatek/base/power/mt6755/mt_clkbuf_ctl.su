@@ -1,0 +1,16 @@
+mt_clkbuf_ctl.c:263:13:spm_clk_buf_ctrl	16	static
+mt_clkbuf_ctl.c:379:13:clkbuf_delayed_worker	48	static
+mt_clkbuf_ctl.c:672:16:clk_buf_debug_store	48	static
+mt_clkbuf_ctl.c:690:16:clk_buf_debug_show	16	static
+mt_clkbuf_ctl.c:603:16:clk_buf_ctrl_show	112	static
+mt_clkbuf_ctl.c:560:16:clk_buf_ctrl_store	112	static
+mt_clkbuf_ctl.c:331:6:clk_buf_control_bblpm	48	static
+mt_clkbuf_ctl.c:399:6:is_clk_buf_under_flightmode	0	static
+mt_clkbuf_ctl.c:405:6:clk_buf_set_by_flightmode	80	static
+mt_clkbuf_ctl.c:437:6:clk_buf_ctrl	64	static
+mt_clkbuf_ctl.c:489:6:clk_buf_get_swctrl_status	48	static
+mt_clkbuf_ctl.c:510:6:clk_buf_get_rf_drv_curr	16	static
+mt_clkbuf_ctl.c:532:6:clk_buf_save_afc_val	16	static
+mt_clkbuf_ctl.c:549:6:clk_buf_write_afcdac	16	static
+mt_clkbuf_ctl.c:717:6:is_clk_buf_from_pmic	48	static
+mt_clkbuf_ctl.c:974:6:clk_buf_init	112	static

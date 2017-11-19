@@ -1,0 +1,16 @@
+nf_conntrack_l3proto_ipv6.c:309:12:ipv6_nlattr_to_tuple	0	static
+nf_conntrack_l3proto_ipv6.c:54:13:ipv6_invert_tuple	0	static
+nf_conntrack_l3proto_ipv6.c:323:12:ipv6_nlattr_tuple_size	16	static
+nf_conntrack_l3proto_ipv6.c:290:12:ipv6_tuple_to_nlattr	32	static
+nf_conntrack_l3proto_ipv6.c:37:13:ipv6_pkt_to_tuple	64	static
+nf_conntrack_l3proto_ipv6.c:98:21:ipv6_helper	64	static
+nf_conntrack_l3proto_ipv6.c:63:12:ipv6_print_tuple	16	static
+nf_conntrack_l3proto_ipv6.c:470:20:nf_conntrack_l3proto_ipv6_fini	32	static
+nf_conntrack_l3proto_ipv6.c:241:1:ipv6_getorigdst	128	static
+nf_conntrack_l3proto_ipv6.c:392:13:ipv6_net_exit	32	static
+nf_conntrack_l3proto_ipv6.c:357:12:ipv6_net_init	64	static
+nf_conntrack_l3proto_ipv6.c:136:21:ipv6_confirm	64	static
+nf_conntrack_l3proto_ipv6.c:172:21:ipv6_conntrack_in	16	static
+nf_conntrack_l3proto_ipv6.c:405:19:nf_conntrack_l3proto_ipv6_init	64	static
+nf_conntrack_l3proto_ipv6.c:70:12:ipv6_get_l4proto	64	static
+nf_conntrack_l3proto_ipv6.c:181:21:ipv6_conntrack_local	32	static

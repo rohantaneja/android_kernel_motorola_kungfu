@@ -1,0 +1,3 @@
+xattr_trusted.c:44:1:ext4_xattr_trusted_set	16	static
+xattr_trusted.c:34:1:ext4_xattr_trusted_get	16	static
+xattr_trusted.c:16:1:ext4_xattr_trusted_list	64	static

@@ -1,0 +1,2 @@
+fremap.c:102:5:generic_file_remap_pages	128	static
+fremap.c:142:1:SyS_remap_file_pages	112	static

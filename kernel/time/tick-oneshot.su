@@ -1,0 +1,6 @@
+tick-oneshot.c:27:5:tick_program_event	48	static
+tick-oneshot.c:37:6:tick_resume_oneshot	32	static
+tick-oneshot.c:48:6:tick_setup_oneshot	48	static
+tick-oneshot.c:60:5:tick_switch_to_oneshot	32	static
+tick-oneshot.c:94:5:tick_oneshot_mode_active	32	static
+tick-oneshot.c:112:5:tick_init_highres	16	static

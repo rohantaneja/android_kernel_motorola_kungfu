@@ -1,0 +1,9 @@
+signalfd.c:54:12:signalfd_release	16	static
+signalfd.c:234:12:signalfd_show_fdinfo	32	static
+signalfd.c:60:21:signalfd_poll	32	static
+signalfd.c:204:16:signalfd_read	288	static
+signalfd.c:35:6:signalfd_cleanup	16	static
+signalfd.c:257:1:SyS_signalfd4	64	static
+signalfd.c:311:1:SyS_signalfd	16	static
+signalfd.c:318:1:compat_SyS_signalfd4	64	static
+signalfd.c:339:1:compat_SyS_signalfd	16	static

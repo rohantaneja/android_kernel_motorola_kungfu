@@ -1,0 +1,10 @@
+udp_offload.c:229:13:udp_offload_free_routine	16	static
+udp_offload.c:107:17:skb_udp_tunnel_segment	128	static
+udp_offload.c:145:24:udp4_ufo_fragment	48	static
+udp_offload.c:211:5:udp_add_offload	32	static
+udp_offload.c:235:6:udp_del_offload	48	static
+udp_offload.c:260:18:udp_gro_receive	96	static
+udp_offload.c:318:25:udp4_gro_receive	48	static
+udp_offload.c:345:5:udp_gro_complete	48	static
+udp_offload.c:372:12:udp4_gro_complete	48	static
+udp_offload.c:392:12:udpv4_offload_init	16	static

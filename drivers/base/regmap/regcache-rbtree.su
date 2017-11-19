@@ -1,0 +1,10 @@
+regcache-rbtree.c:66:37:regcache_rbtree_lookup	0	static
+regcache-rbtree.c:497:12:regcache_rbtree_drop	48	static
+regcache-rbtree.c:456:12:regcache_rbtree_sync	48	static
+regcache-rbtree.c:257:12:regcache_rbtree_read	48	static
+regcache-rbtree.c:193:13:rbtree_debugfs_init	16	static
+regcache-rbtree.c:181:12:rbtree_open	16	static
+regcache-rbtree.c:137:12:rbtree_show	96	static
+regcache-rbtree.c:228:12:regcache_rbtree_exit	64	static
+regcache-rbtree.c:383:12:regcache_rbtree_write	112	static
+regcache-rbtree.c:199:12:regcache_rbtree_init	48	static

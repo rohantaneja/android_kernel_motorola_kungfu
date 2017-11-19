@@ -1,0 +1,5 @@
+ipcomp6.c:179:12:ipcomp6_rcv_cb	0	static
+ipcomp6.c:56:12:ipcomp6_err	64	static
+ipcomp6.c:216:20:ipcomp6_fini	32	static
+ipcomp6.c:149:12:ipcomp6_init_state	80	static
+ipcomp6.c:202:19:ipcomp6_init	32	static

@@ -1,0 +1,9 @@
+notification.c:57:5:fsnotify_get_cookie	0	static
+notification.c:64:6:fsnotify_notify_queue_is_empty	16	static
+notification.c:70:6:fsnotify_destroy_event	32	static
+notification.c:87:5:fsnotify_add_event	64	static
+notification.c:132:6:fsnotify_remove_event	48	static
+notification.c:147:24:fsnotify_remove_first_event	32	static
+notification.c:171:24:fsnotify_peek_first_event	16	static
+notification.c:183:6:fsnotify_flush_notify	32	static
+notification.c:207:6:fsnotify_init_event	0	static

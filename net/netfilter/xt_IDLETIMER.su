@@ -1,0 +1,11 @@
+xt_IDLETIMER.c:521:20:idletimer_tg_exit	32	static
+xt_IDLETIMER.c:444:13:idletimer_tg_destroy	48	static
+xt_IDLETIMER.c:223:13:idletimer_tg_expired	32	static
+xt_IDLETIMER.c:340:13:reset_timer	64	static
+xt_IDLETIMER.c:379:21:idletimer_tg_target	48	static
+xt_IDLETIMER.c:117:13:notify_netlink_uevent	416	static
+xt_IDLETIMER.c:212:13:idletimer_tg_work	32	static
+xt_IDLETIMER.c:235:12:idletimer_resume	80	static
+xt_IDLETIMER.c:485:19:idletimer_tg_init	48	static
+xt_IDLETIMER.c:403:12:idletimer_tg_checkentry	64	static
+xt_IDLETIMER.c:186:16:idletimer_tg_show	80	static

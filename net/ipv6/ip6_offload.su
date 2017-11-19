@@ -1,0 +1,5 @@
+ip6_offload.c:300:19:ipv6_offload_init	32	static
+ip6_offload.c:261:12:ipv6_gro_complete	48	static
+ip6_offload.c:22:12:ipv6_gso_pull_exthdrs	64	static
+ip6_offload.c:166:25:ipv6_gro_receive	144	static
+ip6_offload.c:57:24:ipv6_gso_segment	112	static

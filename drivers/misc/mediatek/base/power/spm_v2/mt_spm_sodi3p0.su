@@ -1,0 +1,10 @@
+mt_spm_internal.h:614:28:is_clk_buf_under_flightmode	0	static
+mt_spm_sodi.h:239:28:aee_rr_rec_sodi_val	0	static
+mt_spm_sodi.h:243:27:aee_rr_curr_sodi_val	0	static
+mt_spm_sodi3.h:196:28:aee_rr_rec_sodi3_val	0	static
+mt_spm_sodi3.h:200:27:aee_rr_curr_sodi3_val	0	static
+mt_spm_sodi3p0.c:49:36:pmic_read_interface_nolock	0	static
+mt_spm_sodi3p0.c:388:15:spm_go_to_sodi3	176	static
+mt_spm_sodi3p0.c:564:6:spm_enable_sodi3	0	static
+mt_spm_sodi3p0.c:569:6:spm_get_sodi3_en	0	static
+mt_spm_sodi3p0.c:574:6:spm_sodi3_init	16	static

@@ -1,0 +1,8 @@
+blk-flush.c:165:13:blk_flush_complete_seq	64	static
+blk-flush.c:326:13:flush_data_end_io	48	static
+blk-flush.c:339:13:mq_flush_data_end_io	64	static
+blk-flush.c:219:13:flush_end_io	80	static
+blk-flush.c:371:6:blk_insert_flush	64	static
+blk-flush.c:449:5:blkdev_issue_flush	48	static
+blk-flush.c:490:25:blk_alloc_flush_queue	48	static
+blk-flush.c:521:6:blk_free_flush_queue	32	static

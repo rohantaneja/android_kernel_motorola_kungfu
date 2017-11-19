@@ -1,0 +1,15 @@
+blk-merge.c:202:12:__blk_bios_map_sg	160	static
+blk-merge.c:13:21:__blk_recalc_rq_segments.part.13	160	static
+blk-merge.c:90:6:blk_recalc_rq_segments	32	static
+blk-merge.c:99:6:blk_recount_segments	112	static
+blk-merge.c:250:5:blk_rq_map_sg	64	static
+blk-merge.c:300:5:blk_bio_map_sg	48	static
+blk-merge.c:344:5:ll_back_merge_fn	48	static
+blk-merge.c:362:5:ll_front_merge_fn	48	static
+blk-merge.c:441:6:blk_rq_set_mixed_merge	64	static
+blk-merge.c:482:12:attempt_merge	160	static
+blk-merge.c:559:5:attempt_back_merge	32	static
+blk-merge.c:569:5:attempt_front_merge	48	static
+blk-merge.c:579:5:blk_attempt_req_merge	16	static
+blk-merge.c:585:6:blk_rq_merge_ok	0	static
+blk-merge.c:623:5:blk_try_merge	0	static

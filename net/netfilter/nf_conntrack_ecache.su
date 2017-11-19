@@ -1,0 +1,11 @@
+nf_conntrack_ecache.c:40:25:ecache_work_evict_list	256	static
+nf_conntrack_ecache.c:80:13:ecache_work	80	static
+nf_conntrack_ecache.c:118:6:nf_ct_deliver_cached_events	80	static
+nf_conntrack_ecache.c:170:5:nf_conntrack_register_notifier	64	static
+nf_conntrack_ecache.c:192:6:nf_conntrack_unregister_notifier	48	static
+nf_conntrack_ecache.c:206:5:nf_ct_expect_register_notifier	64	static
+nf_conntrack_ecache.c:228:6:nf_ct_expect_unregister_notifier	48	static
+nf_conntrack_ecache.c:313:5:nf_conntrack_ecache_pernet_init	32	static
+nf_conntrack_ecache.c:320:6:nf_conntrack_ecache_pernet_fini	32	static
+nf_conntrack_ecache.c:326:5:nf_conntrack_ecache_init	32	static
+nf_conntrack_ecache.c:334:6:nf_conntrack_ecache_fini	16	static

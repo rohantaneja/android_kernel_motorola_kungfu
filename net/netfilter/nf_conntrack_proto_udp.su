@@ -1,0 +1,9 @@
+nf_conntrack_proto_udp.c:57:13:udp_invert_tuple	0	static
+nf_conntrack_proto_udp.c:74:22:udp_get_timeouts	0	static
+nf_conntrack_proto_udp.c:104:13:udp_new	0	static
+nf_conntrack_proto_udp.c:301:29:udp_get_net_proto	0	static
+nf_conntrack_proto_udp.c:66:12:udp_print_tuple	16	static
+nf_conntrack_proto_udp.c:39:13:udp_pkt_to_tuple	48	static
+nf_conntrack_proto_udp.c:110:12:udp_error	96	static
+nf_conntrack_proto_udp.c:80:12:udp_packet	32	static
+nf_conntrack_proto_udp.c:274:12:udp_init_net	48	static

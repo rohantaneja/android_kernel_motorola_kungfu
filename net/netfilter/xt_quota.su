@@ -1,0 +1,5 @@
+xt_quota.c:84:20:quota_mt_exit	16	static
+xt_quota.c:61:13:quota_mt_destroy	16	static
+xt_quota.c:45:12:quota_mt_check	32	static
+xt_quota.c:26:1:quota_mt	48	static
+xt_quota.c:79:19:quota_mt_init	16	static

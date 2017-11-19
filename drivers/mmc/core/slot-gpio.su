@@ -1,0 +1,12 @@
+slot-gpio.c:41:12:mmc_gpio_alloc	64	static
+slot-gpio.c:30:20:mmc_gpio_cd_irqt	32	static
+slot-gpio.c:70:5:mmc_gpio_get_ro	32	static
+slot-gpio.c:85:5:mmc_gpio_get_cd	32	static
+slot-gpio.c:114:5:mmc_gpio_request_ro	48	static
+slot-gpio.c:140:6:mmc_gpiod_request_cd_irq	48	static
+slot-gpio.c:195:5:mmc_gpio_request_cd	48	static
+slot-gpio.c:237:6:mmc_gpio_free_ro	32	static
+slot-gpio.c:259:6:mmc_gpio_free_cd	48	static
+slot-gpio.c:296:5:mmc_gpiod_request_cd	80	static
+slot-gpio.c:349:5:mmc_gpiod_request_ro	80	static
+slot-gpio.c:393:6:mmc_gpiod_free_cd	32	static

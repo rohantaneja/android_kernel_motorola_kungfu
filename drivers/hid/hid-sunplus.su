@@ -1,0 +1,4 @@
+hid-sunplus.c:66:1:sp_driver_init	16	static
+hid-sunplus.c:66:1:sp_driver_exit	16	static
+hid-sunplus.c:38:12:sp_input_mapping	16	static
+hid-sunplus.c:24:14:sp_report_fixup	32	static

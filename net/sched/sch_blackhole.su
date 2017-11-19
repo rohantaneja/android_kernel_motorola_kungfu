@@ -1,0 +1,4 @@
+sch_blackhole.c:26:24:blackhole_dequeue	0	static
+sch_blackhole.c:45:20:blackhole_module_exit	16	static
+sch_blackhole.c:20:12:blackhole_enqueue	32	static
+sch_blackhole.c:40:19:blackhole_module_init	16	static

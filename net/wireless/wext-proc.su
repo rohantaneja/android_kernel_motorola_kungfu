@@ -1,0 +1,7 @@
+wext-proc.c:129:12:seq_open_wireless	16	static
+wext-proc.c:117:13:wireless_dev_seq_stop	16	static
+wext-proc.c:90:14:wireless_dev_seq_start	32	static
+wext-proc.c:107:14:wireless_dev_seq_next	0	static
+wext-proc.c:75:12:wireless_dev_seq_show	112	static
+wext-proc.c:143:16:wext_proc_init	16	static
+wext-proc.c:153:17:wext_proc_exit	16	static

@@ -1,0 +1,7 @@
+tcp_minisocks.c:92:1:tcp_timewait_state_process	96	static
+tcp_minisocks.c:266:6:tcp_time_wait	80	static
+tcp_minisocks.c:354:6:tcp_twsk_destructor	0	static
+tcp_minisocks.c:365:6:tcp_openreq_init_rwin	64	static
+tcp_minisocks.c:408:14:tcp_create_openreq_child	48	static
+tcp_minisocks.c:532:14:tcp_check_req	128	static
+tcp_minisocks.c:768:5:tcp_child_process	48	static

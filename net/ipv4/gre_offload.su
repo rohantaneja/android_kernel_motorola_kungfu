@@ -1,0 +1,4 @@
+gre_offload.c:265:19:gre_offload_init	16	static
+gre_offload.c:227:12:gre_gro_complete	64	static
+gre_offload.c:119:25:gre_gro_receive	96	static
+gre_offload.c:18:24:gre_gso_segment	112	static

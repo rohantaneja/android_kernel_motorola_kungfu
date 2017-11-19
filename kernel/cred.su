@@ -1,0 +1,17 @@
+cred.c:87:13:put_cred_rcu	32	static
+cred.c:126:6:__put_cred	16	static
+cred.c:148:6:exit_creds	32	static
+cred.c:179:20:get_task_cred	48	static
+cred.c:414:5:commit_creds	80	static
+cred.c:491:6:abort_creds	16	static
+cred.c:198:14:cred_alloc_blank	32	static
+cred.c:235:14:prepare_creds	32	static
+cred.c:284:14:prepare_exec_creds	16	static
+cred.c:314:5:copy_creds	48	static
+cred.c:512:20:override_creds	0	static
+cred.c:541:6:revert_creds	16	static
+cred.c:561:13:cred_init	16	static
+cred.c:586:14:prepare_kernel_cred	32	static
+cred.c:644:5:set_security_override	16	static
+cred.c:660:5:set_security_override_from_ctx	48	static
+cred.c:682:5:set_create_files_as	16	static

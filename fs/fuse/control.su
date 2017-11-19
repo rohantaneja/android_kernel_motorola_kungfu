@@ -1,0 +1,15 @@
+control.c:22:26:fuse_ctl_file_conn_get	32	static
+control.c:44:16:fuse_conn_waiting_read	80	static
+control.c:33:16:fuse_conn_abort_write	32	static
+control.c:199:23:fuse_ctl_add_dentry	80	static
+control.c:325:13:fuse_ctl_kill_sb	32	static
+control.c:319:23:fuse_ctl_mount	16	static
+control.c:153:16:fuse_conn_congestion_threshold_write	64	static
+control.c:99:16:fuse_conn_max_background_read	96	static
+control.c:136:16:fuse_conn_congestion_threshold_read	96	static
+control.c:116:16:fuse_conn_max_background_write	64	static
+control.c:277:6:fuse_ctl_remove_conn	48	static
+control.c:238:5:fuse_ctl_add_conn	80	static
+control.c:293:12:fuse_ctl_fill_super	96	static
+control.c:346:12:fuse_ctl_init	16	static
+control.c:351:13:fuse_ctl_cleanup	16	static

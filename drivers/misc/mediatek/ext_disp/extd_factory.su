@@ -1,0 +1,2 @@
+extd_factory.c:296:27:EXTD_Factory_HDMI_Driver	0	static
+extd_factory.c:321:27:EXTD_Factory_EPD_Driver	0	static

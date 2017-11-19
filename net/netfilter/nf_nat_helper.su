@@ -1,0 +1,4 @@
+nf_nat_helper.c:31:13:mangle_contents	64	static
+nf_nat_helper.c:92:5:__nf_nat_mangle_tcp_packet	112	static
+nf_nat_helper.c:146:1:nf_nat_mangle_udp_packet	112	static
+nf_nat_helper.c:191:6:nf_nat_follow_master	112	static

@@ -1,0 +1,9 @@
+percpu_counter.c:161:13:compute_batch_value	16	static
+percpu_counter.c:223:19:percpu_counter_startup	16	static
+percpu_counter.c:168:12:percpu_counter_hotcpu_callback	80	static
+percpu_counter.c:60:6:percpu_counter_set	64	static
+percpu_counter.c:75:6:__percpu_counter_add	64	static
+percpu_counter.c:98:5:__percpu_counter_sum	64	static
+percpu_counter.c:115:5:__percpu_counter_init	48	static
+percpu_counter.c:139:6:percpu_counter_destroy	32	static
+percpu_counter.c:200:5:percpu_counter_compare	48	static

@@ -1,0 +1,2 @@
+syscall.c:6:12:collect_syscall	48	static
+syscall.c:50:5:task_current_syscall	80	static

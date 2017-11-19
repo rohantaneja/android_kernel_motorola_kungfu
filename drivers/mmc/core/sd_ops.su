@@ -1,0 +1,9 @@
+sd_ops.c:25:5:mmc_app_cmd	96	static
+sd_ops.c:68:5:mmc_wait_for_app_cmd	192	static
+sd_ops.c:121:5:mmc_app_set_bus_width	80	static
+sd_ops.c:150:5:mmc_send_app_op_cond	112	static
+sd_ops.c:196:5:mmc_send_if_cond	96	static
+sd_ops.c:227:5:mmc_send_relative_addr	96	static
+sd_ops.c:248:5:mmc_app_send_scr	368	static
+sd_ops.c:307:5:mmc_sd_switch	384	static
+sd_ops.c:352:5:mmc_app_sd_status	352	static

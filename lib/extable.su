@@ -1,0 +1,3 @@
+extable.c:24:12:cmp_ex	0	static
+extable.c:36:6:sort_extable	16	static
+extable.c:72:1:search_extable	0	static

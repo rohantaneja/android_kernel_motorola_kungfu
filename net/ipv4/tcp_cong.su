@@ -1,0 +1,17 @@
+tcp_cong.c:343:5:tcp_reno_ssthresh	0	static
+tcp_cong.c:22:35:tcp_ca_find	64	static
+tcp_cong.c:38:5:tcp_register_congestion_control	48	static
+tcp_cong.c:68:6:tcp_unregister_congestion_control	32	static
+tcp_cong.c:77:6:tcp_assign_congestion_control	48	static
+tcp_cong.c:102:6:tcp_init_congestion_control	16	static
+tcp_cong.c:111:6:tcp_cleanup_congestion_control	16	static
+tcp_cong.c:121:5:tcp_set_default_congestion_control	32	static
+tcp_cong.c:149:19:tcp_congestion_default	16	static
+tcp_cong.c:156:6:tcp_get_available_congestion_control	96	static
+tcp_cong.c:171:6:tcp_get_default_congestion_control	48	static
+tcp_cong.c:184:6:tcp_get_allowed_congestion_control	96	static
+tcp_cong.c:202:5:tcp_set_allowed_congestion_control	80	static
+tcp_cong.c:241:5:tcp_set_congestion_control	48	static
+tcp_cong.c:296:6:tcp_slow_start	0	static
+tcp_cong.c:307:6:tcp_cong_avoid_ai	0	static
+tcp_cong.c:326:6:tcp_reno_cong_avoid	16	static

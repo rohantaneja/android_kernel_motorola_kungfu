@@ -1,0 +1,4 @@
+self.c:10:12:proc_self_readlink	48	static
+self.c:22:14:proc_self_follow_link	48	static
+self.c:47:5:proc_setup_self	64	static
+self.c:81:13:proc_self_init	16	static

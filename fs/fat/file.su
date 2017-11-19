@@ -1,0 +1,7 @@
+file.c:159:5:fat_file_fsync	32	static
+file.c:312:5:fat_getattr	48	static
+file.c:149:12:fat_file_release	16	static
+file.c:293:6:fat_truncate_blocks	144	static
+file.c:383:5:fat_setattr	80	static
+file.c:123:6:fat_generic_ioctl	176	static
+file.c:141:13:fat_generic_compat_ioctl	16	static

@@ -1,0 +1,12 @@
+devres.c:31:12:devm_gpiod_match	0	static
+devres.c:165:12:devm_gpio_match	0	static
+devres.c:24:13:devm_gpiod_release	16	static
+devres.c:158:13:devm_gpio_release	16	static
+devres.c:85:32:__devm_gpiod_get_index	80	static
+devres.c:48:32:__devm_gpiod_get	16	static
+devres.c:123:32:__devm_gpiod_get_index_optional	16	static
+devres.c:66:32:__devm_gpiod_get_optional	16	static
+devres.c:148:6:devm_gpiod_put	32	static
+devres.c:187:5:devm_gpio_request	48	static
+devres.c:216:5:devm_gpio_request_one	64	static
+devres.c:249:6:devm_gpio_free	32	static

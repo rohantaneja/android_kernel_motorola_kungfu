@@ -1,0 +1,6 @@
+rawbulk.c:708:19:init	112	static
+rawbulk.c:94:26:rawbulk_lookup_function	32	static
+rawbulk.c:299:16:rawbulk_attr_store	128	static
+rawbulk.c:208:16:rawbulk_attr_show	96	static
+rawbulk.c:117:5:rawbulk_check_enable	48	static
+rawbulk.c:134:6:rawbulk_disable_function	32	static

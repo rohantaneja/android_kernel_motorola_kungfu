@@ -1,0 +1,3 @@
+loadavg.c:28:12:loadavg_proc_open	16	static
+loadavg.c:13:12:loadavg_proc_show	128	static
+loadavg.c:40:19:proc_loadavg_init	16	static

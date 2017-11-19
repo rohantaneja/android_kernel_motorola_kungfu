@@ -1,0 +1,6 @@
+seq_oss_event.c:382:1:set_note_event	80	static
+seq_oss_event.c:286:1:note_on_event	80	static
+seq_oss_event.c:400:1:set_control_event	80	static
+seq_oss_event.c:346:1:note_off_event	80	static
+seq_oss_event.c:54:1:snd_seq_oss_process_event	64	static
+seq_oss_event.c:432:1:snd_seq_oss_event_input	32	static

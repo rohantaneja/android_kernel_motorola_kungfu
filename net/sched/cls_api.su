@@ -1,0 +1,13 @@
+cls_api.c:618:19:tc_filter_init	32	static
+cls_api.c:349:12:tcf_fill_node.constprop	80	static
+cls_api.c:383:12:tfilter_notify.constprop	80	static
+cls_api.c:121:12:tc_ctl_tfilter	224	static
+cls_api.c:420:12:tc_dump_tfilter	144	static
+cls_api.c:409:12:tcf_node_dump	16	static
+cls_api.c:61:5:register_tcf_proto_ops	64	static
+cls_api.c:79:5:unregister_tcf_proto_ops	32	static
+cls_api.c:504:6:tcf_exts_destroy	32	static
+cls_api.c:513:5:tcf_exts_validate	48	static
+cls_api.c:549:6:tcf_exts_change	80	static
+cls_api.c:567:5:tcf_exts_dump	64	static
+cls_api.c:607:5:tcf_exts_dump_stats	16	static

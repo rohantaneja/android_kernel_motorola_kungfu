@@ -1,0 +1,4 @@
+move_extent.c:98:1:mext_check_coverage.constprop	96	static
+move_extent.c:59:1:ext4_double_down_write_data_sem	32	static
+move_extent.c:79:1:ext4_double_up_write_data_sem	32	static
+move_extent.c:565:1:ext4_move_extents	416	static

@@ -1,0 +1,6 @@
+consoles.c:76:14:c_next	0	static
+consoles.c:95:12:consoles_open	16	static
+consoles.c:16:12:show_console_dev	64	static
+consoles.c:83:13:c_stop	16	static
+consoles.c:63:14:c_start	32	static
+consoles.c:107:19:proc_consoles_init	16	static

@@ -1,0 +1,7 @@
+rwsem-xadd.c:121:1:__rwsem_do_wake	64	static
+rwsem-xadd.c:328:6:rwsem_spin_on_owner	48	static
+rwsem-xadd.c:72:6:__init_rwsem	0	static
+rwsem-xadd.c:206:30:rwsem_down_read_failed	80	static
+rwsem-xadd.c:406:30:rwsem_down_write_failed	112	static
+rwsem-xadd.c:478:22:rwsem_wake	32	static
+rwsem-xadd.c:500:22:rwsem_downgrade_wake	32	static

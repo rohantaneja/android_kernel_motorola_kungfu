@@ -1,0 +1,4 @@
+mt_innercache.c:51:6:inner_dcache_flush_L1	16	static
+mt_innercache.c:56:6:inner_dcache_flush_L2	16	static
+mt_innercache.c:45:6:inner_dcache_flush_all	16	static
+mt_innercache.c:73:6:smp_inner_dcache_flush_all	96	static

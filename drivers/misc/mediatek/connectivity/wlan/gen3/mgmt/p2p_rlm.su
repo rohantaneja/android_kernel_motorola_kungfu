@@ -1,0 +1,12 @@
+p2p_rlm.c:168:6:rlmRspGenerateObssScanIE	32	static
+p2p_rlm.c:221:9:rlmUpdateBwByChListForAP	48	static
+p2p_rlm.c:270:6:rlmProcessPublicAction	64	static
+p2p_rlm.c:367:6:rlmProcessHtAction	48	static
+p2p_rlm.c:436:6:rlmUpdateParamsForAP	96	static
+p2p_rlm.c:404:6:rlmHandleObssStatusEventPkt	32	static
+p2p_rlm.c:549:6:rlmFuncInitialChannelList	32	static
+p2p_rlm.c:702:1:rlmFuncCommonChannelList	176	static
+p2p_rlm.c:776:8:rlmFuncFindOperatingClass	0	static
+p2p_rlm.c:826:1:rlmFuncFindAvailableChannel	48	static
+p2p_rlm.c:900:17:rlmDecideScoForAP	48	static
+p2p_rlm.c:81:6:rlmBssInitForAP	48	static

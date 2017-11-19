@@ -1,0 +1,4 @@
+ip6t_ipv6header.c:120:12:ipv6header_mt6_check	0	static
+ip6t_ipv6header.c:147:20:ipv6header_mt6_exit	16	static
+ip6t_ipv6header.c:30:1:ipv6header_mt6	80	static
+ip6t_ipv6header.c:142:19:ipv6header_mt6_init	16	static

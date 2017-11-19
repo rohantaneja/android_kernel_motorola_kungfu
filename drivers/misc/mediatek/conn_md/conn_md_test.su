@@ -1,0 +1,2 @@
+conn_md_test.c:137:12:conn_md_test_rx_cb	64	static
+conn_md_test.c:26:5:conn_md_test	64	static

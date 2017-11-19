@@ -1,0 +1,4 @@
+tkip_mic.c:175:6:tkipMicB	32	static
+tkip_mic.c:206:1:tkipMicGen	96	static
+tkip_mic.c:297:1:tkipMicEncapsulate	128	static
+tkip_mic.c:351:9:tkipMicDecapsulate	80	static

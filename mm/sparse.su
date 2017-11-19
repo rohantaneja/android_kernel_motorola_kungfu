@@ -1,0 +1,10 @@
+sparse.c:62:50:sparse_index_alloc	32	static
+sparse.c:345:20:sparse_early_usemaps_alloc_node	48	static
+sparse.c:108:5:__section_nr	0	static
+sparse.c:144:16:mminit_validate_memmodel_limits	48	static
+sparse.c:170:13:memory_present	96	static
+sparse.c:194:22:node_memmap_size_bytes	48	static
+sparse.c:225:14:sparse_decode_mem_map	0	static
+sparse.c:247:15:usemap_size	0	static
+sparse.c:466:23:vmemmap_populate_print_last	0	static
+sparse.c:523:13:sparse_init	96	static

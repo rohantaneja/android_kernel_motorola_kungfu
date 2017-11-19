@@ -1,0 +1,5 @@
+handle.c:44:6:handle_bad_irq	32	static
+handle.c:54:13:no_action	0	static
+handle.c:69:6:__irq_wake_thread	32	static
+handle.c:209:1:handle_irq_event_percpu	96	static
+handle.c:268:13:handle_irq_event	64	static

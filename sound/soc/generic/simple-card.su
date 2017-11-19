@@ -1,0 +1,9 @@
+simple-card.c:599:1:asoc_simple_card_init	16	static
+simple-card.c:40:12:asoc_simple_card_hw_params	16	static
+simple-card.c:88:12:__asoc_simple_card_dai_init	48	static
+simple-card.c:125:12:asoc_simple_card_dai_init	64	static
+simple-card.c:169:1:asoc_simple_card_sub_parse_of	160	static
+simple-card.c:229:12:asoc_simple_card_dai_link_of	272	static
+simple-card.c:475:12:asoc_simple_card_probe	96	static
+simple-card.c:599:1:asoc_simple_card_exit	16	static
+simple-card.c:568:12:asoc_simple_card_remove	32	static

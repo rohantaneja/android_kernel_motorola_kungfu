@@ -1,0 +1,6 @@
+ioctl.c:204:12:put_ushort	0	static
+ioctl.c:209:12:put_int	0	static
+ioctl.c:214:12:put_uint	0	static
+ioctl.c:12:12:blkpg_ioctl	304	static
+ioctl.c:234:5:__blkdev_driver_ioctl	16	static
+ioctl.c:274:5:blkdev_ioctl	112	static

@@ -1,0 +1,8 @@
+ccci_fsm.c:491:13:ccci_fsm_finish_event	48	static
+ccci_fsm.c:435:13:ccci_fsm_finish_command	48	static
+ccci_fsm.c:40:13:ccci_routine_zombie	96	static
+ccci_fsm.c:70:13:ccci_routine_exception	80	static
+ccci_fsm.c:334:12:ccci_fsm_main	208	static
+ccci_fsm.c:375:5:ccci_fsm_init	48	static
+ccci_fsm.c:394:5:ccci_fsm_append_command	144	static
+ccci_fsm.c:453:5:ccci_fsm_append_event	80	static

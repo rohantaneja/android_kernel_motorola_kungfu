@@ -1,0 +1,5 @@
+xt_multiport.c:114:12:multiport_mt_check	0	static
+xt_multiport.c:123:12:multiport_mt6_check	0	static
+xt_multiport.c:159:20:multiport_mt_exit	16	static
+xt_multiport.c:75:1:multiport_mt	112	static
+xt_multiport.c:153:19:multiport_mt_init	16	static

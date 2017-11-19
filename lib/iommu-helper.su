@@ -1,0 +1,2 @@
+iommu-helper.c:9:5:iommu_is_span_boundary	16	static
+iommu-helper.c:19:15:iommu_area_alloc	80	static

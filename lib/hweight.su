@@ -1,0 +1,4 @@
+hweight.c:12:14:__sw_hweight32	0	static
+hweight.c:29:14:__sw_hweight16	0	static
+hweight.c:38:14:__sw_hweight8	0	static
+hweight.c:46:15:__sw_hweight64	0	static

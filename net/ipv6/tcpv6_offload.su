@@ -1,0 +1,4 @@
+tcpv6_offload.c:44:17:tcp6_gso_segment	48	static
+tcpv6_offload.c:32:12:tcp6_gro_complete	32	static
+tcpv6_offload.c:18:25:tcp6_gro_receive	48	static
+tcpv6_offload.c:75:12:tcpv6_offload_init	16	static

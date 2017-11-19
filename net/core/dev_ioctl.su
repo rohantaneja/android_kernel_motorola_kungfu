@@ -1,0 +1,4 @@
+dev_ioctl.c:239:12:dev_ifsioc	64	static
+dev_ioctl.c:52:5:register_gifconf	0	static
+dev_ioctl.c:356:6:dev_load	32	static
+dev_ioctl.c:390:5:dev_ioctl	160	static

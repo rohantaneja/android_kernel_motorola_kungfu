@@ -1,0 +1,3 @@
+softirqs.c:27:12:softirqs_open	16	static
+softirqs.c:9:12:show_softirqs	96	static
+softirqs.c:39:19:proc_softirqs_init	16	static

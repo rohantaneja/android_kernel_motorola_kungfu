@@ -1,0 +1,4 @@
+nls_cp437.c:341:12:uni2char	0	static
+nls_cp437.c:358:12:char2uni	0	static
+nls_cp437.c:379:20:exit_nls_cp437	16	static
+nls_cp437.c:374:19:init_nls_cp437	16	static

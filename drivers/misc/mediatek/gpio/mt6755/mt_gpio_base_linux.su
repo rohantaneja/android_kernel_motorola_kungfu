@@ -1,0 +1,9 @@
+mt_gpio_base_linux.c:100:19:mtk_gpio_init	16	static
+mt_gpio_base_linux.c:74:12:mtk_gpio_to_irq	16	static
+mt_gpio_base_linux.c:80:12:mtk_gpio_set_debounce	16	static
+mt_gpio_base_linux.c:69:13:mtk_gpio_set	16	static
+mt_gpio_base_linux.c:54:12:mtk_gpio_get	16	static
+mt_gpio_base_linux.c:64:12:mtk_gpio_direction_output	16	static
+mt_gpio_base_linux.c:49:12:mtk_gpio_direction_input	16	static
+mt_gpio_base_linux.c:44:12:mtk_get_gpio_direction	16	static
+mt_gpio_base_linux.c:39:12:mtk_gpio_request	16	static

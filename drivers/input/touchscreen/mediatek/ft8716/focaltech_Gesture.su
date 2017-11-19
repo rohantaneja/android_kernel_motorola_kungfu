@@ -1,0 +1,3 @@
+focaltech_Gesture.c:150:13:fts_check_gesture.isra.0	48	static
+focaltech_Gesture.c:106:5:fts_Gesture_init	32	static
+focaltech_Gesture.c:272:5:fts_read_Gestruedata	848	static

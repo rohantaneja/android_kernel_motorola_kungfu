@@ -1,0 +1,2 @@
+blktrace.c:1781:6:blk_dump_cmd	96	static
+blktrace.c:1806:6:blk_fill_rwbs	0	static

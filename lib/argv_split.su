@@ -1,0 +1,2 @@
+argv_split.c:34:6:argv_free	32	static
+argv_split.c:59:8:argv_split	48	static

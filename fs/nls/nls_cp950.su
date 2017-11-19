@@ -1,0 +1,4 @@
+nls_cp950.c:9397:12:uni2char	0	static
+nls_cp950.c:9428:12:char2uni	0	static
+nls_cp950.c:9473:20:exit_nls_cp950	16	static
+nls_cp950.c:9468:19:init_nls_cp950	16	static

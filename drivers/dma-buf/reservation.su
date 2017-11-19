@@ -1,0 +1,6 @@
+reservation.c:50:5:reservation_object_reserve_shared	32	static
+reservation.c:187:6:reservation_object_add_shared_fence	64	static
+reservation.c:203:6:reservation_object_add_excl_fence	64	static
+reservation.c:236:5:reservation_object_get_fences_rcu	96	static
+reservation.c:322:6:reservation_object_wait_timeout_rcu	96	static
+reservation.c:415:6:reservation_object_test_signaled_rcu	80	static

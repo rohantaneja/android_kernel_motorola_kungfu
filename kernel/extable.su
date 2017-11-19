@@ -1,0 +1,7 @@
+extable.c:42:13:sort_main_extable	48	static
+extable.c:51:37:search_exception_tables	16	static
+extable.c:69:5:core_kernel_text	0	static
+extable.c:91:5:core_kernel_data	0	static
+extable.c:99:5:__kernel_text_address	32	static
+extable.c:118:5:kernel_text_address	16	static
+extable.c:132:5:func_ptr_is_kernel_text	16	static

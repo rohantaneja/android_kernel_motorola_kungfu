@@ -1,0 +1,9 @@
+iptable_nat.c:154:20:iptable_nat_exit	32	static
+iptable_nat.c:125:24:iptable_nat_net_exit	16	static
+iptable_nat.c:113:23:iptable_nat_net_init	48	static
+iptable_nat.c:42:21:iptable_nat_ipv4_fn	16	static
+iptable_nat.c:31:21:iptable_nat_do_chain	16	static
+iptable_nat.c:69:21:iptable_nat_ipv4_local_fn	16	static
+iptable_nat.c:60:21:iptable_nat_ipv4_out	16	static
+iptable_nat.c:51:21:iptable_nat_ipv4_in	16	static
+iptable_nat.c:135:19:iptable_nat_init	32	static

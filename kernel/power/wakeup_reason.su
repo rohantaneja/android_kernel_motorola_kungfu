@@ -1,0 +1,7 @@
+wakeup_reason.c:44:16:last_resume_reason_show	96	static
+wakeup_reason.c:67:16:last_suspend_time_show	80	static
+wakeup_reason.c:201:12:wakeup_reason_init	48	static
+wakeup_reason.c:168:12:wakeup_reason_pm_event	32	static
+wakeup_reason.c:111:6:log_wakeup_reason	48	static
+wakeup_reason.c:133:5:check_wakeup_reason	48	static
+wakeup_reason.c:148:6:log_suspend_abort_reason	176	static

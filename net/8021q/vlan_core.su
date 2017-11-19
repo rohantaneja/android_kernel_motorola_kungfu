@@ -1,0 +1,11 @@
+vlan_core.c:134:13:vlan_info_rcu_free	48	static
+vlan_core.c:8:6:vlan_do_receive	80	static
+vlan_core.c:66:20:__vlan_find_dev_deep_rcu	32	static
+vlan_core.c:92:20:vlan_dev_real_dev	0	static
+vlan_core.c:103:5:vlan_dev_vlan_id	0	static
+vlan_core.c:109:8:vlan_dev_vlan_proto	0	static
+vlan_core.c:221:5:vlan_vid_add	96	static
+vlan_core.c:278:6:vlan_vid_del	80	static
+vlan_core.c:303:5:vlan_vids_add_by_dev	48	static
+vlan_core.c:334:6:vlan_vids_del_by_dev	48	static
+vlan_core.c:351:6:vlan_uses_dev	32	static

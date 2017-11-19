@@ -1,0 +1,3 @@
+io.c:26:6:__memcpy_fromio	0	static
+io.c:41:6:__memcpy_toio	0	static
+io.c:56:6:__memset_io	0	static

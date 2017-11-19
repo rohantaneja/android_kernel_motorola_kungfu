@@ -1,0 +1,7 @@
+nf_queue.c:32:6:nf_register_queue_handler	32	static
+nf_queue.c:41:6:nf_unregister_queue_handler	16	static
+nf_queue.c:48:6:nf_queue_entry_release_refs	0	static
+nf_queue.c:71:6:nf_queue_entry_get_refs	0	static
+nf_queue.c:98:6:nf_queue_nf_hook_drop	48	static
+nf_queue.c:119:5:nf_queue	112	static
+nf_queue.c:186:6:nf_reinject	64	static

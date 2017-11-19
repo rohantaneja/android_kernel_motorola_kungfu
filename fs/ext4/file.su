@@ -1,0 +1,8 @@
+file.c:220:12:ext4_file_open	160	static
+file.c:204:12:ext4_file_mmap	32	static
+file.c:60:13:ext4_unwritten_wait	80	static
+file.c:92:1:ext4_file_write_iter	176	static
+file.c:296:12:ext4_find_unwritten_pgoff.isra.10	240	static
+file.c:428:15:ext4_seek_data	192	static
+file.c:579:8:ext4_llseek	192	static
+file.c:39:12:ext4_release_file	48	static

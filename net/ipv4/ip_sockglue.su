@@ -1,0 +1,16 @@
+ip_sockglue.c:125:13:ip_cmsg_recv_dstaddr	32	static
+ip_sockglue.c:274:13:ip_ra_destroy_rcu	32	static
+ip_sockglue.c:1132:12:do_ip_getsockopt.part.4	352	static
+ip_sockglue.c:1132:12:do_ip_getsockopt	16	static
+ip_sockglue.c:1362:5:ip_getsockopt	80	static
+ip_sockglue.c:147:6:ip_cmsg_recv	112	static
+ip_sockglue.c:189:5:ip_cmsg_send	96	static
+ip_sockglue.c:282:5:ip_ra_control	80	static
+ip_sockglue.c:473:12:do_ip_setsockopt.isra.6	400	static
+ip_sockglue.c:1072:5:ip_setsockopt	48	static
+ip_sockglue.c:336:6:ip_icmp_error	80	static
+ip_sockglue.c:365:6:ip_local_error	64	static
+ip_sockglue.c:405:5:ip_recv_error	128	static
+ip_sockglue.c:1056:6:ipv4_pktinfo_prepare	32	static
+ip_sockglue.c:1097:5:compat_ip_setsockopt	48	static
+ip_sockglue.c:1391:5:compat_ip_getsockopt	80	static

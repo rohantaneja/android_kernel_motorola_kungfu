@@ -1,0 +1,13 @@
+accdet_drv.c:26:12:accdet_open	0	static
+accdet_drv.c:31:12:accdet_release	0	static
+accdet_drv.c:21:13:accdet_unlocked_ioctl	16	static
+accdet_drv.c:76:12:accdet_pm_restore_noirq	16	static
+accdet_drv.c:65:12:accdet_resume	16	static
+accdet_drv.c:59:12:accdet_suspend	16	static
+accdet_drv.c:53:12:accdet_remove	16	static
+accdet_drv.c:48:12:accdet_probe	16	static
+accdet_drv.c:120:12:accdet_mod_init	32	static
+accdet_drv.c:136:13:accdet_mod_exit	16	static
+accdet_drv.c:43:31:accdet_get_fops	0	static
+accdet_drv.c:115:24:accdet_driver_func	16	static
+accdet_drv.c:145:5:accdet_cable_type_state	16	static

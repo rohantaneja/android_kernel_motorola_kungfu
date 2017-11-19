@@ -1,0 +1,6 @@
+fs_pin.c:7:13:pin_free_rcu	16	static
+fs_pin.c:14:6:pin_put	16	static
+fs_pin.c:20:6:pin_remove	32	static
+fs_pin.c:28:6:pin_insert	48	static
+fs_pin.c:36:6:mnt_pin_kill	48	static
+fs_pin.c:58:6:sb_pin_kill	48	static

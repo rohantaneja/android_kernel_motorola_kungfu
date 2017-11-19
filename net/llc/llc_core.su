@@ -1,0 +1,5 @@
+llc_core.c:152:20:llc_exit	32	static
+llc_core.c:145:19:llc_init	32	static
+llc_core.c:70:17:llc_sap_find	32	static
+llc_core.c:91:17:llc_sap_open	64	static
+llc_core.c:122:6:llc_sap_close	32	static

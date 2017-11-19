@@ -1,0 +1,11 @@
+if_vlan.h:76:20:is_vlan_dev	0	static
+vlan.c:676:20:vlan_cleanup_module	32	static
+vlan.c:623:24:vlan_exit_net	16	static
+vlan.c:635:19:vlan_proto_init	48	static
+vlan.c:611:23:vlan_init_net	48	static
+vlan.c:78:6:unregister_vlan_dev	64	static
+vlan.c:348:12:vlan_device_event	80	static
+vlan.c:125:5:vlan_check_real_dev	16	static
+vlan.c:141:5:register_vlan_dev	80	static
+vlan.c:493:12:vlan_ioctl_handler.part.12	144	static
+vlan.c:493:12:vlan_ioctl_handler	80	static

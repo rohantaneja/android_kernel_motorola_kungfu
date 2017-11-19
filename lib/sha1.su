@@ -1,0 +1,2 @@
+sha1.c:81:6:sha_transform	80	static
+sha1.c:193:6:sha_init	0	static

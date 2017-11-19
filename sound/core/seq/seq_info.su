@@ -1,0 +1,3 @@
+seq_info.c:37:1:create_info_entry	32	static
+seq_info.c:55:12:snd_seq_info_init	32	static
+seq_info.c:65:12:snd_seq_info_done	32	static

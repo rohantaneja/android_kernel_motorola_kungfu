@@ -1,0 +1,17 @@
+iomap.c:38:13:bad_io_access	16	static
+iomap.c:71:14:ioread8	16	static
+iomap.c:76:14:ioread16	16	static
+iomap.c:81:14:ioread16be	16	static
+iomap.c:86:14:ioread32	16	static
+iomap.c:91:14:ioread32be	16	static
+iomap.c:112:6:iowrite8	16	static
+iomap.c:116:6:iowrite16	16	static
+iomap.c:120:6:iowrite16be	16	static
+iomap.c:124:6:iowrite32	16	static
+iomap.c:128:6:iowrite32be	16	static
+iomap.c:195:6:ioread8_rep	16	static
+iomap.c:199:6:ioread16_rep	16	static
+iomap.c:203:6:ioread32_rep	16	static
+iomap.c:211:6:iowrite8_rep	16	static
+iomap.c:215:6:iowrite16_rep	16	static
+iomap.c:219:6:iowrite32_rep	16	static

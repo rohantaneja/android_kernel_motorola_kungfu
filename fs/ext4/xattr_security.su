@@ -1,0 +1,5 @@
+xattr_security.c:51:1:ext4_initxattrs	48	static
+xattr_security.c:41:1:ext4_xattr_security_set	16	static
+xattr_security.c:31:1:ext4_xattr_security_get	16	static
+xattr_security.c:15:1:ext4_xattr_security_list	48	static
+xattr_security.c:70:1:ext4_init_security	16	static

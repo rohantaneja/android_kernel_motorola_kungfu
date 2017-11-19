@@ -1,0 +1,9 @@
+tcp_cubic.c:348:12:bictcp_recalc_ssthresh	0	static
+tcp_cubic.c:367:12:bictcp_undo_cwnd	0	static
+tcp_cubic.c:505:20:cubictcp_unregister	16	static
+tcp_cubic.c:330:13:bictcp_cong_avoid	80	static
+tcp_cubic.c:470:19:cubictcp_register	16	static
+tcp_cubic.c:143:13:bictcp_init	48	static
+tcp_cubic.c:157:13:bictcp_cwnd_event	0	static
+tcp_cubic.c:374:13:bictcp_state	32	static
+tcp_cubic.c:420:13:bictcp_acked	64	static

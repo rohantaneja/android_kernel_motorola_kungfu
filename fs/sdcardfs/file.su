@@ -1,0 +1,12 @@
+file.c:131:13:sdcardfs_compat_ioctl	16	static
+file.c:329:12:sdcardfs_fasync	16	static
+file.c:309:12:sdcardfs_fsync	80	static
+file.c:295:12:sdcardfs_file_release	32	static
+file.c:280:12:sdcardfs_flush	48	static
+file.c:347:15:sdcardfs_file_llseek	64	static
+file.c:213:12:sdcardfs_open	80	static
+file.c:150:12:sdcardfs_mmap	48	static
+file.c:102:13:sdcardfs_unlocked_ioctl	32	static
+file.c:59:16:sdcardfs_write	224	static
+file.c:26:16:sdcardfs_read	32	static
+file.c:85:12:sdcardfs_readdir	48	static

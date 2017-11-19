@@ -1,0 +1,5 @@
+clk-fixed-factor.c:28:22:clk_factor_recalc_rate	0	static
+clk-fixed-factor.c:55:12:clk_factor_set_rate	0	static
+clk-fixed-factor.c:39:13:clk_factor_round_rate	48	static
+clk-fixed-factor.c:68:13:clk_register_fixed_factor	128	static
+clk-fixed-factor.c:106:13:of_fixed_factor_clk_setup	48	static

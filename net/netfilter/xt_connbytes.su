@@ -1,0 +1,5 @@
+xt_connbytes.c:21:1:connbytes_mt	0	static
+xt_connbytes.c:151:20:connbytes_mt_exit	16	static
+xt_connbytes.c:130:13:connbytes_mt_destroy	16	static
+xt_connbytes.c:98:12:connbytes_mt_check	32	static
+xt_connbytes.c:146:19:connbytes_mt_init	16	static

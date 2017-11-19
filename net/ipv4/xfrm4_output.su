@@ -1,0 +1,6 @@
+xfrm4_output.c:83:12:__xfrm4_output	16	static
+xfrm4_output.c:44:5:xfrm4_extract_output	48	static
+xfrm4_output.c:57:5:xfrm4_prepare_output	32	static
+xfrm4_output.c:71:5:xfrm4_output_finish	16	static
+xfrm4_output.c:97:5:xfrm4_output	32	static
+xfrm4_output.c:104:6:xfrm4_local_error	16	static

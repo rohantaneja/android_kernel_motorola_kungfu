@@ -1,0 +1,9 @@
+br_stp_timer.c:118:13:br_topology_change_timer_expired	32	static
+br_stp_timer.c:104:13:br_tcn_timer_expired	32	static
+br_stp_timer.c:34:13:br_hello_timer_expired	32	static
+br_stp_timer.c:129:13:br_hold_timer_expired	32	static
+br_stp_timer.c:81:13:br_forward_delay_timer_expired	64	static
+br_stp_timer.c:48:13:br_message_age_timer_expired	64	static
+br_stp_timer.c:142:6:br_stp_timer_init	32	static
+br_stp_timer.c:157:6:br_stp_port_timer_init	32	static
+br_stp_timer.c:170:15:br_timer_value	16	static

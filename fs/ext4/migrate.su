@@ -1,0 +1,8 @@
+migrate.c:28:12:finish_range	96	static
+migrate.c:206:12:extend_credit_for_blkdel.isra.9	32	static
+migrate.c:226:12:free_dind_blocks	80	static
+migrate.c:383:12:free_ext_idx	80	static
+migrate.c:117:12:update_ind_extent_range	80	static
+migrate.c:146:12:update_dind_extent_range	80	static
+migrate.c:435:5:ext4_ext_migrate	192	static
+migrate.c:616:5:ext4_ind_migrate	80	static

@@ -1,0 +1,5 @@
+gen_estimator.c:113:13:est_timer	96	static
+gen_estimator.c:206:5:gen_new_estimator	96	static
+gen_estimator.c:266:6:gen_kill_estimator	80	static
+gen_estimator.c:298:5:gen_replace_estimator	64	static
+gen_estimator.c:315:6:gen_estimator_active	48	static

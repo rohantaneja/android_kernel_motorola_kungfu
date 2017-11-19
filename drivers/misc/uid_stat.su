@@ -1,0 +1,6 @@
+uid_stat.c:142:19:uid_stat_init	16	static
+uid_stat.c:105:25:find_or_create_uid_stat	96	static
+uid_stat.c:61:12:uid_stat_read_atomic_int_open	32	static
+uid_stat.c:52:12:uid_stat_atomic_int_show	16	static
+uid_stat.c:122:5:uid_stat_tcp_snd	32	static
+uid_stat.c:132:5:uid_stat_tcp_rcv	32	static

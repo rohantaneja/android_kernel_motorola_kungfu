@@ -1,0 +1,7 @@
+nf_sockopt.c:61:31:nf_sockopt_find.isra.2	64	static
+nf_sockopt.c:24:5:nf_register_sockopt	48	static
+nf_sockopt.c:53:6:nf_unregister_sockopt	32	static
+nf_sockopt.c:111:5:nf_setsockopt	48	static
+nf_sockopt.c:118:5:nf_getsockopt	48	static
+nf_sockopt.c:152:5:compat_nf_setsockopt	64	static
+nf_sockopt.c:159:5:compat_nf_getsockopt	64	static

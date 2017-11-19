@@ -1,0 +1,3 @@
+hid-twinhan.c:134:1:twinhan_driver_init	16	static
+hid-twinhan.c:63:12:twinhan_input_mapping	16	static
+hid-twinhan.c:134:1:twinhan_driver_exit	16	static

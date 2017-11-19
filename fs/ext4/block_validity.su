@@ -1,0 +1,7 @@
+block_validity.c:57:12:add_system_zone	80	static
+block_validity.c:31:12:ext4_init_system_zone	16	static
+block_validity.c:39:6:ext4_exit_system_zone	16	static
+block_validity.c:181:6:ext4_release_system_zone	64	static
+block_validity.c:140:5:ext4_setup_system_zone	80	static
+block_validity.c:197:5:ext4_data_block_valid	0	static
+block_validity.c:223:5:ext4_check_blockref	96	static

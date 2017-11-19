@@ -1,0 +1,2 @@
+linear.c:88:26:linear_transfer	128	static
+linear.c:147:5:snd_pcm_plugin_build_linear	112	static

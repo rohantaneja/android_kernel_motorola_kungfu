@@ -1,0 +1,7 @@
+xt_quota2.c:369:20:quota_mt2_exit	16	static
+xt_quota2.c:263:13:quota_mt2_destroy	32	static
+xt_quota2.c:135:16:quota_proc_write	96	static
+xt_quota2.c:122:16:quota_proc_read	96	static
+xt_quota2.c:286:1:quota_mt2	112	static
+xt_quota2.c:347:19:quota_mt2_init	64	static
+xt_quota2.c:239:12:quota_mt2_check	112	static

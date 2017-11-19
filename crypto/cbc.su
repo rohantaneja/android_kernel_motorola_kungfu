@@ -1,0 +1,9 @@
+cbc.c:26:12:crypto_cbc_setkey	32	static
+cbc.c:282:20:crypto_cbc_module_exit	16	static
+cbc.c:264:13:crypto_cbc_free	32	static
+cbc.c:208:13:crypto_cbc_exit_tfm	16	static
+cbc.c:193:12:crypto_cbc_init_tfm	32	static
+cbc.c:277:19:crypto_cbc_module_init	16	static
+cbc.c:214:32:crypto_cbc_alloc	32	static
+cbc.c:90:12:crypto_cbc_encrypt	224	static
+cbc.c:169:12:crypto_cbc_decrypt	224	dynamic

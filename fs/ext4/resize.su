@@ -1,0 +1,15 @@
+resize.c:60:22:ext4_group_overhead_blocks	48	static
+resize.c:342:28:bclean	48	static
+resize.c:1193:28:ext4_get_bitmap	32	static
+resize.c:664:17:ext4_list_backups	0	static
+resize.c:698:12:verify_reserved_gdb	80	static
+resize.c:1043:13:update_backups	144	static
+resize.c:1643:12:ext4_group_extend_no_check	80	static
+resize.c:368:12:extend_or_restart_transaction.constprop	32	static
+resize.c:396:12:set_flexbg_block_bitmap	96	static
+resize.c:1410:12:ext4_flex_group_add	288	static
+resize.c:19:5:ext4_resize_begin	32	static
+resize.c:42:6:ext4_resize_end	16	static
+resize.c:1571:5:ext4_group_add	144	static
+resize.c:1703:5:ext4_group_extend	80	static
+resize.c:1866:5:ext4_resize_fs	288	static

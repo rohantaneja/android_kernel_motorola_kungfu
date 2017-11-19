@@ -1,0 +1,3 @@
+blk-mq-cpumap.c:34:5:blk_mq_update_queue_map	144	static
+blk-mq-cpumap.c:88:15:blk_mq_make_queue_map	32	static
+blk-mq-cpumap.c:109:5:blk_mq_hw_queue_to_node	48	static

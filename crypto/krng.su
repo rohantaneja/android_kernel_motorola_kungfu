@@ -1,0 +1,4 @@
+krng.c:25:12:krng_reset	0	static
+krng.c:54:20:krng_mod_fini	16	static
+krng.c:19:12:krng_get_random	16	static
+krng.c:49:19:krng_mod_init	16	static

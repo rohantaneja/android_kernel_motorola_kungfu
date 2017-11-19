@@ -1,0 +1,7 @@
+regmap-mmio.c:197:13:regmap_mmio_free_context	32	static
+regmap-mmio.c:148:12:regmap_mmio_read	64	static
+regmap-mmio.c:88:12:regmap_mmio_gather_write	64	static
+regmap-mmio.c:137:12:regmap_mmio_write	16	static
+regmap-mmio.c:218:36:regmap_mmio_gen_context	64	static
+regmap-mmio.c:310:16:regmap_init_mmio_clk	32	static
+regmap-mmio.c:336:16:devm_regmap_init_mmio_clk	32	static

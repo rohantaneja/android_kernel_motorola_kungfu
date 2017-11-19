@@ -1,0 +1,9 @@
+mali_kbase_sync.c:63:12:timeline_has_signaled	0	static
+mali_kbase_sync.c:77:12:timeline_compare	0	static
+mali_kbase_sync.c:98:13:pt_value_str	16	static
+mali_kbase_sync.c:90:13:timeline_value_str	16	static
+mali_kbase_sync.c:47:24:timeline_dup	32	static
+mali_kbase_sync.c:114:5:kbase_sync_timeline_is_ours	0	static
+mali_kbase_sync.c:119:23:kbase_sync_timeline_alloc	16	static
+mali_kbase_sync.c:136:17:kbase_sync_pt_alloc	32	static
+mali_kbase_sync.c:152:6:kbase_sync_signal_pt	0	static

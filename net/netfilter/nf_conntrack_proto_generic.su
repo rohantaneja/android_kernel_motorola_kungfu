@@ -1,0 +1,8 @@
+nf_conntrack_proto_generic.c:46:13:generic_pkt_to_tuple	0	static
+nf_conntrack_proto_generic.c:56:13:generic_invert_tuple	0	static
+nf_conntrack_proto_generic.c:66:12:generic_print_tuple	0	static
+nf_conntrack_proto_generic.c:72:22:generic_get_timeouts	0	static
+nf_conntrack_proto_generic.c:91:13:generic_new	0	static
+nf_conntrack_proto_generic.c:213:29:generic_get_net_proto	0	static
+nf_conntrack_proto_generic.c:78:12:generic_packet	16	static
+nf_conntrack_proto_generic.c:194:12:generic_init_net	48	static

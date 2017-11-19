@@ -1,0 +1,4 @@
+compat_ioctl.c:14:12:compat_put_ushort	0	static
+compat_ioctl.c:19:12:compat_put_int	0	static
+compat_ioctl.c:24:12:compat_put_uint	0	static
+compat_ioctl.c:657:6:compat_blkdev_ioctl	128	static

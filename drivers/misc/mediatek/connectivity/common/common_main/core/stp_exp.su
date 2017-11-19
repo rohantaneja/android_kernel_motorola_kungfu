@@ -1,0 +1,12 @@
+stp_exp.c:124:14:mtk_wcn_sys_event_tx_resume	32	static
+stp_exp.c:99:14:mtk_wcn_sys_if_tx	16	static
+stp_exp.c:136:14:mtk_wcn_sys_check_function_status	0	static
+stp_exp.c:111:14:mtk_wcn_sys_event_set	16	static
+stp_exp.c:91:7:mtk_wcn_sys_if_rx	16	static
+stp_exp.c:156:7:mtk_wcn_stp_register_if_rx	0	static
+stp_exp.c:167:6:mtk_wcn_stp_set_if_tx_type	16	static
+stp_exp.c:180:7:mtk_wcn_stp_register_if_tx	16	static
+stp_exp.c:203:7:mtk_wcn_stp_register_event_cb	32	static
+stp_exp.c:223:7:mtk_wcn_stp_register_tx_event_cb	16	static
+stp_exp.c:237:7:stp_drv_init	48	static
+stp_exp.c:272:6:stp_drv_exit	16	static

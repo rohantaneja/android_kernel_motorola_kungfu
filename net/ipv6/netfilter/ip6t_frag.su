@@ -1,0 +1,4 @@
+ip6t_frag.c:130:20:frag_mt6_exit	16	static
+ip6t_frag.c:105:12:frag_mt6_check	32	static
+ip6t_frag.c:38:1:frag_mt6	96	static
+ip6t_frag.c:125:19:frag_mt6_init	16	static

@@ -1,0 +1,17 @@
+hid-debug.c:1178:21:hid_debug_events_poll	32	static
+hid-debug.c:526:13:tab	16	static
+hid-debug.c:1190:12:hid_debug_events_release	32	static
+hid-debug.c:1077:12:hid_debug_events_open	48	static
+hid-debug.c:1105:16:hid_debug_events_read	144	static
+hid-debug.c:1072:12:hid_debug_rdesc_open	16	static
+hid-debug.c:481:7:hid_resolv_usage	80	static
+hid-debug.c:530:6:hid_dump_field	112	static
+hid-debug.c:628:6:hid_dump_device	112	static
+hid-debug.c:1047:12:hid_debug_rdesc_show	128	static
+hid-debug.c:659:6:hid_debug_event	96	static
+hid-debug.c:678:6:hid_dump_report	64	static
+hid-debug.c:708:6:hid_dump_input	48	static
+hid-debug.c:1221:6:hid_debug_register	32	static
+hid-debug.c:1231:6:hid_debug_unregister	32	static
+hid-debug.c:1240:6:hid_debug_init	16	static
+hid-debug.c:1245:6:hid_debug_exit	16	static

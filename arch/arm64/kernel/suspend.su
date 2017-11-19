@@ -1,0 +1,5 @@
+suspend.c:154:19:cpu_suspend_init	32	static
+suspend.c:24:14:__cpu_suspend_save	32	static
+suspend.c:47:13:cpu_suspend_set_dbg_restorer	16	static
+suspend.c:62:5:cpu_suspend	32	static
+suspend.c:82:5:__cpu_suspend	48	static

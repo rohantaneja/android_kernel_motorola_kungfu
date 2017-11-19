@@ -1,0 +1,14 @@
+pcm_plugin.c:138:19:snd_pcm_plugin_client_channels	0	static
+pcm_plugin.c:49:12:snd_pcm_plugin_alloc	64	static
+pcm_plugin.c:104:5:snd_pcm_plug_alloc	32	static
+pcm_plugin.c:187:5:snd_pcm_plugin_free	32	static
+pcm_plugin.c:146:5:snd_pcm_plugin_build	64	static
+pcm_plugin.c:199:19:snd_pcm_plug_client_size	32	static
+pcm_plugin.c:230:19:snd_pcm_plug_slave_size	32	static
+pcm_plugin.c:311:18:snd_pcm_plug_slave_format	160	static
+pcm_plugin.c:361:5:snd_pcm_plug_format_plugins	112	static
+pcm_plugin.c:547:19:snd_pcm_plug_client_channels_buf	64	static
+pcm_plugin.c:586:19:snd_pcm_plug_write_transfer	80	static
+pcm_plugin.c:618:19:snd_pcm_plug_read_transfer	64	static
+pcm_plugin.c:649:5:snd_pcm_area_silence	80	static
+pcm_plugin.c:695:5:snd_pcm_area_copy	80	static

@@ -1,0 +1,3 @@
+trace_nop.c:48:12:nop_trace_init	0	static
+trace_nop.c:55:13:nop_trace_reset	0	static
+trace_nop.c:65:12:nop_set_flag	16	static

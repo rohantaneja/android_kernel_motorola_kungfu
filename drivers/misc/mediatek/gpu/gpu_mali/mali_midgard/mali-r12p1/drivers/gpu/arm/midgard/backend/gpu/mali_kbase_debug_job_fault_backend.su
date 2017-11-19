@@ -1,0 +1,2 @@
+mali_kbase_debug_job_fault_backend.c:76:6:kbase_debug_job_fault_reg_snapshot_init	64	static
+mali_kbase_debug_job_fault_backend.c:140:6:kbase_job_fault_get_reg_snapshot	64	static

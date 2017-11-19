@@ -1,0 +1,3 @@
+mali_kbase_config.c:24:5:kbasep_platform_device_init	0	static
+mali_kbase_config.c:35:6:kbasep_platform_device_term	0	static
+mali_kbase_config.c:44:5:kbase_cpuprops_get_default_clock_speed	0	static

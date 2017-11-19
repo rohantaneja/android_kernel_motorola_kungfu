@@ -1,0 +1,9 @@
+inode.c:248:16:ramfs_mount	16	static
+inode.c:254:13:ramfs_kill_sb	32	static
+inode.c:267:12:init_ramfs_fs	48	static
+inode.c:61:15:ramfs_get_inode	80	static
+inode.c:102:1:ramfs_mknod	32	static
+inode.c:116:12:ramfs_mkdir	32	static
+inode.c:124:12:ramfs_create	16	static
+inode.c:129:12:ramfs_symlink	64	static
+inode.c:216:5:ramfs_fill_super	128	static

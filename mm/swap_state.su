@@ -1,0 +1,12 @@
+swap_state.c:59:15:total_swapcache_pages	0	static
+swap_state.c:71:6:show_swap_cache_info	16	static
+swap_state.c:86:5:__add_to_swap_cache	64	static
+swap_state.c:126:5:add_to_swap_cache	48	static
+swap_state.c:142:6:__delete_from_swap_cache	32	static
+swap_state.c:168:5:add_to_swap	48	static
+swap_state.c:219:6:delete_from_swap_cache	48	static
+swap_state.c:255:6:free_page_and_swap_cache	32	static
+swap_state.c:265:6:free_pages_and_swap_cache	48	static
+swap_state.c:282:15:lookup_swap_cache	32	static
+swap_state.c:304:14:read_swap_cache_async	80	static
+swap_state.c:457:14:swapin_readahead	144	static

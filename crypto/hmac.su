@@ -1,0 +1,12 @@
+hmac.c:89:12:hmac_export	16	static
+hmac.c:98:12:hmac_import	16	static
+hmac.c:109:12:hmac_init	16	static
+hmac.c:261:20:hmac_module_exit	16	static
+hmac.c:114:12:hmac_update	16	static
+hmac.c:44:12:hmac_setkey	128	dynamic
+hmac.c:139:12:hmac_finup	80	static
+hmac.c:124:12:hmac_final	80	static
+hmac.c:175:13:hmac_exit_tfm	16	static
+hmac.c:156:12:hmac_init_tfm	32	static
+hmac.c:256:19:hmac_module_init	16	static
+hmac.c:181:12:hmac_create	80	static

@@ -1,0 +1,17 @@
+seq_ports.c:535:13:delete_and_unsubscribe_port	96	static
+seq_ports.c:486:12:check_and_subscribe_port	96	static
+seq_ports.c:59:29:snd_seq_port_use_ptr	48	static
+seq_ports.c:186:36:get_client_port	32	static
+seq_ports.c:220:13:clear_subscriber_list	96	static
+seq_ports.c:258:12:port_delete	48	static
+seq_ports.c:82:29:snd_seq_port_query_nearest	48	static
+seq_ports.c:126:29:snd_seq_create_port	80	static
+seq_ports.c:281:5:snd_seq_delete_port	64	static
+seq_ports.c:306:5:snd_seq_delete_all_ports	80	static
+seq_ports.c:337:5:snd_seq_set_port_info	32	static
+seq_ports.c:367:5:snd_seq_get_port_info	32	static
+seq_ports.c:560:5:snd_seq_port_connect	80	static
+seq_ports.c:604:5:snd_seq_port_disconnect	96	static
+seq_ports.c:638:29:snd_seq_port_get_subscription	64	static
+seq_ports.c:661:5:snd_seq_event_port_attach	256	static
+seq_ports.c:698:5:snd_seq_event_port_detach	208	static

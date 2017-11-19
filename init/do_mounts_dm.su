@@ -1,0 +1,4 @@
+do_mounts_dm.c:53:22:get_dm_option	32	static
+do_mounts_dm.c:284:19:dm_setup	80	static
+do_mounts_dm.c:93:19:dm_setup_cleanup	48	static
+do_mounts_dm.c:420:13:dm_run_setup	144	static

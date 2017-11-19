@@ -1,0 +1,14 @@
+mt_ppm_policy_thermal.c:223:1:ppm_thermal_cur_power_proc_open	32	static
+mt_ppm_policy_thermal.c:222:1:ppm_thermal_limit_proc_open	32	static
+mt_ppm_policy_thermal.c:186:12:ppm_thermal_limit_proc_show	32	static
+mt_ppm_policy_thermal.c:225:19:ppm_thermal_policy_init	96	static
+mt_ppm_policy_thermal.c:177:13:ppm_thermal_mode_change_cb	48	static
+mt_ppm_policy_thermal.c:168:13:ppm_thermal_status_change_cb	48	static
+mt_ppm_policy_thermal.c:153:13:ppm_thermal_update_limit_cb	48	static
+mt_ppm_policy_thermal.c:271:20:ppm_thermal_policy_exit	32	static
+mt_ppm_policy_thermal.c:46:6:mt_ppm_cpu_thermal_protect	48	static
+mt_ppm_policy_thermal.c:194:16:ppm_thermal_limit_proc_write	48	static
+mt_ppm_policy_thermal.c:75:14:mt_ppm_thermal_get_min_power	16	static
+mt_ppm_policy_thermal.c:83:14:mt_ppm_thermal_get_max_power	16	static
+mt_ppm_policy_thermal.c:106:14:mt_ppm_thermal_get_cur_power	96	static
+mt_ppm_policy_thermal.c:213:12:ppm_thermal_cur_power_proc_show	32	static

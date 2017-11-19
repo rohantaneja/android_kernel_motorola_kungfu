@@ -1,0 +1,4 @@
+map.c:32:5:kobj_map	96	static
+map.c:69:6:kobj_unmap	64	static
+map.c:96:17:kobj_lookup	80	static
+map.c:136:18:kobj_map_init	48	static

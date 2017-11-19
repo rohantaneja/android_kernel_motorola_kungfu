@@ -1,0 +1,6 @@
+clk-gpio-gate.c:49:12:clk_gpio_gate_is_enabled	16	static
+clk-gpio-gate.c:42:13:clk_gpio_gate_disable	16	static
+clk-gpio-gate.c:33:12:clk_gpio_gate_enable	16	static
+clk-gpio-gate.c:189:13:of_gpio_gate_clk_setup	32	static
+clk-gpio-gate.c:70:13:clk_register_gpio_gate	128	static
+clk-gpio-gate.c:144:20:of_clk_gpio_gate_delayed_register_get	64	static

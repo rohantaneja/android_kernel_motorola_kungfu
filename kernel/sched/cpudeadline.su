@@ -1,0 +1,7 @@
+cpudeadline.c:39:13:cpudl_exchange.isra.2	0	static
+cpudeadline.c:49:13:cpudl_heapify	48	static
+cpudeadline.c:74:13:cpudl_change_key	64	static
+cpudeadline.c:104:5:cpudl_find	32	static
+cpudeadline.c:136:6:cpudl_set	80	static
+cpudeadline.c:192:5:cpudl_init	48	static
+cpudeadline.c:223:6:cpudl_cleanup	16	static

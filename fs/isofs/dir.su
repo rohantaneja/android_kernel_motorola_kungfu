@@ -1,0 +1,3 @@
+dir.c:16:5:isofs_name_translate	0	static
+dir.c:49:5:get_acorn_filename	64	static
+dir.c:249:12:isofs_readdir	192	static

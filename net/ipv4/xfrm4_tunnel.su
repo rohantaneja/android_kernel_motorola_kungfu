@@ -1,0 +1,8 @@
+xfrm4_tunnel.c:21:12:ipip_xfrm_rcv	0	static
+xfrm4_tunnel.c:26:12:ipip_init_state	0	static
+xfrm4_tunnel.c:39:13:ipip_destroy	0	static
+xfrm4_tunnel.c:58:12:xfrm_tunnel_err	0	static
+xfrm4_tunnel.c:15:12:ipip_output	16	static
+xfrm4_tunnel.c:53:12:xfrm_tunnel_rcv	16	static
+xfrm4_tunnel.c:100:20:ipip_fini	32	static
+xfrm4_tunnel.c:77:19:ipip_init	48	static

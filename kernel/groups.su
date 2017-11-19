@@ -1,0 +1,10 @@
+groups.c:15:20:groups_alloc	48	static
+groups.c:54:6:groups_free	32	static
+groups.c:136:5:groups_search	0	static
+groups.c:162:6:set_groups	48	static
+groups.c:179:5:set_current_groups	48	static
+groups.c:193:1:SyS_getgroups	0	static
+groups.c:217:6:may_setgroups	16	static
+groups.c:230:1:SyS_setgroups	32	static
+groups.c:258:5:in_group_p	16	static
+groups.c:270:5:in_egroup_p	16	static

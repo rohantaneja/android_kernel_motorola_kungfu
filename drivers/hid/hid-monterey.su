@@ -1,0 +1,4 @@
+hid-monterey.c:66:1:mr_driver_init	16	static
+hid-monterey.c:36:12:mr_input_mapping	16	static
+hid-monterey.c:66:1:mr_driver_exit	16	static
+hid-monterey.c:24:14:mr_report_fixup	32	static

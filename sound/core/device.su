@@ -1,0 +1,8 @@
+device.c:76:12:__snd_device_disconnect.part.1	32	static
+device.c:87:13:__snd_device_free	32	static
+device.c:44:5:snd_device_new	64	static
+device.c:120:6:snd_device_free	16	static
+device.c:161:5:snd_device_register	32	static
+device.c:179:5:snd_device_register_all	48	static
+device.c:198:5:snd_device_disconnect_all	32	static
+device.c:216:6:snd_device_free_all	32	static

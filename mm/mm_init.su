@@ -1,0 +1,2 @@
+mm_init.c:185:19:mm_compute_batch_init	16	static
+mm_init.c:197:19:mm_sysfs_init	16	static

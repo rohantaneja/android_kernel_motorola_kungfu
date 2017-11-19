@@ -1,0 +1,4 @@
+tso.c:7:5:tso_count_descs	0	static
+tso.c:14:6:tso_build_hdr	80	static
+tso.c:39:6:tso_build_data	0	static
+tso.c:57:6:tso_start	0	static

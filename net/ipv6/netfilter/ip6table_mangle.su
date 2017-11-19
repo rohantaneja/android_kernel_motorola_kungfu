@@ -1,0 +1,5 @@
+ip6table_mangle.c:139:20:ip6table_mangle_fini	16	static
+ip6table_mangle.c:107:24:ip6table_mangle_net_exit	16	static
+ip6table_mangle.c:94:23:ip6table_mangle_net_init	48	static
+ip6table_mangle.c:117:19:ip6table_mangle_init	48	static
+ip6table_mangle.c:79:1:ip6table_mangle_hook	96	static

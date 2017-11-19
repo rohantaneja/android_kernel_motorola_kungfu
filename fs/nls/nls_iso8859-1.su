@@ -1,0 +1,4 @@
+nls_iso8859-1.c:211:12:uni2char	0	static
+nls_iso8859-1.c:228:12:char2uni	0	static
+nls_iso8859-1.c:249:20:exit_nls_iso8859_1	16	static
+nls_iso8859-1.c:244:19:init_nls_iso8859_1	16	static

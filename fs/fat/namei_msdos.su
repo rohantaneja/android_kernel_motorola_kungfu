@@ -1,0 +1,17 @@
+namei_msdos.c:643:13:setup	0	static
+namei_msdos.c:676:20:exit_msdos_fs	16	static
+namei_msdos.c:655:23:msdos_mount	16	static
+namei_msdos.c:650:12:msdos_fill_super	16	static
+namei_msdos.c:19:12:msdos_format_name	128	static
+namei_msdos.c:151:12:msdos_hash	48	static
+namei_msdos.c:227:12:msdos_add_entry	96	static
+namei_msdos.c:119:12:msdos_find	64	static
+namei_msdos.c:310:12:msdos_rmdir	112	static
+namei_msdos.c:405:12:msdos_unlink	96	static
+namei_msdos.c:264:12:msdos_create	144	static
+namei_msdos.c:346:12:msdos_mkdir	144	static
+namei_msdos.c:201:23:msdos_lookup	96	static
+namei_msdos.c:671:19:init_msdos_fs	16	static
+namei_msdos.c:167:12:msdos_cmp	80	static
+namei_msdos.c:431:12:do_msdos_rename.isra.2	224	static
+namei_msdos.c:600:12:msdos_rename	96	static

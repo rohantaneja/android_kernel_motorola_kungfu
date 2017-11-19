@@ -1,0 +1,5 @@
+ioremap.c:33:22:__ioremap_caller	64	static
+ioremap.c:77:15:__ioremap	64	static
+ioremap.c:87:6:__iounmap	16	static
+ioremap.c:100:15:ioremap_cache	48	static
+ioremap.c:114:13:early_ioremap_init	16	static

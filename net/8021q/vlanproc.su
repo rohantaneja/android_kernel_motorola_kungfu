@@ -1,0 +1,11 @@
+vlanproc.c:224:14:vlan_seq_next	16	static
+vlanproc.c:202:14:vlan_seq_start	48	static
+vlanproc.c:245:13:vlan_seq_stop	16	static
+vlanproc.c:76:12:vlan_seq_open	16	static
+vlanproc.c:251:12:vlan_seq_show	48	static
+vlanproc.c:94:12:vlandev_seq_open	32	static
+vlanproc.c:276:12:vlandev_seq_show	272	static
+vlanproc.c:126:6:vlan_proc_cleanup	32	static
+vlanproc.c:145:16:vlan_proc_init	48	static
+vlanproc.c:169:5:vlan_proc_add_dev	48	static
+vlanproc.c:187:5:vlan_proc_rem_dev	32	static

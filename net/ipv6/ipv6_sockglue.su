@@ -1,0 +1,8 @@
+ipv6_sockglue.c:102:24:ipv6_update_options	48	static
+ipv6_sockglue.c:959:12:do_ipv6_getsockopt.isra.5	384	static
+ipv6_sockglue.c:1304:5:ipv6_getsockopt	80	static
+ipv6_sockglue.c:61:5:ip6_ra_control	64	static
+ipv6_sockglue.c:126:12:do_ipv6_setsockopt.isra.7	416	static
+ipv6_sockglue.c:863:5:ipv6_setsockopt	48	static
+ipv6_sockglue.c:890:5:compat_ipv6_setsockopt	48	static
+ipv6_sockglue.c:1337:5:compat_ipv6_getsockopt	80	static

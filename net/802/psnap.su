@@ -1,0 +1,7 @@
+psnap.c:102:19:snap_init	16	static
+psnap.c:33:31:find_snap_client	64	static
+psnap.c:49:12:snap_rcv	64	static
+psnap.c:115:20:snap_exit	16	static
+psnap.c:85:12:snap_request	48	static
+psnap.c:126:24:register_snap_client	48	static
+psnap.c:156:6:unregister_snap_client	32	static

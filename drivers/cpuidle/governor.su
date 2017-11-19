@@ -1,0 +1,2 @@
+governor.c:44:5:cpuidle_switch_governor	48	static
+governor.c:77:5:cpuidle_register_governor	64	static

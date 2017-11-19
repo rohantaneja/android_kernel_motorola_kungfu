@@ -1,0 +1,4 @@
+jiffies.c:62:16:jiffies_read	0	static
+jiffies.c:95:19:init_jiffies_clocksource	16	static
+jiffies.c:102:36:clocksource_default_clock	0	static
+jiffies.c:109:5:register_refined_jiffies	32	static

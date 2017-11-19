@@ -1,0 +1,4 @@
+export.c:43:23:isofs_export_get_parent	48	static
+export.c:110:1:isofs_export_encode_fh	0	static
+export.c:161:23:isofs_fh_to_dentry	32	static
+export.c:173:23:isofs_fh_to_parent	32	static

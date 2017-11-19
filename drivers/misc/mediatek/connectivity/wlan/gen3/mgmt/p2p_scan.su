@@ -1,0 +1,5 @@
+p2p_scan.c:77:1:scanP2pProcessBeaconAndProbeResp	128	static
+p2p_scan.c:147:6:scnEventReturnChannel	64	static
+p2p_scan.c:163:6:scanRemoveAllP2pBssDesc	32	static
+p2p_scan.c:179:6:scanRemoveP2pBssDesc	0	static
+p2p_scan.c:184:14:scanP2pSearchDesc	80	static

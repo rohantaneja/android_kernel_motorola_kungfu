@@ -1,0 +1,15 @@
+host.c:377:13:mmc_retune_timer	0	static
+host.c:35:13:mmc_host_classdev_release	16	static
+host.c:47:5:mmc_register_host_class	16	static
+host.c:52:6:mmc_unregister_host_class	16	static
+host.c:300:6:mmc_retune_enable	16	static
+host.c:308:6:mmc_retune_disable	32	static
+host.c:316:6:mmc_retune_timer_stop	16	static
+host.c:322:6:mmc_retune_hold	0	static
+host.c:329:6:mmc_retune_release	16	static
+host.c:337:5:mmc_retune	32	static
+host.c:393:5:mmc_of_parse	80	static
+host.c:562:18:mmc_alloc_host	48	static
+host.c:654:5:mmc_add_host	48	static
+host.c:689:6:mmc_remove_host	32	static
+host.c:715:6:mmc_free_host	32	static

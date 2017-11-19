@@ -1,0 +1,5 @@
+kmsg.c:27:12:kmsg_release	16	static
+kmsg.c:22:12:kmsg_open	16	static
+kmsg.c:42:21:kmsg_poll	16	static
+kmsg.c:33:16:kmsg_read	32	static
+kmsg.c:59:19:proc_kmsg_init	16	static

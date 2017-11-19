@@ -1,0 +1,11 @@
+mls.c:35:5:mls_compute_context_len	112	static
+mls.c:88:6:mls_sid_to_context	128	static
+mls.c:160:5:mls_level_isvalid	48	static
+mls.c:180:5:mls_range_isvalid	32	static
+mls.c:191:5:mls_context_isvalid	32	static
+mls.c:234:5:mls_context_to_sid	96	static
+mls.c:377:5:mls_from_string	64	static
+mls.c:402:5:mls_range_set	32	static
+mls.c:419:5:mls_setup_user_range	64	static
+mls.c:462:5:mls_convert_context	128	static
+mls.c:505:5:mls_compute_sid	96	static

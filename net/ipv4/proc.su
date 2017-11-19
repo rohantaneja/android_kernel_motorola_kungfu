@@ -1,0 +1,11 @@
+proc.c:513:24:ip_proc_exit_net	32	static
+proc.c:432:12:snmp_seq_open	16	static
+proc.c:480:12:netstat_seq_open	16	static
+proc.c:80:12:sockstat_seq_open	16	static
+proc.c:450:12:netstat_seq_show	80	static
+proc.c:52:12:sockstat_seq_show	64	static
+proc.c:493:23:ip_proc_init_net	48	static
+proc.c:293:13:icmpmsg_put_line.part.5	96	static
+proc.c:310:13:icmpmsg_put	208	static
+proc.c:366:12:snmp_seq_show	112	static
+proc.c:525:12:ip_misc_proc_init	16	static

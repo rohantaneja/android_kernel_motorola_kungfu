@@ -1,0 +1,10 @@
+nf_conntrack_ftp.c:560:12:nf_ct_ftp_from_nlattr	0	static
+nf_conntrack_ftp.c:121:12:try_number	64	static
+nf_conntrack_ftp.c:153:12:try_rfc959	64	static
+nf_conntrack_ftp.c:180:12:try_rfc1123	16	static
+nf_conntrack_ftp.c:581:13:nf_conntrack_ftp_fini	96	static
+nf_conntrack_ftp.c:385:12:help	288	static
+nf_conntrack_ftp.c:198:12:get_port	32	static
+nf_conntrack_ftp.c:272:12:try_epsv_response	16	static
+nf_conntrack_ftp.c:224:12:try_eprt	96	static
+nf_conntrack_ftp.c:599:19:nf_conntrack_ftp_init	112	static

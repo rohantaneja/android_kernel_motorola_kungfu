@@ -1,0 +1,4 @@
+mali_kbase_sync_user.c:38:12:kbase_stream_close	16	static
+mali_kbase_sync_user.c:53:5:kbase_stream_create	48	static
+mali_kbase_sync_user.c:73:5:kbase_stream_create_fence	48	static
+mali_kbase_sync_user.c:145:5:kbase_fence_validate	16	static

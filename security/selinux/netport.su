@@ -1,0 +1,4 @@
+netport.c:94:28:sel_netport_find	16	static
+netport.c:237:19:sel_netport_init	0	static
+netport.c:197:5:sel_netport_sid	64	static
+netport.c:220:6:sel_netport_flush	48	static

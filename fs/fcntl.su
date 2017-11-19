@@ -1,0 +1,16 @@
+fcntl.c:448:13:send_sigio_to_task	208	static
+fcntl.c:560:13:fasync_free_rcu	16	static
+fcntl.c:736:19:fcntl_init	16	static
+fcntl.c:101:6:__f_setown	64	static
+fcntl.c:109:6:f_setown	64	static
+fcntl.c:126:6:f_delown	32	static
+fcntl.c:131:7:f_getown	32	static
+fcntl.c:356:1:SyS_fcntl	96	static
+fcntl.c:490:6:send_sigio	96	static
+fcntl.c:525:5:send_sigurg	80	static
+fcntl.c:575:5:fasync_remove_entry	64	static
+fcntl.c:601:23:fasync_alloc	16	static
+fcntl.c:611:6:fasync_free	16	static
+fcntl.c:623:23:fasync_insert_entry	80	static
+fcntl.c:686:5:fasync_helper	48	static
+fcntl.c:723:6:kill_fasync	64	static

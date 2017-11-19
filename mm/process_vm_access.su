@@ -1,0 +1,7 @@
+process_vm_access.c:144:16:process_vm_rw_core.isra.1	320	static
+process_vm_access.c:250:16:process_vm_rw	400	static
+process_vm_access.c:313:1:compat_process_vm_rw	400	static
+process_vm_access.c:295:1:SyS_process_vm_readv	16	static
+process_vm_access.c:302:1:SyS_process_vm_writev	16	static
+process_vm_access.c:357:1:compat_SyS_process_vm_readv	16	static
+process_vm_access.c:368:1:compat_SyS_process_vm_writev	16	static

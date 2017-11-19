@@ -1,0 +1,10 @@
+cpu_rmap.c:97:13:cpu_rmap_copy_neigh	64	static
+cpu_rmap.c:69:13:cpu_rmap_release	16	static
+cpu_rmap.c:28:18:alloc_cpu_rmap	64	static
+cpu_rmap.c:88:5:cpu_rmap_put	16	static
+cpu_rmap.c:268:13:irq_cpu_rmap_release	32	static
+cpu_rmap.c:141:5:cpu_rmap_add	16	static
+cpu_rmap.c:158:5:cpu_rmap_update	112	static
+cpu_rmap.c:253:1:irq_cpu_rmap_notify	16	static
+cpu_rmap.c:228:6:free_irq_cpu_rmap	32	static
+cpu_rmap.c:288:5:irq_cpu_rmap_add	48	static

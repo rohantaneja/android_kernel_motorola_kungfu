@@ -1,0 +1,11 @@
+sparse-vmemmap.c:38:28:__earlyonly_bootmem_alloc	16	static
+sparse-vmemmap.c:50:18:vmemmap_alloc_block	48	static
+sparse-vmemmap.c:73:18:vmemmap_alloc_block_buf	16	static
+sparse-vmemmap.c:90:16:vmemmap_verify	16	static
+sparse-vmemmap.c:101:19:vmemmap_pte_populate	48	static
+sparse-vmemmap.c:115:19:vmemmap_pmd_populate	48	static
+sparse-vmemmap.c:127:19:vmemmap_pud_populate	32	static
+sparse-vmemmap.c:139:19:vmemmap_pgd_populate	0	static
+sparse-vmemmap.c:151:15:vmemmap_populate_basepages	64	static
+sparse-vmemmap.c:179:25:sparse_mem_map_populate	32	static
+sparse-vmemmap.c:195:13:sparse_mem_maps_populate_node	112	static

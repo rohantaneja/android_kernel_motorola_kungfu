@@ -1,0 +1,2 @@
+strnlen_user.c:96:6:strnlen_user	0	static
+strnlen_user.c:127:6:strlen_user	0	static

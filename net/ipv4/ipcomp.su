@@ -1,0 +1,5 @@
+ipcomp.c:152:12:ipcomp4_rcv_cb	0	static
+ipcomp.c:26:12:ipcomp4_err	48	static
+ipcomp.c:189:20:ipcomp4_fini	32	static
+ipcomp.c:122:12:ipcomp4_init_state	64	static
+ipcomp.c:175:19:ipcomp4_init	32	static

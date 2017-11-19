@@ -1,0 +1,9 @@
+inode_mark.c:36:13:fsnotify_recalc_inode_mask_locked	16	static
+inode_mark.c:52:6:fsnotify_recalc_inode_mask	32	static
+inode_mark.c:61:6:fsnotify_destroy_inode_mark	48	static
+inode_mark.c:86:6:fsnotify_clear_marks_by_inode	80	static
+inode_mark.c:117:6:fsnotify_clear_inode_marks_by_group	16	static
+inode_mark.c:147:23:fsnotify_find_inode_mark	64	static
+inode_mark.c:163:6:fsnotify_set_inode_mark_mask_locked	16	static
+inode_mark.c:191:5:fsnotify_add_inode_mark	64	static
+inode_mark.c:248:6:fsnotify_unmount_inodes	80	static

@@ -1,0 +1,4 @@
+nf_nat_proto_udplite.c:95:20:nf_nat_proto_udplite_fini	32	static
+nf_nat_proto_udplite.c:23:1:udplite_unique_tuple	16	static
+nf_nat_proto_udplite.c:77:19:nf_nat_proto_udplite_init	32	static
+nf_nat_proto_udplite.c:34:1:udplite_manip_pkt	96	static

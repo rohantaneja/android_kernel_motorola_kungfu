@@ -1,0 +1,15 @@
+sound_core.c:32:14:sound_devnode	16	static
+sound_core.c:39:19:init_soundcore	48	static
+sound_core.c:254:12:sound_insert_unit.isra.5	128	static
+sound_core.c:58:20:cleanup_soundcore	16	static
+sound_core.c:582:12:soundcore_open	80	static
+sound_core.c:309:13:sound_remove_unit	64	static
+sound_core.c:361:5:register_sound_special_device	64	static
+sound_core.c:428:5:register_sound_special	16	static
+sound_core.c:447:5:register_sound_mixer	16	static
+sound_core.c:467:5:register_sound_midi	16	static
+sound_core.c:495:5:register_sound_dsp	16	static
+sound_core.c:513:6:unregister_sound_special	16	static
+sound_core.c:528:6:unregister_sound_mixer	16	static
+sound_core.c:543:6:unregister_sound_midi	16	static
+sound_core.c:560:6:unregister_sound_dsp	16	static

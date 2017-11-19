@@ -1,0 +1,6 @@
+nf_nat_pptp.c:190:1:pptp_exp_gre	0	static
+nf_nat_pptp.c:301:20:nf_nat_helper_pptp_fini	16	static
+nf_nat_pptp.c:283:19:nf_nat_helper_pptp_init	16	static
+nf_nat_pptp.c:42:13:pptp_nat_expected	144	static
+nf_nat_pptp.c:218:1:pptp_inbound_pkt	96	static
+nf_nat_pptp.c:114:1:pptp_outbound_pkt	80	static

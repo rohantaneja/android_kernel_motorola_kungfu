@@ -1,0 +1,5 @@
+jhash.h:70:19:jhash	0	static
+jhash.h:117:19:jhash2	0	static
+hash.c:34:19:hashlib_init	0	static
+hash.c:22:5:arch_fast_hash	16	static
+hash.c:28:5:arch_fast_hash2	16	static

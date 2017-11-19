@@ -1,0 +1,3 @@
+mt_hotplug_strategy_algo.c:124:13:hps_algo_cpu_cluster_action.isra.0	64	static
+mt_hotplug_strategy_algo.c:159:6:hps_cal_cores	16	static
+mt_hotplug_strategy_algo.c:198:6:hps_algo_amp	304	static

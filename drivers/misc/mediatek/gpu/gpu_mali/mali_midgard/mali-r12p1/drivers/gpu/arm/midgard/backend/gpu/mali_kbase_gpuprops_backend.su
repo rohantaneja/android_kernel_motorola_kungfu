@@ -1,0 +1,2 @@
+mali_kbase_gpuprops_backend.c:29:6:kbase_backend_gpuprops_get	48	static
+mali_kbase_gpuprops_backend.c:86:6:kbase_backend_gpuprops_get_features	32	static

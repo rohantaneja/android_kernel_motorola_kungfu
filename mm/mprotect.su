@@ -1,0 +1,3 @@
+mprotect.c:240:15:change_protection	176	static
+mprotect.c:255:1:mprotect_fixup	128	static
+mprotect.c:335:1:SyS_mprotect	112	static

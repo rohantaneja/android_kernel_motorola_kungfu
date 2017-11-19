@@ -1,0 +1,14 @@
+af_inet6.c:459:5:inet6_getname	48	static
+af_inet6.c:271:5:inet6_bind	112	static
+af_inet6.c:409:5:inet6_release	32	static
+af_inet6.c:114:12:inet6_create	96	static
+af_inet6.c:803:23:inet6_net_init	48	static
+af_inet6.c:864:19:inet6_init	80	static
+af_inet6.c:840:24:inet6_net_exit	32	static
+af_inet6.c:426:6:inet6_destroy_sock	32	static
+af_inet6.c:495:5:inet6_killaddr_ioctl	112	static
+af_inet6.c:510:5:inet6_ioctl	16	static
+af_inet6.c:602:5:inet6_register_protosw	64	static
+af_inet6.c:659:1:inet6_unregister_protosw	32	static
+af_inet6.c:674:5:inet6_sk_rebuild_header	144	static
+af_inet6.c:717:6:ipv6_opt_accepted	0	static

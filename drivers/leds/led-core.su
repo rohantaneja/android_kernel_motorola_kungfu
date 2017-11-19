@@ -1,0 +1,6 @@
+led-core.c:59:13:led_blink_setup	48	static
+led-core.c:75:6:led_blink_set	48	static
+led-core.c:88:6:led_blink_set_oneshot	16	static
+led-core.c:109:6:led_stop_software_blink	32	static
+led-core.c:117:6:led_set_brightness	16	static
+led-core.c:131:5:led_update_brightness	32	static

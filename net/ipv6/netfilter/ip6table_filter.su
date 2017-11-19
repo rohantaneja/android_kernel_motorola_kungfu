@@ -1,0 +1,5 @@
+ip6table_filter.c:100:20:ip6table_filter_fini	16	static
+ip6table_filter.c:68:24:ip6table_filter_net_exit	16	static
+ip6table_filter.c:51:23:ip6table_filter_net_init	48	static
+ip6table_filter.c:78:19:ip6table_filter_init	48	static
+ip6table_filter.c:35:1:ip6table_filter_hook	16	static

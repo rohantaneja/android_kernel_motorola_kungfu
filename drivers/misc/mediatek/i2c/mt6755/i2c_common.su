@@ -1,0 +1,12 @@
+i2c_common.c:196:13:hex2string	0	static
+i2c_common.c:494:20:xxx_exit	32	static
+i2c_common.c:451:12:i2c_common_remove	16	static
+i2c_common.c:128:12:i2c_test_reg	48	static
+i2c_common.c:29:16:show_config	48	static
+i2c_common.c:442:12:i2c_common_probe	32	static
+i2c_common.c:478:19:xxx_init	48	static
+i2c_common.c:47:5:string2hex	0	static
+i2c_common.c:65:7:get_hexbuffer	48	static
+i2c_common.c:78:5:i2c_trans_data	128	static
+i2c_common.c:223:16:set_config	352	static
+i2c_common.c:116:5:mt_i2c_test	0	static

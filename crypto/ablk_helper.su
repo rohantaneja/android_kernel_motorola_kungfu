@@ -1,0 +1,7 @@
+ablk_helper.c:37:5:ablk_set_key	32	static
+ablk_helper.c:54:5:__ablk_encrypt	64	static
+ablk_helper.c:69:5:ablk_encrypt	32	static
+ablk_helper.c:88:5:ablk_decrypt	64	static
+ablk_helper.c:114:6:ablk_exit	16	static
+ablk_helper.c:122:5:ablk_init_common	32	static
+ablk_helper.c:139:5:ablk_init	96	static

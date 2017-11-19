@@ -1,0 +1,4 @@
+xt_mark.c:28:1:mark_tg	0	static
+xt_mark.c:37:1:mark_mt	0	static
+xt_mark.c:77:20:mark_mt_exit	32	static
+xt_mark.c:62:19:mark_mt_init	32	static

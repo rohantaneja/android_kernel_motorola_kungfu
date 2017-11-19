@@ -1,0 +1,14 @@
+mali_kbase_debug_job_fault.c:298:14:debug_job_fault_next	32	static
+mali_kbase_debug_job_fault.c:36:13:kbase_ctx_has_no_event_pending	48	static
+mali_kbase_debug_job_fault.c:380:12:debug_job_fault_open	32	static
+mali_kbase_debug_job_fault.c:256:12:debug_job_fault_show	64	static
+mali_kbase_debug_job_fault.c:345:13:debug_job_fault_stop	48	static
+mali_kbase_debug_job_fault.c:137:13:kbase_job_fault_resume_worker	96	static
+mali_kbase_debug_job_fault.c:395:12:debug_job_fault_release	64	static
+mali_kbase_debug_job_fault.c:309:14:debug_job_fault_start	128	static
+mali_kbase_debug_job_fault.c:216:6:kbase_debug_job_fault_process	96	static
+mali_kbase_debug_job_fault.c:423:6:kbase_debug_job_fault_debugfs_init	16	static
+mali_kbase_debug_job_fault.c:431:5:kbase_debug_job_fault_dev_init	48	static
+mali_kbase_debug_job_fault.c:453:6:kbase_debug_job_fault_dev_term	16	static
+mali_kbase_debug_job_fault.c:462:6:kbase_debug_job_fault_context_init	32	static
+mali_kbase_debug_job_fault.c:484:6:kbase_debug_job_fault_context_term	16	static

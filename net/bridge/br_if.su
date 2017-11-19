@@ -1,0 +1,15 @@
+br_if.c:218:13:destroy_nbp_rcu	16	static
+br_if.c:193:13:release_nbp	16	static
+br_if.c:36:12:port_cost	80	static
+br_if.c:65:6:br_port_carrier_check	48	static
+br_if.c:131:6:br_manage_promisc	32	static
+br_if.c:165:13:nbp_update_port_count	16	static
+br_if.c:234:13:del_nbp	48	static
+br_if.c:272:6:br_dev_delete	48	static
+br_if.c:342:5:br_add_bridge	32	static
+br_if.c:362:5:br_del_bridge	48	static
+br_if.c:390:5:br_min_mtu	32	static
+br_if.c:411:19:br_features_recompute	48	static
+br_if.c:432:5:br_add_if	64	static
+br_if.c:544:5:br_del_if	32	static
+br_if.c:571:6:br_port_flags_change	16	static

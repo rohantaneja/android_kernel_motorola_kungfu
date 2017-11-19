@@ -1,0 +1,4 @@
+port_sysmsg.c:166:12:port_sys_init	32	static
+port_sysmsg.c:51:5:register_ccci_sys_call_back	32	static
+port_sysmsg.c:80:6:exec_ccci_sys_call_back	32	static
+port_sysmsg.c:113:13:sys_msg_handler	80	static

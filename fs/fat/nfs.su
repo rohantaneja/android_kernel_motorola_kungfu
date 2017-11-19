@@ -1,0 +1,9 @@
+nfs.c:32:22:fat_dget	64	static
+nfs.c:271:23:fat_get_parent	128	static
+nfs.c:189:23:fat_fh_to_parent	16	static
+nfs.c:65:22:__fat_nfs_get_inode	64	static
+nfs.c:101:22:fat_nfs_get_inode	16	static
+nfs.c:196:23:fat_fh_to_parent_nostale	16	static
+nfs.c:151:23:fat_fh_to_dentry	16	static
+nfs.c:109:1:fat_encode_fh_nostale	0	static
+nfs.c:158:23:fat_fh_to_dentry_nostale	16	static

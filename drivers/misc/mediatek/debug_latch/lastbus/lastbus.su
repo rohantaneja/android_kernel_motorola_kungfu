@@ -1,0 +1,14 @@
+lastbus.c:223:16:lastbus_dump_store	0	static
+lastbus.c:230:16:lastbus_test_show	16	static
+lastbus.c:98:12:lastbus_resume	32	static
+lastbus.c:86:12:lastbus_suspend	48	static
+lastbus.c:74:12:lastbus_remove	32	static
+lastbus.c:211:16:lastbus_dump_show	32	static
+lastbus.c:240:16:lastbus_test_store	64	static
+lastbus.c:55:12:lastbus_probe	32	static
+lastbus.c:110:5:lastbus_register	16	static
+lastbus.c:123:5:lastbus_dump	48	static
+lastbus.c:159:5:lastbus_enable	32	static
+lastbus.c:277:19:lastbus_init	48	static
+lastbus.c:190:5:lastbus_dump_min_len	32	static
+lastbus.c:205:5:mt_lastbus_dump	48	static

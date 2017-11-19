@@ -1,0 +1,10 @@
+mt_chip_common.c:74:12:board_hwid_init	32	static
+mt_chip_common.c:189:12:chip_common_init	64	static
+mt_chip_common.c:148:12:hwid_proc_open	16	static
+mt_chip_common.c:142:12:hwid_proc_show	16	static
+mt_chip_common.c:130:12:chip_proc_open	32	static
+mt_chip_common.c:57:12:dec2str	16	static
+mt_chip_common.c:62:12:date2str	16	static
+mt_chip_common.c:52:12:hex2str	16	static
+mt_chip_common.c:99:12:chip_proc_show	112	static
+mt_chip_common.c:41:21:get_mt_chip_drv	0	static

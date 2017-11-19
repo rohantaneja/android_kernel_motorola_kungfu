@@ -1,0 +1,5 @@
+readdir.c:151:12:filldir	64	static
+readdir.c:235:12:filldir64	48	static
+readdir.c:24:5:iterate_dir	64	static
+readdir.c:194:1:SyS_getdents	112	static
+readdir.c:274:1:SyS_getdents64	112	static

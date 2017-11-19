@@ -1,0 +1,12 @@
+fib_rules.c:219:13:fib4_rule_delete	0	static
+fib_rules.c:231:12:fib4_rule_compare	0	static
+fib_rules.c:284:15:fib4_rule_nlmsg_payload	0	static
+fib_rules.c:291:13:fib4_rule_flush_cache	16	static
+fib_rules.c:259:12:fib4_rule_fill	48	static
+fib_rules.c:108:13:fib4_rule_suppress	16	static
+fib_rules.c:136:12:fib4_rule_match	0	static
+fib_rules.c:73:12:fib4_rule_action	32	static
+fib_rules.c:168:12:fib4_rule_configure	64	static
+fib_rules.c:50:5:__fib_lookup	64	static
+fib_rules.c:331:16:fib4_rules_init	32	static
+fib_rules.c:353:17:fib4_rules_exit	16	static

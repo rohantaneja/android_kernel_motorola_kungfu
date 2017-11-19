@@ -1,0 +1,4 @@
+clz_ctz.c:20:12:__ctzsi2	0	static
+clz_ctz.c:27:12:__clzsi2	0	static
+clz_ctz.c:51:12:__clzdi2	0	static
+clz_ctz.c:57:12:__ctzdi2	0	static

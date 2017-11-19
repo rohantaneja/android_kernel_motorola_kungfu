@@ -1,0 +1,10 @@
+mt_gpio_debug.c:40:5:mt_set_clock_output	16	static
+mt_gpio_debug.c:46:5:mt_get_clock_output	16	static
+mt_gpio_debug.c:83:6:mt_gpio_load_base	32	static
+mt_gpio_debug.c:112:6:mt_gpio_dump_base	64	static
+mt_gpio_debug.c:209:6:mt_gpio_dump	16	static
+mt_gpio_debug.c:216:6:gpio_dump_regs	112	static
+mt_gpio_debug.c:470:9:mt_gpio_show_pin	240	static
+mt_gpio_debug.c:546:5:mt_get_md_gpio	48	static
+mt_gpio_debug.c:563:6:mt_get_md_gpio_debug	32	static
+mt_gpio_debug.c:577:9:mt_gpio_store_pin	144	static

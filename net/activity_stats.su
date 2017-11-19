@@ -1,0 +1,5 @@
+activity_stats.c:95:12:activity_stats_open	32	static
+activity_stats.c:63:12:activity_stats_show	64	static
+activity_stats.c:111:20:activity_stats_init	16	static
+activity_stats.c:79:12:activity_stats_notifier	16	static
+activity_stats.c:37:6:activity_stats_update	48	static

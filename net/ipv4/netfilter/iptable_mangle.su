@@ -1,0 +1,5 @@
+iptable_mangle.c:141:20:iptable_mangle_fini	16	static
+iptable_mangle.c:113:24:iptable_mangle_net_exit	16	static
+iptable_mangle.c:100:23:iptable_mangle_net_init	48	static
+iptable_mangle.c:123:19:iptable_mangle_init	32	static
+iptable_mangle.c:82:1:iptable_mangle_hook	64	static

@@ -1,0 +1,5 @@
+xt_statistic.c:95:20:statistic_mt_exit	16	static
+xt_statistic.c:72:13:statistic_mt_destroy	16	static
+xt_statistic.c:56:12:statistic_mt_check	32	static
+xt_statistic.c:32:1:statistic_mt	32	static
+xt_statistic.c:90:19:statistic_mt_init	16	static

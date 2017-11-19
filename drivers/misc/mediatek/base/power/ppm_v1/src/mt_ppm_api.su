@@ -1,0 +1,4 @@
+mt_ppm_api.c:18:6:mt_ppm_set_dvfs_table	80	static
+mt_ppm_api.c:67:6:mt_ppm_register_client	48	static
+mt_ppm_api.c:95:6:mt_set_ppm_state_registerCB	0	static
+mt_ppm_api.c:101:6:mt_ppm_set_5A_limit_throttle	32	static

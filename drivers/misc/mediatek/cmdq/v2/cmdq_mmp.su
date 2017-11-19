@@ -1,0 +1,2 @@
+cmdq_mmp.c:18:20:cmdq_mmp_get_event	0	static
+cmdq_mmp.c:23:6:cmdq_mmp_init	32	static

@@ -1,0 +1,10 @@
+ksysfs.c:213:19:ksysfs_init	48	static
+ksysfs.c:171:16:notes_read	32	static
+ksysfs.c:47:16:uevent_helper_store	32	static
+ksysfs.c:153:16:rcu_expedited_store	32	static
+ksysfs.c:148:16:rcu_expedited_show	16	static
+ksysfs.c:63:16:profiling_show	16	static
+ksysfs.c:42:16:uevent_helper_show	16	static
+ksysfs.c:33:16:uevent_seqnum_show	16	static
+ksysfs.c:140:16:fscaps_show	16	static
+ksysfs.c:68:16:profiling_store	32	static

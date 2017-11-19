@@ -1,0 +1,6 @@
+xt_HL.c:161:20:hl_tg_exit	16	static
+xt_HL.c:117:12:hl_tg6_check	16	static
+xt_HL.c:104:12:ttl_tg_check	16	static
+xt_HL.c:69:1:hl_tg6	32	static
+xt_HL.c:29:1:ttl_tg	32	static
+xt_HL.c:156:19:hl_tg_init	16	static

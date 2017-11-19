@@ -1,0 +1,8 @@
+mt_secure_api.h:45:21:mt_secure_call.constprop	0	static
+mt_spm_dpidle.c:521:13:spm_trigger_wfi_for_dpidle.isra.0.part.1	64	static
+mt_spm_internal.h:614:28:is_clk_buf_under_flightmode	0	static
+mt_spm_dpidle.c:574:5:spm_set_dpidle_wakesrc	48	static
+mt_spm_dpidle.c:651:6:rekick_dpidle_common_scenario	0	static
+mt_spm_dpidle.c:681:15:spm_go_to_dpidle	208	static
+mt_spm_dpidle.c:809:15:spm_go_to_sleep_dpidle	240	static
+mt_spm_dpidle.c:943:6:spm_deepidle_init	112	static

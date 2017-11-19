@@ -1,0 +1,12 @@
+ged_notify_sw_vsync.c:64:12:ged_sw_vsync_event	64	static
+ged_notify_sw_vsync.c:427:6:ged_sodi_start	16	static
+ged_notify_sw_vsync.c:95:13:ged_notify_sw_sync_work_handle	48	static
+ged_notify_sw_vsync.c:337:22:ged_sw_vsync_check_cb	48	static
+ged_notify_sw_vsync.c:438:6:ged_sodi_stop	48	static
+ged_notify_sw_vsync.c:144:6:timer_switch	48	static
+ged_notify_sw_vsync.c:165:13:ged_timer_switch_work_handle	32	static
+ged_notify_sw_vsync.c:155:6:timer_switch_locked	32	static
+ged_notify_sw_vsync.c:181:11:ged_notify_sw_vsync	80	static
+ged_notify_sw_vsync.c:388:6:ged_dvfs_gpu_clock_switch_notify	48	static
+ged_notify_sw_vsync.c:475:11:ged_notify_sw_vsync_system_init	32	static
+ged_notify_sw_vsync.c:495:6:ged_notify_sw_vsync_system_exit	32	static

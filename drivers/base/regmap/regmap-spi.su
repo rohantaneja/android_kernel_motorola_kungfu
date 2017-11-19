@@ -1,0 +1,8 @@
+regmap-spi.c:84:29:regmap_spi_async_alloc	16	static
+regmap-spi.c:95:12:regmap_spi_read	16	static
+regmap-spi.c:25:13:regmap_spi_complete	16	static
+regmap-spi.c:57:12:regmap_spi_async_write	16	static
+regmap-spi.c:32:12:regmap_spi_write	208	static
+regmap-spi.c:40:12:regmap_spi_gather_write	352	static
+regmap-spi.c:125:16:regmap_init_spi	16	static
+regmap-spi.c:142:16:devm_regmap_init_spi	16	static

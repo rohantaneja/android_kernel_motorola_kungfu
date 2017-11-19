@@ -1,0 +1,8 @@
+spurious.c:433:5:noirqdebug_setup	16	static
+spurious.c:445:19:irqfixup_setup	32	static
+spurious.c:457:19:irqpoll_setup	16	static
+spurious.c:192:1:__report_bad_irq	64	static
+spurious.c:63:12:try_one_irq.isra.6	48	static
+spurious.c:145:13:poll_spurious_irqs	48	static
+spurious.c:38:6:irq_wait_for_poll	48	static
+spurious.c:275:6:note_interrupt	80	static

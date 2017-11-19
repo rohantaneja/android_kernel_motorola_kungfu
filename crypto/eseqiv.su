@@ -1,0 +1,8 @@
+eseqiv.c:260:20:eseqiv_module_exit	16	static
+eseqiv.c:242:13:eseqiv_free	16	static
+eseqiv.c:172:12:eseqiv_init	16	static
+eseqiv.c:52:13:eseqiv_complete	32	static
+eseqiv.c:255:19:eseqiv_module_init	16	static
+eseqiv.c:206:32:eseqiv_alloc	48	static
+eseqiv.c:65:12:eseqiv_givencrypt	144	static
+eseqiv.c:149:12:eseqiv_givencrypt_first	48	static

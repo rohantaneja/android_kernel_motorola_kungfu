@@ -1,0 +1,14 @@
+hidraw.c:257:21:hidraw_poll	32	static
+hidraw.c:319:12:hidraw_fasync	16	static
+hidraw.c:269:12:hidraw_open	80	static
+hidraw.c:112:16:hidraw_send_report	64	static
+hidraw.c:173:16:hidraw_write	48	static
+hidraw.c:46:16:hidraw_read	144	static
+hidraw.c:326:13:drop_ref.part.1	32	static
+hidraw.c:370:13:hidraw_ioctl	96	static
+hidraw.c:351:12:hidraw_release	48	static
+hidraw.c:485:5:hidraw_report_event	96	static
+hidraw.c:514:5:hidraw_connect	64	static
+hidraw.c:571:6:hidraw_disconnect	32	static
+hidraw.c:583:12:hidraw_init	64	static
+hidraw.c:620:6:hidraw_exit	32	static

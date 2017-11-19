@@ -1,0 +1,4 @@
+clk-fractional-divider.c:45:13:clk_fd_round_rate	48	static
+clk-fractional-divider.c:65:12:clk_fd_set_rate	64	static
+clk-fractional-divider.c:20:22:clk_fd_recalc_rate	48	static
+clk-fractional-divider.c:99:13:clk_register_fractional_divider	144	static

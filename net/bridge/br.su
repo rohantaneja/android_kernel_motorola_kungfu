@@ -1,0 +1,4 @@
+br.c:201:20:br_deinit	32	static
+br.c:123:24:br_net_exit	80	static
+br.c:31:12:br_device_event	80	static
+br.c:146:19:br_init	48	static

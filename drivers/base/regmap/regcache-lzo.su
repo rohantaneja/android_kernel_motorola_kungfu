@@ -1,0 +1,7 @@
+regcache-lzo.c:334:12:regcache_lzo_sync	96	static
+regcache-lzo.c:204:12:regcache_lzo_exit	48	static
+regcache-lzo.c:90:12:regcache_lzo_decompress_cache_block.isra.3	48	static
+regcache-lzo.c:234:12:regcache_lzo_read	96	static
+regcache-lzo.c:72:12:regcache_lzo_compress_cache_block.isra.4	48	static
+regcache-lzo.c:273:12:regcache_lzo_write	112	static
+regcache-lzo.c:131:12:regcache_lzo_init	96	static

@@ -1,0 +1,11 @@
+proc_net.c:107:20:get_proc_task_net	64	static
+proc_net.c:142:12:proc_tgid_net_getattr	48	static
+proc_net.c:127:23:proc_tgid_net_lookup	48	static
+proc_net.c:165:12:proc_tgid_net_readdir	48	static
+proc_net.c:216:24:proc_net_ns_exit	32	static
+proc_net.c:185:23:proc_net_ns_init	32	static
+proc_net.c:39:5:seq_open_net	16	static
+proc_net.c:63:5:single_open_net	16	static
+proc_net.c:87:5:seq_release_net	16	static
+proc_net.c:99:5:single_release_net	16	static
+proc_net.c:227:12:proc_net_init	16	static

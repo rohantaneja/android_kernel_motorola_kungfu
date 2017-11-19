@@ -1,0 +1,9 @@
+seq_oss_timer.c:140:1:send_timer_event	48	static
+seq_oss_timer.c:46:1:snd_seq_oss_timer_new	32	static
+seq_oss_timer.c:185:1:snd_seq_oss_timer_stop	32	static
+seq_oss_timer.c:71:1:snd_seq_oss_timer_delete	32	static
+seq_oss_timer.c:160:1:snd_seq_oss_timer_start	80	static
+seq_oss_timer.c:86:1:snd_seq_oss_process_timer_event	16	static
+seq_oss_timer.c:199:1:snd_seq_oss_timer_continue	32	static
+seq_oss_timer.c:213:1:snd_seq_oss_timer_tempo	16	static
+seq_oss_timer.c:231:1:snd_seq_oss_timer_ioctl	16	static

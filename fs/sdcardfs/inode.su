@@ -1,0 +1,10 @@
+inode.c:460:12:sdcardfs_setattr	160	static
+inode.c:422:12:sdcardfs_permission	16	static
+inode.c:572:12:sdcardfs_getattr	64	static
+inode.c:163:12:sdcardfs_mkdir	48	static
+inode.c:113:12:sdcardfs_unlink	48	static
+inode.c:52:12:sdcardfs_create	64	static
+inode.c:25:21:override_fsids	32	static
+inode.c:43:6:revert_fsids	32	static
+inode.c:263:12:sdcardfs_rename	128	static
+inode.c:181:12:sdcardfs_rmdir	96	static

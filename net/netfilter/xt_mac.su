@@ -1,0 +1,3 @@
+xt_mac.c:28:13:mac_mt	0	static
+xt_mac.c:60:20:mac_mt_exit	16	static
+xt_mac.c:55:19:mac_mt_init	16	static

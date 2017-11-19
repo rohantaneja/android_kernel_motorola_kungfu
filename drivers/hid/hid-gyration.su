@@ -1,0 +1,4 @@
+hid-gyration.c:91:1:gyration_driver_init	16	static
+hid-gyration.c:91:1:gyration_driver_exit	16	static
+hid-gyration.c:27:12:gyration_input_mapping	48	static
+hid-gyration.c:57:12:gyration_event	32	static

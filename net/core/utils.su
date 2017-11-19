@@ -1,0 +1,8 @@
+utils.c:345:13:__net_random_once_deferred	32	static
+utils.c:43:5:net_ratelimit	16	static
+utils.c:55:8:in_aton	0	static
+utils.c:123:5:in4_pton	128	static
+utils.c:189:5:in6_pton	176	static
+utils.c:306:6:inet_proto_csum_replace4	0	static
+utils.c:320:6:inet_proto_csum_replace16	80	static
+utils.c:367:6:__net_get_random_once	80	static

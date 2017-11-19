@@ -1,0 +1,7 @@
+wmt_ic_6620.c:1172:21:mt6620_quick_sleep_flag_get	0	static
+wmt_ic_6620.c:1177:21:mt6620_aee_dump_flag_get	0	static
+wmt_ic_6620.c:1138:14:mt6620_pin_ctrl	80	static
+wmt_ic_6620.c:1183:14:mt6620_ver_check	96	static
+wmt_ic_6620.c:1036:14:mt6620_sw_deinit	32	static
+wmt_ic_6620.c:1407:14:mt6620_patch_dwn	400	static
+wmt_ic_6620.c:744:14:mt6620_sw_init	496	static

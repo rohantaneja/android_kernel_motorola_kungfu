@@ -1,0 +1,2 @@
+wmt_gpio.c:238:7:wmt_gpio_init	112	static
+wmt_gpio.c:350:7:wmt_gpio_deinit	16	static

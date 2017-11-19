@@ -1,0 +1,11 @@
+cmdq_sec.c:1132:9:cmdq_sec_create_shared_memory	80	static
+cmdq_sec.c:1164:9:cmdq_sec_destroy_shared_memory	32	static
+cmdq_sec.c:1178:9:cmdq_sec_exec_task_async_unlocked	16	static
+cmdq_sec.c:1199:9:cmdq_sec_cancel_error_task_unlocked	16	static
+cmdq_sec.c:1227:9:cmdq_sec_allocate_path_resource_unlocked	16	static
+cmdq_sec.c:1262:22:cmdq_sec_context_handle_create	32	static
+cmdq_sec.c:1285:6:cmdq_sec_lock_secure_path	16	static
+cmdq_sec.c:1292:6:cmdq_sec_unlock_secure_path	16	static
+cmdq_sec.c:1297:6:cmdqSecDeInitialize	0	static
+cmdq_sec.c:1301:6:cmdqSecInitialize	0	static
+cmdq_sec.c:1306:6:cmdqSecEnableProfile	0	static

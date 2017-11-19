@@ -1,0 +1,8 @@
+netfilter.c:111:12:nf_ip6_route	32	static
+netfilter.c:133:9:nf_ip6_checksum	80	static
+netfilter.c:166:16:nf_ip6_checksum_partial	64	static
+netfilter.c:82:13:nf_ip6_saveroute	0	static
+netfilter.c:21:5:ip6_route_me_harder	112	static
+netfilter.c:96:12:nf_ip6_reroute	16	static
+netfilter.c:206:12:ipv6_netfilter_init	16	static
+netfilter.c:215:6:ipv6_netfilter_fini	16	static

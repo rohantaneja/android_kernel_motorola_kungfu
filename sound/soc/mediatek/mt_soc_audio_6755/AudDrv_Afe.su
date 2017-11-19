@@ -1,0 +1,17 @@
+AudDrv_Afe.c:98:6:Auddrv_Reg_map	32	static
+AudDrv_Afe.c:117:12:Get_Afe_Sram_Phys_Addr	0	static
+AudDrv_Afe.c:122:12:Get_Afe_Sram_Capture_Phys_Addr	0	static
+AudDrv_Afe.c:127:7:Get_Afe_SramBase_Pointer	0	static
+AudDrv_Afe.c:132:7:Get_Afe_SramCaptureBase_Pointer	0	static
+AudDrv_Afe.c:139:7:Get_Afe_Powertop_Pointer	0	static
+AudDrv_Afe.c:144:7:Get_AudClk_Pointer	0	static
+AudDrv_Afe.c:149:7:Get_Afe_Infra_Pointer	0	static
+AudDrv_Afe.c:182:8:Afe_Get_Reg	0	static
+AudDrv_Afe.c:154:6:Afe_Set_Reg	80	static
+AudDrv_Afe.c:204:8:GetClkCfg	0	static
+AudDrv_Afe.c:215:6:SetClkCfg	0	static
+AudDrv_Afe.c:229:8:GetInfraCfg	0	static
+AudDrv_Afe.c:240:6:SetInfraCfg	0	static
+AudDrv_Afe.c:256:8:GetpllCfg	0	static
+AudDrv_Afe.c:266:6:SetpllCfg	0	static
+AudDrv_Afe.c:279:6:Afe_Log_Print	32	static

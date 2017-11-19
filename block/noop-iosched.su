@@ -1,0 +1,9 @@
+noop-iosched.c:15:13:noop_merged_requests	0	static
+noop-iosched.c:35:13:noop_add_request	0	static
+noop-iosched.c:43:1:noop_former_request	0	static
+noop-iosched.c:53:1:noop_latter_request	0	static
+noop-iosched.c:113:20:noop_exit	16	static
+noop-iosched.c:62:12:noop_init_queue	32	static
+noop-iosched.c:21:12:noop_dispatch	16	static
+noop-iosched.c:108:19:noop_init	16	static
+noop-iosched.c:86:13:noop_exit_queue	16	static

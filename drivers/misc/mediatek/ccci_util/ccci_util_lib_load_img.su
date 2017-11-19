@@ -1,0 +1,9 @@
+ccci_util_lib_load_img.c:102:12:check_md_header_v3	304	static
+ccci_util_lib_load_img.c:284:12:md_check_header_parser	288	static
+ccci_util_lib_load_img.c:507:12:check_md_header	144	static
+ccci_util_lib_load_img.c:644:7:ccci_get_md_info_str	0	static
+ccci_util_lib_load_img.c:729:5:ccci_load_firmware	192	static
+ccci_util_lib_load_img.c:902:5:ccci_init_security	32	static
+ccci_util_lib_load_img.c:969:5:get_md_wm_id_map	0	static
+ccci_util_lib_load_img.c:976:5:md_capability	48	static
+ccci_util_lib_load_img.c:1027:5:ccci_get_md_check_hdr_inf	112	static

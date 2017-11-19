@@ -1,0 +1,9 @@
+syscon.c:45:23:of_syscon_register	256	static
+syscon.c:135:12:syscon_match_pdevname	16	static
+syscon.c:177:12:syscon_probe	64	static
+syscon.c:228:19:syscon_init	16	static
+syscon.c:234:20:syscon_exit	16	static
+syscon.c:95:16:syscon_node_to_regmap	48	static
+syscon.c:119:16:syscon_regmap_lookup_by_compatible	16	static
+syscon.c:140:16:syscon_regmap_lookup_by_pdevname	16	static
+syscon.c:156:16:syscon_regmap_lookup_by_phandle	16	static

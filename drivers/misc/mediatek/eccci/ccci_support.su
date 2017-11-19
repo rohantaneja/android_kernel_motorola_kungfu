@@ -1,0 +1,3 @@
+ccci_support.c:26:22:ccci_get_common_setting	0	static
+ccci_support.c:35:5:ccci_store_sim_switch_mode	32	static
+ccci_support.c:46:5:ccci_get_sim_switch_mode	0	static

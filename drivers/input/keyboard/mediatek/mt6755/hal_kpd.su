@@ -1,0 +1,16 @@
+hal_kpd.c:51:5:is_batt_temp_pin	16	static
+hal_kpd.c:92:6:sb_kpd_enable	16	static
+hal_kpd.c:97:6:sb_kpd_disable	16	static
+hal_kpd.c:114:6:kpd_slide_qwerty_init	0	static
+hal_kpd.c:158:6:kpd_get_keymap_state	16	static
+hal_kpd.c:219:6:kpd_auto_test_for_factorymode	128	static
+hal_kpd.c:263:6:long_press_reboot_function_setting	16	static
+hal_kpd.c:360:29:ConditionEnterSuspend	0	static
+hal_kpd.c:366:6:kpd_wakeup_src_setting	32	static
+hal_kpd.c:388:6:kpd_init_keymap	0	static
+hal_kpd.c:400:6:kpd_init_keymap_state	16	static
+hal_kpd.c:412:6:kpd_set_debounce	0	static
+hal_kpd.c:418:6:kpd_pmic_rstkey_hal	48	static
+hal_kpd.c:432:6:kpd_pmic_pwrkey_hal	48	static
+hal_kpd.c:448:6:kpd_pwrkey_handler_hal	0	static
+hal_kpd.c:491:6:mt_eint_register	0	static

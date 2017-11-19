@@ -1,0 +1,4 @@
+br_stp_bpdu.c:33:13:br_send_bpdu	64	static
+br_stp_bpdu.c:76:6:br_send_config_bpdu	64	static
+br_stp_bpdu.c:121:6:br_send_tcn_bpdu	32	static
+br_stp_bpdu.c:140:6:br_stp_rcv	128	static

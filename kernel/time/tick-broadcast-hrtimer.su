@@ -1,0 +1,4 @@
+tick-broadcast-hrtimer.c:98:29:bc_handler	32	static
+tick-broadcast-hrtimer.c:21:13:bc_set_mode	16	static
+tick-broadcast-hrtimer.c:50:12:bc_set_next	64	static
+tick-broadcast-hrtimer.c:108:6:tick_setup_hrtimer_broadcast	32	static

@@ -1,0 +1,6 @@
+xt_tcpudp.c:123:12:tcp_mt_check	0	static
+xt_tcpudp.c:158:12:udp_mt_check	0	static
+xt_tcpudp.c:228:20:tcpudp_mt_exit	16	static
+xt_tcpudp.c:131:13:udp_mt	64	static
+xt_tcpudp.c:65:13:tcp_mt	128	static
+xt_tcpudp.c:223:19:tcpudp_mt_init	16	static

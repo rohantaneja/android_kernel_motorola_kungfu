@@ -1,0 +1,6 @@
+textsearch.c:202:21:get_linear_data	0	static
+textsearch.c:141:5:textsearch_register	48	static
+textsearch.c:176:5:textsearch_unregister	32	static
+textsearch.c:229:14:textsearch_find_continuous	48	static
+textsearch.c:261:19:textsearch_prepare	96	static
+textsearch.c:311:6:textsearch_destroy	32	static

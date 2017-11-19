@@ -1,0 +1,3 @@
+utsname_sysctl.c:132:19:utsname_sysctl_init	16	static
+utsname_sysctl.c:47:12:proc_do_uts_string	144	static
+utsname_sysctl.c:124:6:uts_proc_notify	16	static

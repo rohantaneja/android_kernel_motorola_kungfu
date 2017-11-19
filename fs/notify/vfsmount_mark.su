@@ -1,0 +1,7 @@
+vfsmount_mark.c:70:13:fsnotify_recalc_vfsmount_mask_locked	16	static
+vfsmount_mark.c:33:6:fsnotify_clear_marks_by_mount	80	static
+vfsmount_mark.c:62:6:fsnotify_clear_vfsmount_marks_by_group	16	static
+vfsmount_mark.c:87:6:fsnotify_recalc_vfsmount_mask	32	static
+vfsmount_mark.c:94:6:fsnotify_destroy_vfsmount_mark	32	static
+vfsmount_mark.c:132:23:fsnotify_find_vfsmount_mark	48	static
+vfsmount_mark.c:149:5:fsnotify_add_vfsmount_mark	64	static

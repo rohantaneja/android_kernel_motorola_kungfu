@@ -1,0 +1,4 @@
+elfcore.c:6:17:elf_core_extra_phdrs	0	static
+elfcore.c:11:12:elf_core_write_extra_phdrs	0	static
+elfcore.c:16:12:elf_core_write_extra_data	0	static
+elfcore.c:21:15:elf_core_extra_data_size	0	static

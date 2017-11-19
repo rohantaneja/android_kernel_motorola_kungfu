@@ -1,0 +1,11 @@
+setup.c:562:14:c_start	0	static
+setup.c:567:14:c_next	0	static
+setup.c:573:13:c_stop	0	static
+setup.c:326:19:early_mem	48	static
+setup.c:425:19:arm64_device_init	16	static
+setup.c:432:19:topology_init	48	static
+setup.c:495:12:c_show	128	static
+setup.c:110:13:early_print	400	static
+setup.c:122:13:smp_setup_processor_id	0	static
+setup.c:132:6:arch_match_cpu_phys_id	0	static
+setup.c:372:13:setup_arch	144	static

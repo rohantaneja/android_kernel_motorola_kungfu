@@ -1,0 +1,5 @@
+mdee_dumper_v1.c:37:13:ccci_aed_v1	112	static
+mdee_dumper_v1.c:447:13:mdee_dumper_v1_set_ee_pkg	16	static
+mdee_dumper_v1.c:96:13:mdee_dumper_info_dump_v1	288	static
+mdee_dumper_v1.c:455:13:mdee_dumper_v1_dump_ee_info	336	static
+mdee_dumper_v1.c:498:5:mdee_dumper_v1_alloc	48	static

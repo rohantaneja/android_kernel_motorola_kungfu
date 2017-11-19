@@ -1,0 +1,2 @@
+mt_soc_afe_connection.c:414:13:CheckBitsandReg	32	static
+mt_soc_afe_connection.c:423:6:SetConnectionState	80	static

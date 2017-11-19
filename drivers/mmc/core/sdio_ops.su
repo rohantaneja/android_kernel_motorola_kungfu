@@ -1,0 +1,5 @@
+sdio_ops.c:68:12:mmc_io_rw_direct_host	112	static
+sdio_ops.c:22:5:mmc_send_io_op_cond	112	static
+sdio_ops.c:114:5:mmc_io_rw_direct	16	static
+sdio_ops.c:121:5:mmc_io_rw_extended	432	static
+sdio_ops.c:207:5:sdio_reset	48	static

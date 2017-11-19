@@ -1,0 +1,4 @@
+format.c:157:12:parse_audio_format_rates_v1	96	static
+format.c:228:12:parse_uac2_sample_rate_range.isra.2	112	static
+format.c:285:12:parse_audio_format_rates_v2	112	static
+format.c:480:5:snd_usb_parse_audio_format	80	static

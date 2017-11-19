@@ -1,0 +1,15 @@
+do_mounts.c:299:19:rootwait_setup	0	static
+do_mounts.c:310:19:root_data_setup	0	static
+do_mounts.c:317:19:fs_names_setup	0	static
+do_mounts.c:47:19:load_ramdisk	16	static
+do_mounts.c:324:19:root_delay_setup	16	static
+do_mounts.c:86:12:match_dev_by_uuid	16	static
+do_mounts.c:291:19:root_dev_setup	16	static
+do_mounts.c:54:19:readonly	0	static
+do_mounts.c:62:19:readwrite	0	static
+do_mounts.c:602:23:rootfs_mount	64	static
+do_mounts.c:210:7:name_to_dev_t	80	static
+do_mounts.c:379:13:mount_block_root	128	static
+do_mounts.c:508:13:mount_root	32	static
+do_mounts.c:540:13:prepare_namespace	48	static
+do_mounts.c:623:12:init_rootfs	32	static

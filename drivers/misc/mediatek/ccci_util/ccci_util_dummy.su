@@ -1,0 +1,16 @@
+ccci_util_dummy.c:23:13:spm_is_md1_sleep	16	static
+ccci_util_dummy.c:29:13:spm_ap_mdsrc_req	16	static
+ccci_util_dummy.c:34:13:ccci_power_off	0	static
+ccci_util_dummy.c:38:12:exec_ccci_kern_func_by_md_id	16	static
+ccci_util_dummy.c:44:12:switch_sim_mode	16	static
+ccci_util_dummy.c:50:21:get_sim_switch_type	16	static
+ccci_util_dummy.c:56:21:get_modem_is_enabled	16	static
+ccci_util_dummy.c:62:12:register_ccci_sys_call_back	16	static
+ccci_util_dummy.c:68:21:mt_irq_get_pending	16	static
+ccci_util_dummy.c:74:22:ccci_get_md_boot_count	16	static
+ccci_util_dummy.c:79:15:ccci_get_ap_platform	16	static
+ccci_util_dummy.c:85:13:is_clk_buf_from_pmic	16	static
+ccci_util_dummy.c:91:13:clk_buf_get_rf_drv_curr	16	static
+ccci_util_dummy.c:96:13:clk_buf_save_afc_val	16	static
+ccci_util_dummy.c:100:12:rawbulk_push_upstream_buffer	16	static
+ccci_util_dummy.c:106:12:mbim_start_xmit	16	static

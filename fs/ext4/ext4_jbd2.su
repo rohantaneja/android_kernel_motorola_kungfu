@@ -1,0 +1,10 @@
+ext4_jbd2.c:41:12:ext4_journal_check_start	32	static
+ext4_jbd2.c:131:13:ext4_journal_abort_handle.isra.3	80	static
+ext4_jbd2.c:62:11:__ext4_journal_start_sb	80	static
+ext4_jbd2.c:80:5:__ext4_journal_stop	64	static
+ext4_jbd2.c:107:11:__ext4_journal_start_reserved	80	static
+ext4_jbd2.c:156:5:__ext4_journal_get_write_access	48	static
+ext4_jbd2.c:184:5:__ext4_forget	80	static
+ext4_jbd2.c:239:5:__ext4_journal_get_create_access	48	static
+ext4_jbd2.c:253:5:__ext4_handle_dirty_metadata	96	static
+ext4_jbd2.c:312:5:__ext4_handle_dirty_super	64	static

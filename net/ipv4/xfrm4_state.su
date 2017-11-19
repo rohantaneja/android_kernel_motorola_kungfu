@@ -1,0 +1,5 @@
+xfrm4_state.c:17:12:xfrm4_init_flags	0	static
+xfrm4_state.c:43:1:xfrm4_init_temprop	0	static
+xfrm4_state.c:25:1:__xfrm4_init_tempsel	0	static
+xfrm4_state.c:57:5:xfrm4_extract_header	0	static
+xfrm4_state.c:89:13:xfrm4_state_init	16	static

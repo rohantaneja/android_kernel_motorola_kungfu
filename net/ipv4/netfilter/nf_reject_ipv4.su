@@ -1,0 +1,4 @@
+nf_reject_ipv4.c:17:22:nf_reject_ip_tcphdr_get	48	static
+nf_reject_ipv4.c:43:15:nf_reject_iphdr_put	64	static
+nf_reject_ipv4.c:68:6:nf_reject_ip_tcphdr_put	64	static
+nf_reject_ipv4.c:100:6:nf_send_reset	80	static

@@ -1,0 +1,7 @@
+port_poller.c:96:13:port_poller_md_state_notice	32	static
+port_poller.c:78:13:md_status_timeout_func	48	static
+port_poller.c:46:13:md_status_poller_func	80	static
+port_poller.c:34:13:status_msg_handler	48	static
+port_poller.c:130:12:port_poller_init	32	static
+port_poller.c:112:6:port_poller_start	32	static
+port_poller.c:121:6:port_poller_stop	16	static

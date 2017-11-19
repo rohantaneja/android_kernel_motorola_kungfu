@@ -1,0 +1,14 @@
+mt_hotplug_strategy_api.c:74:5:hps_set_PPM_request	64	static
+mt_hotplug_strategy_api.c:98:5:hps_set_cpu_num_base	64	static
+mt_hotplug_strategy_api.c:172:5:hps_get_cpu_num_base	0	static
+mt_hotplug_strategy_api.c:203:5:hps_set_cpu_num_limit	64	static
+mt_hotplug_strategy_api.c:268:5:hps_get_cpu_num_limit	0	static
+mt_hotplug_strategy_api.c:311:5:hps_get_tlp	0	static
+mt_hotplug_strategy_api.c:327:5:hps_get_num_possible_cpus	48	static
+mt_hotplug_strategy_api.c:344:5:hps_get_num_online_cpus	32	static
+mt_hotplug_strategy_api.c:361:5:hps_get_enabled	0	static
+mt_hotplug_strategy_api.c:374:5:hps_set_enabled	48	static
+mt_hotplug_strategy_api.c:397:5:hps_get_powmode_status	0	static
+mt_hotplug_strategy_api.c:410:5:hps_set_powmode_status	48	static
+mt_hotplug_strategy_api.c:428:5:hps_get_ppm_powmode_status	0	static
+mt_hotplug_strategy_api.c:441:5:hps_set_ppm_powmode_status	48	static

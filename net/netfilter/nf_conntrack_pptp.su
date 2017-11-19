@@ -1,0 +1,7 @@
+nf_conntrack_pptp.c:613:20:nf_conntrack_pptp_fini	16	static
+nf_conntrack_pptp.c:102:13:pptp_expectfn	96	static
+nf_conntrack_pptp.c:202:12:exp_gre	64	static
+nf_conntrack_pptp.c:608:19:nf_conntrack_pptp_init	16	static
+nf_conntrack_pptp.c:142:12:destroy_sibling_or_exp.isra.10.constprop	48	static
+nf_conntrack_pptp.c:176:13:pptp_destroy_siblings	96	static
+nf_conntrack_pptp.c:508:1:conntrack_pptp_help	416	static

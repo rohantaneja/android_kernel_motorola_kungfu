@@ -1,0 +1,6 @@
+mali_kbase_js_policy_cfs.c:172:5:kbasep_js_policy_init	0	static
+mali_kbase_js_policy_cfs.c:189:6:kbasep_js_policy_term	0	static
+mali_kbase_js_policy_cfs.c:194:5:kbasep_js_policy_init_ctx	64	static
+mali_kbase_js_policy_cfs.c:236:6:kbasep_js_policy_term_ctx	0	static
+mali_kbase_js_policy_cfs.c:258:6:kbasep_js_policy_log_job_result	0	static
+mali_kbase_js_policy_cfs.c:277:6:kbasep_js_policy_ctx_has_priority	0	static

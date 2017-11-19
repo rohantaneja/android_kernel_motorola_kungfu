@@ -1,0 +1,6 @@
+clock.c:38:2:snd_usb_find_clock_source	32	static
+clock.c:85:12:uac_clock_selector_get_val	32	static
+clock.c:170:12:__uac_clock_find_source	112	static
+clock.c:329:12:get_sample_rate_v2	64	static
+clock.c:271:5:snd_usb_clock_find_source	48	static
+clock.c:414:5:snd_usb_init_sample_rate	112	static

@@ -1,0 +1,7 @@
+ged_hashtable.c:36:7:__ged_hashtable_find	0	static
+ged_hashtable.c:127:11:ged_hashtable_insert	64	static
+ged_hashtable.c:176:6:ged_hashtable_remove	48	static
+ged_hashtable.c:88:6:ged_hashtable_destroy	32	static
+ged_hashtable.c:55:22:ged_hashtable_create	32	static
+ged_hashtable.c:193:7:ged_hashtable_find	32	static
+ged_hashtable.c:214:11:ged_hashtable_set	32	static

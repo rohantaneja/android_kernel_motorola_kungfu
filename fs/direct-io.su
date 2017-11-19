@@ -1,0 +1,9 @@
+direct-io.c:457:12:dio_bio_complete	64	static
+direct-io.c:320:13:dio_bio_end_io	64	static
+direct-io.c:225:16:dio_complete	64	static
+direct-io.c:287:13:dio_bio_end_aio	64	static
+direct-io.c:275:13:dio_aio_complete_work	16	static
+direct-io.c:534:12:sb_init_dio_done_wq	32	static
+direct-io.c:1328:19:dio_init	16	static
+direct-io.c:342:6:dio_end_io	16	static
+direct-io.c:1305:1:__blockdev_direct_IO	544	static

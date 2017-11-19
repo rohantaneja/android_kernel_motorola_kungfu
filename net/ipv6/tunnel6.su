@@ -1,0 +1,7 @@
+tunnel6.c:137:13:tunnel6_err	80	static
+tunnel6.c:101:12:tunnel6_rcv	32	static
+tunnel6.c:119:12:tunnel46_rcv	32	static
+tunnel6.c:173:20:tunnel6_fini	32	static
+tunnel6.c:159:19:tunnel6_init	32	static
+tunnel6.c:38:5:xfrm6_tunnel_register	48	static
+tunnel6.c:69:5:xfrm6_tunnel_deregister	48	static

@@ -1,0 +1,6 @@
+percpu_ida.c:147:5:percpu_ida_alloc	192	static
+percpu_ida.c:219:6:percpu_ida_free	80	static
+percpu_ida.c:269:6:percpu_ida_destroy	32	static
+percpu_ida.c:289:5:__percpu_ida_init	64	static
+percpu_ida.c:344:5:percpu_ida_for_each_free	112	static
+percpu_ida.c:385:10:percpu_ida_free_tags	0	static

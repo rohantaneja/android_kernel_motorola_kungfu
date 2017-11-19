@@ -1,0 +1,13 @@
+fib6_rules.c:265:12:fib6_rule_default_pref	0	static
+fib6_rules.c:270:15:fib6_rule_nlmsg_payload	0	static
+fib6_rules.c:323:24:fib6_rules_net_exit	16	static
+fib6_rules.c:183:12:fib6_rule_configure	48	static
+fib6_rules.c:150:12:fib6_rule_match	0	static
+fib6_rules.c:123:13:fib6_rule_suppress	16	static
+fib6_rules.c:50:12:fib6_rule_action	80	static
+fib6_rules.c:294:23:fib6_rules_net_init	48	static
+fib6_rules.c:243:12:fib6_rule_fill	32	static
+fib6_rules.c:218:12:fib6_rule_compare	48	static
+fib6_rules.c:32:19:fib6_rule_lookup	64	static
+fib6_rules.c:333:12:fib6_rules_init	16	static
+fib6_rules.c:339:6:fib6_rules_cleanup	16	static

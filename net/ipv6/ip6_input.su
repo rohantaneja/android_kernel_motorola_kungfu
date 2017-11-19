@@ -1,0 +1,5 @@
+ip6_input.c:50:5:ip6_rcv_finish	32	static
+ip6_input.c:201:12:ip6_input_finish	96	static
+ip6_input.c:65:5:ipv6_rcv	96	static
+ip6_input.c:277:5:ip6_input	32	static
+ip6_input.c:283:5:ip6_mc_input	80	static

@@ -1,0 +1,2 @@
+bcd.c:4:10:_bcd2bin	0	static
+bcd.c:10:15:_bin2bcd	0	static

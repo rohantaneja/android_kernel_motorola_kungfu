@@ -1,0 +1,8 @@
+ccci_ringbuf.c:95:13:ccci_ringbuf_dump.constprop	384	static
+ccci_ringbuf.c:135:22:ccci_create_ringbuf	128	static
+ccci_ringbuf.c:171:5:ccci_ringbuf_writeable	48	static
+ccci_ringbuf.c:206:5:ccci_ringbuf_write	96	static
+ccci_ringbuf.c:251:5:ccci_ringbuf_readable	128	static
+ccci_ringbuf.c:310:5:ccci_ringbuf_read	0	static
+ccci_ringbuf.c:328:6:ccci_ringbuf_move_rpointer	32	static
+ccci_ringbuf.c:347:6:ccci_ringbuf_reset	16	static

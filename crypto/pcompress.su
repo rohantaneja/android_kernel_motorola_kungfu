@@ -1,0 +1,8 @@
+pcompress.c:36:12:crypto_pcomp_init	0	static
+pcompress.c:41:21:crypto_pcomp_extsize	0	static
+pcompress.c:46:12:crypto_pcomp_init_tfm	0	static
+pcompress.c:52:12:crypto_pcomp_report	96	static
+pcompress.c:74:13:crypto_pcomp_show	16	static
+pcompress.c:93:22:crypto_alloc_pcomp	16	static
+pcompress.c:100:5:crypto_register_pcomp	16	static
+pcompress.c:112:5:crypto_unregister_pcomp	16	static

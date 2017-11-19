@@ -1,0 +1,3 @@
+pmsg.c:78:14:pmsg_devnode	0	static
+pmsg.c:24:16:write_pmsg	96	static
+pmsg.c:85:6:pstore_register_pmsg	48	static

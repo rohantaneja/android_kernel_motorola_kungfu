@@ -1,0 +1,5 @@
+nf_conntrack_extend.c:124:13:update_alloc_size.isra.0	0	static
+nf_conntrack_extend.c:22:6:__nf_ct_ext_destroy	48	static
+nf_conntrack_extend.c:72:7:__nf_ct_ext_add_length	112	static
+nf_conntrack_extend.c:160:5:nf_ct_extend_register	48	static
+nf_conntrack_extend.c:183:6:nf_ct_extend_unregister	32	static

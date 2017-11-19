@@ -1,0 +1,6 @@
+vdso.c:58:12:alloc_vectors_page	64	static
+vdso.c:114:19:vdso_init	80	static
+vdso.c:87:5:aarch32_setup_vectors_page	32	static
+vdso.c:155:5:arch_setup_additional_pages	64	static
+vdso.c:200:6:update_vsyscall	48	static
+vdso.c:227:6:update_vsyscall_tz	0	static

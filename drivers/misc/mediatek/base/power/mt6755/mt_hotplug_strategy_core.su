@@ -1,0 +1,14 @@
+mt_hotplug_strategy_core.c:74:12:_hps_timer_callback	16	static
+mt_hotplug_strategy_core.c:114:13:hps_get_sysinfo	256	static
+mt_hotplug_strategy_core.c:82:17:hps_get_current_time_ms	32	static
+mt_hotplug_strategy_core.c:162:12:_hps_task_main	128	static
+mt_hotplug_strategy_core.c:312:13:ppm_limit_callback	16	static
+mt_hotplug_strategy_core.c:256:5:hps_task_start	32	static
+mt_hotplug_strategy_core.c:277:6:hps_task_stop	32	static
+mt_hotplug_strategy_core.c:286:6:hps_task_wakeup_nolock	16	static
+mt_hotplug_strategy_core.c:92:12:cpu_hotplug_idle_notifier	32	static
+mt_hotplug_strategy_core.c:298:6:hps_task_wakeup	32	static
+mt_hotplug_strategy_core.c:347:5:hps_core_init	48	static
+mt_hotplug_strategy_core.c:385:5:hps_core_deinit	32	static
+mt_hotplug_strategy_core.c:404:5:hps_del_timer	32	static
+mt_hotplug_strategy_core.c:419:5:hps_restart_timer	32	static

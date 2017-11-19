@@ -1,0 +1,2 @@
+route.c:47:26:route_transfer	80	static
+route.c:85:5:snd_pcm_plugin_build_route	48	static

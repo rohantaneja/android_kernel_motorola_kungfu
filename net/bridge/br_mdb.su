@@ -1,0 +1,8 @@
+br_mdb.c:114:12:br_mdb_dump	240	static
+br_mdb.c:269:12:br_mdb_parse.isra.10	64	static
+br_mdb.c:208:13:__br_mdb_notify	112	static
+br_mdb.c:468:12:br_mdb_del	128	static
+br_mdb.c:387:12:br_mdb_add	128	static
+br_mdb.c:231:6:br_mdb_notify	48	static
+br_mdb.c:487:6:br_mdb_init	16	static
+br_mdb.c:494:6:br_mdb_uninit	16	static

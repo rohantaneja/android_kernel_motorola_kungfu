@@ -1,0 +1,7 @@
+driver.c:144:13:cpuidle_setup_broadcast_timer	48	static
+driver.c:283:5:cpuidle_register_driver	48	static
+driver.c:303:6:cpuidle_unregister_driver	32	static
+driver.c:316:24:cpuidle_get_driver	32	static
+driver.c:336:24:cpuidle_get_cpu_driver	0	static
+driver.c:353:24:cpuidle_driver_ref	32	static
+driver.c:373:6:cpuidle_driver_unref	32	static

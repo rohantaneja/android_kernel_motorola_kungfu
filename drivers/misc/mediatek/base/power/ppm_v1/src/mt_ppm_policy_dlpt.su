@@ -1,0 +1,14 @@
+mt_ppm_policy_dlpt.c:175:21:ppm_dlpt_calc_trans_precentage	16	static
+mt_ppm_policy_dlpt.c:303:1:ppm_dlpt_budget_trans_percentage_proc_open	32	static
+mt_ppm_policy_dlpt.c:302:1:ppm_dlpt_limit_proc_open	32	static
+mt_ppm_policy_dlpt.c:272:12:ppm_dlpt_budget_trans_percentage_proc_show	32	static
+mt_ppm_policy_dlpt.c:245:12:ppm_dlpt_limit_proc_show	32	static
+mt_ppm_policy_dlpt.c:280:16:ppm_dlpt_budget_trans_percentage_proc_write	48	static
+mt_ppm_policy_dlpt.c:305:19:ppm_dlpt_policy_init	96	static
+mt_ppm_policy_dlpt.c:236:13:ppm_dlpt_mode_change_cb	48	static
+mt_ppm_policy_dlpt.c:227:13:ppm_dlpt_status_change_cb	48	static
+mt_ppm_policy_dlpt.c:212:13:ppm_dlpt_update_limit_cb	48	static
+mt_ppm_policy_dlpt.c:350:20:ppm_dlpt_policy_exit	32	static
+mt_ppm_policy_dlpt.c:61:6:mt_ppm_dlpt_kick_PBM	80	static
+mt_ppm_policy_dlpt.c:114:6:mt_ppm_dlpt_set_limit_by_pbm	64	static
+mt_ppm_policy_dlpt.c:253:16:ppm_dlpt_limit_proc_write	48	static

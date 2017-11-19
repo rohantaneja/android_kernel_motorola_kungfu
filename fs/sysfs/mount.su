@@ -1,0 +1,3 @@
+mount.c:46:13:sysfs_kill_sb	48	static
+mount.c:26:23:sysfs_mount	64	static
+mount.c:61:12:sysfs_init	32	static

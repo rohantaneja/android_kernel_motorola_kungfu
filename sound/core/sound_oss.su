@@ -1,0 +1,7 @@
+sound_oss.c:67:12:snd_oss_kernel_minor	16	static
+sound_oss.c:239:13:snd_minor_info_oss_read	64	static
+sound_oss.c:46:7:snd_lookup_oss_minor_data	48	static
+sound_oss.c:107:5:snd_register_oss_device	80	static
+sound_oss.c:171:5:snd_unregister_oss_device	64	static
+sound_oss.c:261:12:snd_minor_info_oss_init	32	static
+sound_oss.c:277:12:snd_minor_info_oss_done	16	static

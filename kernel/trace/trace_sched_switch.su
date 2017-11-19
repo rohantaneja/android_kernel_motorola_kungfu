@@ -1,0 +1,11 @@
+trace_sched_switch.c:168:13:tracing_sched_unregister	32	static
+trace_sched_switch.c:135:12:tracing_sched_register	64	static
+trace_sched_switch.c:25:1:tracing_sched_switch_trace	64	static
+trace_sched_switch.c:53:1:probe_sched_switch	64	static
+trace_sched_switch.c:81:1:tracing_sched_wakeup_trace	64	static
+trace_sched_switch.c:109:1:probe_sched_wakeup	48	static
+trace_sched_switch.c:191:6:tracing_start_cmdline_record	32	static
+trace_sched_switch.c:196:6:tracing_stop_cmdline_record	32	static
+trace_sched_switch.c:206:6:tracing_start_sched_switch_record	32	static
+trace_sched_switch.c:225:6:tracing_stop_sched_switch_record	48	static
+trace_sched_switch.c:243:6:tracing_sched_switch_assign_trace	0	static

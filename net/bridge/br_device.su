@@ -1,0 +1,15 @@
+br_device.c:117:13:br_dev_set_multicast_list	0	static
+br_device.c:29:13:br_dev_xmit	64	static
+br_device.c:203:13:br_getinfo	32	static
+br_device.c:343:13:br_dev_free	32	static
+br_device.c:211:26:br_fix_features	16	static
+br_device.c:304:12:br_del_slave	16	static
+br_device.c:296:12:br_add_slave	16	static
+br_device.c:139:34:br_get_stats64	128	static
+br_device.c:185:12:br_set_mac_address	48	static
+br_device.c:121:13:br_dev_change_rx_flags	16	static
+br_device.c:105:12:br_dev_open	32	static
+br_device.c:89:12:br_dev_init	48	static
+br_device.c:168:12:br_change_mtu	32	static
+br_device.c:127:12:br_dev_stop	32	static
+br_device.c:355:6:br_dev_setup	48	static

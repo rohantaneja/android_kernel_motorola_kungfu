@@ -1,0 +1,2 @@
+check.c:135:6:free_partitions	32	static
+check.c:142:1:check_partition	64	static

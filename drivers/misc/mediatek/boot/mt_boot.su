@@ -1,0 +1,12 @@
+mt_boot.c:109:16:meta_com_type_store	0	static
+mt_boot.c:123:16:meta_com_id_store	0	static
+mt_boot.c:135:16:meta_uart_port_store	0	static
+mt_boot.c:202:20:boot_mod_exit	0	static
+mt_boot.c:104:16:meta_com_type_show	16	static
+mt_boot.c:118:16:meta_com_id_show	16	static
+mt_boot.c:130:16:meta_uart_port_show	16	static
+mt_boot.c:196:19:boot_mod_init	32	static
+mt_boot.c:80:6:com_is_enable	16	static
+mt_boot.c:88:14:get_meta_com_type	0	static
+mt_boot.c:93:14:get_meta_com_id	0	static
+mt_boot.c:98:14:get_meta_uart_port	0	static

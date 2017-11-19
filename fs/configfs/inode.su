@@ -1,0 +1,8 @@
+inode.c:63:5:configfs_setattr	80	static
+inode.c:133:15:configfs_new_inode	64	static
+inode.c:186:5:configfs_create	64	static
+inode.c:224:23:configfs_get_name	16	static
+inode.c:246:6:configfs_drop_dentry	48	static
+inode.c:262:6:configfs_hash_and_remove	64	static
+inode.c:287:12:configfs_inode_init	16	static
+inode.c:292:6:configfs_inode_exit	16	static

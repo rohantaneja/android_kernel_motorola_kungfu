@@ -1,0 +1,4 @@
+xfrm6_mode_transport.c:22:12:xfrm6_transport_output	64	static
+xfrm6_mode_transport.c:47:12:xfrm6_transport_input	32	static
+xfrm6_mode_transport.c:69:19:xfrm6_transport_init	16	static
+xfrm6_mode_transport.c:74:20:xfrm6_transport_exit	16	static

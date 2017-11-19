@@ -1,0 +1,7 @@
+xfrm6_output.c:134:12:__xfrm6_output	112	static
+xfrm6_output.c:23:5:xfrm6_find_1stfragopt	16	static
+xfrm6_output.c:58:6:xfrm6_local_error	80	static
+xfrm6_output.c:95:5:xfrm6_extract_output	112	static
+xfrm6_output.c:108:5:xfrm6_prepare_output	32	static
+xfrm6_output.c:122:5:xfrm6_output_finish	16	static
+xfrm6_output.c:168:5:xfrm6_output	32	static

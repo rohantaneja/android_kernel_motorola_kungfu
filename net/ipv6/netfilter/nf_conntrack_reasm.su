@@ -1,0 +1,11 @@
+nf_conntrack_reasm.c:173:13:nf_skb_free	16	static
+nf_conntrack_reasm.c:156:21:nf_hash_frag	48	static
+nf_conntrack_reasm.c:165:21:nf_hashfn	16	static
+nf_conntrack_reasm.c:131:24:nf_ct_frags6_sysctl_unregister	16	static
+nf_conntrack_reasm.c:660:13:nf_ct_net_exit	32	static
+nf_conntrack_reasm.c:650:12:nf_ct_net_init	32	static
+nf_conntrack_reasm.c:179:13:nf_ct_frag6_expire	16	static
+nf_conntrack_reasm.c:567:17:nf_ct_frag6_gather	160	static
+nf_conntrack_reasm.c:638:6:nf_ct_frag6_consume_orig	32	static
+nf_conntrack_reasm.c:671:5:nf_ct_frag6_init	32	static
+nf_conntrack_reasm.c:694:6:nf_ct_frag6_cleanup	16	static

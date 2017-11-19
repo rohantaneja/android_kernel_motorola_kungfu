@@ -1,0 +1,3 @@
+compress.c:297:12:zisofs_readpage	368	dynamic
+compress.c:368:12:zisofs_init	16	static
+compress.c:377:6:zisofs_cleanup	16	static
